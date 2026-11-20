@@ -1,0 +1,2 @@
+pptxgenjs 4.0.1
+MIT

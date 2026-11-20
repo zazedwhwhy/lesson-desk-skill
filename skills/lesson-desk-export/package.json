@@ -1,0 +1,13 @@
+{
+  "name": "lesson-desk-export",
+  "version": "0.2.0",
+  "private": true,
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "skills": [
+      "./SKILL.md"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+mhchemparser 4.2.1
+Apache-2.0
