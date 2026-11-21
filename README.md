@@ -1,17 +1,29 @@
-# 讲题工作台 Skill · Lesson Desk Skill
+# Lesson Desk Skill
 
-在 Hermes Agent 或其他支持 Agent Skills 的客户端整理英语、语文和化学试卷，生成讲义、可编辑的 PowerPoint 和可导入[讲题工作台](https://github.com/zazedwhwhy/lesson-desk)的课件包。只做扫描识别、整理、校对或修正时，可以单独交付课件包。
+Prepare English, Chinese language arts, and chemistry lessons in Hermes Agent or another compatible Agent Skills client. Generate editable PowerPoint slides and a courseware package you can import into [Lesson Desk](https://github.com/zazedwhwhy/lesson-desk).
 
-[下载 Skill v0.4.0](https://github.com/zazedwhwhy/lesson-desk-skill/releases/download/v0.4.0/lesson-desk-export-v0.4.0.zip) · [客户端安装说明](skills/lesson-desk-export/INSTALL.zh-CN.md) · [三科功能清单](skills/lesson-desk-export/references/workflows.md) · [SHA-256](dist/SHA256SUMS.txt)
+[Download v0.4.0](https://github.com/zazedwhwhy/lesson-desk-skill/releases/download/v0.4.0/lesson-desk-export-v0.4.0.zip) · [Release notes](https://github.com/zazedwhwhy/lesson-desk-skill/releases/tag/v0.4.0) · [SHA-256 checksum](dist/SHA256SUMS.txt)
 
-## 在 Hermes Agent 中使用
+## Use with Hermes Agent
 
-解压 ZIP，把整个 `lesson-desk-export` 放进当前 Hermes 配置的 `skills/`。输入 `/reload-skills` 后用 `/lesson-desk-export`。Hermes 需要已连接的模型、材料和输出路径的访问权限，以及 Node.js 22 或更高版本。化学公式的 PNG 预览还需在执行目录准备 `@napi-rs/canvas@1.1.0`。
+1. Extract the ZIP and place the entire `lesson-desk-export` directory in the active Hermes profile's skills folder. The default is `~/.hermes/skills/`.
+2. Run `/reload-skills`, then invoke `/lesson-desk-export` with your reading passage, exam paper, or answer key.
+3. Open Lesson Desk and choose **Import Courseware Package** from the project library. Select the generated `.lesson.zip` to review and edit it. Importing and editing require no Lesson Desk API key.
 
-> /lesson-desk-export 给这篇英语阅读做词汇手账、句法拆解和第 21–24 题的选项对证，交付 PPT 和讲题工作台课件包。
+Hermes needs a connected model, Node.js 22 or later, and access to the files in its execution environment. Chemistry formula previews in PowerPoint also require `@napi-rs/canvas@1.1.0` in the script's working directory.
 
-从讲题工作台首页选择「导入课件包」，打开生成的 `.lesson.zip`。导入和修订无需配置工作台 API。普通生成保留教师核对状态。
+> /lesson-desk-export Make a vocabulary notebook and sentence analysis for this English reading. For questions 21–24, explain which lines support or rule out each option. Deliver an editable PowerPoint and a Lesson Desk courseware package.
 
-## 构建来源
+## Subject coverage
 
-本仓库包含可直接使用的 Skill、生成器和许可证。[TypeScript 源码](https://github.com/zazedwhwhy/lesson-desk/tree/5b75866893f458c87d3762338a841ec860e9fdc9/skills/lesson-desk-export/tool)与[打包脚本](https://github.com/zazedwhwhy/lesson-desk/blob/5b75866893f458c87d3762338a841ec860e9fdc9/scripts/package-lesson-skill.mjs)随讲题工作台维护。Skill 采用 MIT 许可证，随包第三方声明位于 `skills/lesson-desk-export/licenses/`。
+| Subject | Teaching materials |
+| --- | --- |
+| English | Question-by-question explanations, Chinese translations, sentence analysis, passage structure, vocabulary notebooks, writing transfer, and independent practice. Targeted reviews cover answer-choice evidence, gap-fill cohesion, cloze clues, writing prompts, and story continuation. |
+| Chinese language arts | Question-by-question explanations, text structure, close reading, Classical Chinese translation and annotation, writing guidance, and practice. |
+| Chemistry | Question-by-question explanations, concept summaries, problem-solving methods, experiment analysis, and practice. |
+
+All three subjects support exam organization, scanned-page transcription, and review reports. Chemistry can retain candidate figures cropped from the source paper. English supports evidence-based corrections with an undo record. For preparation-only work, request the courseware package and review checklist without a PowerPoint file.
+
+## Source and license
+
+The packaged Node.js builder is maintained with Lesson Desk. See the [TypeScript source](https://github.com/zazedwhwhy/lesson-desk/tree/5b75866893f458c87d3762338a841ec860e9fdc9/skills/lesson-desk-export/tool) and [packaging script](https://github.com/zazedwhwhy/lesson-desk/blob/5b75866893f458c87d3762338a841ec860e9fdc9/scripts/package-lesson-skill.mjs). The Skill uses the [MIT License](LICENSE). Third-party notices are included in `skills/lesson-desk-export/licenses/`.
