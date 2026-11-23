@@ -29,9 +29,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/components/version.js
+// ../../../node_modules/mathjax-full/js/components/version.js
 var require_version = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/components/version.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/components/version.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.VERSION = void 0;
@@ -39,9 +39,9 @@ var require_version = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/PrioritizedList.js
+// ../../../node_modules/mathjax-full/js/util/PrioritizedList.js
 var require_PrioritizedList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/PrioritizedList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/PrioritizedList.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.PrioritizedList = void 0;
@@ -86,9 +86,9 @@ var require_PrioritizedList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/HandlerList.js
+// ../../../node_modules/mathjax-full/js/core/HandlerList.js
 var require_HandlerList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/HandlerList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/HandlerList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -167,9 +167,9 @@ var require_HandlerList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Retries.js
+// ../../../node_modules/mathjax-full/js/util/Retries.js
 var require_Retries = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Retries.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/Retries.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.retryAfter = exports2.handleRetriesFor = void 0;
@@ -204,9 +204,9 @@ var require_Retries = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/mathjax.js
+// ../../../node_modules/mathjax-full/js/mathjax.js
 var require_mathjax = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/mathjax.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/mathjax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.mathjax = void 0;
@@ -226,9 +226,9 @@ var require_mathjax = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Options.js
+// ../../../node_modules/mathjax-full/js/util/Options.js
 var require_Options = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Options.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/Options.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -492,9 +492,9 @@ var require_Options = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/FunctionList.js
+// ../../../node_modules/mathjax-full/js/util/FunctionList.js
 var require_FunctionList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/FunctionList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/FunctionList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -618,9 +618,9 @@ var require_FunctionList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/InputJax.js
+// ../../../node_modules/mathjax-full/js/core/InputJax.js
 var require_InputJax = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/InputJax.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/InputJax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractInputJax = void 0;
@@ -682,9 +682,9 @@ var require_InputJax = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/FindMath.js
+// ../../../node_modules/mathjax-full/js/core/FindMath.js
 var require_FindMath = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/FindMath.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/FindMath.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractFindMath = void 0;
@@ -701,9 +701,9 @@ var require_FindMath = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/string.js
+// ../../../node_modules/mathjax-full/js/util/string.js
 var require_string = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/string.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/string.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -737,12 +737,12 @@ var require_string = __commonJS({
       return a.length !== b.length ? b.length - a.length : a === b ? 0 : a < b ? -1 : 1;
     }
     exports2.sortLength = sortLength;
-    function quotePattern(text4) {
-      return text4.replace(/([\^$(){}+*?\-|\[\]\:\\])/g, "\\$1");
+    function quotePattern(text5) {
+      return text5.replace(/([\^$(){}+*?\-|\[\]\:\\])/g, "\\$1");
     }
     exports2.quotePattern = quotePattern;
-    function unicodeChars(text4) {
-      return Array.from(text4).map(function(c) {
+    function unicodeChars(text5) {
+      return Array.from(text5).map(function(c) {
         return c.codePointAt(0);
       });
     }
@@ -762,9 +762,9 @@ var require_string = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathItem.js
+// ../../../node_modules/mathjax-full/js/core/MathItem.js
 var require_MathItem = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathItem.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MathItem.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.newState = exports2.STATE = exports2.AbstractMathItem = exports2.protoItem = void 0;
@@ -916,9 +916,9 @@ var require_MathItem = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/FindTeX.js
+// ../../../node_modules/mathjax-full/js/input/tex/FindTeX.js
 var require_FindTeX = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/FindTeX.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/FindTeX.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -1010,13 +1010,13 @@ var require_FindTeX = __commonJS({
       FindTeX2.prototype.endPattern = function(end, endp) {
         return new RegExp((endp || (0, string_js_1.quotePattern)(end)) + "|\\\\(?:[a-zA-Z]|.)|[{}]", "g");
       };
-      FindTeX2.prototype.findEnd = function(text4, n, start, end) {
+      FindTeX2.prototype.findEnd = function(text5, n, start, end) {
         var _a4 = __read(end, 3), close = _a4[0], display = _a4[1], pattern = _a4[2];
         var i = pattern.lastIndex = start.index + start[0].length;
         var match, braces = 0;
-        while (match = pattern.exec(text4)) {
+        while (match = pattern.exec(text5)) {
           if ((match[1] || match[0]) === close && braces === 0) {
-            return (0, MathItem_js_1.protoItem)(start[0], text4.substr(i, match.index - i), match[0], n, start.index, match.index + match[0].length, display);
+            return (0, MathItem_js_1.protoItem)(start[0], text5.substr(i, match.index - i), match[0], n, start.index, match.index + match[0].length, display);
           } else if (match[0] === "{") {
             braces++;
           } else if (match[0] === "}" && braces) {
@@ -1025,13 +1025,13 @@ var require_FindTeX = __commonJS({
         }
         return null;
       };
-      FindTeX2.prototype.findMathInString = function(math, n, text4) {
+      FindTeX2.prototype.findMathInString = function(math, n, text5) {
         var start, match;
         this.start.lastIndex = 0;
-        while (start = this.start.exec(text4)) {
+        while (start = this.start.exec(text5)) {
           if (start[this.env] !== void 0 && this.env) {
             var end = "\\\\end\\s*(\\{" + (0, string_js_1.quotePattern)(start[this.env]) + "\\})";
-            match = this.findEnd(text4, n, start, ["{" + start[this.env] + "}", true, this.endPattern(null, end)]);
+            match = this.findEnd(text5, n, start, ["{" + start[this.env] + "}", true, this.endPattern(null, end)]);
             if (match) {
               match.math = match.open + match.math + match.close;
               match.open = match.close = "";
@@ -1045,7 +1045,7 @@ var require_FindTeX = __commonJS({
               match = (0, MathItem_js_1.protoItem)("", math_1, "", n, start.index, end, false);
             }
           } else {
-            match = this.findEnd(text4, n, start, this.end[start[0]]);
+            match = this.findEnd(text5, n, start, this.end[start[0]]);
           }
           if (match) {
             math.push(match);
@@ -1080,9 +1080,9 @@ var require_FindTeX = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/Attributes.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/Attributes.js
 var require_Attributes = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/Attributes.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/Attributes.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -1193,9 +1193,9 @@ var require_Attributes = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Node.js
+// ../../../node_modules/mathjax-full/js/core/Tree/Node.js
 var require_Node = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Node.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Tree/Node.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -1445,9 +1445,9 @@ var require_Node = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNode.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNode.js
 var require_MmlNode = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNode.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -1994,9 +1994,9 @@ var require_MmlNode = __commonJS({
         merror.attributes.set("data-mjx-message", message);
         if (options["fullErrors"] || short) {
           var mtext = this.factory.create("mtext");
-          var text4 = this.factory.create("text");
-          text4.setText(options["fullErrors"] ? message : this.kind);
-          mtext.appendChild(text4);
+          var text5 = this.factory.create("text");
+          text5.setText(options["fullErrors"] ? message : this.kind);
+          mtext.appendChild(text5);
           merror.appendChild(mtext);
           this.parent.replaceChild(merror, this);
         } else {
@@ -2049,12 +2049,12 @@ var require_MmlNode = __commonJS({
       });
       AbstractMmlTokenNode2.prototype.getText = function() {
         var e_10, _a4;
-        var text4 = "";
+        var text5 = "";
         try {
           for (var _b2 = __values(this.childNodes), _c = _b2.next(); !_c.done; _c = _b2.next()) {
             var child = _c.value;
             if (child instanceof TextNode) {
-              text4 += child.getText();
+              text5 += child.getText();
             }
           }
         } catch (e_10_1) {
@@ -2066,7 +2066,7 @@ var require_MmlNode = __commonJS({
             if (e_10) throw e_10.error;
           }
         }
-        return text4;
+        return text5;
       };
       AbstractMmlTokenNode2.prototype.setChildInheritedAttributes = function(attributes, display, level, prime) {
         var e_11, _a4;
@@ -2358,8 +2358,8 @@ var require_MmlNode = __commonJS({
       TextNode2.prototype.getText = function() {
         return this.text;
       };
-      TextNode2.prototype.setText = function(text4) {
-        this.text = text4;
+      TextNode2.prototype.setText = function(text5) {
+        this.text = text5;
         return this;
       };
       TextNode2.prototype.copy = function() {
@@ -2412,9 +2412,9 @@ var require_MmlNode = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js
 var require_OperatorDictionary = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -2522,9 +2522,9 @@ var require_OperatorDictionary = __commonJS({
       [129280, 129535, MmlNode_js_1.TEXCLASS.ORD, "mo"],
       [131072, 195103, MmlNode_js_1.TEXCLASS.ORD, "mi", "normnal"]
     ];
-    function getRange(text4) {
+    function getRange(text5) {
       var e_1, _a4;
-      var n = text4.codePointAt(0);
+      var n = text5.codePointAt(0);
       try {
         for (var RANGES_1 = __values(exports2.RANGES), RANGES_1_1 = RANGES_1.next(); !RANGES_1_1.done; RANGES_1_1 = RANGES_1.next()) {
           var range = RANGES_1_1.value;
@@ -3720,9 +3720,9 @@ var require_OperatorDictionary = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js
 var require_mo = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -4100,9 +4100,9 @@ var require_mo = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/NodeUtil.js
+// ../../../node_modules/mathjax-full/js/input/tex/NodeUtil.js
 var require_NodeUtil = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/NodeUtil.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/NodeUtil.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -4325,9 +4325,9 @@ var require_NodeUtil = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/FilterUtil.js
+// ../../../node_modules/mathjax-full/js/input/tex/FilterUtil.js
 var require_FilterUtil = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/FilterUtil.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/FilterUtil.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -4594,18 +4594,18 @@ var require_FilterUtil = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexError.js
+// ../../../node_modules/mathjax-full/js/input/tex/TexError.js
 var require_TexError = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexError.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/TexError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var TexError = (function() {
-      function TexError2(id, message) {
+      function TexError2(id2, message) {
         var rest = [];
         for (var _i = 2; _i < arguments.length; _i++) {
           rest[_i - 2] = arguments[_i];
         }
-        this.id = id;
+        this.id = id2;
         this.message = TexError2.processString(message, rest);
       }
       TexError2.processString = function(str3, args) {
@@ -4644,9 +4644,9 @@ var require_TexError = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/AsyncLoad.js
+// ../../../node_modules/mathjax-full/js/util/AsyncLoad.js
 var require_AsyncLoad = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/AsyncLoad.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/AsyncLoad.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.asyncLoad = void 0;
@@ -4672,9 +4672,9 @@ var require_AsyncLoad = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Entities.js
+// ../../../node_modules/mathjax-full/js/util/Entities.js
 var require_Entities = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Entities.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/Entities.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.numeric = exports2.translate = exports2.remove = exports2.add = exports2.entities = exports2.options = void 0;
@@ -5101,8 +5101,8 @@ var require_Entities = __commonJS({
       delete exports2.entities[entity];
     }
     exports2.remove = remove;
-    function translate(text4) {
-      return text4.replace(/&([a-z][a-z0-9]*|#(?:[0-9]+|x[0-9a-f]+));/ig, replace);
+    function translate(text5) {
+      return text5.replace(/&([a-z][a-z0-9]*|#(?:[0-9]+|x[0-9a-f]+));/ig, replace);
     }
     exports2.translate = translate;
     function replace(match, entity) {
@@ -5129,9 +5129,9 @@ var require_Entities = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseUtil.js
+// ../../../node_modules/mathjax-full/js/input/tex/ParseUtil.js
 var require_ParseUtil = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseUtil.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ParseUtil.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -5313,25 +5313,25 @@ var require_ParseUtil = __commonJS({
         }
       }
       ParseUtil2.fixInitialMO = fixInitialMO;
-      function internalMath(parser, text4, level, font) {
+      function internalMath(parser, text5, level, font) {
         if (parser.configuration.options.internalMath) {
-          return parser.configuration.options.internalMath(parser, text4, level, font);
+          return parser.configuration.options.internalMath(parser, text5, level, font);
         }
         var mathvariant = font || parser.stack.env.font;
         var def = mathvariant ? { mathvariant } : {};
         var mml = [], i = 0, k = 0, c, node2, match = "", braces = 0;
-        if (text4.match(/\\?[${}\\]|\\\(|\\(eq)?ref\s*\{/)) {
-          while (i < text4.length) {
-            c = text4.charAt(i++);
+        if (text5.match(/\\?[${}\\]|\\\(|\\(eq)?ref\s*\{/)) {
+          while (i < text5.length) {
+            c = text5.charAt(i++);
             if (c === "$") {
               if (match === "$" && braces === 0) {
-                node2 = parser.create("node", "TeXAtom", [new TexParser_js_1.default(text4.slice(k, i - 1), {}, parser.configuration).mml()]);
+                node2 = parser.create("node", "TeXAtom", [new TexParser_js_1.default(text5.slice(k, i - 1), {}, parser.configuration).mml()]);
                 mml.push(node2);
                 match = "";
                 k = i;
               } else if (match === "") {
                 if (k < i - 1) {
-                  mml.push(internalText(parser, text4.slice(k, i - 1), def));
+                  mml.push(internalText(parser, text5.slice(k, i - 1), def));
                 }
                 match = "$";
                 k = i;
@@ -5340,7 +5340,7 @@ var require_ParseUtil = __commonJS({
               braces++;
             } else if (c === "}") {
               if (match === "}" && braces === 0) {
-                var atom = new TexParser_js_1.default(text4.slice(k, i), {}, parser.configuration).mml();
+                var atom = new TexParser_js_1.default(text5.slice(k, i), {}, parser.configuration).mml();
                 node2 = parser.create("node", "TeXAtom", [atom], def);
                 mml.push(node2);
                 match = "";
@@ -5351,30 +5351,30 @@ var require_ParseUtil = __commonJS({
                 }
               }
             } else if (c === "\\") {
-              if (match === "" && text4.substr(i).match(/^(eq)?ref\s*\{/)) {
+              if (match === "" && text5.substr(i).match(/^(eq)?ref\s*\{/)) {
                 var len = RegExp["$&"].length;
                 if (k < i - 1) {
-                  mml.push(internalText(parser, text4.slice(k, i - 1), def));
+                  mml.push(internalText(parser, text5.slice(k, i - 1), def));
                 }
                 match = "}";
                 k = i - 1;
                 i += len;
               } else {
-                c = text4.charAt(i++);
+                c = text5.charAt(i++);
                 if (c === "(" && match === "") {
                   if (k < i - 2) {
-                    mml.push(internalText(parser, text4.slice(k, i - 2), def));
+                    mml.push(internalText(parser, text5.slice(k, i - 2), def));
                   }
                   match = ")";
                   k = i;
                 } else if (c === ")" && match === ")" && braces === 0) {
-                  node2 = parser.create("node", "TeXAtom", [new TexParser_js_1.default(text4.slice(k, i - 2), {}, parser.configuration).mml()]);
+                  node2 = parser.create("node", "TeXAtom", [new TexParser_js_1.default(text5.slice(k, i - 2), {}, parser.configuration).mml()]);
                   mml.push(node2);
                   match = "";
                   k = i;
                 } else if (c.match(/[${}\\]/) && match === "") {
                   i--;
-                  text4 = text4.substr(0, i - 1) + text4.substr(i);
+                  text5 = text5.substr(0, i - 1) + text5.substr(i);
                 }
               }
             }
@@ -5383,8 +5383,8 @@ var require_ParseUtil = __commonJS({
             throw new TexError_js_1.default("MathNotTerminated", "Math not terminated in text box");
           }
         }
-        if (k < text4.length) {
-          mml.push(internalText(parser, text4.slice(k), def));
+        if (k < text5.length) {
+          mml.push(internalText(parser, text5.slice(k), def));
         }
         if (level != null) {
           mml = [parser.create("node", "mstyle", mml, { displaystyle: false, scriptlevel: level })];
@@ -5394,9 +5394,9 @@ var require_ParseUtil = __commonJS({
         return mml;
       }
       ParseUtil2.internalMath = internalMath;
-      function internalText(parser, text4, def) {
-        text4 = text4.replace(/^\s+/, Entities_js_1.entities.nbsp).replace(/\s+$/, Entities_js_1.entities.nbsp);
-        var textNode = parser.create("text", text4);
+      function internalText(parser, text5, def) {
+        text5 = text5.replace(/^\s+/, Entities_js_1.entities.nbsp).replace(/\s+$/, Entities_js_1.entities.nbsp);
+        var textNode = parser.create("text", text5);
         return parser.create("node", "mtext", [], def, textNode);
       }
       ParseUtil2.internalText = internalText;
@@ -5424,12 +5424,12 @@ var require_ParseUtil = __commonJS({
         }
       }
       ParseUtil2.checkMovableLimits = checkMovableLimits;
-      function trimSpaces(text4) {
-        if (typeof text4 !== "string") {
-          return text4;
+      function trimSpaces(text5) {
+        if (typeof text5 !== "string") {
+          return text5;
         }
-        var TEXT = text4.trim();
-        if (TEXT.match(/\\$/) && text4.match(/ $/)) {
+        var TEXT = text5.trim();
+        if (TEXT.match(/\\$/) && text5.match(/ $/)) {
           TEXT += " ";
         }
         return TEXT;
@@ -5450,29 +5450,29 @@ var require_ParseUtil = __commonJS({
       }
       ParseUtil2.setArrayAlign = setArrayAlign;
       function substituteArgs(parser, args, str3) {
-        var text4 = "";
+        var text5 = "";
         var newstring = "";
         var i = 0;
         while (i < str3.length) {
           var c = str3.charAt(i++);
           if (c === "\\") {
-            text4 += c + str3.charAt(i++);
+            text5 += c + str3.charAt(i++);
           } else if (c === "#") {
             c = str3.charAt(i++);
             if (c === "#") {
-              text4 += c;
+              text5 += c;
             } else {
               if (!c.match(/[1-9]/) || parseInt(c, 10) > args.length) {
                 throw new TexError_js_1.default("IllegalMacroParam", "Illegal macro parameter reference");
               }
-              newstring = addArgs(parser, addArgs(parser, newstring, text4), args[parseInt(c, 10) - 1]);
-              text4 = "";
+              newstring = addArgs(parser, addArgs(parser, newstring, text5), args[parseInt(c, 10) - 1]);
+              text5 = "";
             }
           } else {
-            text4 += c;
+            text5 += c;
           }
         }
-        return addArgs(parser, newstring, text4);
+        return addArgs(parser, newstring, text5);
       }
       ParseUtil2.substituteArgs = substituteArgs;
       function addArgs(parser, s1, s2) {
@@ -5573,10 +5573,10 @@ var require_ParseUtil = __commonJS({
         return def;
       }
       ParseUtil2.keyvalOptions = keyvalOptions;
-      function readKeyval(text4) {
+      function readKeyval(text5) {
         var _a4, _b2;
         var options = {};
-        var rest = text4;
+        var rest = text5;
         var end, key, val;
         while (rest) {
           _a4 = __read(readValue(rest, ["=", ","]), 3), key = _a4[0], end = _a4[1], rest = _a4[2];
@@ -5590,15 +5590,15 @@ var require_ParseUtil = __commonJS({
         }
         return options;
       }
-      function removeBraces(text4, count) {
+      function removeBraces(text5, count) {
         while (count > 0) {
-          text4 = text4.trim().slice(1, -1);
+          text5 = text5.trim().slice(1, -1);
           count--;
         }
-        return text4.trim();
+        return text5.trim();
       }
-      function readValue(text4, end) {
-        var length = text4.length;
+      function readValue(text5, end) {
+        var length = text5.length;
         var braces = 0;
         var value2 = "";
         var index = 0;
@@ -5606,7 +5606,7 @@ var require_ParseUtil = __commonJS({
         var startCount = true;
         var stopCount = false;
         while (index < length) {
-          var c = text4[index++];
+          var c = text5[index++];
           switch (c) {
             case " ":
               break;
@@ -5633,7 +5633,7 @@ var require_ParseUtil = __commonJS({
               break;
             default:
               if (!braces && end.indexOf(c) !== -1) {
-                return [stopCount ? "true" : removeBraces(value2, start), c, text4.slice(index)];
+                return [stopCount ? "true" : removeBraces(value2, start), c, text5.slice(index)];
               }
               startCount = false;
               stopCount = false;
@@ -5643,16 +5643,16 @@ var require_ParseUtil = __commonJS({
         if (braces) {
           throw new TexError_js_1.default("ExtraOpenMissingClose", "Extra open brace or missing close brace");
         }
-        return [stopCount ? "true" : removeBraces(value2, start), "", text4.slice(index)];
+        return [stopCount ? "true" : removeBraces(value2, start), "", text5.slice(index)];
       }
     })(ParseUtil || (ParseUtil = {}));
     exports2.default = ParseUtil;
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Stack.js
+// ../../../node_modules/mathjax-full/js/input/tex/Stack.js
 var require_Stack = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Stack.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/Stack.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -5789,9 +5789,9 @@ var require_Stack = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexParser.js
+// ../../../node_modules/mathjax-full/js/input/tex/TexParser.js
 var require_TexParser = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexParser.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/TexParser.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -5854,8 +5854,8 @@ var require_TexParser = __commonJS({
           ENV = {};
           try {
             for (var _b2 = __values(Object.keys(env)), _c = _b2.next(); !_c.done; _c = _b2.next()) {
-              var id = _c.value;
-              ENV[id] = env[id];
+              var id2 = _c.value;
+              ENV[id2] = env[id2];
             }
           } catch (e_1_1) {
             e_1 = { error: e_1_1 };
@@ -6163,9 +6163,9 @@ var require_TexParser = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/StackItem.js
+// ../../../node_modules/mathjax-full/js/input/tex/StackItem.js
 var require_StackItem = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/StackItem.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/StackItem.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -6386,8 +6386,8 @@ var require_StackItem = __commonJS({
           throw new TexError_js_1.default("Misplaced", "Misplaced %1", item.getName());
         }
         if (item.isClose && this.getErrors(item.kind)) {
-          var _a4 = __read(this.getErrors(item.kind), 2), id = _a4[0], message = _a4[1];
-          throw new TexError_js_1.default(id, message, item.getName());
+          var _a4 = __read(this.getErrors(item.kind), 2), id2 = _a4[0], message = _a4[1];
+          throw new TexError_js_1.default(id2, message, item.getName());
         }
         if (!item.isFinal) {
           return BaseItem2.success;
@@ -6399,8 +6399,8 @@ var require_StackItem = __commonJS({
         var e_1, _a4;
         try {
           for (var _b2 = __values(Object.keys(this.env)), _c = _b2.next(); !_c.done; _c = _b2.next()) {
-            var id = _c.value;
-            delete this.env[id];
+            var id2 = _c.value;
+            delete this.env[id2];
           }
         } catch (e_1_1) {
           e_1 = { error: e_1_1 };
@@ -6440,9 +6440,9 @@ var require_StackItem = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Factory.js
+// ../../../node_modules/mathjax-full/js/core/Tree/Factory.js
 var require_Factory = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Factory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Tree/Factory.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -6549,9 +6549,9 @@ var require_Factory = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/StackItemFactory.js
+// ../../../node_modules/mathjax-full/js/input/tex/StackItemFactory.js
 var require_StackItemFactory = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/StackItemFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/StackItemFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -6598,9 +6598,9 @@ var require_StackItemFactory = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/NodeFactory.js
+// ../../../node_modules/mathjax-full/js/input/tex/NodeFactory.js
 var require_NodeFactory = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/NodeFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/NodeFactory.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -6644,7 +6644,7 @@ var require_NodeFactory = __commonJS({
           "error": NodeFactory2.createError
         };
       }
-      NodeFactory2.createNode = function(factory, kind, children, def, text4) {
+      NodeFactory2.createNode = function(factory, kind, children, def, text5) {
         if (children === void 0) {
           children = [];
         }
@@ -6653,31 +6653,31 @@ var require_NodeFactory = __commonJS({
         }
         var node2 = factory.mmlFactory.create(kind);
         node2.setChildren(children);
-        if (text4) {
-          node2.appendChild(text4);
+        if (text5) {
+          node2.appendChild(text5);
         }
         NodeUtil_js_1.default.setProperties(node2, def);
         return node2;
       };
-      NodeFactory2.createToken = function(factory, kind, def, text4) {
+      NodeFactory2.createToken = function(factory, kind, def, text5) {
         if (def === void 0) {
           def = {};
         }
-        if (text4 === void 0) {
-          text4 = "";
+        if (text5 === void 0) {
+          text5 = "";
         }
-        var textNode = factory.create("text", text4);
+        var textNode = factory.create("text", text5);
         return factory.create("node", kind, [], def, textNode);
       };
-      NodeFactory2.createText = function(factory, text4) {
-        if (text4 == null) {
+      NodeFactory2.createText = function(factory, text5) {
+        if (text5 == null) {
           return null;
         }
-        return factory.mmlFactory.create("text").setText(text4);
+        return factory.mmlFactory.create("text").setText(text5);
       };
       NodeFactory2.createError = function(factory, message) {
-        var text4 = factory.create("text", message);
-        var mtext = factory.create("node", "mtext", [], {}, text4);
+        var text5 = factory.create("text", message);
+        var mtext = factory.create("node", "mtext", [], {}, text5);
         var error62 = factory.create("node", "merror", [mtext], { "data-mjx-error": message });
         return error62;
       };
@@ -6713,9 +6713,9 @@ var require_NodeFactory = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseOptions.js
+// ../../../node_modules/mathjax-full/js/input/tex/ParseOptions.js
 var require_ParseOptions = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseOptions.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ParseOptions.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -6870,9 +6870,9 @@ var require_ParseOptions = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Tags.js
+// ../../../node_modules/mathjax-full/js/input/tex/Tags.js
 var require_Tags = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Tags.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/Tags.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -6911,15 +6911,15 @@ var require_Tags = __commonJS({
     exports2.TagsFactory = exports2.AllTags = exports2.NoTags = exports2.AbstractTags = exports2.TagInfo = exports2.Label = void 0;
     var TexParser_js_1 = __importDefault(require_TexParser());
     var Label = /* @__PURE__ */ (function() {
-      function Label2(tag, id) {
+      function Label2(tag, id2) {
         if (tag === void 0) {
           tag = "???";
         }
-        if (id === void 0) {
-          id = "";
+        if (id2 === void 0) {
+          id2 = "";
         }
         this.tag = tag;
-        this.id = id;
+        this.id = id2;
       }
       return Label2;
     })();
@@ -7031,14 +7031,14 @@ var require_Tags = __commonJS({
         enumerable: false,
         configurable: true
       });
-      AbstractTags2.prototype.formatUrl = function(id, base) {
-        return base + "#" + encodeURIComponent(id);
+      AbstractTags2.prototype.formatUrl = function(id2, base) {
+        return base + "#" + encodeURIComponent(id2);
       };
       AbstractTags2.prototype.formatTag = function(tag) {
         return "(" + tag + ")";
       };
-      AbstractTags2.prototype.formatId = function(id) {
-        return "mjx-eqn:" + id.replace(/\s/g, "_");
+      AbstractTags2.prototype.formatId = function(id2) {
+        return "mjx-eqn:" + id2.replace(/\s/g, "_");
       };
       AbstractTags2.prototype.formatNumber = function(n) {
         return n.toString();
@@ -7219,9 +7219,9 @@ var require_Tags = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/MapHandler.js
+// ../../../node_modules/mathjax-full/js/input/tex/MapHandler.js
 var require_MapHandler = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/MapHandler.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/MapHandler.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -7458,9 +7458,9 @@ var require_MapHandler = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Configuration.js
+// ../../../node_modules/mathjax-full/js/input/tex/Configuration.js
 var require_Configuration = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Configuration.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/Configuration.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -7770,9 +7770,9 @@ var require_Configuration = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Symbol.js
+// ../../../node_modules/mathjax-full/js/input/tex/Symbol.js
 var require_Symbol = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/Symbol.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/Symbol.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Macro = exports2.Symbol = void 0;
@@ -7842,9 +7842,9 @@ var require_Symbol = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/SymbolMap.js
+// ../../../node_modules/mathjax-full/js/input/tex/SymbolMap.js
 var require_SymbolMap = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/SymbolMap.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/SymbolMap.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -8105,9 +8105,9 @@ var require_SymbolMap = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseItems.js
+// ../../../node_modules/mathjax-full/js/input/tex/base/BaseItems.js
 var require_BaseItems = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseItems.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/base/BaseItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -9070,9 +9070,9 @@ var require_BaseItems = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexConstants.js
+// ../../../node_modules/mathjax-full/js/input/tex/TexConstants.js
 var require_TexConstants = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/TexConstants.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/TexConstants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.TexConstant = void 0;
@@ -9208,9 +9208,9 @@ var require_TexConstants = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/lengths.js
+// ../../../node_modules/mathjax-full/js/util/lengths.js
 var require_lengths = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/lengths.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/lengths.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.px = exports2.emRounded = exports2.em = exports2.percent = exports2.length2em = exports2.MATHSPACE = exports2.RELUNITS = exports2.UNITS = exports2.BIGDIMEN = void 0;
@@ -9325,9 +9325,9 @@ var require_lengths = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseMethods.js
+// ../../../node_modules/mathjax-full/js/input/tex/base/BaseMethods.js
 var require_BaseMethods = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseMethods.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/base/BaseMethods.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -9528,8 +9528,8 @@ var require_BaseMethods = __commonJS({
       throw new TexError_js_1.default("CantUseHash1", "You can't use 'macro parameter character #' in math mode");
     };
     BaseMethods.MathFont = function(parser, name, variant) {
-      var text4 = parser.GetArgument(name);
-      var mml = new TexParser_js_1.default(text4, __assign(__assign({}, parser.stack.env), { font: variant, multiLetterIdentifiers: /^[a-zA-Z]+/, noAutoOP: true }), parser.configuration).mml();
+      var text5 = parser.GetArgument(name);
+      var mml = new TexParser_js_1.default(text5, __assign(__assign({}, parser.stack.env), { font: variant, multiLetterIdentifiers: /^[a-zA-Z]+/, noAutoOP: true }), parser.configuration).mml();
       parser.Push(parser.create("node", "TeXAtom", [mml]));
     };
     BaseMethods.SetFont = function(parser, _name, font) {
@@ -9553,24 +9553,24 @@ var require_BaseMethods = __commonJS({
       var first = name.substr(1);
       parser.Push(parser.itemFactory.create(first, parser.GetDelimiter(name), parser.stack.env.color));
     };
-    BaseMethods.NamedFn = function(parser, name, id) {
-      if (!id) {
-        id = name.substr(1);
+    BaseMethods.NamedFn = function(parser, name, id2) {
+      if (!id2) {
+        id2 = name.substr(1);
       }
-      var mml = parser.create("token", "mi", { texClass: MmlNode_js_1.TEXCLASS.OP }, id);
+      var mml = parser.create("token", "mi", { texClass: MmlNode_js_1.TEXCLASS.OP }, id2);
       parser.Push(parser.itemFactory.create("fn", mml));
     };
-    BaseMethods.NamedOp = function(parser, name, id) {
-      if (!id) {
-        id = name.substr(1);
+    BaseMethods.NamedOp = function(parser, name, id2) {
+      if (!id2) {
+        id2 = name.substr(1);
       }
-      id = id.replace(/&thinsp;/, "\u2006");
+      id2 = id2.replace(/&thinsp;/, "\u2006");
       var mml = parser.create("token", "mo", {
         movablelimits: true,
         movesupsub: true,
         form: TexConstants_js_1.TexConstant.Form.PREFIX,
         texClass: MmlNode_js_1.TEXCLASS.OP
-      }, id);
+      }, id2);
       parser.Push(mml);
     };
     BaseMethods.Limits = function(parser, _name, limits) {
@@ -9658,11 +9658,11 @@ var require_BaseMethods = __commonJS({
       var node2 = parser.create("node", "mroot", [arg, parseRoot(parser, n)]);
       parser.Push(node2);
     };
-    BaseMethods.MoveRoot = function(parser, name, id) {
+    BaseMethods.MoveRoot = function(parser, name, id2) {
       if (!parser.stack.env["inRoot"]) {
         throw new TexError_js_1.default("MisplacedMoveRoot", "%1 can appear only within a root", parser.currentCS);
       }
-      if (parser.stack.global[id]) {
+      if (parser.stack.global[id2]) {
         throw new TexError_js_1.default("MultipleMoveRoot", "Multiple use of %1", parser.currentCS);
       }
       var n = parser.GetArgument(name);
@@ -9673,7 +9673,7 @@ var require_BaseMethods = __commonJS({
       if (n.substr(0, 1) !== "-") {
         n = "+" + n;
       }
-      parser.stack.global[id] = n;
+      parser.stack.global[id2] = n;
     };
     BaseMethods.Accent = function(parser, name, accent, stretchy) {
       var c = parser.ParseArg(name);
@@ -9760,7 +9760,7 @@ var require_BaseMethods = __commonJS({
     BaseMethods.MmlToken = function(parser, name) {
       var kind = parser.GetArgument(name);
       var attr = parser.GetBrackets(name, "").replace(/^\s+/, "");
-      var text4 = parser.GetArgument(name);
+      var text5 = parser.GetArgument(name);
       var def = {};
       var keep = [];
       var node2;
@@ -9795,7 +9795,7 @@ var require_BaseMethods = __commonJS({
       if (keep.length) {
         def["mjx-keep-attrs"] = keep.join(" ");
       }
-      var textNode = parser.create("text", text4);
+      var textNode = parser.create("text", text5);
       node2.appendChild(textNode);
       NodeUtil_js_1.default.setProperties(node2, def);
       parser.Push(node2);
@@ -10041,9 +10041,9 @@ var require_BaseMethods = __commonJS({
           i++;
         }
       }
-      var text4 = str3.substr(parser.i, i - parser.i);
-      if (!text4.match(/^\s*\\text[^a-zA-Z]/) || close !== text4.replace(/\s+$/, "").length - 1) {
-        var internal = ParseUtil_js_1.default.internalMath(parser, ParseUtil_js_1.default.trimSpaces(text4), 0);
+      var text5 = str3.substr(parser.i, i - parser.i);
+      if (!text5.match(/^\s*\\text[^a-zA-Z]/) || close !== text5.replace(/\s+$/, "").length - 1) {
+        var internal = ParseUtil_js_1.default.internalMath(parser, ParseUtil_js_1.default.trimSpaces(text5), 0);
         parser.PushAll(internal);
         parser.i = i;
       }
@@ -10270,9 +10270,9 @@ var require_BaseMethods = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseMethods.js
+// ../../../node_modules/mathjax-full/js/input/tex/ParseMethods.js
 var require_ParseMethods = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ParseMethods.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ParseMethods.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -10385,9 +10385,9 @@ var require_ParseMethods = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseMappings.js
+// ../../../node_modules/mathjax-full/js/input/tex/base/BaseMappings.js
 var require_BaseMappings = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseMappings.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/base/BaseMappings.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -11110,9 +11110,9 @@ var require_BaseMappings = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js
+// ../../../node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js
 var require_BaseConfiguration = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -11275,9 +11275,9 @@ var require_BaseConfiguration = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex.js
+// ../../../node_modules/mathjax-full/js/input/tex.js
 var require_tex = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -11443,9 +11443,9 @@ var require_tex = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/OutputJax.js
+// ../../../node_modules/mathjax-full/js/core/OutputJax.js
 var require_OutputJax = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/OutputJax.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/OutputJax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractOutputJax = void 0;
@@ -11500,9 +11500,9 @@ var require_OutputJax = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Styles.js
+// ../../../node_modules/mathjax-full/js/util/Styles.js
 var require_Styles = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/Styles.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/Styles.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -11545,8 +11545,8 @@ var require_Styles = __commonJS({
     exports2.Styles = void 0;
     var TRBL = ["top", "right", "bottom", "left"];
     var WSC = ["width", "style", "color"];
-    function splitSpaces(text4) {
-      var parts = text4.split(/((?:'[^']*'|"[^"]*"|,[\s\n]|[^\s\n])*)/g);
+    function splitSpaces(text5) {
+      var parts = text5.split(/((?:'[^']*'|"[^"]*"|,[\s\n]|[^\s\n])*)/g);
       var split = [];
       while (parts.length > 1) {
         parts.shift();
@@ -12015,9 +12015,9 @@ var require_Styles = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/StyleList.js
+// ../../../node_modules/mathjax-full/js/util/StyleList.js
 var require_StyleList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/StyleList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/StyleList.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -12144,9 +12144,9 @@ var require_StyleList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/OutputJax.js
+// ../../../node_modules/mathjax-full/js/output/common/OutputJax.js
 var require_OutputJax2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/OutputJax.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/OutputJax.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12518,8 +12518,8 @@ var require_OutputJax2 = __commonJS({
         }
         return this.adaptor.node(type, def, content, ns);
       };
-      CommonOutputJax2.prototype.text = function(text4) {
-        return this.adaptor.text(text4);
+      CommonOutputJax2.prototype.text = function(text5) {
+        return this.adaptor.text(text5);
       };
       CommonOutputJax2.prototype.fixed = function(m, n) {
         if (n === void 0) {
@@ -12530,18 +12530,18 @@ var require_OutputJax2 = __commonJS({
         }
         return m.toFixed(n).replace(/\.?0+$/, "");
       };
-      CommonOutputJax2.prototype.measureText = function(text4, variant, font) {
+      CommonOutputJax2.prototype.measureText = function(text5, variant, font) {
         if (font === void 0) {
           font = ["", false, false];
         }
-        var node2 = this.unknownText(text4, variant);
+        var node2 = this.unknownText(text5, variant);
         if (variant === "-explicitFont") {
           var styles = this.cssFontStyles(font);
           this.adaptor.setAttributes(node2, { style: styles });
         }
-        return this.measureTextNodeWithCache(node2, text4, variant, font);
+        return this.measureTextNodeWithCache(node2, text5, variant, font);
       };
-      CommonOutputJax2.prototype.measureTextNodeWithCache = function(text4, chars, variant, font) {
+      CommonOutputJax2.prototype.measureTextNodeWithCache = function(text5, chars, variant, font) {
         if (font === void 0) {
           font = ["", false, false];
         }
@@ -12555,7 +12555,7 @@ var require_OutputJax2 = __commonJS({
         var cached2 = map2.get(chars);
         if (cached2)
           return cached2;
-        var bbox = this.measureTextNode(text4);
+        var bbox = this.measureTextNode(text5);
         map2.set(chars, bbox);
         return bbox;
       };
@@ -12612,9 +12612,9 @@ var require_OutputJax2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/WrapperFactory.js
+// ../../../node_modules/mathjax-full/js/core/Tree/WrapperFactory.js
 var require_WrapperFactory = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/WrapperFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Tree/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12682,9 +12682,9 @@ var require_WrapperFactory = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/WrapperFactory.js
+// ../../../node_modules/mathjax-full/js/output/common/WrapperFactory.js
 var require_WrapperFactory2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/WrapperFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12729,9 +12729,9 @@ var require_WrapperFactory2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/BBox.js
+// ../../../node_modules/mathjax-full/js/util/BBox.js
 var require_BBox = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/BBox.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/BBox.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BBox = void 0;
@@ -12825,9 +12825,9 @@ var require_BBox = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Wrapper.js
+// ../../../node_modules/mathjax-full/js/core/Tree/Wrapper.js
 var require_Wrapper = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/Wrapper.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Tree/Wrapper.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractWrapper = void 0;
@@ -12852,9 +12852,9 @@ var require_Wrapper = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/FontData.js
+// ../../../node_modules/mathjax-full/js/output/common/FontData.js
 var require_FontData = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/FontData.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/FontData.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -13307,9 +13307,9 @@ var require_FontData = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrapper.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrapper.js
 var require_Wrapper2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrapper.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrapper.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -13604,12 +13604,12 @@ var require_Wrapper2 = __commonJS({
           return;
         var style = this.styles = new Styles_js_1.Styles(styleString);
         for (var i = 0, m = CommonWrapper2.removeStyles.length; i < m; i++) {
-          var id = CommonWrapper2.removeStyles[i];
-          if (style.get(id)) {
+          var id2 = CommonWrapper2.removeStyles[i];
+          if (style.get(id2)) {
             if (!this.removedStyles)
               this.removedStyles = {};
-            this.removedStyles[id] = style.get(id);
-            style.set(id, "");
+            this.removedStyles[id2] = style.get(id2);
+            style.set(id2, "");
           }
         }
       };
@@ -13743,13 +13743,13 @@ var require_Wrapper2 = __commonJS({
       };
       CommonWrapper2.prototype.getText = function() {
         var e_4, _a4;
-        var text4 = "";
+        var text5 = "";
         if (this.node.isToken) {
           try {
             for (var _b2 = __values(this.node.childNodes), _c = _b2.next(); !_c.done; _c = _b2.next()) {
               var child = _c.value;
               if (child instanceof MmlNode_js_1.TextNode) {
-                text4 += child.getText();
+                text5 += child.getText();
               }
             }
           } catch (e_4_1) {
@@ -13762,7 +13762,7 @@ var require_Wrapper2 = __commonJS({
             }
           }
         }
-        return text4;
+        return text5;
       };
       CommonWrapper2.prototype.canStretch = function(direction) {
         this.stretch = FontData_js_1.NOSTRETCH;
@@ -13833,11 +13833,11 @@ var require_Wrapper2 = __commonJS({
         }
         return LENGTHS.length2em(length, size, scale, this.jax.pxPerEm);
       };
-      CommonWrapper2.prototype.unicodeChars = function(text4, name) {
+      CommonWrapper2.prototype.unicodeChars = function(text5, name) {
         if (name === void 0) {
           name = this.variant;
         }
-        var chars = (0, string_js_1.unicodeChars)(text4);
+        var chars = (0, string_js_1.unicodeChars)(text5);
         var variant = this.font.getVariant(name);
         if (variant && variant.chars) {
           var map_1 = variant.chars;
@@ -13850,8 +13850,8 @@ var require_Wrapper2 = __commonJS({
       CommonWrapper2.prototype.remapChars = function(chars) {
         return chars;
       };
-      CommonWrapper2.prototype.mmlText = function(text4) {
-        return this.node.factory.create("text").setText(text4);
+      CommonWrapper2.prototype.mmlText = function(text5) {
+        return this.node.factory.create("text").setText(text5);
       };
       CommonWrapper2.prototype.mmlNode = function(kind, properties, children) {
         if (properties === void 0) {
@@ -13862,9 +13862,9 @@ var require_Wrapper2 = __commonJS({
         }
         return this.node.factory.create(kind, properties, children);
       };
-      CommonWrapper2.prototype.createMo = function(text4) {
+      CommonWrapper2.prototype.createMo = function(text5) {
         var mmlFactory = this.node.factory;
-        var textNode = mmlFactory.create("text").setText(text4);
+        var textNode = mmlFactory.create("text").setText(text5);
         var mml = mmlFactory.create("mo", { stretchy: true }, [textNode]);
         mml.inheritAttributesFrom(this.node);
         var node2 = this.wrap(mml);
@@ -13938,9 +13938,9 @@ var require_Wrapper2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrapper.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrapper.js
 var require_Wrapper3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrapper.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrapper.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14336,9 +14336,9 @@ var require_Wrapper3 = __commonJS({
           }
         } else if (data.unknown) {
           var char = String.fromCodePoint(n);
-          var text4 = this.adaptor.append(parent, this.jax.unknownText(char, variant));
-          this.place(x, y, text4);
-          return this.jax.measureTextNodeWithCache(text4, char, variant).w;
+          var text5 = this.adaptor.append(parent, this.jax.unknownText(char, variant));
+          this.place(x, y, text5);
+          return this.jax.measureTextNodeWithCache(text5, char, variant).w;
         }
         return w;
       };
@@ -14351,8 +14351,8 @@ var require_Wrapper3 = __commonJS({
       };
       SVGWrapper2.prototype.useNode = function(variant, C2, path6) {
         var use = this.svg("use", { "data-c": C2 });
-        var id = "#" + this.jax.fontCache.cachePath(variant, C2, path6);
-        this.adaptor.setAttribute(use, "href", id, svg_js_1.XLINKNS);
+        var id2 = "#" + this.jax.fontCache.cachePath(variant, C2, path6);
+        this.adaptor.setAttribute(use, "href", id2, svg_js_1.XLINKNS);
         return use;
       };
       SVGWrapper2.prototype.drawBBox = function() {
@@ -14393,8 +14393,8 @@ var require_Wrapper3 = __commonJS({
         }
         return this.jax.svg(type, def, content);
       };
-      SVGWrapper2.prototype.text = function(text4) {
-        return this.jax.text(text4);
+      SVGWrapper2.prototype.text = function(text5) {
+        return this.jax.text(text5);
       };
       SVGWrapper2.prototype.fixed = function(x, n) {
         if (n === void 0) {
@@ -14410,9 +14410,9 @@ var require_Wrapper3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/math.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/math.js
 var require_math = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/math.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14451,9 +14451,9 @@ var require_math = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js
 var require_math2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14524,9 +14524,9 @@ var require_math2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/math.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/math.js
 var require_math3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/math.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14626,10 +14626,10 @@ var require_math3 = __commonJS({
         var attributes = this.node.attributes;
         var speech = attributes.get("aria-label") || attributes.get("data-semantic-speech");
         if (speech) {
-          var id = this.getTitleID();
-          var label = this.svg("title", { id }, [this.text(speech)]);
+          var id2 = this.getTitleID();
+          var label = this.svg("title", { id: id2 }, [this.text(speech)]);
           adaptor2.insert(label, adaptor2.firstChild(this.element));
-          adaptor2.setAttribute(this.element, "aria-labeledby", id);
+          adaptor2.setAttribute(this.element, "aria-labeledby", id2);
           adaptor2.removeAttribute(this.element, "aria-label");
           try {
             for (var _b2 = __values(this.childNodes[0].childNodes), _c = _b2.next(); !_c.done; _c = _b2.next()) {
@@ -14682,9 +14682,9 @@ var require_math3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mrow.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mrow.js
 var require_mrow = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mrow.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14866,9 +14866,9 @@ var require_mrow = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js
 var require_mrow2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15133,9 +15133,9 @@ var require_mrow2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js
 var require_mrow3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15187,9 +15187,9 @@ var require_mrow3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mi.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mi.js
 var require_mi = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mi.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15232,9 +15232,9 @@ var require_mi = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js
 var require_mi2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15297,8 +15297,8 @@ var require_mi2 = __commonJS({
           prime = false;
         }
         _super.prototype.setInheritedAttributes.call(this, attributes, display, level, prime);
-        var text4 = this.getText();
-        if (text4.match(MmlMi2.singleCharacter) && !attributes.mathvariant) {
+        var text5 = this.getText();
+        if (text5.match(MmlMi2.singleCharacter) && !attributes.mathvariant) {
           this.attributes.setInherited("mathvariant", "italic");
         }
       };
@@ -15320,9 +15320,9 @@ var require_mi2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mi.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mi.js
 var require_mi3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mi.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15360,9 +15360,9 @@ var require_mi3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mo.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mo.js
 var require_mo2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mo.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15636,9 +15636,9 @@ var require_mo2 = __commonJS({
             var parent_1 = this.node.coreParent().parent;
             var isAccent = this.isAccent && !parent_1.isKind("mrow");
             var map2 = isAccent ? "accent" : "mo";
-            var text4 = this.font.getRemappedChar(map2, chars[0]);
-            if (text4) {
-              chars = this.unicodeChars(text4, this.variant);
+            var text5 = this.font.getRemappedChar(map2, chars[0]);
+            if (text5) {
+              chars = this.unicodeChars(text5, this.variant);
             }
           }
           return chars;
@@ -15650,9 +15650,9 @@ var require_mo2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mo.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mo.js
 var require_mo3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mo.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15900,9 +15900,9 @@ var require_mo3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mn.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mn.js
 var require_mn = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mn.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15933,9 +15933,9 @@ var require_mn = __commonJS({
         }
         class_1.prototype.remapChars = function(chars) {
           if (chars.length) {
-            var text4 = this.font.getRemappedChar("mn", chars[0]);
-            if (text4) {
-              var c = this.unicodeChars(text4, this.variant);
+            var text5 = this.font.getRemappedChar("mn", chars[0]);
+            if (text5) {
+              var c = this.unicodeChars(text5, this.variant);
               if (c.length === 1) {
                 chars[0] = c[0];
               } else {
@@ -15952,9 +15952,9 @@ var require_mn = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js
 var require_mn2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16010,9 +16010,9 @@ var require_mn2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mn.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mn.js
 var require_mn3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mn.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16050,9 +16050,9 @@ var require_mn3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/ms.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/ms.js
 var require_ms = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/ms.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16122,8 +16122,8 @@ var require_ms = __commonJS({
           _this.childNodes.push(_this.createText(quotes.rquote));
           return _this;
         }
-        class_1.prototype.createText = function(text4) {
-          var node2 = this.wrap(this.mmlText(text4));
+        class_1.prototype.createText = function(text5) {
+          var node2 = this.wrap(this.mmlText(text5));
           node2.parent = this;
           return node2;
         };
@@ -16134,9 +16134,9 @@ var require_ms = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js
 var require_ms2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16192,9 +16192,9 @@ var require_ms2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/ms.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/ms.js
 var require_ms3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/ms.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16232,9 +16232,9 @@ var require_ms3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtext.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtext.js
 var require_mtext = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtext.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16289,9 +16289,9 @@ var require_mtext = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js
 var require_mtext2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16354,9 +16354,9 @@ var require_mtext2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js
 var require_mtext3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16394,9 +16394,9 @@ var require_mtext3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js
 var require_merror = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16466,9 +16466,9 @@ var require_merror = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/merror.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/merror.js
 var require_merror2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/merror.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/merror.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16530,9 +16530,9 @@ var require_merror2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mspace.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mspace.js
 var require_mspace = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mspace.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16579,9 +16579,9 @@ var require_mspace = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js
 var require_mspace2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16662,9 +16662,9 @@ var require_mspace2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js
 var require_mspace3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16702,9 +16702,9 @@ var require_mspace3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js
 var require_mpadded = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16813,9 +16813,9 @@ var require_mpadded = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js
 var require_mpadded2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16869,9 +16869,9 @@ var require_mpadded2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js
 var require_mpadded3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16937,9 +16937,9 @@ var require_mpadded3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js
 var require_mphantom = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16995,9 +16995,9 @@ var require_mphantom = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js
 var require_mphantom2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17037,9 +17037,9 @@ var require_mphantom2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js
 var require_mfrac = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17216,9 +17216,9 @@ var require_mfrac = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js
 var require_mfrac2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17323,9 +17323,9 @@ var require_mfrac2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js
 var require_mfrac3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17449,9 +17449,9 @@ var require_mfrac3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js
 var require_msqrt = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17540,8 +17540,8 @@ var require_msqrt = __commonJS({
           enumerable: false,
           configurable: true
         });
-        class_1.prototype.createMo = function(text4) {
-          var node2 = _super.prototype.createMo.call(this, text4);
+        class_1.prototype.createMo = function(text5) {
+          var node2 = _super.prototype.createMo.call(this, text5);
           this.childNodes.push(node2);
           return node2;
         };
@@ -17580,9 +17580,9 @@ var require_msqrt = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js
 var require_msqrt2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17660,9 +17660,9 @@ var require_msqrt2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js
 var require_msqrt3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17727,9 +17727,9 @@ var require_msqrt3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mroot.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mroot.js
 var require_mroot = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mroot.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17800,9 +17800,9 @@ var require_mroot = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js
 var require_mroot2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17875,9 +17875,9 @@ var require_mroot2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js
 var require_mroot3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17939,9 +17939,9 @@ var require_mroot3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js
 var require_mfenced = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18070,9 +18070,9 @@ var require_mfenced = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js
 var require_mfenced2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18220,8 +18220,8 @@ var require_mfenced2 = __commonJS({
         if (texClass === void 0) {
           texClass = null;
         }
-        var text4 = this.factory.create("text").setText(c);
-        var node2 = this.factory.create("mo", properties, [text4]);
+        var text5 = this.factory.create("text").setText(c);
+        var node2 = this.factory.create("mo", properties, [text5]);
         node2.texClass = texClass;
         node2.parent = this;
         return node2;
@@ -18233,9 +18233,9 @@ var require_mfenced2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js
 var require_mfenced3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18307,9 +18307,9 @@ var require_mfenced3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js
 var require_scriptbase = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18440,18 +18440,18 @@ var require_scriptbase = __commonJS({
           var fence = this.node.attributes.getExplicit("data-semantic-fencepointer");
           return this.getBaseFence(this.baseChild, fence);
         };
-        class_1.prototype.getBaseFence = function(fence, id) {
+        class_1.prototype.getBaseFence = function(fence, id2) {
           var e_1, _a5;
-          if (!fence || !fence.node.attributes || !id) {
+          if (!fence || !fence.node.attributes || !id2) {
             return null;
           }
-          if (fence.node.attributes.getExplicit("data-semantic-id") === id) {
+          if (fence.node.attributes.getExplicit("data-semantic-id") === id2) {
             return fence;
           }
           try {
             for (var _b2 = __values(fence.childNodes), _c = _b2.next(); !_c.done; _c = _b2.next()) {
               var child = _c.value;
-              var result = this.getBaseFence(child, id);
+              var result = this.getBaseFence(child, id2);
               if (result) {
                 return result;
               }
@@ -18696,9 +18696,9 @@ var require_scriptbase = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js
 var require_scriptbase2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18760,9 +18760,9 @@ var require_scriptbase2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js
 var require_msubsup = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18921,9 +18921,9 @@ var require_msubsup = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js
 var require_msubsup2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19074,9 +19074,9 @@ var require_msubsup2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js
 var require_msubsup3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19163,9 +19163,9 @@ var require_msubsup3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/munderover.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/munderover.js
 var require_munderover = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/munderover.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19370,9 +19370,9 @@ var require_munderover = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js
 var require_munderover2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19552,9 +19552,9 @@ var require_munderover2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js
 var require_munderover3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19680,9 +19680,9 @@ var require_munderover3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js
 var require_mmultiscripts = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19893,9 +19893,9 @@ var require_mmultiscripts = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js
 var require_mmultiscripts2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20062,9 +20062,9 @@ var require_mmultiscripts2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js
 var require_mmultiscripts3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20178,9 +20178,9 @@ var require_mmultiscripts3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/numeric.js
+// ../../../node_modules/mathjax-full/js/util/numeric.js
 var require_numeric = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/numeric.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/numeric.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.max = exports2.sum = void 0;
@@ -20199,9 +20199,9 @@ var require_numeric = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtable.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtable.js
 var require_mtable = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtable.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20838,9 +20838,9 @@ var require_mtable = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js
 var require_mtable2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21029,9 +21029,9 @@ var require_mtable2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js
 var require_mtable3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21338,9 +21338,9 @@ var require_mtable3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtr.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtr.js
 var require_mtr = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtr.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21534,9 +21534,9 @@ var require_mtr = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js
 var require_mtr2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21721,9 +21721,9 @@ var require_mtr2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js
 var require_mtr3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21852,9 +21852,9 @@ var require_mtr3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtd.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtd.js
 var require_mtd = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mtd.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21909,9 +21909,9 @@ var require_mtd = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js
 var require_mtd2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21992,9 +21992,9 @@ var require_mtd2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js
 var require_mtd3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22053,9 +22053,9 @@ var require_mtd3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/maction.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/maction.js
 var require_maction = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/maction.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22170,9 +22170,9 @@ var require_maction = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js
 var require_maction2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22285,9 +22285,9 @@ var require_maction2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/maction.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/maction.js
 var require_maction3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/maction.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22400,8 +22400,8 @@ var require_maction3 = __commonJS({
             return;
           var rect = node2.firstChild();
           if (tip.node.isKind("mtext")) {
-            var text4 = tip.node.getText();
-            node2.adaptor.insert(node2.svg("title", {}, [node2.text(text4)]), rect);
+            var text5 = tip.node.getText();
+            node2.adaptor.insert(node2.svg("title", {}, [node2.text(text5)]), rect);
           } else {
             var adaptor_1 = node2.adaptor;
             var container_1 = node2.jax.container;
@@ -22468,9 +22468,9 @@ var require_maction3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Notation.js
+// ../../../node_modules/mathjax-full/js/output/common/Notation.js
 var require_Notation = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Notation.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Notation.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -22656,9 +22656,9 @@ var require_Notation = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/menclose.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/menclose.js
 var require_menclose = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/menclose.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22982,9 +22982,9 @@ var require_menclose = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Notation.js
+// ../../../node_modules/mathjax-full/js/output/svg/Notation.js
 var require_Notation2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Notation.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Notation.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -23117,9 +23117,9 @@ var require_Notation2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js
 var require_menclose2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23194,9 +23194,9 @@ var require_menclose2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js
 var require_menclose3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23519,9 +23519,9 @@ var require_menclose3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/semantics.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/semantics.js
 var require_semantics = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/semantics.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23568,9 +23568,9 @@ var require_semantics = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js
 var require_semantics2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23676,9 +23676,9 @@ var require_semantics2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js
 var require_semantics3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23792,9 +23792,9 @@ var require_semantics3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js
 var require_mglyph = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23862,9 +23862,9 @@ var require_mglyph = __commonJS({
             this.height = height === "auto" ? 1 : this.length2em(height);
             this.valign = this.length2em(valign || "0");
           } else {
-            var text4 = String.fromCodePoint(parseInt(index));
+            var text5 = String.fromCodePoint(parseInt(index));
             var mmlFactory = this.node.factory;
-            this.charWrapper = this.wrap(mmlFactory.create("text").setText(text4));
+            this.charWrapper = this.wrap(mmlFactory.create("text").setText(text5));
             this.charWrapper.parent = this;
           }
         };
@@ -23887,9 +23887,9 @@ var require_mglyph = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js
 var require_mglyph2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23953,9 +23953,9 @@ var require_mglyph2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js
 var require_mglyph3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24014,9 +24014,9 @@ var require_mglyph3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js
 var require_TeXAtom = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24069,9 +24069,9 @@ var require_TeXAtom = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js
 var require_TeXAtom2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24151,9 +24151,9 @@ var require_TeXAtom2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js
 var require_TeXAtom3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24204,9 +24204,9 @@ var require_TeXAtom3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js
+// ../../../node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js
 var require_TextNode = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24269,15 +24269,15 @@ var require_TextNode = __commonJS({
             _recompute = false;
           }
           var variant = this.parent.variant;
-          var text4 = this.node.getText();
+          var text5 = this.node.getText();
           if (variant === "-explicitFont") {
             var font = this.jax.getFontData(this.parent.styles);
-            var _b2 = this.jax.measureText(text4, variant, font), w = _b2.w, h = _b2.h, d = _b2.d;
+            var _b2 = this.jax.measureText(text5, variant, font), w = _b2.w, h = _b2.h, d = _b2.d;
             bbox.h = h;
             bbox.d = d;
             bbox.w = w;
           } else {
-            var chars = this.remappedText(text4, variant);
+            var chars = this.remappedText(text5, variant);
             bbox.empty();
             try {
               for (var chars_1 = __values(chars), chars_1_1 = chars_1.next(); !chars_1_1.done; chars_1_1 = chars_1.next()) {
@@ -24313,9 +24313,9 @@ var require_TextNode = __commonJS({
             bbox.clean();
           }
         };
-        class_1.prototype.remappedText = function(text4, variant) {
+        class_1.prototype.remappedText = function(text5, variant) {
           var c = this.parent.stretch.c;
-          return c ? [c] : this.parent.remapChars(this.unicodeChars(text4, variant));
+          return c ? [c] : this.parent.remapChars(this.unicodeChars(text5, variant));
         };
         class_1.prototype.getStyles = function() {
         };
@@ -24332,9 +24332,9 @@ var require_TextNode = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js
 var require_TextNode2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24378,14 +24378,14 @@ var require_TextNode2 = __commonJS({
       }
       SVGTextNode2.prototype.toSVG = function(parent) {
         var e_1, _a4;
-        var text4 = this.node.getText();
+        var text5 = this.node.getText();
         var variant = this.parent.variant;
-        if (text4.length === 0)
+        if (text5.length === 0)
           return;
         if (variant === "-explicitFont") {
-          this.element = this.adaptor.append(parent, this.jax.unknownText(text4, variant));
+          this.element = this.adaptor.append(parent, this.jax.unknownText(text5, variant));
         } else {
-          var chars = this.remappedText(text4, variant);
+          var chars = this.remappedText(text5, variant);
           if (this.parent.childNodes.length > 1) {
             parent = this.element = this.adaptor.append(parent, this.svg("g", { "data-mml-node": "text" }));
           }
@@ -24418,9 +24418,9 @@ var require_TextNode2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers.js
+// ../../../node_modules/mathjax-full/js/output/svg/Wrappers.js
 var require_Wrappers = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/Wrappers.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/Wrappers.js"(exports2) {
     "use strict";
     var _a4;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -24457,9 +24457,9 @@ var require_Wrappers = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/WrapperFactory.js
+// ../../../node_modules/mathjax-full/js/output/svg/WrapperFactory.js
 var require_WrapperFactory3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/WrapperFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24498,9 +24498,9 @@ var require_WrapperFactory3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/FontData.js
+// ../../../node_modules/mathjax-full/js/output/svg/FontData.js
 var require_FontData2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/FontData.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/FontData.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24614,9 +24614,9 @@ var require_FontData2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex.js
 var require_tex2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24704,9 +24704,9 @@ var require_tex2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js
 var require_bold_italic = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.boldItalic = void 0;
@@ -24721,9 +24721,9 @@ var require_bold_italic = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js
 var require_bold_italic2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.boldItalic = void 0;
@@ -24740,9 +24740,9 @@ var require_bold_italic2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold.js
 var require_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.bold = void 0;
@@ -25006,9 +25006,9 @@ var require_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js
 var require_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.bold = void 0;
@@ -25275,9 +25275,9 @@ var require_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js
 var require_double_struck = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.doubleStruck = void 0;
@@ -25285,9 +25285,9 @@ var require_double_struck = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js
 var require_double_struck2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.doubleStruck = void 0;
@@ -25298,9 +25298,9 @@ var require_double_struck2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js
 var require_fraktur_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.frakturBold = void 0;
@@ -25348,9 +25348,9 @@ var require_fraktur_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js
 var require_fraktur_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.frakturBold = void 0;
@@ -25400,9 +25400,9 @@ var require_fraktur_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js
 var require_fraktur = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.fraktur = void 0;
@@ -25451,9 +25451,9 @@ var require_fraktur = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js
 var require_fraktur2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.fraktur = void 0;
@@ -25504,9 +25504,9 @@ var require_fraktur2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/italic.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/italic.js
 var require_italic = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.italic = void 0;
@@ -25575,9 +25575,9 @@ var require_italic = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js
 var require_italic2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.italic = void 0;
@@ -25648,9 +25648,9 @@ var require_italic2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js
 var require_largeop = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.largeop = void 0;
@@ -25709,9 +25709,9 @@ var require_largeop = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js
 var require_largeop2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.largeop = void 0;
@@ -25773,9 +25773,9 @@ var require_largeop2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js
 var require_monospace = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.monospace = void 0;
@@ -25862,9 +25862,9 @@ var require_monospace = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js
 var require_monospace2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.monospace = void 0;
@@ -25954,9 +25954,9 @@ var require_monospace2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/normal.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/normal.js
 var require_normal = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/normal.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/normal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.normal = void 0;
@@ -27263,9 +27263,9 @@ var require_normal = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js
 var require_normal2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.normal = void 0;
@@ -28575,9 +28575,9 @@ var require_normal2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js
 var require_sans_serif_bold_italic = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBoldItalic = void 0;
@@ -28588,9 +28588,9 @@ var require_sans_serif_bold_italic = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js
 var require_sans_serif_bold_italic2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBoldItalic = void 0;
@@ -28603,9 +28603,9 @@ var require_sans_serif_bold_italic2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js
 var require_sans_serif_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBold = void 0;
@@ -28662,9 +28662,9 @@ var require_sans_serif_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js
 var require_sans_serif_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBold = void 0;
@@ -28723,9 +28723,9 @@ var require_sans_serif_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js
 var require_sans_serif_italic = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifItalic = void 0;
@@ -28816,9 +28816,9 @@ var require_sans_serif_italic = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js
 var require_sans_serif_italic2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifItalic = void 0;
@@ -28911,9 +28911,9 @@ var require_sans_serif_italic2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js
 var require_sans_serif = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerif = void 0;
@@ -28994,9 +28994,9 @@ var require_sans_serif = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js
 var require_sans_serif2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerif = void 0;
@@ -29079,9 +29079,9 @@ var require_sans_serif2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js
 var require_script_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.scriptBold = void 0;
@@ -29089,9 +29089,9 @@ var require_script_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js
 var require_script_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.scriptBold = void 0;
@@ -29102,9 +29102,9 @@ var require_script_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/script.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/script.js
 var require_script = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/script.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/script.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.script = void 0;
@@ -29112,9 +29112,9 @@ var require_script = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/script.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script.js
 var require_script2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/script.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.script = void 0;
@@ -29125,9 +29125,9 @@ var require_script2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js
 var require_smallop = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.smallop = void 0;
@@ -29186,9 +29186,9 @@ var require_smallop = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js
 var require_smallop2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.smallop = void 0;
@@ -29250,9 +29250,9 @@ var require_smallop2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js
 var require_tex_calligraphic_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphicBold = void 0;
@@ -29289,9 +29289,9 @@ var require_tex_calligraphic_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js
 var require_tex_calligraphic_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphicBold = void 0;
@@ -29330,9 +29330,9 @@ var require_tex_calligraphic_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js
 var require_tex_calligraphic = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphic = void 0;
@@ -29367,9 +29367,9 @@ var require_tex_calligraphic = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js
 var require_tex_calligraphic2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphic = void 0;
@@ -29406,9 +29406,9 @@ var require_tex_calligraphic2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js
 var require_tex_mathit = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texMathit = void 0;
@@ -29469,9 +29469,9 @@ var require_tex_mathit = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js
 var require_tex_mathit2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texMathit = void 0;
@@ -29534,9 +29534,9 @@ var require_tex_mathit2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js
 var require_tex_oldstyle_bold = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyleBold = void 0;
@@ -29581,9 +29581,9 @@ var require_tex_oldstyle_bold = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js
 var require_tex_oldstyle_bold2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyleBold = void 0;
@@ -29630,9 +29630,9 @@ var require_tex_oldstyle_bold2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js
 var require_tex_oldstyle = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyle = void 0;
@@ -29677,9 +29677,9 @@ var require_tex_oldstyle = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js
 var require_tex_oldstyle2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyle = void 0;
@@ -29726,9 +29726,9 @@ var require_tex_oldstyle2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js
 var require_tex_size3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize3 = void 0;
@@ -29761,9 +29761,9 @@ var require_tex_size3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js
 var require_tex_size32 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize3 = void 0;
@@ -29798,9 +29798,9 @@ var require_tex_size32 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js
 var require_tex_size4 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize4 = void 0;
@@ -29862,9 +29862,9 @@ var require_tex_size4 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js
 var require_tex_size42 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize4 = void 0;
@@ -29929,9 +29929,9 @@ var require_tex_size42 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js
 var require_tex_variant = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texVariant = void 0;
@@ -29978,9 +29978,9 @@ var require_tex_variant = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js
 var require_tex_variant2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texVariant = void 0;
@@ -30029,9 +30029,9 @@ var require_tex_variant2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js
+// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js
 var require_delimiters = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.delimiters = exports2.VSIZES = exports2.HDW3 = exports2.HDW2 = exports2.HDW1 = void 0;
@@ -30203,9 +30203,9 @@ var require_delimiters = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex.js
+// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex.js
 var require_tex3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/fonts/tex.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30350,9 +30350,9 @@ var require_tex3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/FontCache.js
+// ../../../node_modules/mathjax-full/js/output/svg/FontCache.js
 var require_FontCache = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg/FontCache.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg/FontCache.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FontCache = void 0;
@@ -30365,21 +30365,21 @@ var require_FontCache = __commonJS({
         this.jax = jax;
       }
       FontCache2.prototype.cachePath = function(variant, C2, path6) {
-        var id = "MJX-" + this.localID + (this.jax.font.getVariant(variant).cacheID || "") + "-" + C2;
-        if (!this.cache.has(id)) {
-          this.cache.set(id, path6);
-          this.jax.adaptor.append(this.defs, this.jax.svg("path", { id, d: path6 }));
+        var id2 = "MJX-" + this.localID + (this.jax.font.getVariant(variant).cacheID || "") + "-" + C2;
+        if (!this.cache.has(id2)) {
+          this.cache.set(id2, path6);
+          this.jax.adaptor.append(this.defs, this.jax.svg("path", { id: id2, d: path6 }));
         }
-        return id;
+        return id2;
       };
       FontCache2.prototype.clearLocalID = function() {
         this.localID = "";
       };
-      FontCache2.prototype.useLocalID = function(id) {
-        if (id === void 0) {
-          id = null;
+      FontCache2.prototype.useLocalID = function(id2) {
+        if (id2 === void 0) {
+          id2 = null;
         }
-        this.localID = (id == null ? ++this.nextID : id) + (id === "" ? "" : "-");
+        this.localID = (id2 == null ? ++this.nextID : id2) + (id2 === "" ? "" : "-");
       };
       FontCache2.prototype.clearCache = function() {
         this.cache = /* @__PURE__ */ new Map();
@@ -30394,9 +30394,9 @@ var require_FontCache = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg.js
+// ../../../node_modules/mathjax-full/js/output/svg.js
 var require_svg = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/output/svg.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/output/svg.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30599,17 +30599,17 @@ var require_svg = __commonJS({
         }
         return this.html(kind, properties, children, exports2.SVGNS);
       };
-      SVG3.prototype.unknownText = function(text4, variant) {
+      SVG3.prototype.unknownText = function(text5, variant) {
         var metrics2 = this.math.metrics;
         var scale = this.font.params.x_height / metrics2.ex * metrics2.em * 1e3;
         var svg = this.svg("text", {
           "data-variant": variant,
           transform: "scale(1,-1)",
           "font-size": this.fixed(scale, 1) + "px"
-        }, [this.text(text4)]);
+        }, [this.text(text5)]);
         var adaptor2 = this.adaptor;
         if (variant !== "-explicitFont") {
-          var c = (0, string_js_1.unicodeChars)(text4);
+          var c = (0, string_js_1.unicodeChars)(text5);
           if (c.length !== 1 || c[0] < 119808 || c[0] > 120831) {
             var _a4 = __read(this.font.getCssFont(variant), 3), family = _a4[0], italic = _a4[1], bold = _a4[2];
             adaptor2.setAttribute(svg, "font-family", family);
@@ -30623,10 +30623,10 @@ var require_svg = __commonJS({
         }
         return svg;
       };
-      SVG3.prototype.measureTextNode = function(text4) {
+      SVG3.prototype.measureTextNode = function(text5) {
         var adaptor2 = this.adaptor;
-        text4 = adaptor2.clone(text4);
-        adaptor2.removeAttribute(text4, "transform");
+        text5 = adaptor2.clone(text5);
+        adaptor2.removeAttribute(text5, "transform");
         var ex = this.fixed(this.font.params.x_height * 1e3, 1);
         var svg = this.svg("svg", {
           position: "absolute",
@@ -30634,9 +30634,9 @@ var require_svg = __commonJS({
           width: "1ex",
           height: "1ex",
           viewBox: [0, 0, ex, ex].join(" ")
-        }, [text4]);
+        }, [text5]);
         adaptor2.append(adaptor2.body(adaptor2.document), svg);
-        var w = adaptor2.nodeSize(text4, 1e3, true)[0];
+        var w = adaptor2.nodeSize(text5, 1e3, true)[0];
         adaptor2.remove(svg);
         return { w, h: 0.75, d: 0.2 };
       };
@@ -30664,9 +30664,9 @@ var require_svg = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/DOMAdaptor.js
+// ../../../node_modules/mathjax-full/js/core/DOMAdaptor.js
 var require_DOMAdaptor = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/DOMAdaptor.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/DOMAdaptor.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -30785,9 +30785,9 @@ var require_DOMAdaptor = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/NodeMixin.js
+// ../../../node_modules/mathjax-full/js/adaptors/NodeMixin.js
 var require_NodeMixin = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/NodeMixin.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/NodeMixin.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30860,9 +30860,9 @@ var require_NodeMixin = __commonJS({
           if (!options.badSizes) {
             return _super.prototype.nodeSize.call(this, node2, em, local);
           }
-          var text4 = this.textContent(node2);
-          var non = Array.from(text4.replace(NodeAdaptor.cjkPattern, "")).length;
-          var CJK = Array.from(text4).length - non;
+          var text5 = this.textContent(node2);
+          var non = Array.from(text5.replace(NodeAdaptor.cjkPattern, "")).length;
+          var CJK = Array.from(text5).length - non;
           return [
             CJK * this.options.cjkCharWidth + non * this.options.unknownCharWidth,
             this.options.unknownCharHeight
@@ -30903,9 +30903,9 @@ var require_NodeMixin = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Element.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/Element.js
 var require_Element = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Element.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/Element.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -30991,9 +30991,9 @@ var require_Element = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Document.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/Document.js
 var require_Document = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Document.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/Document.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LiteDocument = void 0;
@@ -31019,9 +31019,9 @@ var require_Document = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Text.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/Text.js
 var require_Text = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Text.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/Text.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -31045,11 +31045,11 @@ var require_Text = __commonJS({
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LiteComment = exports2.LiteText = void 0;
     var LiteText = (function() {
-      function LiteText2(text4) {
-        if (text4 === void 0) {
-          text4 = "";
+      function LiteText2(text5) {
+        if (text5 === void 0) {
+          text5 = "";
         }
-        this.value = text4;
+        this.value = text5;
       }
       Object.defineProperty(LiteText2.prototype, "kind", {
         get: function() {
@@ -31079,9 +31079,9 @@ var require_Text = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/List.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/List.js
 var require_List = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/List.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/List.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -31133,9 +31133,9 @@ var require_List = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Parser.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/Parser.js
 var require_Parser = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Parser.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/Parser.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -31215,7 +31215,7 @@ var require_Parser = __commonJS({
     var LiteParser = (function() {
       function LiteParser2() {
       }
-      LiteParser2.prototype.parseFromString = function(text4, _format, adaptor2) {
+      LiteParser2.prototype.parseFromString = function(text5, _format, adaptor2) {
         if (_format === void 0) {
           _format = "text/html";
         }
@@ -31224,7 +31224,7 @@ var require_Parser = __commonJS({
         }
         var root = adaptor2.createDocument();
         var node2 = adaptor2.body(root);
-        var parts = text4.replace(/<\?.*?\?>/g, "").split(PATTERNS.tag);
+        var parts = text5.replace(/<\?.*?\?>/g, "").split(PATTERNS.tag);
         while (parts.length) {
           var text_1 = parts.shift();
           var tag = parts.shift();
@@ -31244,9 +31244,9 @@ var require_Parser = __commonJS({
         this.checkDocument(adaptor2, root);
         return root;
       };
-      LiteParser2.prototype.addText = function(adaptor2, node2, text4) {
-        text4 = Entities.translate(text4);
-        return adaptor2.append(node2, adaptor2.text(text4));
+      LiteParser2.prototype.addText = function(adaptor2, node2, text5) {
+        text5 = Entities.translate(text5);
+        return adaptor2.append(node2, adaptor2.text(text5));
       };
       LiteParser2.prototype.addComment = function(adaptor2, node2, comment) {
         return adaptor2.append(node2, new Text_js_1.LiteComment(comment));
@@ -31417,14 +31417,14 @@ var require_Parser = __commonJS({
           return kind === "#text" ? _this.protectHTML(adaptor2.value(x)) : kind === "#comment" ? x.value : _this.serialize(adaptor2, x, xml2);
         }).join("");
       };
-      LiteParser2.prototype.protectAttribute = function(text4) {
-        if (typeof text4 !== "string") {
-          text4 = String(text4);
+      LiteParser2.prototype.protectAttribute = function(text5) {
+        if (typeof text5 !== "string") {
+          text5 = String(text5);
         }
-        return text4.replace(/"/g, "&quot;");
+        return text5.replace(/"/g, "&quot;");
       };
-      LiteParser2.prototype.protectHTML = function(text4) {
-        return text4.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      LiteParser2.prototype.protectHTML = function(text5) {
+        return text5.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
       };
       LiteParser2.SELF_CLOSING = {
         area: true,
@@ -31475,9 +31475,9 @@ var require_Parser = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Window.js
+// ../../../node_modules/mathjax-full/js/adaptors/lite/Window.js
 var require_Window = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/lite/Window.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/lite/Window.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LiteWindow = void 0;
@@ -31501,9 +31501,9 @@ var require_Window = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/liteAdaptor.js
+// ../../../node_modules/mathjax-full/js/adaptors/liteAdaptor.js
 var require_liteAdaptor = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/adaptors/liteAdaptor.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/adaptors/liteAdaptor.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -31590,8 +31590,8 @@ var require_liteAdaptor = __commonJS({
         _this.window = new Window_js_1.LiteWindow();
         return _this;
       }
-      LiteBase2.prototype.parse = function(text4, format) {
-        return this.parser.parseFromString(text4, format, this);
+      LiteBase2.prototype.parse = function(text5, format) {
+        return this.parser.parseFromString(text5, format, this);
       };
       LiteBase2.prototype.create = function(kind, _ns) {
         if (_ns === void 0) {
@@ -31599,11 +31599,11 @@ var require_liteAdaptor = __commonJS({
         }
         return new Element_js_1.LiteElement(kind);
       };
-      LiteBase2.prototype.text = function(text4) {
-        return new Text_js_1.LiteText(text4);
+      LiteBase2.prototype.text = function(text5) {
+        return new Text_js_1.LiteText(text5);
       };
-      LiteBase2.prototype.comment = function(text4) {
-        return new Text_js_1.LiteComment(text4);
+      LiteBase2.prototype.comment = function(text5) {
+        return new Text_js_1.LiteComment(text5);
       };
       LiteBase2.prototype.createDocument = function() {
         return new Document_js_1.LiteDocument();
@@ -31645,13 +31645,13 @@ var require_liteAdaptor = __commonJS({
         }
         return tags;
       };
-      LiteBase2.prototype.elementById = function(node2, id) {
+      LiteBase2.prototype.elementById = function(node2, id2) {
         var stack = [];
         var n = node2;
         while (n) {
           if (n.kind !== "#text" && n.kind !== "#comment") {
             n = n;
-            if (n.attributes["id"] === id) {
+            if (n.attributes["id"] === id2) {
               return n;
             }
             if (n.children.length) {
@@ -31785,11 +31785,11 @@ var require_liteAdaptor = __commonJS({
         return nnode;
       };
       LiteBase2.prototype.split = function(node2, n) {
-        var text4 = new Text_js_1.LiteText(node2.value.slice(n));
+        var text5 = new Text_js_1.LiteText(node2.value.slice(n));
         node2.value = node2.value.slice(0, n);
-        node2.parent.children.splice(this.childIndex(node2) + 1, 0, text4);
-        text4.parent = node2.parent;
-        return text4;
+        node2.parent.children.splice(this.childIndex(node2) + 1, 0, text5);
+        text5.parent = node2.parent;
+        return text5;
       };
       LiteBase2.prototype.next = function(node2) {
         var parent = node2.parent;
@@ -31969,9 +31969,9 @@ var require_liteAdaptor = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/LinkedList.js
+// ../../../node_modules/mathjax-full/js/util/LinkedList.js
 var require_LinkedList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/LinkedList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/LinkedList.js"(exports2) {
     "use strict";
     var __generator = exports2 && exports2.__generator || function(thisArg, body) {
       var _ = { label: 0, sent: function() {
@@ -32342,9 +32342,9 @@ var require_LinkedList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathList.js
+// ../../../node_modules/mathjax-full/js/core/MathList.js
 var require_MathList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MathList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32382,9 +32382,9 @@ var require_MathList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/NodeFactory.js
+// ../../../node_modules/mathjax-full/js/core/Tree/NodeFactory.js
 var require_NodeFactory2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Tree/NodeFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Tree/NodeFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32428,9 +32428,9 @@ var require_NodeFactory2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js
 var require_mstyle = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32515,9 +32515,9 @@ var require_mstyle = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js
 var require_maligngroup = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32583,9 +32583,9 @@ var require_maligngroup = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js
 var require_malignmark = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32653,9 +32653,9 @@ var require_malignmark = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js
 var require_mathchoice = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32729,9 +32729,9 @@ var require_mathchoice = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MML.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MML.js
 var require_MML = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MML.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MML.js"(exports2) {
     "use strict";
     var _a4;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -32771,9 +32771,9 @@ var require_MML = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js
+// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js
 var require_MmlFactory = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32817,9 +32817,9 @@ var require_MmlFactory = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/BitField.js
+// ../../../node_modules/mathjax-full/js/util/BitField.js
 var require_BitField = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/util/BitField.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/util/BitField.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32958,9 +32958,9 @@ var require_BitField = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathDocument.js
+// ../../../node_modules/mathjax-full/js/core/MathDocument.js
 var require_MathDocument = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/MathDocument.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/MathDocument.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33038,8 +33038,8 @@ var require_MathDocument = __commonJS({
         var list = new this();
         try {
           for (var _b2 = __values(Object.keys(actions)), _c = _b2.next(); !_c.done; _c = _b2.next()) {
-            var id = _c.value;
-            var _d = __read(this.action(id, actions[id]), 2), action = _d[0], priority = _d[1];
+            var id2 = _c.value;
+            var _d = __read(this.action(id2, actions[id2]), 2), action = _d[0], priority = _d[1];
             if (priority) {
               list.add(action, priority);
             }
@@ -33055,14 +33055,14 @@ var require_MathDocument = __commonJS({
         }
         return list;
       };
-      RenderList2.action = function(id, action) {
+      RenderList2.action = function(id2, action) {
         var _a4, _b2, _c, _d;
         var renderDoc, renderMath;
         var convert = true;
         var priority = action[0];
         if (action.length === 1 || typeof action[1] === "boolean") {
           action.length === 2 && (convert = action[1]);
-          _a4 = __read(this.methodActions(id), 2), renderDoc = _a4[0], renderMath = _a4[1];
+          _a4 = __read(this.methodActions(id2), 2), renderDoc = _a4[0], renderMath = _a4[1];
         } else if (typeof action[1] === "string") {
           if (typeof action[2] === "string") {
             action.length === 4 && (convert = action[3]);
@@ -33076,7 +33076,7 @@ var require_MathDocument = __commonJS({
           action.length === 4 && (convert = action[3]);
           _d = __read(action.slice(1), 2), renderDoc = _d[0], renderMath = _d[1];
         }
-        return [{ id, renderDoc, renderMath, convert }, priority];
+        return [{ id: id2, renderDoc, renderMath, convert }, priority];
       };
       RenderList2.methodActions = function(method1, method2) {
         if (method2 === void 0) {
@@ -33164,12 +33164,12 @@ var require_MathDocument = __commonJS({
           }
         }
       };
-      RenderList2.prototype.findID = function(id) {
+      RenderList2.prototype.findID = function(id2) {
         var e_5, _a4;
         try {
           for (var _b2 = __values(this.items), _c = _b2.next(); !_c.done; _c = _b2.next()) {
             var item = _c.value;
-            if (item.item.id === id) {
+            if (item.item.id === id2) {
               return item.item;
             }
           }
@@ -33275,16 +33275,16 @@ var require_MathDocument = __commonJS({
         enumerable: false,
         configurable: true
       });
-      AbstractMathDocument2.prototype.addRenderAction = function(id) {
+      AbstractMathDocument2.prototype.addRenderAction = function(id2) {
         var action = [];
         for (var _i = 1; _i < arguments.length; _i++) {
           action[_i - 1] = arguments[_i];
         }
-        var _a4 = __read(RenderList.action(id, action), 2), fn = _a4[0], p = _a4[1];
+        var _a4 = __read(RenderList.action(id2, action), 2), fn = _a4[0], p = _a4[1];
         this.renderActions.add(fn, p);
       };
-      AbstractMathDocument2.prototype.removeRenderAction = function(id) {
-        var action = this.renderActions.findID(id);
+      AbstractMathDocument2.prototype.removeRenderAction = function(id2) {
+        var action = this.renderActions.findID(id2);
         if (action) {
           this.renderActions.remove(action);
         }
@@ -33626,9 +33626,9 @@ var require_MathDocument = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Handler.js
+// ../../../node_modules/mathjax-full/js/core/Handler.js
 var require_Handler = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/core/Handler.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/core/Handler.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33688,9 +33688,9 @@ var require_Handler = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js
+// ../../../node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js
 var require_HTMLMathItem = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33782,11 +33782,11 @@ var require_HTMLMathItem = __commonJS({
           var node2 = this.start.node;
           var math = adaptor2.text("");
           if (restore) {
-            var text4 = this.start.delim + this.math + this.end.delim;
+            var text5 = this.start.delim + this.math + this.end.delim;
             if (this.inputJax.processStrings) {
-              math = adaptor2.text(text4);
+              math = adaptor2.text(text5);
             } else {
-              var doc = adaptor2.parse(text4, "text/html");
+              var doc = adaptor2.parse(text5, "text/html");
               math = adaptor2.firstChild(adaptor2.body(doc));
             }
           }
@@ -33803,9 +33803,9 @@ var require_HTMLMathItem = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLMathList.js
+// ../../../node_modules/mathjax-full/js/handlers/html/HTMLMathList.js
 var require_HTMLMathList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLMathList.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html/HTMLMathList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33840,9 +33840,9 @@ var require_HTMLMathList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js
+// ../../../node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js
 var require_HTMLDomStrings = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -33897,9 +33897,9 @@ var require_HTMLDomStrings = __commonJS({
         this.string = "";
         this.snodes = [];
       };
-      HTMLDomStrings2.prototype.extendString = function(node2, text4) {
-        this.snodes.push([node2, text4.length]);
-        this.string += text4;
+      HTMLDomStrings2.prototype.extendString = function(node2, text5) {
+        this.snodes.push([node2, text5.length]);
+        this.string += text5;
       };
       HTMLDomStrings2.prototype.handleText = function(node2, ignore) {
         if (!ignore) {
@@ -33909,8 +33909,8 @@ var require_HTMLDomStrings = __commonJS({
       };
       HTMLDomStrings2.prototype.handleTag = function(node2, ignore) {
         if (!ignore) {
-          var text4 = this.options["includeHtmlTags"][this.adaptor.kind(node2)];
-          this.extendString(node2, text4);
+          var text5 = this.options["includeHtmlTags"][this.adaptor.kind(node2)];
+          this.extendString(node2, text5);
         }
         return this.adaptor.next(node2);
       };
@@ -33974,9 +33974,9 @@ var require_HTMLDomStrings = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLDocument.js
+// ../../../node_modules/mathjax-full/js/handlers/html/HTMLDocument.js
 var require_HTMLDocument = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLDocument.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html/HTMLDocument.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34186,13 +34186,13 @@ var require_HTMLDocument = __commonJS({
           }
         }
       };
-      HTMLDocument2.prototype.findSheet = function(head, id) {
+      HTMLDocument2.prototype.findSheet = function(head, id2) {
         var e_6, _a4;
-        if (id) {
+        if (id2) {
           try {
             for (var _b2 = __values(this.adaptor.tags(head, "style")), _c = _b2.next(); !_c.done; _c = _b2.next()) {
               var sheet = _c.value;
-              if (this.adaptor.getAttribute(sheet, "id") === id) {
+              if (this.adaptor.getAttribute(sheet, "id") === id2) {
                 return sheet;
               }
             }
@@ -34254,9 +34254,9 @@ var require_HTMLDocument = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLHandler.js
+// ../../../node_modules/mathjax-full/js/handlers/html/HTMLHandler.js
 var require_HTMLHandler = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html/HTMLHandler.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html/HTMLHandler.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34318,9 +34318,9 @@ var require_HTMLHandler = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html.js
+// ../../../node_modules/mathjax-full/js/handlers/html.js
 var require_html = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/handlers/html.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/handlers/html.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RegisterHTMLHandler = void 0;
@@ -34335,9 +34335,9 @@ var require_html = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsItems.js
+// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsItems.js
 var require_AmsItems = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsItems.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34515,9 +34515,9 @@ var require_AmsItems = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js
+// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js
 var require_AmsMethods = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -34859,9 +34859,9 @@ var require_AmsMethods = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js
+// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js
 var require_AmsMappings = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35253,9 +35253,9 @@ var require_AmsMappings = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js
+// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js
 var require_AmsConfiguration = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -35335,9 +35335,9 @@ var require_AmsConfiguration = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js
+// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js
 var require_NewcommandItems = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -35402,9 +35402,9 @@ var require_NewcommandItems = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js
+// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js
 var require_NewcommandUtil = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -35580,9 +35580,9 @@ var require_NewcommandUtil = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js
+// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js
 var require_NewcommandMethods = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35687,7 +35687,7 @@ var require_NewcommandMethods = __commonJS({
       }
       NewcommandUtil_js_1.default.addMacro(parser, cs, NewcommandMethods.Macro, [c]);
     };
-    NewcommandMethods.MacroWithTemplate = function(parser, name, text4, n) {
+    NewcommandMethods.MacroWithTemplate = function(parser, name, text5, n) {
       var params = [];
       for (var _i = 4; _i < arguments.length; _i++) {
         params[_i - 4] = arguments[_i];
@@ -35702,9 +35702,9 @@ var require_NewcommandMethods = __commonJS({
         for (var i = 0; i < argCount; i++) {
           args.push(NewcommandUtil_js_1.default.GetParameter(parser, name, params[i + 1]));
         }
-        text4 = ParseUtil_js_1.default.substituteArgs(parser, args, text4);
+        text5 = ParseUtil_js_1.default.substituteArgs(parser, args, text5);
       }
-      parser.string = ParseUtil_js_1.default.addArgs(parser, text4, parser.string.slice(parser.i));
+      parser.string = ParseUtil_js_1.default.addArgs(parser, text5, parser.string.slice(parser.i));
       parser.i = 0;
       ParseUtil_js_1.default.checkMaxMacros(parser);
     };
@@ -35740,9 +35740,9 @@ var require_NewcommandMethods = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js
+// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js
 var require_NewcommandMappings = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -35761,9 +35761,9 @@ var require_NewcommandMappings = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js
+// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js
 var require_NewcommandConfiguration = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35832,9 +35832,9 @@ var require_NewcommandConfiguration = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mhchemparser/dist/mhchemParser.js
+// ../../../node_modules/mhchemparser/dist/mhchemParser.js
 var require_mhchemParser = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mhchemparser/dist/mhchemParser.js"(exports2) {
+  "../../../node_modules/mhchemparser/dist/mhchemParser.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.mhchemParser = void 0;
@@ -37715,9 +37715,9 @@ var require_mhchemParser = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js
+// ../../../node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js
 var require_MhchemConfiguration = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js"(exports2) {
+  "../../../node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -37776,9 +37776,9 @@ var require_MhchemConfiguration = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/process-nextick-args/index.js
+// ../../../node_modules/process-nextick-args/index.js
 var require_process_nextick_args = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/process-nextick-args/index.js"(exports2, module2) {
+  "../../../node_modules/process-nextick-args/index.js"(exports2, module2) {
     "use strict";
     if (typeof process === "undefined" || !process.version || process.version.indexOf("v0.") === 0 || process.version.indexOf("v1.") === 0 && process.version.indexOf("v1.8.") !== 0) {
       module2.exports = { nextTick };
@@ -37821,9 +37821,9 @@ var require_process_nextick_args = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/isarray/index.js
+// ../../../node_modules/isarray/index.js
 var require_isarray = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/isarray/index.js"(exports2, module2) {
+  "../../../node_modules/isarray/index.js"(exports2, module2) {
     var toString = {}.toString;
     module2.exports = Array.isArray || function(arr) {
       return toString.call(arr) == "[object Array]";
@@ -37831,16 +37831,16 @@ var require_isarray = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/stream.js
+// ../../../node_modules/readable-stream/lib/internal/streams/stream.js
 var require_stream = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/stream.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/internal/streams/stream.js"(exports2, module2) {
     module2.exports = require("stream");
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/safe-buffer/index.js
+// ../../../node_modules/safe-buffer/index.js
 var require_safe_buffer = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/safe-buffer/index.js"(exports2, module2) {
+  "../../../node_modules/safe-buffer/index.js"(exports2, module2) {
     var buffer = require("buffer");
     var Buffer2 = buffer.Buffer;
     function copyProps(src, dst) {
@@ -37895,9 +37895,9 @@ var require_safe_buffer = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/core-util-is/lib/util.js
+// ../../../node_modules/core-util-is/lib/util.js
 var require_util = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/core-util-is/lib/util.js"(exports2) {
+  "../../../node_modules/core-util-is/lib/util.js"(exports2) {
     function isArray(arg) {
       if (Array.isArray) {
         return Array.isArray(arg);
@@ -37965,9 +37965,9 @@ var require_util = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/inherits/inherits_browser.js
+// ../../../node_modules/inherits/inherits_browser.js
 var require_inherits_browser = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/inherits/inherits_browser.js"(exports2, module2) {
+  "../../../node_modules/inherits/inherits_browser.js"(exports2, module2) {
     if (typeof Object.create === "function") {
       module2.exports = function inherits(ctor, superCtor) {
         if (superCtor) {
@@ -37997,9 +37997,9 @@ var require_inherits_browser = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/inherits/inherits.js
+// ../../../node_modules/inherits/inherits.js
 var require_inherits = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/inherits/inherits.js"(exports2, module2) {
+  "../../../node_modules/inherits/inherits.js"(exports2, module2) {
     try {
       util = require("util");
       if (typeof util.inherits !== "function") throw "";
@@ -38011,9 +38011,9 @@ var require_inherits = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/BufferList.js
+// ../../../node_modules/readable-stream/lib/internal/streams/BufferList.js
 var require_BufferList = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/BufferList.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/internal/streams/BufferList.js"(exports2, module2) {
     "use strict";
     function _classCallCheck(instance, Constructor) {
       if (!(instance instanceof Constructor)) {
@@ -38089,9 +38089,9 @@ var require_BufferList = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/destroy.js
+// ../../../node_modules/readable-stream/lib/internal/streams/destroy.js
 var require_destroy = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/internal/streams/destroy.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/internal/streams/destroy.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     function destroy(err2, cb) {
@@ -38158,16 +38158,16 @@ var require_destroy = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/util-deprecate/node.js
+// ../../../node_modules/util-deprecate/node.js
 var require_node = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/util-deprecate/node.js"(exports2, module2) {
+  "../../../node_modules/util-deprecate/node.js"(exports2, module2) {
     module2.exports = require("util").deprecate;
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_writable.js
+// ../../../node_modules/readable-stream/lib/_stream_writable.js
 var require_stream_writable = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_writable.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/_stream_writable.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     module2.exports = Writable;
@@ -38605,9 +38605,9 @@ var require_stream_writable = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_duplex.js
+// ../../../node_modules/readable-stream/lib/_stream_duplex.js
 var require_stream_duplex = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_duplex.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/_stream_duplex.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     var objectKeys = Object.keys || function(obj) {
@@ -38682,9 +38682,9 @@ var require_stream_duplex = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/string_decoder/lib/string_decoder.js
+// ../../../node_modules/string_decoder/lib/string_decoder.js
 var require_string_decoder = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/string_decoder/lib/string_decoder.js"(exports2) {
+  "../../../node_modules/string_decoder/lib/string_decoder.js"(exports2) {
     "use strict";
     var Buffer2 = require_safe_buffer().Buffer;
     var isEncoding = Buffer2.isEncoding || function(encoding) {
@@ -38920,9 +38920,9 @@ var require_string_decoder = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_readable.js
+// ../../../node_modules/readable-stream/lib/_stream_readable.js
 var require_stream_readable = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_readable.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/_stream_readable.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     module2.exports = Readable;
@@ -39606,9 +39606,9 @@ var require_stream_readable = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_transform.js
+// ../../../node_modules/readable-stream/lib/_stream_transform.js
 var require_stream_transform = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_transform.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/_stream_transform.js"(exports2, module2) {
     "use strict";
     module2.exports = Transform;
     var Duplex = require_stream_duplex();
@@ -39706,9 +39706,9 @@ var require_stream_transform = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_passthrough.js
+// ../../../node_modules/readable-stream/lib/_stream_passthrough.js
 var require_stream_passthrough = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/lib/_stream_passthrough.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/lib/_stream_passthrough.js"(exports2, module2) {
     "use strict";
     module2.exports = PassThrough;
     var Transform = require_stream_transform();
@@ -39725,9 +39725,9 @@ var require_stream_passthrough = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/readable.js
+// ../../../node_modules/readable-stream/readable.js
 var require_readable = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/readable-stream/readable.js"(exports2, module2) {
+  "../../../node_modules/readable-stream/readable.js"(exports2, module2) {
     var Stream = require("stream");
     if (process.env.READABLE_STREAM === "disable" && Stream) {
       module2.exports = Stream;
@@ -39750,9 +39750,9 @@ var require_readable = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/support.js
+// ../../../node_modules/jszip/lib/support.js
 var require_support = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/support.js"(exports2) {
+  "../../../node_modules/jszip/lib/support.js"(exports2) {
     "use strict";
     exports2.base64 = true;
     exports2.array = true;
@@ -39790,9 +39790,9 @@ var require_support = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/base64.js
+// ../../../node_modules/jszip/lib/base64.js
 var require_base64 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/base64.js"(exports2) {
+  "../../../node_modules/jszip/lib/base64.js"(exports2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -39867,9 +39867,9 @@ var require_base64 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejsUtils.js
+// ../../../node_modules/jszip/lib/nodejsUtils.js
 var require_nodejsUtils = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejsUtils.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/nodejsUtils.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       /**
@@ -39923,9 +39923,9 @@ var require_nodejsUtils = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/immediate/lib/index.js
+// ../../../node_modules/immediate/lib/index.js
 var require_lib = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/immediate/lib/index.js"(exports2, module2) {
+  "../../../node_modules/immediate/lib/index.js"(exports2, module2) {
     "use strict";
     var Mutation = global.MutationObserver || global.WebKitMutationObserver;
     var scheduleDrain;
@@ -39997,9 +39997,9 @@ var require_lib = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/lie/lib/index.js
+// ../../../node_modules/lie/lib/index.js
 var require_lib2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/lie/lib/index.js"(exports2, module2) {
+  "../../../node_modules/lie/lib/index.js"(exports2, module2) {
     "use strict";
     var immediate = require_lib();
     function INTERNAL() {
@@ -40267,9 +40267,9 @@ var require_lib2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/external.js
+// ../../../node_modules/jszip/lib/external.js
 var require_external = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/external.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/external.js"(exports2, module2) {
     "use strict";
     var ES6Promise = null;
     if (typeof Promise !== "undefined") {
@@ -40283,9 +40283,9 @@ var require_external = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/setimmediate/setImmediate.js
+// ../../../node_modules/setimmediate/setImmediate.js
 var require_setImmediate = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/setimmediate/setImmediate.js"(exports2) {
+  "../../../node_modules/setimmediate/setImmediate.js"(exports2) {
     (function(global2, undefined2) {
       "use strict";
       if (global2.setImmediate) {
@@ -40431,9 +40431,9 @@ var require_setImmediate = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/utils.js
+// ../../../node_modules/jszip/lib/utils.js
 var require_utils = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/utils.js"(exports2) {
+  "../../../node_modules/jszip/lib/utils.js"(exports2) {
     "use strict";
     var support = require_support();
     var base643 = require_base64();
@@ -40764,9 +40764,9 @@ var require_utils = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/GenericWorker.js
+// ../../../node_modules/jszip/lib/stream/GenericWorker.js
 var require_GenericWorker = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/GenericWorker.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/GenericWorker.js"(exports2, module2) {
     "use strict";
     function GenericWorker(name) {
       this.name = name || "default";
@@ -40991,9 +40991,9 @@ var require_GenericWorker = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/utf8.js
+// ../../../node_modules/jszip/lib/utf8.js
 var require_utf8 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/utf8.js"(exports2) {
+  "../../../node_modules/jszip/lib/utf8.js"(exports2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -41181,9 +41181,9 @@ var require_utf8 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/ConvertWorker.js
+// ../../../node_modules/jszip/lib/stream/ConvertWorker.js
 var require_ConvertWorker = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/ConvertWorker.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/ConvertWorker.js"(exports2, module2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     var utils = require_utils();
@@ -41202,9 +41202,9 @@ var require_ConvertWorker = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js
+// ../../../node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js
 var require_NodejsStreamOutputAdapter = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js"(exports2, module2) {
     "use strict";
     var Readable = require_readable().Readable;
     var utils = require_utils();
@@ -41233,9 +41233,9 @@ var require_NodejsStreamOutputAdapter = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/StreamHelper.js
+// ../../../node_modules/jszip/lib/stream/StreamHelper.js
 var require_StreamHelper = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/StreamHelper.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/StreamHelper.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var ConvertWorker = require_ConvertWorker();
@@ -41393,9 +41393,9 @@ var require_StreamHelper = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/defaults.js
+// ../../../node_modules/jszip/lib/defaults.js
 var require_defaults = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/defaults.js"(exports2) {
+  "../../../node_modules/jszip/lib/defaults.js"(exports2) {
     "use strict";
     exports2.base64 = false;
     exports2.binary = false;
@@ -41410,9 +41410,9 @@ var require_defaults = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/DataWorker.js
+// ../../../node_modules/jszip/lib/stream/DataWorker.js
 var require_DataWorker = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/DataWorker.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/DataWorker.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -41498,9 +41498,9 @@ var require_DataWorker = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/crc32.js
+// ../../../node_modules/jszip/lib/crc32.js
 var require_crc32 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/crc32.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/crc32.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     function makeTable() {
@@ -41545,9 +41545,9 @@ var require_crc32 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/Crc32Probe.js
+// ../../../node_modules/jszip/lib/stream/Crc32Probe.js
 var require_Crc32Probe = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/Crc32Probe.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/Crc32Probe.js"(exports2, module2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     var crc32 = require_crc32();
@@ -41565,9 +41565,9 @@ var require_Crc32Probe = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/DataLengthProbe.js
+// ../../../node_modules/jszip/lib/stream/DataLengthProbe.js
 var require_DataLengthProbe = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/stream/DataLengthProbe.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/stream/DataLengthProbe.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -41588,9 +41588,9 @@ var require_DataLengthProbe = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/compressedObject.js
+// ../../../node_modules/jszip/lib/compressedObject.js
 var require_compressedObject = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/compressedObject.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/compressedObject.js"(exports2, module2) {
     "use strict";
     var external = require_external();
     var DataWorker = require_DataWorker();
@@ -41633,9 +41633,9 @@ var require_compressedObject = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipObject.js
+// ../../../node_modules/jszip/lib/zipObject.js
 var require_zipObject = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipObject.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/zipObject.js"(exports2, module2) {
     "use strict";
     var StreamHelper = require_StreamHelper();
     var DataWorker = require_DataWorker();
@@ -41750,9 +41750,9 @@ var require_zipObject = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/utils/common.js
+// ../../../node_modules/pako/lib/utils/common.js
 var require_common = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/utils/common.js"(exports2) {
+  "../../../node_modules/pako/lib/utils/common.js"(exports2) {
     "use strict";
     var TYPED_OK = typeof Uint8Array !== "undefined" && typeof Uint16Array !== "undefined" && typeof Int32Array !== "undefined";
     function _has(obj, key) {
@@ -41841,9 +41841,9 @@ var require_common = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/trees.js
+// ../../../node_modules/pako/lib/zlib/trees.js
 var require_trees = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/trees.js"(exports2) {
+  "../../../node_modules/pako/lib/zlib/trees.js"(exports2) {
     "use strict";
     var utils = require_common();
     var Z_FIXED = 4;
@@ -42483,9 +42483,9 @@ var require_trees = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/adler32.js
+// ../../../node_modules/pako/lib/zlib/adler32.js
 var require_adler32 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/adler32.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/adler32.js"(exports2, module2) {
     "use strict";
     function adler32(adler, buf, len, pos) {
       var s1 = adler & 65535 | 0, s2 = adler >>> 16 & 65535 | 0, n = 0;
@@ -42505,9 +42505,9 @@ var require_adler32 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/crc32.js
+// ../../../node_modules/pako/lib/zlib/crc32.js
 var require_crc322 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/crc32.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/crc32.js"(exports2, module2) {
     "use strict";
     function makeTable() {
       var c, table = [];
@@ -42533,9 +42533,9 @@ var require_crc322 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/messages.js
+// ../../../node_modules/pako/lib/zlib/messages.js
 var require_messages = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/messages.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/messages.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       2: "need dictionary",
@@ -42560,9 +42560,9 @@ var require_messages = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/deflate.js
+// ../../../node_modules/pako/lib/zlib/deflate.js
 var require_deflate = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/deflate.js"(exports2) {
+  "../../../node_modules/pako/lib/zlib/deflate.js"(exports2) {
     "use strict";
     var utils = require_common();
     var trees = require_trees();
@@ -43609,9 +43609,9 @@ var require_deflate = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/utils/strings.js
+// ../../../node_modules/pako/lib/utils/strings.js
 var require_strings = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/utils/strings.js"(exports2) {
+  "../../../node_modules/pako/lib/utils/strings.js"(exports2) {
     "use strict";
     var utils = require_common();
     var STR_APPLY_OK = true;
@@ -43751,9 +43751,9 @@ var require_strings = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/zstream.js
+// ../../../node_modules/pako/lib/zlib/zstream.js
 var require_zstream = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/zstream.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/zstream.js"(exports2, module2) {
     "use strict";
     function ZStream() {
       this.input = null;
@@ -43773,9 +43773,9 @@ var require_zstream = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/deflate.js
+// ../../../node_modules/pako/lib/deflate.js
 var require_deflate2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/deflate.js"(exports2) {
+  "../../../node_modules/pako/lib/deflate.js"(exports2) {
     "use strict";
     var zlib_deflate = require_deflate();
     var utils = require_common();
@@ -43934,9 +43934,9 @@ var require_deflate2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inffast.js
+// ../../../node_modules/pako/lib/zlib/inffast.js
 var require_inffast = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inffast.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/inffast.js"(exports2, module2) {
     "use strict";
     var BAD = 30;
     var TYPE = 12;
@@ -44163,9 +44163,9 @@ var require_inffast = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inftrees.js
+// ../../../node_modules/pako/lib/zlib/inftrees.js
 var require_inftrees = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inftrees.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/inftrees.js"(exports2, module2) {
     "use strict";
     var utils = require_common();
     var MAXBITS = 15;
@@ -44479,9 +44479,9 @@ var require_inftrees = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inflate.js
+// ../../../node_modules/pako/lib/zlib/inflate.js
 var require_inflate = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/inflate.js"(exports2) {
+  "../../../node_modules/pako/lib/zlib/inflate.js"(exports2) {
     "use strict";
     var utils = require_common();
     var adler32 = require_adler32();
@@ -45718,9 +45718,9 @@ var require_inflate = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/constants.js
+// ../../../node_modules/pako/lib/zlib/constants.js
 var require_constants = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/constants.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/constants.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       /* Allowed flush values; see deflate() and inflate() below for details */
@@ -45765,9 +45765,9 @@ var require_constants = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/gzheader.js
+// ../../../node_modules/pako/lib/zlib/gzheader.js
 var require_gzheader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/zlib/gzheader.js"(exports2, module2) {
+  "../../../node_modules/pako/lib/zlib/gzheader.js"(exports2, module2) {
     "use strict";
     function GZheader() {
       this.text = 0;
@@ -45785,9 +45785,9 @@ var require_gzheader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/inflate.js
+// ../../../node_modules/pako/lib/inflate.js
 var require_inflate2 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/lib/inflate.js"(exports2) {
+  "../../../node_modules/pako/lib/inflate.js"(exports2) {
     "use strict";
     var zlib_inflate = require_inflate();
     var utils = require_common();
@@ -45959,9 +45959,9 @@ var require_inflate2 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/index.js
+// ../../../node_modules/pako/index.js
 var require_pako = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pako/index.js"(exports2, module2) {
+  "../../../node_modules/pako/index.js"(exports2, module2) {
     "use strict";
     var assign = require_common().assign;
     var deflate = require_deflate2();
@@ -45973,9 +45973,9 @@ var require_pako = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/flate.js
+// ../../../node_modules/jszip/lib/flate.js
 var require_flate = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/flate.js"(exports2) {
+  "../../../node_modules/jszip/lib/flate.js"(exports2) {
     "use strict";
     var USE_TYPEDARRAY = typeof Uint8Array !== "undefined" && typeof Uint16Array !== "undefined" && typeof Uint32Array !== "undefined";
     var pako = require_pako();
@@ -46032,9 +46032,9 @@ var require_flate = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/compressions.js
+// ../../../node_modules/jszip/lib/compressions.js
 var require_compressions = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/compressions.js"(exports2) {
+  "../../../node_modules/jszip/lib/compressions.js"(exports2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     exports2.STORE = {
@@ -46050,9 +46050,9 @@ var require_compressions = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/signature.js
+// ../../../node_modules/jszip/lib/signature.js
 var require_signature = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/signature.js"(exports2) {
+  "../../../node_modules/jszip/lib/signature.js"(exports2) {
     "use strict";
     exports2.LOCAL_FILE_HEADER = "PK";
     exports2.CENTRAL_FILE_HEADER = "PK";
@@ -46063,9 +46063,9 @@ var require_signature = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/generate/ZipFileWorker.js
+// ../../../node_modules/jszip/lib/generate/ZipFileWorker.js
 var require_ZipFileWorker = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/generate/ZipFileWorker.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/generate/ZipFileWorker.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -46347,9 +46347,9 @@ var require_ZipFileWorker = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/generate/index.js
+// ../../../node_modules/jszip/lib/generate/index.js
 var require_generate = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/generate/index.js"(exports2) {
+  "../../../node_modules/jszip/lib/generate/index.js"(exports2) {
     "use strict";
     var compressions = require_compressions();
     var ZipFileWorker = require_ZipFileWorker();
@@ -46388,9 +46388,9 @@ var require_generate = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js
+// ../../../node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js
 var require_NodejsStreamInputAdapter = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -46447,9 +46447,9 @@ var require_NodejsStreamInputAdapter = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/object.js
+// ../../../node_modules/jszip/lib/object.js
 var require_object = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/object.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/object.js"(exports2, module2) {
     "use strict";
     var utf8 = require_utf8();
     var utils = require_utils();
@@ -46720,9 +46720,9 @@ var require_object = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/DataReader.js
+// ../../../node_modules/jszip/lib/reader/DataReader.js
 var require_DataReader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/DataReader.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/DataReader.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     function DataReader(data) {
@@ -46842,9 +46842,9 @@ var require_DataReader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/ArrayReader.js
+// ../../../node_modules/jszip/lib/reader/ArrayReader.js
 var require_ArrayReader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/ArrayReader.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/ArrayReader.js"(exports2, module2) {
     "use strict";
     var DataReader = require_DataReader();
     var utils = require_utils();
@@ -46884,9 +46884,9 @@ var require_ArrayReader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/StringReader.js
+// ../../../node_modules/jszip/lib/reader/StringReader.js
 var require_StringReader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/StringReader.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/StringReader.js"(exports2, module2) {
     "use strict";
     var DataReader = require_DataReader();
     var utils = require_utils();
@@ -46914,9 +46914,9 @@ var require_StringReader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/Uint8ArrayReader.js
+// ../../../node_modules/jszip/lib/reader/Uint8ArrayReader.js
 var require_Uint8ArrayReader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/Uint8ArrayReader.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/Uint8ArrayReader.js"(exports2, module2) {
     "use strict";
     var ArrayReader = require_ArrayReader();
     var utils = require_utils();
@@ -46937,9 +46937,9 @@ var require_Uint8ArrayReader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/NodeBufferReader.js
+// ../../../node_modules/jszip/lib/reader/NodeBufferReader.js
 var require_NodeBufferReader = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/NodeBufferReader.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/NodeBufferReader.js"(exports2, module2) {
     "use strict";
     var Uint8ArrayReader = require_Uint8ArrayReader();
     var utils = require_utils();
@@ -46957,9 +46957,9 @@ var require_NodeBufferReader = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/readerFor.js
+// ../../../node_modules/jszip/lib/reader/readerFor.js
 var require_readerFor = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/reader/readerFor.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/reader/readerFor.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -46984,9 +46984,9 @@ var require_readerFor = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipEntry.js
+// ../../../node_modules/jszip/lib/zipEntry.js
 var require_zipEntry = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipEntry.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/zipEntry.js"(exports2, module2) {
     "use strict";
     var readerFor = require_readerFor();
     var utils = require_utils();
@@ -47202,9 +47202,9 @@ var require_zipEntry = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipEntries.js
+// ../../../node_modules/jszip/lib/zipEntries.js
 var require_zipEntries = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/zipEntries.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/zipEntries.js"(exports2, module2) {
     "use strict";
     var readerFor = require_readerFor();
     var utils = require_utils();
@@ -47400,9 +47400,9 @@ var require_zipEntries = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/load.js
+// ../../../node_modules/jszip/lib/load.js
 var require_load = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/load.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/load.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var external = require_external();
@@ -47479,9 +47479,9 @@ var require_load = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/index.js
+// ../../../node_modules/jszip/lib/index.js
 var require_lib3 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/jszip/lib/index.js"(exports2, module2) {
+  "../../../node_modules/jszip/lib/index.js"(exports2, module2) {
     "use strict";
     function JSZip2() {
       if (!(this instanceof JSZip2)) {
@@ -47516,9 +47516,9 @@ var require_lib3 = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/conventions.js
+// ../../../node_modules/@xmldom/xmldom/lib/conventions.js
 var require_conventions = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/conventions.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/conventions.js"(exports2) {
     "use strict";
     function find(list, predicate, ac) {
       if (ac === void 0) {
@@ -47661,9 +47661,9 @@ var require_conventions = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/dom.js
+// ../../../node_modules/@xmldom/xmldom/lib/dom.js
 var require_dom = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/dom.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/dom.js"(exports2) {
     var conventions = require_conventions();
     var find = conventions.find;
     var NAMESPACE = conventions.NAMESPACE;
@@ -48532,11 +48532,11 @@ var require_dom = __commonJS({
         return importNode(this, importedNode, deep);
       },
       // Introduced in DOM Level 2:
-      getElementById: function(id) {
+      getElementById: function(id2) {
         var rtv = null;
         _visitNode(this.documentElement, function(node2) {
           if (node2.nodeType == ELEMENT_NODE) {
-            if (node2.getAttribute("id") == id) {
+            if (node2.getAttribute("id") == id2) {
               rtv = node2;
               return true;
             }
@@ -48833,13 +48833,13 @@ var require_dom = __commonJS({
       substringData: function(offset, count) {
         return this.data.substring(offset, offset + count);
       },
-      appendData: function(text4) {
-        text4 = this.data + text4;
-        this.nodeValue = this.data = text4;
-        this.length = text4.length;
+      appendData: function(text5) {
+        text5 = this.data + text5;
+        this.nodeValue = this.data = text5;
+        this.length = text5.length;
       },
-      insertData: function(offset, text4) {
-        this.replaceData(offset, 0, text4);
+      insertData: function(offset, text5) {
+        this.replaceData(offset, 0, text5);
       },
       appendChild: function(newChild) {
         throw new Error(ExceptionMessage[HIERARCHY_REQUEST_ERR]);
@@ -48847,12 +48847,12 @@ var require_dom = __commonJS({
       deleteData: function(offset, count) {
         this.replaceData(offset, count, "");
       },
-      replaceData: function(offset, count, text4) {
+      replaceData: function(offset, count, text5) {
         var start = this.data.substring(0, offset);
         var end = this.data.substring(offset + count);
-        text4 = start + text4 + end;
-        this.nodeValue = this.data = text4;
-        this.length = text4.length;
+        text5 = start + text5 + end;
+        this.nodeValue = this.data = text5;
+        this.length = text5.length;
       }
     };
     _extends(CharacterData, Node);
@@ -48862,11 +48862,11 @@ var require_dom = __commonJS({
       nodeName: "#text",
       nodeType: TEXT_NODE,
       splitText: function(offset) {
-        var text4 = this.data;
-        var newText = text4.substring(offset);
-        text4 = text4.substring(0, offset);
-        this.data = this.nodeValue = text4;
-        this.length = text4.length;
+        var text5 = this.data;
+        var newText = text5.substring(offset);
+        text5 = text5.substring(0, offset);
+        this.data = this.nodeValue = text5;
+        this.length = text5.length;
         var newNode = this.ownerDocument.createTextNode(newText);
         if (this.parentNode) {
           this.parentNode.insertBefore(newNode, this.nextSibling);
@@ -49291,9 +49291,9 @@ var require_dom = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/entities.js
+// ../../../node_modules/@xmldom/xmldom/lib/entities.js
 var require_entities = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/entities.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/entities.js"(exports2) {
     "use strict";
     var freeze = require_conventions().freeze;
     exports2.XML_ENTITIES = freeze({
@@ -51434,9 +51434,9 @@ var require_entities = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/sax.js
+// ../../../node_modules/@xmldom/xmldom/lib/sax.js
 var require_sax = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/sax.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/sax.js"(exports2) {
     var NAMESPACE = require_conventions().NAMESPACE;
     var tagNamePattern = require_conventions().tagNamePattern;
     var S_TAG = 0;
@@ -51521,9 +51521,9 @@ var require_sax = __commonJS({
           if (tagStart < 0) {
             if (!source2.substr(start).match(/^\s*$/)) {
               var doc = domBuilder.doc;
-              var text4 = doc.createTextNode(source2.substr(start));
-              doc.appendChild(text4);
-              domBuilder.currentElement = text4;
+              var text5 = doc.createTextNode(source2.substr(start));
+              doc.appendChild(text5);
+              domBuilder.currentElement = text5;
             }
             return;
           }
@@ -51875,14 +51875,14 @@ var require_sax = __commonJS({
     function parseHtmlSpecialContent(source2, elStartEnd, tagName, entityReplacer, domBuilder) {
       if (/^(?:script|textarea)$/i.test(tagName)) {
         var elEndStart = source2.indexOf("</" + tagName + ">", elStartEnd);
-        var text4 = source2.substring(elStartEnd + 1, elEndStart);
-        if (/[&<]/.test(text4)) {
+        var text5 = source2.substring(elStartEnd + 1, elEndStart);
+        if (/[&<]/.test(text5)) {
           if (/^script$/i.test(tagName)) {
-            domBuilder.characters(text4, 0, text4.length);
+            domBuilder.characters(text5, 0, text5.length);
             return elEndStart;
           }
-          text4 = text4.replace(/&#?\w+;/g, entityReplacer);
-          domBuilder.characters(text4, 0, text4.length);
+          text5 = text5.replace(/&#?\w+;/g, entityReplacer);
+          domBuilder.characters(text5, 0, text5.length);
           return elEndStart;
         }
       }
@@ -52026,9 +52026,9 @@ var require_sax = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/dom-parser.js
+// ../../../node_modules/@xmldom/xmldom/lib/dom-parser.js
 var require_dom_parser = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/dom-parser.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/dom-parser.js"(exports2) {
     var conventions = require_conventions();
     var dom = require_dom();
     var entities = require_entities();
@@ -52242,9 +52242,9 @@ var require_dom_parser = __commonJS({
   }
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/index.js
+// ../../../node_modules/@xmldom/xmldom/lib/index.js
 var require_lib4 = __commonJS({
-  "../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/@xmldom/xmldom/lib/index.js"(exports2) {
+  "../../../node_modules/@xmldom/xmldom/lib/index.js"(exports2) {
     var dom = require_dom();
     exports2.DOMImplementation = dom.DOMImplementation;
     exports2.XMLSerializer = dom.XMLSerializer;
@@ -52256,7 +52256,7 @@ var require_lib4 = __commonJS({
 var import_promises3 = require("node:fs/promises");
 var import_node_path5 = __toESM(require("node:path"));
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/external.js
+// ../../../node_modules/zod/v4/classic/external.js
 var external_exports = {};
 __export(external_exports, {
   $brand: () => $brand,
@@ -52519,7 +52519,7 @@ __export(external_exports, {
   xor: () => xor
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/index.js
+// ../../../node_modules/zod/v4/core/index.js
 var core_exports2 = {};
 __export(core_exports2, {
   $ZodAny: () => $ZodAny,
@@ -52836,7 +52836,7 @@ __export(core_exports2, {
   withParser: () => withParser
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/util.js
+// ../../../node_modules/zod/v4/core/util.js
 var util_exports = {};
 __export(util_exports, {
   BIGINT_FORMAT_RANGES: () => BIGINT_FORMAT_RANGES,
@@ -53692,7 +53692,7 @@ function constantCatch(value2) {
   return fn;
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/core.js
+// ../../../node_modules/zod/v4/core/core.js
 var _a;
 var NEVER = /* @__PURE__ */ Object.freeze({
   status: "aborted"
@@ -53814,7 +53814,7 @@ function config(newConfig) {
   return globalConfig;
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/errors.js
+// ../../../node_modules/zod/v4/core/errors.js
 function _getMessage() {
   const internals = this._zod;
   internals.message ?? (internals.message = JSON.stringify(internals.def, jsonStringifyReplacer, 2));
@@ -54006,7 +54006,7 @@ function prettifyError(error62) {
   return lines2.join("\n");
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/parse.js
+// ../../../node_modules/zod/v4/core/parse.js
 function finalizeParams(callee, params) {
   return { callee: params?.callee ?? callee, Err: params?.Err };
 }
@@ -54166,7 +54166,7 @@ var _safeDecodeAsync = (_Err) => async (schema, value2, _ctx) => {
 };
 var safeDecodeAsync = /* @__PURE__ */ _safeDecodeAsync($ZodRealError);
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/regexes.js
+// ../../../node_modules/zod/v4/core/regexes.js
 var regexes_exports = {};
 __export(regexes_exports, {
   anyString: () => anyString,
@@ -54338,7 +54338,7 @@ var sha512_hex = /^[0-9a-fA-F]{128}$/;
 var sha512_base64 = /* @__PURE__ */ fixedBase64(86, "==");
 var sha512_base64url = /* @__PURE__ */ fixedBase64url(86);
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/checks.js
+// ../../../node_modules/zod/v4/core/checks.js
 var $ZodCheck = /* @__PURE__ */ $constructor("$ZodCheck", (inst, def) => {
   var _a4;
   inst._zod ?? (inst._zod = {});
@@ -54814,7 +54814,7 @@ var $ZodCheckOverwrite = /* @__PURE__ */ $constructor("$ZodCheckOverwrite", (ins
   };
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/doc.js
+// ../../../node_modules/zod/v4/core/doc.js
 var Doc = class {
   constructor(args = [], closed = {}) {
     this.content = [];
@@ -54855,14 +54855,14 @@ ${content.join("\n")}
   }
 };
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/versions.js
+// ../../../node_modules/zod/v4/core/versions.js
 var version = {
   major: 4,
   minor: 6,
   patch: 7
 };
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/schemas.js
+// ../../../node_modules/zod/v4/core/schemas.js
 var $ZodType = /* @__PURE__ */ $constructor("$ZodType", (inst, def) => {
   var _a4;
   inst ?? (inst = {});
@@ -55874,15 +55874,15 @@ var $ZodObjectJIT = /* @__PURE__ */ $constructor("$ZodObjectJIT", (inst, def) =>
     const syms = normalized2.symbolKeys;
     const doc = new Doc(["payload", "ctx"], { shape, inst, memo: memo2, syms });
     const parseStr = (k) => `shape[${k}]._zod.run({ value: input[${k}], issues: [] }, ctx)`;
-    const prefixStr = (id, k) => `
-          let ${id}_ab = false;
-          for (let i = 0; i < ${id}.issues.length; i++) {
-            const iss = ${id}.issues[i];
+    const prefixStr = (id2, k) => `
+          let ${id2}_ab = false;
+          for (let i = 0; i < ${id2}.issues.length; i++) {
+            const iss = ${id2}.issues[i];
             iss.path = iss.path ? [${k}, ...iss.path] : [${k}];
             payload.issues.push(iss);
-            if (iss.continue !== true) ${id}_ab = true;
+            if (iss.continue !== true) ${id2}_ab = true;
           }
-          if (${id}_ab && ctx && ctx.abortEarly) {
+          if (${id2}_ab && ctx && ctx.abortEarly) {
             payload.value = newResult;
             return payload;
           }`;
@@ -55896,34 +55896,34 @@ var $ZodObjectJIT = /* @__PURE__ */ $constructor("$ZodObjectJIT", (inst, def) =>
     for (const key of normalized2.allKeys) {
       if (key === "__proto__")
         continue;
-      const id = ids[key];
+      const id2 = ids[key];
       const k = typeof key === "symbol" ? `syms[${syms.indexOf(key)}]` : esc(key);
       const isPresent = `${k} in input`;
       const schema = shape[key];
       const optin = schema?._zod?.optin;
       const isOptionalIn = optin !== void 0;
       const isOptionalOut = schema?._zod?.optout === "optional";
-      doc.write(`const ${id} = ${parseStr(k)};`);
+      doc.write(`const ${id2} = ${parseStr(k)};`);
       if (isOptionalIn && isOptionalOut) {
-        const assign = optin === "optional" ? `${id}_present` : `${id}.value !== undefined || ${id}_present`;
+        const assign = optin === "optional" ? `${id2}_present` : `${id2}.value !== undefined || ${id2}_present`;
         doc.write(`
-        const ${id}_present = ${isPresent};
-        if (!${id}.issues.length || ${id}_present) {
-          if (${id}.issues.length) {${prefixStr(id, k)}
+        const ${id2}_present = ${isPresent};
+        if (!${id2}.issues.length || ${id2}_present) {
+          if (${id2}.issues.length) {${prefixStr(id2, k)}
           }
 
           if (${assign}) {
-            newResult[${k}] = ${id}.value;
+            newResult[${k}] = ${id2}.value;
           }
         }
 
       `);
       } else if (!isOptionalIn) {
         doc.write(`
-        const ${id}_present = ${isPresent};
-        if (${id}.issues.length) {${prefixStr(id, k)}
+        const ${id2}_present = ${isPresent};
+        if (${id2}.issues.length) {${prefixStr(id2, k)}
         }
-        if (!${id}_present && !${id}.issues.length) {
+        if (!${id2}_present && !${id2}.issues.length) {
           payload.issues.push({
             code: "invalid_type",
             expected: "nonoptional",
@@ -55936,22 +55936,22 @@ var $ZodObjectJIT = /* @__PURE__ */ $constructor("$ZodObjectJIT", (inst, def) =>
           }
         }
 
-        if (${id}_present) {
-          newResult[${k}] = ${id}.value;
+        if (${id2}_present) {
+          newResult[${k}] = ${id2}.value;
         }
 
       `);
       } else {
         doc.write(`
-        if (${id}.issues.length) {${prefixStr(id, k)}
+        if (${id2}.issues.length) {${prefixStr(id2, k)}
         }
       `);
         if (optin === "defaulted") {
-          doc.write(`newResult[${k}] = ${id}.value;`);
+          doc.write(`newResult[${k}] = ${id2}.value;`);
         } else {
           doc.write(`
-        if (${id}.value !== undefined || ${isPresent}) {
-          newResult[${k}] = ${id}.value;
+        if (${id2}.value !== undefined || ${isPresent}) {
+          newResult[${k}] = ${id2}.value;
         }
       `);
         }
@@ -57304,7 +57304,7 @@ function handleRefineResult(result, payload, input2, inst) {
   }
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/memoizer.js
+// ../../../node_modules/zod/v4/core/memoizer.js
 var $ZodCyclicError = class extends Error {
   constructor() {
     super(`Cannot parse a reference cycle that closes through a transform`);
@@ -57581,7 +57581,7 @@ function isBackEdge(ctx, value2) {
   return backEdges !== void 0 && isRef(value2) && backEdges.has(value2);
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/index.js
+// ../../../node_modules/zod/v4/locales/index.js
 var locales_exports = {};
 __export(locales_exports, {
   ar: () => ar_default,
@@ -57649,7 +57649,7 @@ __export(locales_exports, {
   zhTW: () => zh_TW_default
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ar.js
+// ../../../node_modules/zod/v4/locales/ar.js
 var error = () => {
   const Sizable = {
     string: { unit: "\u062D\u0631\u0641", verb: "\u0623\u0646 \u064A\u062D\u0648\u064A" },
@@ -57761,7 +57761,7 @@ function ar_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/az.js
+// ../../../node_modules/zod/v4/locales/az.js
 var error2 = () => {
   const Sizable = {
     string: { unit: "simvol", verb: "olmal\u0131d\u0131r" },
@@ -57872,7 +57872,7 @@ function az_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/be.js
+// ../../../node_modules/zod/v4/locales/be.js
 function getBelarusianPlural(count, one, few, many) {
   const absCount = Math.abs(count);
   const lastDigit = absCount % 10;
@@ -58041,7 +58041,7 @@ function be_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/bg.js
+// ../../../node_modules/zod/v4/locales/bg.js
 var error4 = () => {
   const Sizable = {
     string: { unit: "\u0441\u0438\u043C\u0432\u043E\u043B\u0430", verb: "\u0434\u0430 \u0441\u044A\u0434\u044A\u0440\u0436\u0430" },
@@ -58167,7 +58167,7 @@ function bg_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/bn.js
+// ../../../node_modules/zod/v4/locales/bn.js
 var error5 = () => {
   const Sizable = {
     string: { unit: "\u0985\u0995\u09CD\u09B7\u09B0", verb: "\u09A5\u09BE\u0995\u09A4\u09C7 \u09B9\u09AC\u09C7" },
@@ -58281,7 +58281,7 @@ function bn_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ca.js
+// ../../../node_modules/zod/v4/locales/ca.js
 var error6 = () => {
   const Sizable = {
     string: { unit: "car\xE0cters", verb: "contenir" },
@@ -58395,7 +58395,7 @@ function ca_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ckb.js
+// ../../../node_modules/zod/v4/locales/ckb.js
 var error7 = () => {
   const Sizable = {
     string: { unit: "\u067E\u06CC\u062A", verb: "\u0628\u06CE\u062A" },
@@ -58528,7 +58528,7 @@ function ckb_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/cs.js
+// ../../../node_modules/zod/v4/locales/cs.js
 var error8 = () => {
   const Sizable = {
     string: { unit: "znak\u016F", verb: "m\xEDt" },
@@ -58645,7 +58645,7 @@ function cs_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/da.js
+// ../../../node_modules/zod/v4/locales/da.js
 var error9 = () => {
   const Sizable = {
     string: { unit: "tegn", verb: "havde" },
@@ -58766,7 +58766,7 @@ function da_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/de.js
+// ../../../node_modules/zod/v4/locales/de.js
 var error10 = () => {
   const Sizable = {
     string: { unit: "Zeichen", verb: "zu haben" },
@@ -58880,7 +58880,7 @@ function de_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/el.js
+// ../../../node_modules/zod/v4/locales/el.js
 var error11 = () => {
   const Sizable = {
     string: { unit: "\u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B5\u03C2", verb: "\u03BD\u03B1 \u03AD\u03C7\u03B5\u03B9" },
@@ -58993,7 +58993,7 @@ function el_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/en.js
+// ../../../node_modules/zod/v4/locales/en.js
 var error12 = () => {
   const Sizable = {
     string: { unit: "characters", verb: "to have" },
@@ -59118,7 +59118,7 @@ function en_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/eo.js
+// ../../../node_modules/zod/v4/locales/eo.js
 var error13 = () => {
   const Sizable = {
     string: { unit: "karaktrojn", verb: "havi" },
@@ -59233,7 +59233,7 @@ function eo_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/es.js
+// ../../../node_modules/zod/v4/locales/es.js
 var error14 = () => {
   const Sizable = {
     string: { unit: "caracteres", verb: "tener" },
@@ -59370,7 +59370,7 @@ function es_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/fa.js
+// ../../../node_modules/zod/v4/locales/fa.js
 var error15 = () => {
   const Sizable = {
     string: { unit: "\u06A9\u0627\u0631\u0627\u06A9\u062A\u0631", verb: "\u062F\u0627\u0634\u062A\u0647 \u0628\u0627\u0634\u062F" },
@@ -59490,7 +59490,7 @@ function fa_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/fi.js
+// ../../../node_modules/zod/v4/locales/fi.js
 var error16 = () => {
   const Sizable = {
     string: { unit: "merkki\xE4", subject: "merkkijonon" },
@@ -59608,7 +59608,7 @@ function fi_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/fr.js
+// ../../../node_modules/zod/v4/locales/fr.js
 var error17 = () => {
   const Sizable = {
     string: { unit: "caract\xE8res", verb: "avoir" },
@@ -59738,7 +59738,7 @@ function fr_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/fr-CA.js
+// ../../../node_modules/zod/v4/locales/fr-CA.js
 var error18 = () => {
   const Sizable = {
     string: { unit: "caract\xE8res", verb: "avoir" },
@@ -59851,7 +59851,7 @@ function fr_CA_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/gu.js
+// ../../../node_modules/zod/v4/locales/gu.js
 var error19 = () => {
   const Sizable = {
     string: { unit: "\u0A85\u0A95\u0ACD\u0AB7\u0AB0", verb: "\u0AB9\u0ACB\u0AB5\u0ABE \u0A9C\u0ACB\u0A88\u0A8F" },
@@ -59965,7 +59965,7 @@ function gu_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/he.js
+// ../../../node_modules/zod/v4/locales/he.js
 var error20 = () => {
   const TypeNames = {
     string: { label: "\u05DE\u05D7\u05E8\u05D5\u05D6\u05EA", gender: "f" },
@@ -60167,7 +60167,7 @@ function he_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/hi.js
+// ../../../node_modules/zod/v4/locales/hi.js
 var error21 = () => {
   const Sizable = {
     string: { unit: "\u0905\u0915\u094D\u0937\u0930", verb: "\u0930\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F" },
@@ -60279,7 +60279,7 @@ function hi_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/hr.js
+// ../../../node_modules/zod/v4/locales/hr.js
 var error22 = () => {
   const Sizable = {
     string: { unit: "znakova", verb: "imati" },
@@ -60406,7 +60406,7 @@ function hr_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/hu.js
+// ../../../node_modules/zod/v4/locales/hu.js
 var error23 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "legyen" },
@@ -60520,7 +60520,7 @@ function hu_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/hy.js
+// ../../../node_modules/zod/v4/locales/hy.js
 function getArmenianPlural(count, one, many) {
   return Math.abs(count) === 1 ? one : many;
 }
@@ -60679,7 +60679,7 @@ function hy_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/id.js
+// ../../../node_modules/zod/v4/locales/id.js
 var error25 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "memiliki" },
@@ -60791,7 +60791,7 @@ function id_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/is.js
+// ../../../node_modules/zod/v4/locales/is.js
 var error26 = () => {
   const Sizable = {
     string: { unit: "stafi", verb: "a\xF0 hafa" },
@@ -60906,7 +60906,7 @@ function is_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/it.js
+// ../../../node_modules/zod/v4/locales/it.js
 var error27 = () => {
   const Sizable = {
     string: { unit: "caratteri", verb: "avere" },
@@ -61020,7 +61020,7 @@ function it_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ja.js
+// ../../../node_modules/zod/v4/locales/ja.js
 var error28 = () => {
   const Sizable = {
     string: { unit: "\u6587\u5B57", verb: "\u3067\u3042\u308B" },
@@ -61133,7 +61133,7 @@ function ja_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ka.js
+// ../../../node_modules/zod/v4/locales/ka.js
 var error29 = () => {
   const Sizable = {
     string: { unit: "\u10E1\u10D8\u10DB\u10D1\u10DD\u10DA\u10DD", verb: "\u10E3\u10DC\u10D3\u10D0 \u10E8\u10D4\u10D8\u10EA\u10D0\u10D5\u10D3\u10D4\u10E1" },
@@ -61251,7 +61251,7 @@ function ka_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/km.js
+// ../../../node_modules/zod/v4/locales/km.js
 var error30 = () => {
   const Sizable = {
     string: { unit: "\u178F\u17BD\u17A2\u1780\u17D2\u179F\u179A", verb: "\u1782\u17BD\u179A\u1798\u17B6\u1793" },
@@ -61367,12 +61367,12 @@ function km_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/kh.js
+// ../../../node_modules/zod/v4/locales/kh.js
 function kh_default() {
   return km_default();
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/kn.js
+// ../../../node_modules/zod/v4/locales/kn.js
 var error31 = () => {
   const Sizable = {
     string: { unit: "\u0C85\u0C95\u0CCD\u0CB7\u0CB0\u0C97\u0CB3\u0CC1", verb: "\u0CB9\u0CCA\u0C82\u0CA6\u0CB2\u0CC1" },
@@ -61488,7 +61488,7 @@ function kn_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ko.js
+// ../../../node_modules/zod/v4/locales/ko.js
 var error32 = () => {
   const Sizable = {
     string: { unit: "\uBB38\uC790", verb: "to have" },
@@ -61605,9 +61605,9 @@ function ko_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/lt.js
-var capitalizeFirstCharacter = (text4) => {
-  return text4.charAt(0).toUpperCase() + text4.slice(1);
+// ../../../node_modules/zod/v4/locales/lt.js
+var capitalizeFirstCharacter = (text5) => {
+  return text5.charAt(0).toUpperCase() + text5.slice(1);
 };
 function getUnitTypeFromNumber(number4) {
   const abs = Math.abs(number4);
@@ -61813,7 +61813,7 @@ function lt_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/mk.js
+// ../../../node_modules/zod/v4/locales/mk.js
 var error34 = () => {
   const Sizable = {
     string: { unit: "\u0437\u043D\u0430\u0446\u0438", verb: "\u0434\u0430 \u0438\u043C\u0430\u0430\u0442" },
@@ -61928,7 +61928,7 @@ function mk_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ms.js
+// ../../../node_modules/zod/v4/locales/ms.js
 var error35 = () => {
   const Sizable = {
     string: { unit: "aksara", verb: "mempunyai" },
@@ -62041,7 +62041,7 @@ function ms_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ne.js
+// ../../../node_modules/zod/v4/locales/ne.js
 var error36 = () => {
   const Sizable = {
     string: { unit: "\u0905\u0915\u094D\u0937\u0930", verb: "\u0939\u0941\u0928\u0941\u092A\u0930\u094D\u091B" },
@@ -62153,7 +62153,7 @@ function ne_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/nl.js
+// ../../../node_modules/zod/v4/locales/nl.js
 var error37 = () => {
   const Sizable = {
     string: { unit: "tekens", verb: "heeft" },
@@ -62269,7 +62269,7 @@ function nl_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/nn.js
+// ../../../node_modules/zod/v4/locales/nn.js
 var error38 = () => {
   const Sizable = {
     string: { unit: "teikn", verb: "\xE5 ha" },
@@ -62383,7 +62383,7 @@ function nn_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/no.js
+// ../../../node_modules/zod/v4/locales/no.js
 var error39 = () => {
   const Sizable = {
     string: { unit: "tegn", verb: "\xE5 ha" },
@@ -62497,7 +62497,7 @@ function no_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ota.js
+// ../../../node_modules/zod/v4/locales/ota.js
 var error40 = () => {
   const Sizable = {
     string: { unit: "harf", verb: "olmal\u0131d\u0131r" },
@@ -62612,7 +62612,7 @@ function ota_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ps.js
+// ../../../node_modules/zod/v4/locales/ps.js
 var error41 = () => {
   const Sizable = {
     string: { unit: "\u062A\u0648\u06A9\u064A", verb: "\u0648\u0644\u0631\u064A" },
@@ -62732,7 +62732,7 @@ function ps_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/pl.js
+// ../../../node_modules/zod/v4/locales/pl.js
 var error42 = () => {
   const Sizable = {
     string: { unit: "znak\xF3w", verb: "mie\u0107" },
@@ -62847,7 +62847,7 @@ function pl_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/pt.js
+// ../../../node_modules/zod/v4/locales/pt.js
 var error43 = () => {
   const Sizable = {
     string: { unit: "caracteres" },
@@ -62991,7 +62991,7 @@ function pt_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/pt-BR.js
+// ../../../node_modules/zod/v4/locales/pt-BR.js
 var error44 = () => {
   const Sizable = {
     string: { unit: "caracteres" },
@@ -63136,7 +63136,7 @@ function pt_BR_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ro.js
+// ../../../node_modules/zod/v4/locales/ro.js
 var error45 = () => {
   const Sizable = {
     string: { unit: "caractere", verb: "s\u0103 aib\u0103" },
@@ -63259,7 +63259,7 @@ function ro_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ru.js
+// ../../../node_modules/zod/v4/locales/ru.js
 function getRussianPlural(count, one, few, many) {
   const absCount = Math.abs(count);
   const lastDigit = absCount % 10;
@@ -63428,7 +63428,7 @@ function ru_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/sk.js
+// ../../../node_modules/zod/v4/locales/sk.js
 var error47 = () => {
   const Sizable = {
     string: { unit: "znakov", verb: "ma\u0165" },
@@ -63545,7 +63545,7 @@ function sk_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/sl.js
+// ../../../node_modules/zod/v4/locales/sl.js
 var error48 = () => {
   const Sizable = {
     string: { unit: "znakov", verb: "imeti" },
@@ -63660,7 +63660,7 @@ function sl_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/sv.js
+// ../../../node_modules/zod/v4/locales/sv.js
 var error49 = () => {
   const Sizable = {
     string: { unit: "tecken", verb: "att ha" },
@@ -63776,7 +63776,7 @@ function sv_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ta.js
+// ../../../node_modules/zod/v4/locales/ta.js
 var error50 = () => {
   const Sizable = {
     string: { unit: "\u0B8E\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BB3\u0BCD", verb: "\u0B95\u0BCA\u0BA3\u0BCD\u0B9F\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95 \u0BB5\u0BC7\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD" },
@@ -63892,7 +63892,7 @@ function ta_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/tg.js
+// ../../../node_modules/zod/v4/locales/tg.js
 var error51 = () => {
   const Sizable = {
     string: { unit: "\u0430\u043B\u043E\u043C\u0430\u0442", verb: "\u0434\u043E\u0448\u0442\u0430 \u0431\u043E\u0448\u0430\u0434" },
@@ -64009,7 +64009,7 @@ function tg_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/th.js
+// ../../../node_modules/zod/v4/locales/th.js
 var error52 = () => {
   const Sizable = {
     string: { unit: "\u0E15\u0E31\u0E27\u0E2D\u0E31\u0E01\u0E29\u0E23", verb: "\u0E04\u0E27\u0E23\u0E21\u0E35" },
@@ -64125,7 +64125,7 @@ function th_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/tk.js
+// ../../../node_modules/zod/v4/locales/tk.js
 var error53 = () => {
   const Sizable = {
     string: { unit: "simwol", verb: "bolmaly" },
@@ -64233,7 +64233,7 @@ function tk_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/tr.js
+// ../../../node_modules/zod/v4/locales/tr.js
 var error54 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "olmal\u0131" },
@@ -64344,7 +64344,7 @@ function tr_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/uk.js
+// ../../../node_modules/zod/v4/locales/uk.js
 var error55 = () => {
   const Sizable = {
     string: { unit: "\u0441\u0438\u043C\u0432\u043E\u043B\u0456\u0432", verb: "\u043C\u0430\u0442\u0438\u043C\u0435" },
@@ -64458,12 +64458,12 @@ function uk_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ua.js
+// ../../../node_modules/zod/v4/locales/ua.js
 function ua_default() {
   return uk_default();
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/ur.js
+// ../../../node_modules/zod/v4/locales/ur.js
 var error56 = () => {
   const Sizable = {
     string: { unit: "\u062D\u0631\u0648\u0641", verb: "\u06C1\u0648\u0646\u0627" },
@@ -64579,7 +64579,7 @@ function ur_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/uz.js
+// ../../../node_modules/zod/v4/locales/uz.js
 var error57 = () => {
   const Sizable = {
     string: { unit: "belgi", verb: "bo\u2018lishi kerak" },
@@ -64693,7 +64693,7 @@ function uz_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/vi.js
+// ../../../node_modules/zod/v4/locales/vi.js
 var error58 = () => {
   const Sizable = {
     string: { unit: "k\xFD t\u1EF1", verb: "c\xF3" },
@@ -64807,7 +64807,7 @@ function vi_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/zh-CN.js
+// ../../../node_modules/zod/v4/locales/zh-CN.js
 var error59 = () => {
   const Sizable = {
     string: { unit: "\u5B57\u7B26", verb: "\u5305\u542B" },
@@ -64922,7 +64922,7 @@ function zh_CN_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/zh-TW.js
+// ../../../node_modules/zod/v4/locales/zh-TW.js
 var error60 = () => {
   const Sizable = {
     string: { unit: "\u5B57\u5143", verb: "\u64C1\u6709" },
@@ -65035,7 +65035,7 @@ function zh_TW_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/locales/yo.js
+// ../../../node_modules/zod/v4/locales/yo.js
 var error61 = () => {
   const Sizable = {
     string: { unit: "\xE0mi", verb: "n\xED" },
@@ -65148,7 +65148,7 @@ function yo_default() {
   };
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/registries.js
+// ../../../node_modules/zod/v4/core/registries.js
 var _a2;
 var $output = /* @__PURE__ */ Symbol("ZodOutput");
 var $input = /* @__PURE__ */ Symbol("ZodInput");
@@ -65198,7 +65198,7 @@ function registry() {
 (_a2 = globalThis).__zod_globalRegistry ?? (_a2.__zod_globalRegistry = registry());
 var globalRegistry = globalThis.__zod_globalRegistry;
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/compile.js
+// ../../../node_modules/zod/v4/core/compile.js
 var INVALID = Symbol.for("zod.compile.invalid");
 var FALLBACK_FLAG = Symbol.for("zod.compile.fallback");
 var ZodCompileAsyncError = class extends Error {
@@ -66808,7 +66808,7 @@ function generateTransformCheck(doc, ctx, schema, accessor) {
   return accessor;
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/api.js
+// ../../../node_modules/zod/v4/core/api.js
 function snapshotChecks(def) {
   if (def.checks)
     def.checks = [...def.checks];
@@ -67867,7 +67867,7 @@ function _stringFormat(Class2, format, fnOrRegex, _params = {}) {
   return inst;
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/to-json-schema.js
+// ../../../node_modules/zod/v4/core/to-json-schema.js
 function assignProps(target, ...sources) {
   for (const source2 of sources) {
     for (const key of Reflect.ownKeys(source2)) {
@@ -67979,26 +67979,26 @@ function extractDefs(ctx, schema) {
     return;
   const idToSchema = /* @__PURE__ */ new Map();
   for (const entry of ctx.seen.entries()) {
-    const id = ctx.metadataRegistry.get(entry[0])?.id;
-    if (id) {
-      const existing = idToSchema.get(id);
+    const id2 = ctx.metadataRegistry.get(entry[0])?.id;
+    if (id2) {
+      const existing = idToSchema.get(id2);
       if (existing && existing !== entry[0]) {
-        throw new Error(`Duplicate schema id "${id}" detected during JSON Schema conversion. Two different schemas cannot share the same id when converted together.`);
+        throw new Error(`Duplicate schema id "${id2}" detected during JSON Schema conversion. Two different schemas cannot share the same id when converted together.`);
       }
-      idToSchema.set(id, entry[0]);
+      idToSchema.set(id2, entry[0]);
     }
   }
   const makeURI = (entry) => {
     const defsSegment = ctx.target === "draft-2020-12" ? "$defs" : "definitions";
     if (ctx.external) {
       const externalId = ctx.external.registry.get(entry[0])?.id;
-      const uriGenerator = ctx.external.uri ?? ((id2) => id2);
+      const uriGenerator = ctx.external.uri ?? ((id3) => id3);
       if (externalId) {
         return { ref: uriGenerator(externalId) };
       }
-      const id = entry[1].defId ?? entry[1].schema.id ?? `schema${ctx.counter++}`;
-      entry[1].defId = id;
-      return { defId: id, ref: `${uriGenerator("__shared")}#/${defsSegment}/${encodeJSONPointerSegment(id)}` };
+      const id2 = entry[1].defId ?? entry[1].schema.id ?? `schema${ctx.counter++}`;
+      entry[1].defId = id2;
+      return { defId: id2, ref: `${uriGenerator("__shared")}#/${defsSegment}/${encodeJSONPointerSegment(id2)}` };
     }
     const uriPrefix = `#`;
     const defUriPrefix = `${uriPrefix}/${defsSegment}/`;
@@ -68046,8 +68046,8 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
         continue;
       }
     }
-    const id = ctx.metadataRegistry.get(entry[0])?.id;
-    if (id) {
+    const id2 = ctx.metadataRegistry.get(entry[0])?.id;
+    if (id2) {
       extractToDef(entry);
       continue;
     }
@@ -68280,10 +68280,10 @@ function finalize(ctx, schema) {
   } else {
   }
   if (ctx.external?.uri) {
-    const id = ctx.external.registry.get(schema)?.id;
-    if (!id)
+    const id2 = ctx.external.registry.get(schema)?.id;
+    if (!id2)
       throw new Error("Schema is missing an `id` property");
-    result.$id = ctx.external.uri(id);
+    result.$id = ctx.external.uri(id2);
   }
   assignProps(result, root.defId ? root.schema : root.def ?? root.schema);
   const rootMetaId = ctx.metadataRegistry.get(schema)?.id;
@@ -68397,7 +68397,7 @@ var createStandardJSONSchemaMethod = (schema, io, processors = {}) => (params) =
   return finalize(ctx, schema);
 };
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/json-schema-processors.js
+// ../../../node_modules/zod/v4/core/json-schema-processors.js
 var narrowMin = (agg, key, value2) => {
   if (agg[key] === void 0 || value2 > agg[key])
     agg[key] = value2;
@@ -68889,7 +68889,7 @@ function stringifyKeyNames(bySchema, json2, visited) {
   const values = json2.enum ?? (json2.const !== void 0 ? [json2.const] : void 0);
   if (!numericType && !values?.some((v) => typeof v === "number"))
     return json2;
-  const { minimum, maximum, exclusiveMinimum, exclusiveMaximum, multipleOf, format, id, ...rest } = json2;
+  const { minimum, maximum, exclusiveMinimum, exclusiveMaximum, multipleOf, format, id: id2, ...rest } = json2;
   if (rest.enum)
     rest.enum = rest.enum.map((v) => typeof v === "number" ? String(v) : v);
   else if (typeof rest.const === "number")
@@ -69145,7 +69145,7 @@ function toJSONSchema(input2, params) {
   return finalize(ctx, input2);
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/json-schema-generator.js
+// ../../../node_modules/zod/v4/core/json-schema-generator.js
 var JSONSchemaGenerator = class {
   /** @deprecated Access via ctx instead */
   get metadataRegistry() {
@@ -69223,10 +69223,10 @@ var JSONSchemaGenerator = class {
   }
 };
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/json-schema.js
+// ../../../node_modules/zod/v4/core/json-schema.js
 var json_schema_exports = {};
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/schemas.js
+// ../../../node_modules/zod/v4/classic/schemas.js
 var schemas_exports2 = {};
 __export(schemas_exports2, {
   ZodAny: () => ZodAny,
@@ -69407,7 +69407,7 @@ __export(schemas_exports2, {
   xor: () => xor
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/checks.js
+// ../../../node_modules/zod/v4/classic/checks.js
 var checks_exports2 = {};
 __export(checks_exports2, {
   endsWith: () => _endsWith,
@@ -69442,7 +69442,7 @@ __export(checks_exports2, {
   uppercase: () => _uppercase
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/errors.js
+// ../../../node_modules/zod/v4/classic/errors.js
 var _installedErrorProtos = /* @__PURE__ */ new WeakSet([Object.prototype, Error.prototype]);
 function _lazyMethod(proto, key, make) {
   Object.defineProperty(proto, key, {
@@ -69488,7 +69488,7 @@ var ZodRealError = /* @__PURE__ */ $constructor("ZodError", initializer2, void 0
   Parent: Error
 });
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/parse.js
+// ../../../node_modules/zod/v4/classic/parse.js
 var parse2 = /* @__PURE__ */ _parse(ZodRealError);
 var parseAsync2 = /* @__PURE__ */ _parseAsync(ZodRealError);
 var safeParse2 = /* @__PURE__ */ _safeParse(ZodRealError);
@@ -69502,7 +69502,7 @@ var safeDecode2 = /* @__PURE__ */ _safeDecode(ZodRealError);
 var safeEncodeAsync2 = /* @__PURE__ */ _safeEncodeAsync(ZodRealError);
 var safeDecodeAsync2 = /* @__PURE__ */ _safeDecodeAsync(ZodRealError);
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/schemas.js
+// ../../../node_modules/zod/v4/classic/schemas.js
 function _ensureDefaultLocale() {
   if (!globalConfig.localeError)
     config(en_default());
@@ -70967,7 +70967,7 @@ function preprocess(fn, schema) {
   });
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/compat.js
+// ../../../node_modules/zod/v4/classic/compat.js
 var ZodIssueCode = {
   invalid_type: "invalid_type",
   too_big: "too_big",
@@ -70993,7 +70993,7 @@ var ZodFirstPartyTypeKind;
 /* @__PURE__ */ (function(ZodFirstPartyTypeKind2) {
 })(ZodFirstPartyTypeKind || (ZodFirstPartyTypeKind = {}));
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/iso.js
+// ../../../node_modules/zod/v4/classic/iso.js
 var iso_exports = {};
 __export(iso_exports, {
   ZodISODate: () => ZodISODate,
@@ -71018,7 +71018,7 @@ function duration2(params) {
   return _isoDuration(ZodISODuration, params);
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/from-json-schema.js
+// ../../../node_modules/zod/v4/classic/from-json-schema.js
 var z = {
   ...schemas_exports2,
   ...checks_exports2,
@@ -71751,7 +71751,7 @@ function fromJSONSchema(schema, params) {
   return convertSchema(normalized2, ctx);
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/core/visit.js
+// ../../../node_modules/zod/v4/core/visit.js
 var RESOLVING = Symbol("z.visit/resolving");
 function visit(schema, fnOrHandlers) {
   const fn = typeof fnOrHandlers === "function" ? fnOrHandlers : (node2, rewritten) => {
@@ -71906,7 +71906,7 @@ function visit(schema, fnOrHandlers) {
   return run(schema);
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/deep-partial.js
+// ../../../node_modules/zod/v4/classic/deep-partial.js
 function deepPartial(schema) {
   return visit(schema, {
     object: (s) => s.partial(),
@@ -71918,7 +71918,7 @@ function deepPartial(schema) {
   });
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/in-out.js
+// ../../../node_modules/zod/v4/classic/in-out.js
 function withChecks(side, checks) {
   if (!checks?.length)
     return side;
@@ -71948,7 +71948,7 @@ function output(schema) {
   });
 }
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/zod/v4/classic/coerce.js
+// ../../../node_modules/zod/v4/classic/coerce.js
 var coerce_exports = {};
 __export(coerce_exports, {
   bigint: () => bigint3,
@@ -72031,47 +72031,47 @@ function renderFormula(tex, display = false) {
   cache.set(key, result);
   return result;
 }
-function splitMath(text4) {
+function splitMath(text5) {
   const parts = [];
   let start = 0, i = 0;
   const escaped = (at) => {
     let n = 0;
-    for (let j = at - 1; j >= 0 && text4[j] === "\\"; j--) n++;
+    for (let j = at - 1; j >= 0 && text5[j] === "\\"; j--) n++;
     return n % 2 === 1;
   };
-  while (i < text4.length) {
-    const open2 = ["$$", "\\[", "\\(", "$"].find((d) => text4.startsWith(d, i) && !escaped(i));
+  while (i < text5.length) {
+    const open2 = ["$$", "\\[", "\\(", "$"].find((d) => text5.startsWith(d, i) && !escaped(i));
     if (!open2) {
       i++;
       continue;
     }
     const close = open2 === "\\[" ? "\\]" : open2 === "\\(" ? "\\)" : open2;
     let end = i + open2.length;
-    while ((end = text4.indexOf(close, end)) >= 0 && escaped(end)) end += close.length;
-    if (open2 === "$" && /\d/.test(text4[i + 1] || "") && end >= 0 && /\d/.test(text4[end + 1] || "")) {
+    while ((end = text5.indexOf(close, end)) >= 0 && escaped(end)) end += close.length;
+    if (open2 === "$" && /\d/.test(text5[i + 1] || "") && end >= 0 && /\d/.test(text5[end + 1] || "")) {
       i = end + 1;
       continue;
     }
-    if (open2 === "$" && end < 0 && /^\d+(?:\.\d+)?(?:\s*$|[，。！？,.;!?])/.test(text4.slice(i + 1))) {
+    if (open2 === "$" && end < 0 && /^\d+(?:\.\d+)?(?:\s*$|[，。！？,.;!?])/.test(text5.slice(i + 1))) {
       i++;
       continue;
     }
     if (end < 0) {
-      if (i > start) parts.push({ raw: text4.slice(start, i), text: text4.slice(start, i), math: false, display: false });
-      parts.push({ raw: text4.slice(i), text: text4.slice(i + open2.length), math: true, display: open2.length === 2, error: "\u516C\u5F0F\u5B9A\u754C\u7B26\u672A\u95ED\u5408\uFF0C\u8BF7\u8865\u9F50 " + close });
-      start = text4.length;
+      if (i > start) parts.push({ raw: text5.slice(start, i), text: text5.slice(start, i), math: false, display: false });
+      parts.push({ raw: text5.slice(i), text: text5.slice(i + open2.length), math: true, display: open2.length === 2, error: "\u516C\u5F0F\u5B9A\u754C\u7B26\u672A\u95ED\u5408\uFF0C\u8BF7\u8865\u9F50 " + close });
+      start = text5.length;
       break;
     }
-    if (i > start) parts.push({ raw: text4.slice(start, i), text: text4.slice(start, i), math: false, display: false });
-    parts.push({ raw: text4.slice(i, end + close.length), text: text4.slice(i + open2.length, end), math: true, display: open2 === "$$" || open2 === "\\[" });
+    if (i > start) parts.push({ raw: text5.slice(start, i), text: text5.slice(start, i), math: false, display: false });
+    parts.push({ raw: text5.slice(i, end + close.length), text: text5.slice(i + open2.length, end), math: true, display: open2 === "$$" || open2 === "\\[" });
     i = end + close.length;
     start = i;
   }
-  if (start < text4.length) parts.push({ raw: text4.slice(start), text: text4.slice(start), math: false, display: false });
+  if (start < text5.length) parts.push({ raw: text5.slice(start), text: text5.slice(start), math: false, display: false });
   return parts;
 }
-var hasMath = (text4) => splitMath(text4).some((p) => p.math);
-function mathLines(text4, width, fontSize) {
+var hasMath = (text5) => splitMath(text5).some((p) => p.math);
+function mathLines(text5, width, fontSize) {
   const em = fontSize / 72, base = em * 1.32, lines2 = [];
   let row = { raw: "", runs: [], h: base }, used = 0;
   const flush = () => {
@@ -72094,7 +72094,7 @@ function mathLines(text4, width, fontSize) {
     row.h = Math.max(row.h, run.h + 0.04);
     used += run.w;
   };
-  for (const part of splitMath(text4)) {
+  for (const part of splitMath(text5)) {
     if (part.error) throw Error(part.error);
     if (part.math) {
       const f = renderFormula(part.text, part.display), w = f.width * em, h = f.height * em;
@@ -72124,7 +72124,7 @@ var bodyFontSize = (kind = "analysis") => ["source", "question", "practice"].inc
 var labelHeight = 0.29;
 var gap = 0.13;
 var unit = (c) => /[^\u0000-\u007f]/u.test(c) ? 1 : 0.55;
-function lines(text4, columns) {
+function lines(text5, columns) {
   const result = [];
   let line = "", width = 0;
   const flush = () => {
@@ -72132,7 +72132,7 @@ function lines(text4, columns) {
     line = "";
     width = 0;
   };
-  for (const token of text4.match(/\n|[^\S\n]+|[a-zA-Z0-9'’-]+|./gu) || []) {
+  for (const token of text5.match(/\n|[^\S\n]+|[a-zA-Z0-9'’-]+|./gu) || []) {
     if (token === "\n") {
       line += token;
       flush();
@@ -72198,12 +72198,12 @@ function pack(input2, layout, kind, height) {
         flush();
         continue;
       }
-      const text4 = wrapped.slice(0, count).join("");
-      if (!text4) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u65E0\u6CD5\u653E\u5165\u4E00\u884C\u5185\u5BB9");
-      const block2 = { ...item, label, text: text4 };
+      const text5 = wrapped.slice(0, count).join("");
+      if (!text5) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u65E0\u6CD5\u653E\u5165\u4E00\u884C\u5185\u5BB9");
+      const block2 = { ...item, label, text: text5 };
       used += (page.length ? gap : 0) + blockHeight(block2, layout, kind);
       page.push(block2);
-      remaining = remaining.slice(text4.length);
+      remaining = remaining.slice(text5.length);
       continued = true;
       if (remaining) flush();
     }
@@ -72258,9 +72258,9 @@ var chemistryReviewSchema = external_exports.object({ coverage: external_exports
 var chemistrySchema = external_exports.object({ review: external_exports.object({ snapshot: external_exports.string(), result: chemistryReviewSchema }).optional(), version: external_exports.literal(1).default(1), questions: external_exports.array(chemQuestionSchema).default([]), history: external_exports.array(external_exports.object({ at: text, questions: external_exports.array(chemQuestionSchema) })).default([]), tasks: external_exports.array(task).default([]) }).superRefine((d, ctx) => {
   const ids = /* @__PURE__ */ new Set(), numbers = /* @__PURE__ */ new Set();
   for (const q of d.questions) {
-    for (const id of [q.id, ...q.versions.map((v) => v.id)]) {
-      if (ids.has(id)) ctx.addIssue({ code: "custom", message: "\u5316\u5B66\u9898\u76EE\u6216\u8BB2\u4E49 ID \u91CD\u590D" });
-      ids.add(id);
+    for (const id2 of [q.id, ...q.versions.map((v) => v.id)]) {
+      if (ids.has(id2)) ctx.addIssue({ code: "custom", message: "\u5316\u5B66\u9898\u76EE\u6216\u8BB2\u4E49 ID \u91CD\u590D" });
+      ids.add(id2);
     }
     if (!q.excluded) {
       if (numbers.has(q.number)) ctx.addIssue({ code: "custom", message: "\u5316\u5B66\u9898\u53F7\u91CD\u590D\uFF1A" + q.number });
@@ -72310,7 +72310,7 @@ function reviseChemistry(old, next) {
 }
 function chemSlides(d, selected, layout = defaultSlideLayout) {
   const known = new Set(d.questions.flatMap((q) => ["question:" + q.id, ...q.versions.map((v) => v.id)]));
-  if (selected.some((id) => !known.has(id))) throw Error("\u6240\u9009\u5185\u5BB9\u5DF2\u4E0D\u5B58\u5728\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
+  if (selected.some((id2) => !known.has(id2))) throw Error("\u6240\u9009\u5185\u5BB9\u5DF2\u4E0D\u5B58\u5728\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
   const slides = [];
   for (const q of d.questions) {
     const versions = q.versions.filter((v) => selected.includes(v.id)).sort((a, b) => chemModules.indexOf(a.module) - chemModules.indexOf(b.module));
@@ -72379,10 +72379,10 @@ function chineseAvailable(d, g, v) {
 function chineseSlides(d, selected, layout = defaultSlideLayout) {
   const slides = [];
   const known = new Set(d.groups.flatMap((g) => ["source:" + g.id, ...g.versions.map((v) => v.id)]));
-  if (selected.some((id) => !known.has(id))) throw Error("\u6240\u9009\u5185\u5BB9\u5DF2\u4E0D\u5B58\u5728\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
-  const add = (g, title, label, text4, image, content, sourceVersionId, questionId) => {
+  if (selected.some((id2) => !known.has(id2))) throw Error("\u6240\u9009\u5185\u5BB9\u5DF2\u4E0D\u5B58\u5728\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
+  const add = (g, title, label, text5, image, content, sourceVersionId, questionId) => {
     if (image) slides.push({ id: "zh-" + slides.length, kind: "chinese", title: title + " \xB7 \u539F\u9875", section: g.section + " \xB7 " + g.title, body: [], blocks: [], passageId: g.id, image });
-    const parts = paginateBlocks(content || [{ label, text: text4 }], layout, "chinese");
+    const parts = paginateBlocks(content || [{ label, text: text5 }], layout, "chinese");
     parts.forEach((blocks2, i) => slides.push({ id: "zh-" + slides.length, kind: "chinese", title: title + (parts.length > 1 ? `\uFF08${i + 1}/${parts.length}\uFF09` : ""), section: g.section + " \xB7 " + g.title, body: blocks2.map((b) => b.text), blocks: blocks2, passageId: g.id, sourceVersionId, questionId }));
   };
   for (const g of d.groups) {
@@ -72418,10 +72418,10 @@ function chineseSlides(d, selected, layout = defaultSlideLayout) {
 function optionEntries(values) {
   const matched = values.map((v) => v.match(/^\s*([A-G])(?:[.、:：)]\s*|\s+)(.+)$/s));
   const allLabeled = matched.every((m, i) => m?.[1] === String.fromCharCode(65 + i));
-  return values.map((text4, i) => {
+  return values.map((text5, i) => {
     const label = String.fromCharCode(65 + i);
-    const punct = text4.match(/^\s*([A-G])[.、:：)]\s*(.*)$/s);
-    return { label, text: allLabeled ? matched[i][2] : punct?.[1] === label ? punct[2] : text4 };
+    const punct = text5.match(/^\s*([A-G])[.、:：)]\s*(.*)$/s);
+    return { label, text: allLabeled ? matched[i][2] : punct?.[1] === label ? punct[2] : text5 };
   });
 }
 
@@ -72502,10 +72502,10 @@ var EvidenceValidationError = class extends GenerationContentError {
     this.name = "EvidenceValidationError";
   }
 };
-function normalized(text4) {
+function normalized(text5) {
   const chars = [], starts = [], ends = [];
-  for (let i = 0; i < text4.length; i++) {
-    let char = text4[i];
+  for (let i = 0; i < text5.length; i++) {
+    let char = text5[i];
     if (/\s/u.test(char)) char = " ";
     else if (/[‘’]/u.test(char)) char = "'";
     else if (/[“”]/u.test(char)) char = '"';
@@ -72567,12 +72567,12 @@ function transferFromExercise(e) {
   return { type: e.skill, stem: [e.material, e.stem].join("\n\n"), options: e.options, answer: e.answer, analysis: e.analysis, point: e.point, exercise: e };
 }
 function validateTeachingCore(data, paragraphs, modules = ["sentences", "structure", "lexicon", "imitation"]) {
-  const text4 = paragraphs.map((p) => p.text).join("\n\n"), required2 = (value2, label) => {
+  const text5 = paragraphs.map((p) => p.text).join("\n\n"), required2 = (value2, label) => {
     if (!value2.trim()) throw new GenerationContentError("\u6559\u5B66\u5305\u7F3A\u5C11\u5177\u4F53\u7684" + label + "\uFF0C\u672A\u4FDD\u5B58");
   };
   const quote = (value2) => {
     try {
-      return resolveEvidence([{ id: "source", text: text4 }], { blockId: "source", quote: value2 }).quote;
+      return resolveEvidence([{ id: "source", text: text5 }], { blockId: "source", quote: value2 }).quote;
     } catch (error62) {
       if (error62 instanceof EvidenceValidationError) throw new GenerationContentError("\u6559\u5B66\u5206\u6790\u5F15\u7528\u672A\u5728\u539F\u6587\u4E2D\u627E\u5230\uFF0C\u8BF7\u91CD\u8BD5\u6216\u4FEE\u6B63\u539F\u6750\u6599", { cause: error62 });
       throw error62;
@@ -72752,16 +72752,16 @@ function promptCatalog() {
     { id: "chemistry-figures", title: "\u5316\u5B66 \xB7 \u81EA\u52A8\u8BC6\u522B\u9898\u56FE", instruction: chemistryFigureInstruction, system: chemistryFigureSystem },
     { id: "chemistry-review", title: "\u5316\u5B66 \xB7 \u5BF9\u7167\u539F\u5377\u6821\u5BF9", instruction: chemistryReviewInstruction, system: chemistrySystem },
     { id: "chemistry-organize", title: "\u5316\u5B66 \xB7 \u6574\u7406\u8BD5\u5377", instruction: chemistryOrganizeInstruction, system: chemistrySystem },
-    ...Object.entries(chemInstructions).map(([id, instruction]) => ({ id: "chemistry-" + id, title: "\u5316\u5B66 \xB7 " + chemNames[id], instruction, system: chemistrySystem })),
+    ...Object.entries(chemInstructions).map(([id2, instruction]) => ({ id: "chemistry-" + id2, title: "\u5316\u5B66 \xB7 " + chemNames[id2], instruction, system: chemistrySystem })),
     { id: "chinese-organize", title: "\u8BED\u6587 \xB7 \u6574\u7406\u8BD5\u5377", instruction: chineseOrganizeInstruction, system: chineseSystem },
-    ...Object.entries(chineseInstructions).map(([id, instruction]) => ({ id: "chinese-" + id, title: "\u8BED\u6587 \xB7 " + chineseModuleNames[id], instruction, system: chineseSystem })),
-    ...["sentences", "structure", "lexicon", "imitation"].map((id, i) => ({ id, title: ["\u53E5\u6CD5\u62C6\u89E3", "\u7BC7\u7AE0\u8109\u7EDC", "\u8BCD\u6C47\u624B\u8D26", "\u8868\u8FBE\u8FC1\u79FB"][i], instruction: teachingInstructions(id), system: teachingSystem })),
+    ...Object.entries(chineseInstructions).map(([id2, instruction]) => ({ id: "chinese-" + id2, title: "\u8BED\u6587 \xB7 " + chineseModuleNames[id2], instruction, system: chineseSystem })),
+    ...["sentences", "structure", "lexicon", "imitation"].map((id2, i) => ({ id: id2, title: ["\u53E5\u6CD5\u62C6\u89E3", "\u7BC7\u7AE0\u8109\u7EDC", "\u8BCD\u6C47\u624B\u8D26", "\u8868\u8FBE\u8FC1\u79FB"][i], instruction: teachingInstructions(id2), system: teachingSystem })),
     { id: "organize", title: "\u6574\u7406\u8BD5\u5377", instruction: organizeInstruction, system: apiSystem },
     { id: "analysis", title: "\u9010\u9898\u89E3\u6790", instruction: analysisInstruction, system: teachingSystem },
     { id: "translation", title: "\u539F\u6587\u8BD1\u6587", instruction: translationInstruction, system: apiSystem },
     { id: "blueprint", title: "\u7EC3\u4E60\u8003\u70B9\u63D0\u70BC", instruction: blueprintInstruction, system: apiSystem },
     { id: "practice", title: "\u8003\u70B9\u6F14\u7EC3", instruction: practiceInstruction, system: practiceSystem },
-    ...specialKinds.map((id) => ({ id: "special-" + id, title: specialNames[id], instruction: specialPrompts[id], system: specialSystem })),
+    ...specialKinds.map((id2) => ({ id: "special-" + id2, title: specialNames[id2], instruction: specialPrompts[id2], system: specialSystem })),
     { id: "proofread", title: "\u8BD5\u5377\u6821\u5BF9", instruction: proofreadInstruction, system: proofreadSystem },
     { id: "correction", title: "\u81EA\u52A8\u4FEE\u6B63", instruction: correctionInstruction, system: correctionSystem },
     { id: "ocr", title: "\u626B\u63CF\u8BC6\u522B", instruction: ocrInstruction(false), system: ocrSystem },
@@ -72774,7 +72774,7 @@ var import_promises2 = require("node:fs/promises");
 var import_node_os = __toESM(require("node:os"));
 var import_node_path4 = __toESM(require("node:path"));
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/fflate/esm/index.mjs
+// ../../../node_modules/fflate/esm/index.mjs
 var import_module = require("module");
 var require2 = (0, import_module.createRequire)("/");
 var _a3;
@@ -73810,7 +73810,7 @@ async function withFormulaPreviews(bytes) {
 // src/desktop/export.ts
 var import_promises = __toESM(require("node:fs/promises"));
 
-// ../../../../../../../Documents/ChatGPT/TheProjectofLearnHelping/node_modules/pptxgenjs/dist/pptxgen.es.js
+// ../../../node_modules/pptxgenjs/dist/pptxgen.es.js
 var import_jszip = __toESM(require_lib3());
 function __awaiter(thisArg, _arguments, P2, generator) {
   function adopt(value2) {
@@ -75674,11 +75674,11 @@ function addTableDefinition(target, tableRows, options, slideLayout, presLayout,
   }
   return newAutoPagedSlides;
 }
-function addTextDefinition(target, text4, opts, isPlaceholder) {
+function addTextDefinition(target, text5, opts, isPlaceholder) {
   const newObject = {
     _type: isPlaceholder ? SLIDE_OBJECT_TYPES.placeholder : SLIDE_OBJECT_TYPES.text,
     shape: (opts === null || opts === void 0 ? void 0 : opts.shape) || SHAPE_TYPE.RECTANGLE,
-    text: !text4 || text4.length === 0 ? [{ text: "", options: null }] : text4,
+    text: !text5 || text5.length === 0 ? [{ text: "", options: null }] : text5,
     options: opts || {}
   };
   function cleanOpts(itemOpts) {
@@ -75808,49 +75808,49 @@ function addBackgroundDefinition(props, target) {
     target._bkgdImgRid = intRels;
   }
 }
-function createHyperlinkRels(target, text4, options) {
+function createHyperlinkRels(target, text5, options) {
   let textObjs = [];
-  if (typeof text4 === "string" || typeof text4 === "number")
+  if (typeof text5 === "string" || typeof text5 === "number")
     return;
-  else if (Array.isArray(text4))
-    textObjs = text4;
-  else if (typeof text4 === "object")
-    textObjs = [text4];
-  textObjs.forEach((text5, idx) => {
+  else if (Array.isArray(text5))
+    textObjs = text5;
+  else if (typeof text5 === "object")
+    textObjs = [text5];
+  textObjs.forEach((text6, idx) => {
     if (options && options[idx] && options[idx].hyperlink)
-      text5.options = Object.assign(Object.assign({}, text5.options), options[idx]);
-    if (Array.isArray(text5)) {
+      text6.options = Object.assign(Object.assign({}, text6.options), options[idx]);
+    if (Array.isArray(text6)) {
       const cellOpts = [];
-      text5.forEach((tablecell) => {
+      text6.forEach((tablecell) => {
         if (tablecell.options && !tablecell.text.options) {
           cellOpts.push(tablecell.options);
         }
       });
-      createHyperlinkRels(target, text5, cellOpts);
-    } else if (Array.isArray(text5.text)) {
-      createHyperlinkRels(target, text5.text, options && options[idx] ? [options[idx]] : void 0);
-    } else if (text5 && typeof text5 === "object" && text5.options && text5.options.hyperlink && !text5.options.hyperlink._rId) {
-      if (typeof text5.options.hyperlink !== "object") {
+      createHyperlinkRels(target, text6, cellOpts);
+    } else if (Array.isArray(text6.text)) {
+      createHyperlinkRels(target, text6.text, options && options[idx] ? [options[idx]] : void 0);
+    } else if (text6 && typeof text6 === "object" && text6.options && text6.options.hyperlink && !text6.options.hyperlink._rId) {
+      if (typeof text6.options.hyperlink !== "object") {
         console.log("ERROR: text `hyperlink` option should be an object. Ex: `hyperlink: {url:'https://github.com'}` ");
-      } else if (!text5.options.hyperlink.url && !text5.options.hyperlink.slide) {
+      } else if (!text6.options.hyperlink.url && !text6.options.hyperlink.slide) {
         console.log("ERROR: 'hyperlink requires either: `url` or `slide`'");
       } else {
         const relId = getNewRelId(target);
         target._rels.push({
           type: SLIDE_OBJECT_TYPES.hyperlink,
-          data: text5.options.hyperlink.slide ? "slide" : "dummy",
+          data: text6.options.hyperlink.slide ? "slide" : "dummy",
           rId: relId,
-          Target: encodeXmlEntities(text5.options.hyperlink.url) || text5.options.hyperlink.slide.toString()
+          Target: encodeXmlEntities(text6.options.hyperlink.url) || text6.options.hyperlink.slide.toString()
         });
-        text5.options.hyperlink._rId = relId;
+        text6.options.hyperlink._rId = relId;
       }
-    } else if (text5 && typeof text5 === "object" && text5.options && text5.options.hyperlink && text5.options.hyperlink._rId) {
-      if (target._rels.filter((rel) => rel.rId === text5.options.hyperlink._rId).length === 0) {
+    } else if (text6 && typeof text6 === "object" && text6.options && text6.options.hyperlink && text6.options.hyperlink._rId) {
+      if (target._rels.filter((rel) => rel.rId === text6.options.hyperlink._rId).length === 0) {
         target._rels.push({
           type: SLIDE_OBJECT_TYPES.hyperlink,
-          data: text5.options.hyperlink.slide ? "slide" : "dummy",
-          rId: text5.options.hyperlink._rId,
-          Target: encodeXmlEntities(text5.options.hyperlink.url) || text5.options.hyperlink.slide.toString()
+          data: text6.options.hyperlink.slide ? "slide" : "dummy",
+          rId: text6.options.hyperlink._rId,
+          Target: encodeXmlEntities(text6.options.hyperlink.url) || text6.options.hyperlink.slide.toString()
         });
       }
     }
@@ -75986,8 +75986,8 @@ var Slide = class {
    * @param {TextPropsOptions} options - text options
    * @return {Slide} this Slide
    */
-  addText(text4, options) {
-    const textParam = typeof text4 === "string" || typeof text4 === "number" ? [{ text: text4, options }] : text4;
+  addText(text5, options) {
+    const textParam = typeof text5 === "string" || typeof text5 === "number" ? [{ text: text5, options }] : text5;
     addTextDefinition(this, textParam, options, false);
     return this;
   }
@@ -79265,15 +79265,15 @@ function checkIntegrity(p) {
 function validateProofreadResult(p, raw) {
   const result = mergedProofreadResultSchema.parse(raw);
   const qids = new Set(p.questions.map((q) => q.id)), sids = new Set(p.sources.map((s) => s.id)), pids = new Set(p.passages.map((a) => a.id));
-  if (result.checkedQuestionIds.some((id) => !qids.has(id)) || result.checkedSourceIds.some((id) => !sids.has(id))) throw Error("AI\u6821\u5BF9\u8FD4\u56DE\u672A\u77E5\u7684\u9898\u76EE\u6216\u6765\u6E90 ID\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
+  if (result.checkedQuestionIds.some((id2) => !qids.has(id2)) || result.checkedSourceIds.some((id2) => !sids.has(id2))) throw Error("AI\u6821\u5BF9\u8FD4\u56DE\u672A\u77E5\u7684\u9898\u76EE\u6216\u6765\u6E90 ID\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
   if (new Set(result.checkedQuestionIds).size !== result.checkedQuestionIds.length || new Set(result.checkedSourceIds).size !== result.checkedSourceIds.length) throw Error("AI\u6821\u5BF9\u8986\u76D6\u8303\u56F4\u542B\u91CD\u590D ID\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
   if (result.coverage === "complete" && (result.checkedQuestionIds.length !== qids.size || result.checkedSourceIds.length !== sids.size)) throw Error("AI\u58F0\u79F0\u6821\u5BF9\u5B8C\u6210\u4F46\u672A\u8986\u76D6\u5168\u90E8\u9898\u76EE\u4E0E\u6765\u6E90\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58\uFF0C\u8BF7\u91CD\u8BD5");
   if (result.coverage === "partial" && !result.limitations.length) throw Error("AI\u672A\u8BF4\u660E\u6821\u5BF9\u672A\u5B8C\u6210\u7684\u8303\u56F4\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
   for (const issue2 of result.findings) {
     if (!issue2.description.trim() || !issue2.suggestion.trim()) throw Error("AI\u6821\u5BF9\u95EE\u9898\u63CF\u8FF0\u6216\u5EFA\u8BAE\u4E3A\u7A7A\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
-    if (issue2.questionIds.some((id) => !qids.has(id)) || issue2.passageIds.some((id) => !pids.has(id))) throw Error("AI\u6821\u5BF9\u95EE\u9898\u5173\u8054\u65E0\u6548\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
-    if (issue2.category === "answer_mismatch") for (const id of issue2.questionIds) {
-      const q = p.questions.find((q2) => q2.id === id), key = uniqueSourceAnswer(p, q.number);
+    if (issue2.questionIds.some((id2) => !qids.has(id2)) || issue2.passageIds.some((id2) => !pids.has(id2))) throw Error("AI\u6821\u5BF9\u95EE\u9898\u5173\u8054\u65E0\u6548\uFF0C\u62A5\u544A\u672A\u4FDD\u5B58");
+    if (issue2.category === "answer_mismatch") for (const id2 of issue2.questionIds) {
+      const q = p.questions.find((q2) => q2.id === id2), key = uniqueSourceAnswer(p, q.number);
       if (key && q.answer.trim().toUpperCase() === key.answer) throw Error(`\u7B2C${q.number}\u9898\u4E0E\u53EF\u76F4\u63A5\u6838\u9A8C\u7684\u6765\u6E90\u7B54\u6848\u4E00\u81F4\uFF0CAI\u8BEF\u62A5\u4E3A\u7B54\u6848\u9519\u914D\uFF1B\u62A5\u544A\u672A\u4FDD\u5B58\uFF0C\u8BF7\u91CD\u8BD5\u3002`);
     }
     issue2.evidence = issue2.evidence.map((ref3) => {
@@ -79436,7 +79436,8 @@ function lessonSelectionIssues(p, selection) {
         if (!reason && m === "special" && ["reading", "listening", "seven", "cloze"].includes(a.type)) {
           const kind = applicableSpecial(a.type)[0];
           const version3 = a.special?.versions.find((v) => v.id === a.special?.active[kind]);
-          if (!version3?.result.items.some((item) => qs.some((q) => q.id === item.question_id || q.id === item.blank_id))) issues.push(`${a.title} \xB7 \u4E13\u9879\u8BB2\u8BC4\uFF1A\u6240\u9009\u9898\u76EE\u6CA1\u6709\u5BF9\u5E94\u5185\u5BB9`);
+          const targets = moduleQuestions(selection, qs, "special");
+          if (!version3?.result.items.some((item) => targets.some((q) => q.id === item.question_id || q.id === item.blank_id))) issues.push(`${a.title} \xB7 \u4E13\u9879\u8BB2\u8BC4\uFF1A\u6240\u9009\u9898\u76EE\u6CA1\u6709\u5BF9\u5E94\u5185\u5BB9`);
         }
       }
     }
@@ -79449,8 +79450,8 @@ function moduleQuestions(selection, questions, module2) {
 }
 var clean = (value2) => String(value2 ?? "").trim();
 function block(label, value2, emphasis = false) {
-  const text4 = clean(value2);
-  return text4 ? { label, text: text4, emphasis } : void 0;
+  const text5 = clean(value2);
+  return text5 ? { label, text: text5, emphasis } : void 0;
 }
 function blocks(...values) {
   return values.filter((v) => !!v);
@@ -79510,7 +79511,8 @@ ${x.explanation}`)) || [], block("\u7ED3\u6784\u8BB2\u89E3", s.clauses), block("
     if (chosen.includes("special")) {
       const kind = applicableSpecial(a.type)[0];
       const result = a.special.versions.find((v2) => v2.id === a.special.active[kind]).result;
-      result.items.filter((item) => !["reading", "listening", "seven", "cloze"].includes(a.type) || qs.some((q) => q.id === item.question_id || q.id === item.blank_id)).forEach((item, i) => add("special", `${specialNames[kind]} \xB7 ${i + 1}`, a.title, specialContent(item), a.id));
+      const targets = moduleQuestions(selection, qs, "special");
+      result.items.filter((item) => !["reading", "listening", "seven", "cloze"].includes(a.type) || targets.some((q) => q.id === item.question_id || q.id === item.blank_id)).forEach((item, i) => add("special", `${specialNames[kind]} \xB7 ${i + 1}`, a.title, specialContent(item), a.id));
     }
   }
   if (!slides.length) throw Error("\u6240\u9009\u8303\u56F4\u6CA1\u6709\u53EF\u653E\u6620\u7684\u5185\u5BB9\uFF0C\u8BF7\u9009\u62E9\u9898\u76EE\u6216\u7BC7\u76EE\u5185\u5BB9");
@@ -79536,12 +79538,12 @@ var prefix = "lessonTemplate/";
 var elements = (node2, ns, name) => Array.from(node2.getElementsByTagNameNS(ns, name));
 function xml(data, part) {
   if (!data) throw Error("\u6A21\u677F\u7F3A\u5C11\u8D44\u6E90\uFF1A" + part);
-  const text4 = strFromU8(data);
-  if (/<!DOCTYPE|<!ENTITY/i.test(text4)) throw Error("\u6A21\u677F XML \u4E0D\u5141\u8BB8\u5305\u542B\u5B9E\u4F53\u58F0\u660E\uFF1A" + part);
+  const text5 = strFromU8(data);
+  if (/<!DOCTYPE|<!ENTITY/i.test(text5)) throw Error("\u6A21\u677F XML \u4E0D\u5141\u8BB8\u5305\u542B\u5B9E\u4F53\u58F0\u660E\uFF1A" + part);
   const invalid = (m) => {
     throw Error("\u6A21\u677F XML \u635F\u574F\uFF1A" + part + " \xB7 " + m);
   };
-  return new import_xmldom.DOMParser({ errorHandler: { warning: invalid, error: invalid, fatalError: invalid } }).parseFromString(text4, "application/xml");
+  return new import_xmldom.DOMParser({ errorHandler: { warning: invalid, error: invalid, fatalError: invalid } }).parseFromString(text5, "application/xml");
 }
 var encoded = (doc) => strToU8(new import_xmldom.XMLSerializer().serializeToString(doc));
 var relPart = (part) => import_node_path3.default.posix.join(import_node_path3.default.posix.dirname(part), "_rels", import_node_path3.default.posix.basename(part) + ".rels");
@@ -79762,16 +79764,16 @@ function validateSpecialResult(prepared, raw) {
   if (questionKinds.includes(kind)) {
     const seen = /* @__PURE__ */ new Set();
     for (const item of result.items) {
-      const id = String(item.question_id ?? item.blank_id);
-      const question2 = questions.find((q) => q.id === id);
-      if (!question2 || seen.has(id)) throw new GenerationContentError("AI\u8FD4\u56DE\u9898\u53F7\u4E0D\u5339\u914D\u6216\u91CD\u590D\uFF0C\u7ED3\u679C\u672A\u4FDD\u5B58");
-      seen.add(id);
+      const id2 = String(item.question_id ?? item.blank_id);
+      const question2 = questions.find((q) => q.id === id2);
+      if (!question2 || seen.has(id2)) throw new GenerationContentError("AI\u8FD4\u56DE\u9898\u53F7\u4E0D\u5339\u914D\u6216\u91CD\u590D\uFF0C\u7ED3\u679C\u672A\u4FDD\u5B58");
+      seen.add(id2);
       if (kind === "option_evidence" && item.question_number !== question2.number) throw new GenerationContentError("\u6A21\u578B\u6539\u52A8\u4E86\u9898\u53F7\uFF0C\u7ED3\u679C\u672A\u4FDD\u5B58");
       if (item.reference_answer !== question2.answer) throw new GenerationContentError("AI\u6539\u52A8\u4E86\u53C2\u8003\u7B54\u6848\uFF0C\u7ED3\u679C\u672A\u4FDD\u5B58");
       if (!question2.answer.trim()) warn("\u90E8\u5206\u9898\u76EE\u7F3A\u5C11\u53C2\u8003\u7B54\u6848\uFF0C\u4E0D\u5E94\u89C6\u4E3A\u5DF2\u786E\u8BA4\u89E3\u6790");
       if (kind !== "cohesion") {
         const labels = item.options.map((o) => o.label);
-        const expected = context.questions.find((q) => q.question_id === id).options.map((o) => o.label);
+        const expected = context.questions.find((q) => q.question_id === id2).options.map((o) => o.label);
         if (labels.length !== expected.length || new Set(labels).size !== expected.length || labels.some((label) => !expected.includes(label)))
           throw new GenerationContentError("AI\u672A\u5B8C\u6574\u5BF9\u5E94\u9898\u76EE\u9009\u9879\uFF0C\u7ED3\u679C\u672A\u4FDD\u5B58");
       }
@@ -79811,9 +79813,9 @@ function cited(p, refs2) {
     return { ...r, ...resolveEvidence(s.blocks, r) };
   });
 }
-function copied(text4, refs2) {
-  if (!text4.trim()) throw Error("\u4E0D\u80FD\u81EA\u52A8\u5199\u5165\u7A7A\u5185\u5BB9");
-  if (!canon(refs2.map((r) => r.quote).join(" ")).includes(canon(text4))) throw Error("\u4FEE\u6539\u6587\u5B57\u4E0D\u80FD\u5728\u63D0\u4F9B\u7684\u539F\u6750\u6599\u8BC1\u636E\u4E2D\u8FDE\u7EED\u5B9A\u4F4D");
+function copied(text5, refs2) {
+  if (!text5.trim()) throw Error("\u4E0D\u80FD\u81EA\u52A8\u5199\u5165\u7A7A\u5185\u5BB9");
+  if (!canon(refs2.map((r) => r.quote).join(" ")).includes(canon(text5))) throw Error("\u4FEE\u6539\u6587\u5B57\u4E0D\u80FD\u5728\u63D0\u4F9B\u7684\u539F\u6750\u6599\u8BC1\u636E\u4E2D\u8FDE\u7EED\u5B9A\u4F4D");
 }
 function answerFromSource(p, q, answer, refs2) {
   if (p.questions.filter((x) => x.number === q.number).length !== 1) throw Error("\u91CD\u590D\u9898\u53F7\u65E0\u6CD5\u81EA\u52A8\u786E\u8BA4\u7B54\u6848\u6765\u6E90");
@@ -79916,7 +79918,7 @@ function applyCorrections(p, raw, settings, include) {
   }
   if (!changes.length && !plan.unresolved.length) throw Error("AI\u672A\u8FD4\u56DE\u53EF\u6267\u884C\u4FEE\u6539\u6216\u672A\u5904\u7406\u539F\u56E0\uFF0C\u672C\u6B21\u672A\u4FEE\u6539");
   reviseProject(p, next);
-  for (const id of explanations) next.questions.find((q) => q.id === id).stale = false;
+  for (const id2 of explanations) next.questions.find((q) => q.id === id2).stale = false;
   const signature = (i) => [i.code, i.questionId, i.passageId, i.sourceId].join(":");
   const existing = new Set(checkIntegrity(p).filter((i) => i.severity === "error").map(signature));
   const introduced = checkIntegrity(next).filter((i) => i.severity === "error" && !existing.has(signature(i)) && !(i.code === "missing_answer" && newIds.has(i.questionId || "")));
@@ -79925,21 +79927,205 @@ function applyCorrections(p, raw, settings, include) {
   return next;
 }
 
-// skills/lesson-desk-export/tool/lesson-project.ts
+// skills/lesson-desk-export/tool/skill-answer.ts
 var text3 = external_exports.string().trim().min(1);
-var sourceInput = sourceSchema.pick({ id: true, name: true, role: true, kind: true, blocks: true, pageCount: true }).extend({
-  ocr: external_exports.array(external_exports.object({ page: external_exports.number().int().min(1).max(100), blank: external_exports.boolean().default(false), uncertain: external_exports.array(text3).default([]) })).optional(),
-  figures: external_exports.array(sourceFigureSchema.omit({ data: true }).extend({ file: text3 })).optional()
+var answerFields = {
+  answerEvidence: external_exports.object({ sourceId: text3, blockId: text3, quote: text3 }).optional(),
+  answerOrigin: external_exports.literal("teacher").optional(),
+  trialAnswer: text3.optional()
+};
+var canonical = (value2) => value2.replace(/[！-～]/gu, (char) => String.fromCharCode(char.charCodeAt(0) - 65248)).replace(/\s+/gu, " ").trim();
+function checkSkillAnswer(project, question2, teacherReviewed) {
+  const { number: number4, answer, answerEvidence, answerOrigin, trialAnswer } = question2;
+  const fail = (reason) => {
+    throw new EvidenceValidationError("\u7B2C " + number4 + " \u9898\uFF1A" + reason);
+  };
+  if (trialAnswer) {
+    if (answer.trim() || answerEvidence || answerOrigin) fail("\u5F85\u6838\u5BF9\u8BD5\u89E3\u8BF7\u5355\u72EC\u586B\u5199\uFF0C\u4E0D\u80FD\u540C\u65F6\u5199\u5165\u53C2\u8003\u7B54\u6848\u6216\u7B54\u6848\u6765\u6E90");
+    return;
+  }
+  if (answerOrigin === "teacher") {
+    if (!teacherReviewed || !answer.trim() || answerEvidence) fail("\u6559\u5E08\u786E\u8BA4\u7B54\u6848\u9700\u8981\u5B9E\u9645\u786E\u8BA4\u3001\u586B\u5199\u7B54\u6848\u5E76\u4F7F\u7528 --teacher-reviewed");
+    return;
+  }
+  if (!answer.trim() && !answerEvidence) return;
+  if (!answerEvidence) return fail("\u53C2\u8003\u7B54\u6848\u7F3A\u5C11\u7B54\u6848\u6765\u6E90\uFF0C\u8BF7\u63D0\u4F9B answerEvidence \u6216\u4F7F\u7528\u5DF2\u786E\u8BA4\u7684\u6559\u5E08\u7B54\u6848");
+  const source2 = project.sources.find((item) => item.id === answerEvidence.sourceId && item.role === "answer");
+  const block2 = source2?.blocks.find((item) => item.id === answerEvidence.blockId);
+  if (!source2 || !block2) return fail("\u627E\u4E0D\u5230\u6240\u6307\u5B9A\u7684\u7B54\u6848\u6765\u6E90\u6216\u539F\u6587\u5757");
+  let quote;
+  try {
+    quote = resolveEvidence([block2], answerEvidence).quote;
+  } catch (error62) {
+    if (!(error62 instanceof EvidenceValidationError)) throw error62;
+    return fail("\u7B54\u6848\u6765\u6E90\u5F15\u7528\u65E0\u6548\u3002" + error62.message);
+  }
+  const lines2 = (value2) => "\n" + value2.split(/\r?\n/u).map((line) => line.trim()).join("\n") + "\n";
+  if (!lines2(block2.text).includes(lines2(quote))) return fail("\u8BF7\u5F15\u7528\u5E26\u9898\u53F7\u7684\u5B8C\u6574\u7B54\u6848\u884C");
+  const escaped = canonical(number4).replace(/[.*+?^$()[\]{}|\\]/gu, "\\$&");
+  const single = new RegExp("^(?:\u7B2C\\s*" + escaped + "\\s*\u9898[.\u3001:]*|\\(\\s*" + escaped + "\\s*\\)[.\u3001:]*|" + escaped + "(?:\\s*[.\u3001:)]|(?=\\s)))\\s*(?:\u7B54\u6848\\s*[:.]\\s*)?(.+)$", "u");
+  const indexed = sourceAnswerKeys({ ...project, sources: [{ ...source2, blocks: [{ ...block2, text: canonical(quote) }] }] }).find((item) => item.number === canonical(number4));
+  const original = indexed?.answer ?? canonical(quote).match(single)?.[1];
+  if (!original) return fail("\u7B54\u6848\u6765\u6E90\u65E0\u6CD5\u5173\u8054\u5230\u8BE5\u9898\uFF0C\u8BF7\u5F15\u7528\u5305\u542B\u5BF9\u5E94\u9898\u53F7\u7684\u5B8C\u6574\u7B54\u6848\u884C\u6216\u7B54\u6848\u8868");
+  const normalizeAnswer = (value2) => /^[A-G]{1,7}$/iu.test(value2) ? value2.toUpperCase() : value2;
+  if (normalizeAnswer(canonical(answer)) !== normalizeAnswer(canonical(original))) {
+    fail("\u53C2\u8003\u7B54\u6848\u300C" + answer + "\u300D\u4E0E\u6240\u7ED1\u5B9A\u7B54\u6848\u539F\u6587\u300C" + original + "\u300D\u4E0D\u4E00\u81F4");
+  }
+}
+
+// src/core/chinese-lesson-selection.ts
+var chineseLessonNames = { source: "\u539F\u6587\u4E0E\u539F\u9875\u56FE\u7247", ...chineseModuleNames };
+function latestChineseVersion(g, module2, questionId) {
+  return g.versions.filter((v) => v.module === module2 && v.questionId === questionId).sort((a, b) => a.createdAt.localeCompare(b.createdAt)).at(-1);
+}
+function latestAvailableChineseVersion(d, g, module2, questionId) {
+  return g.versions.filter((v) => v.module === module2 && v.questionId === questionId && chineseAvailable(d, g, v)).sort((a, b) => a.createdAt.localeCompare(b.createdAt)).at(-1);
+}
+function chineseLessonReason(d, g, module2, questionIds) {
+  if (g.sourceNeedsReview) return "\u8BF7\u5148\u5728\u5907\u8BFE\u6750\u6599\u4E2D\u91CD\u65B0\u6838\u5BF9\u539F\u6587";
+  if (module2 === "source") return g.materials.some((m) => m.image && !m.imageConfirmed) ? "\u56FE\u7247\u5C1A\u672A\u6838\u5BF9" : g.materials.some((m) => m.text.trim() || m.image) ? null : "\u5C1A\u65E0\u539F\u6587";
+  if (!applicableChineseModules(g).includes(module2)) return "\u4E0D\u9002\u7528\u4E8E\u672C\u7EC4\u6750\u6599";
+  const perQuestion = module2 === "analysis" || module2 === "practice";
+  const qs = g.questions.filter((q) => questionIds.includes(q.id));
+  if (perQuestion && !qs.length) return "\u8BF7\u5148\u52FE\u9009\u9898\u76EE";
+  const targets = perQuestion ? qs.map((q) => q.id) : [void 0];
+  for (const id2 of targets) {
+    const q = g.questions.find((q2) => q2.id === id2);
+    if (q?.excluded) return "\u6240\u9009\u9898\u76EE\u5DF2\u6392\u9664";
+    if (q && !q.confirmed) return "\u9898\u9762\u5C1A\u672A\u6838\u5BF9";
+    const v = latestAvailableChineseVersion(d, g, module2, id2);
+    if (!v) return latestChineseVersion(g, module2, id2) ? "\u8BB2\u4E49\u672A\u786E\u8BA4\u3001\u5F85\u6838\u5B9E\u6216\u5DF2\u8FC7\u671F" : "\u5C1A\u672A\u751F\u6210";
+  }
+  return null;
+}
+
+// src/core/chemistry-workflow.ts
+var chemLessonNames = { source: "\u9898\u9762\u4E0E\u539F\u56FE", ...chemNames };
+var availableChemVersion = (q, m) => q.versions.filter((v) => v.module === m && chemReady(q, v)).at(-1);
+function chemLessonReason(q, m) {
+  const issues = chemChecks(q);
+  return issues.length ? issues.join("\uFF1B") : m === "source" || availableChemVersion(q, m) ? null : "\u6CA1\u6709\u5DF2\u786E\u8BA4\u4E14\u6709\u6548\u7684\u8BB2\u4E49";
+}
+function resolveChemSelection(d, s) {
+  const ids = [], issues = [];
+  for (const id2 of s.questionIds) {
+    const q = d.questions.find((q2) => q2.id === id2);
+    if (!q) {
+      issues.push("\u6240\u9009\u9898\u76EE\u5DF2\u4E0D\u5B58\u5728");
+      continue;
+    }
+    for (const m of s.modules[id2] || []) {
+      const reason = chemLessonReason(q, m);
+      if (reason) {
+        issues.push("\u7B2C " + q.number + " \u9898 \xB7 " + chemLessonNames[m] + "\uFF1A" + reason);
+        continue;
+      }
+      ids.push(m === "source" ? "question:" + id2 : availableChemVersion(q, m).id);
+    }
+  }
+  if (!ids.length && !issues.length) issues.push("\u8BF7\u81F3\u5C11\u9009\u62E9\u4E00\u9879\u6709\u6548\u5185\u5BB9");
+  return { ids: [...new Set(ids)], issues };
+}
+
+// skills/lesson-desk-export/tool/skill-selection.ts
+var id = external_exports.string().trim().min(1);
+var selectionEntrySchema = external_exports.object({
+  passageId: id.optional(),
+  groupId: id.optional(),
+  questionId: id.optional(),
+  module: external_exports.enum([.../* @__PURE__ */ new Set([...lessonModules, ...chineseModules, ...chemModules])])
 });
-var evidence2 = external_exports.object({ blockId: text3, quote: text3 });
-var analysis = external_exports.object({ answer: text3, text: text3, evidence: external_exports.array(evidence2).default([]), practice: exerciseSchema.optional() });
+function selectSkillContent(project, entries, reviewIssues) {
+  const fail = (message) => {
+    throw new GenerationContentError(message);
+  };
+  const failQuestion = (number4, message) => {
+    const issue2 = reviewIssues.find((item) => item.startsWith(`\u7B2C ${number4} \u9898\uFF1A`));
+    return fail(issue2 ? message + "\u3002" + issue2 : message);
+  };
+  const entryKeys = entries.map((entry) => JSON.stringify([entry.passageId, entry.groupId, entry.questionId, entry.module]));
+  if (new Set(entryKeys).size !== entries.length) fail("\u4EA4\u4ED8\u8303\u56F4\u542B\u91CD\u590D\u7684\u7BC7\u76EE\u3001\u9898\u76EE\u6216\u6A21\u5757");
+  if (project.subject === "chemistry") {
+    const data = project.chemistry;
+    return entries.map(({ questionId, passageId, groupId, module: module2 }) => {
+      const question2 = data.questions.find((q) => q.id === questionId);
+      if (!question2 || passageId || groupId || !["source", ...chemModules].includes(module2))
+        return fail("\u5316\u5B66\u4EA4\u4ED8\u8303\u56F4\u9700\u8981\u6709\u6548\u7684 questionId \u548C\u6A21\u5757\u3002" + (questionId ?? "") + " \xB7 " + module2);
+      const result = resolveChemSelection(data, { questionIds: [question2.id], modules: { [question2.id]: [module2] } });
+      if (result.issues.length) return failQuestion(question2.number, result.issues.join("\n"));
+      return result.ids[0];
+    });
+  }
+  if (project.subject === "chinese") {
+    const data = project.chinese;
+    return entries.map(({ groupId, passageId, questionId, module: module2 }) => {
+      const group = data.groups.find((g) => g.id === groupId);
+      if (!group || passageId || !["source", ...chineseModules].includes(module2))
+        return fail("\u8BED\u6587\u4EA4\u4ED8\u8303\u56F4\u9700\u8981\u6709\u6548\u7684 groupId \u548C\u6A21\u5757\u3002" + (groupId ?? "") + " \xB7 " + module2);
+      const question2 = group.questions.find((q) => q.id === questionId);
+      const perQuestion = module2 === "analysis" || module2 === "practice";
+      if (perQuestion ? !question2 : questionId)
+        return fail(group.title + " \xB7 " + module2 + "\uFF1A\u6240\u9009\u9898\u76EE\u4E0E\u6750\u6599\u7EC4\u6216\u6A21\u5757\u4E0D\u5339\u914D");
+      const lessonModule = module2;
+      const reason = chineseLessonReason(data, group, lessonModule, question2 ? [question2.id] : []);
+      if (reason) {
+        const message = `${group.title} \xB7 ${question2 ? "\u7B2C " + question2.number + " \u9898 \xB7 " : ""}${chineseLessonNames[lessonModule]}\uFF1A${reason}`;
+        return question2 ? failQuestion(question2.number, message) : fail(message);
+      }
+      return lessonModule === "source" ? "source:" + group.id : latestAvailableChineseVersion(data, group, lessonModule, question2?.id).id;
+    });
+  }
+  const selection = { passageIds: [], questionIds: [], modules: /* @__PURE__ */ Object.create(null), questionIdsByModule: { analysis: [], practice: [], special: [] } };
+  for (const { passageId, groupId, questionId, module: module2 } of entries) {
+    const passage = project.passages.find((p) => p.id === passageId);
+    if (!passage || groupId || !lessonModules.includes(module2))
+      return fail("\u82F1\u8BED\u4EA4\u4ED8\u8303\u56F4\u9700\u8981\u6709\u6548\u7684 passageId \u548C\u6A21\u5757\u3002" + (passageId ?? "") + " \xB7 " + module2);
+    const lessonModule = module2;
+    const question2 = project.questions.find((q) => q.id === questionId && q.passageId === passage.id);
+    const specialByQuestion = module2 === "special" && !["writing", "continuation"].includes(passage.type);
+    const requiresQuestion = module2 === "analysis" || module2 === "practice" || specialByQuestion;
+    const name = passage.title + " \xB7 " + lessonModuleNames[lessonModule];
+    if (questionId && !requiresQuestion || requiresQuestion && !question2)
+      return fail(name + "\uFF1A\u6240\u9009\u9898\u76EE\u4E0E\u7BC7\u76EE\u6216\u6A21\u5757\u4E0D\u5339\u914D");
+    const reason = lessonAvailability(project, passage.id, lessonModule, question2?.id);
+    if (reason) {
+      const message = name + (question2 ? " \xB7 \u7B2C " + question2.number + " \u9898" : "") + "\uFF1A" + reason;
+      return question2 ? failQuestion(question2.number, message) : fail(message);
+    }
+    if (specialByQuestion && question2) {
+      const kind = applicableSpecial(passage.type)[0];
+      const version3 = passage.special?.versions.find((v) => v.id === passage.special?.active[kind]);
+      if (!question2.confirmed || question2.excluded || !version3?.result.items.some((item) => [item.question_id, item.blank_id].includes(question2.id))) {
+        return failQuestion(question2.number, name + " \xB7 \u7B2C " + question2.number + " \u9898\uFF1A\u672A\u751F\u6210\u6240\u9009\u9898\u76EE\u7684\u4E13\u9879\u8BB2\u8BC4");
+      }
+    }
+    if (!selection.passageIds.includes(passage.id)) selection.passageIds.push(passage.id);
+    const modules = selection.modules[passage.id] ??= [];
+    if (!modules.includes(lessonModule)) modules.push(lessonModule);
+    if (question2 && (module2 === "analysis" || module2 === "practice" || module2 === "special")) {
+      if (!selection.questionIds.includes(question2.id)) selection.questionIds.push(question2.id);
+      selection.questionIdsByModule[module2].push(question2.id);
+    }
+  }
+  return selection;
+}
+
+// skills/lesson-desk-export/tool/lesson-project.ts
+var text4 = external_exports.string().trim().min(1);
+var sourceInput = sourceSchema.pick({ id: true, name: true, role: true, kind: true, blocks: true, pageCount: true }).extend({
+  ocr: external_exports.array(external_exports.object({ page: external_exports.number().int().min(1).max(100), blank: external_exports.boolean().default(false), uncertain: external_exports.array(text4).default([]) })).optional(),
+  figures: external_exports.array(sourceFigureSchema.omit({ data: true }).extend({ file: text4 })).optional()
+});
+var evidence2 = external_exports.object({ blockId: text4, quote: text4 });
+var analysis = external_exports.object({ answer: text4, text: text4, evidence: external_exports.array(evidence2).default([]), practice: exerciseSchema.optional() });
 var englishQuestion = questionSchema.omit({ confirmed: true, stale: true, excluded: true, versions: true, activeVersion: true }).extend({
-  stem: text3,
+  stem: text4,
   answer: external_exports.string().default(""),
   options: external_exports.array(external_exports.string()).default([]),
   excluded: external_exports.boolean().default(false),
   analysis: analysis.optional(),
-  practice: exerciseSchema.optional()
+  practice: exerciseSchema.optional(),
+  ...answerFields
 });
 var specialInput = external_exports.union(specialKinds.map((kind) => external_exports.object({
   kind: external_exports.literal(kind),
@@ -79951,20 +80137,22 @@ var englishPassage = passageSchema.omit({ translationSource: true, learning: tru
   lexicon: external_exports.array(lexiconGenerationSchema.element.omit({ sourceCitationId: true }).extend({ evidence: evidence2 })).min(1).max(20).optional(),
   special: specialInput.optional()
 });
-var chineseMaterial = chineseGroupSchema.shape.materials.element.omit({ image: true, imageConfirmed: true }).extend({ imageFile: text3.optional() });
+var chineseMaterial = chineseGroupSchema.shape.materials.element.omit({ image: true, imageConfirmed: true }).extend({ imageFile: text4.optional() });
 var chineseGroup = chineseGroupSchema.omit({ materials: true, versions: true }).extend({
   materials: external_exports.array(chineseMaterial),
+  questions: external_exports.array(chineseGroupSchema.shape.questions.element.omit({ answerSource: true, confirmed: true }).extend(answerFields)),
   versions: external_exports.array(chineseGroupSchema.shape.versions.removeDefault().element.pick({ module: true, questionId: true, result: true })).default([])
 });
 var chemistryQuestion = chemQuestionSchema.omit({ images: true, versions: true, confirmed: true }).extend({
-  stem: text3,
-  images: external_exports.array(chemImageSchema.omit({ data: true, confirmed: true, automatic: true }).extend({ file: text3 })).max(12).default([]),
+  stem: text4,
+  ...answerFields,
+  images: external_exports.array(chemImageSchema.omit({ data: true, confirmed: true, automatic: true }).extend({ file: text4 })).max(12).default([]),
   versions: external_exports.array(external_exports.object({ module: external_exports.enum(chemModules), result: chemResultSchema })).default([])
 });
 var manifestSchema = external_exports.object({
   project: external_exports.discriminatedUnion("subject", [
     external_exports.object({
-      title: text3,
+      title: text4,
       subject: external_exports.literal("english"),
       sources: external_exports.array(sourceInput),
       passages: external_exports.array(englishPassage),
@@ -79972,14 +80160,34 @@ var manifestSchema = external_exports.object({
       review: external_exports.object({ includeExplanations: external_exports.boolean().default(false), result: mergedProofreadResultSchema }).optional(),
       correction: external_exports.object({ includeExplanations: external_exports.boolean().default(false), plan: correctionPlanSchema }).optional()
     }),
-    external_exports.object({ title: text3, subject: external_exports.literal("chinese"), sources: external_exports.array(sourceInput), groups: external_exports.array(chineseGroup), review: chineseReviewSchema.optional() }),
-    external_exports.object({ title: text3, subject: external_exports.literal("chemistry"), sources: external_exports.array(sourceInput), questions: external_exports.array(chemistryQuestion), review: chemistryReviewSchema.optional() })
+    external_exports.object({ title: text4, subject: external_exports.literal("chinese"), sources: external_exports.array(sourceInput), groups: external_exports.array(chineseGroup), review: chineseReviewSchema.optional() }),
+    external_exports.object({ title: text4, subject: external_exports.literal("chemistry"), sources: external_exports.array(sourceInput), questions: external_exports.array(chemistryQuestion), review: chemistryReviewSchema.optional() })
   ]),
-  assets: external_exports.record(external_exports.string(), text3).default({}),
-  reviewNotes: external_exports.array(text3).default([])
+  assets: external_exports.record(external_exports.string(), text4).default({}),
+  reviewNotes: external_exports.array(text4).default([]),
+  selection: external_exports.array(selectionEntrySchema).min(1).optional()
 });
 function parseManifest(raw) {
-  return manifestSchema.parse(raw);
+  const parsed = manifestSchema.parse(raw);
+  const unknownKeys = [];
+  function checkKeys(input2, output2, path6) {
+    if (Array.isArray(input2) && Array.isArray(output2)) {
+      input2.forEach((item, index) => checkKeys(item, output2[index], [...path6, index]));
+    } else if (input2 && output2 && typeof input2 === "object" && typeof output2 === "object") {
+      const record2 = output2;
+      const keys = Object.keys(input2).filter((key) => !Object.hasOwn(record2, key));
+      if (keys.length) unknownKeys.push({
+        code: "unrecognized_keys",
+        keys,
+        path: path6,
+        message: "\u6E05\u5355\u5B58\u5728\u672A\u77E5\u5B57\u6BB5 " + keys.map((key) => [...path6, key].join(".")).join("\u3001")
+      });
+      for (const [key, value2] of Object.entries(input2)) if (Object.hasOwn(record2, key)) checkKeys(value2, record2[key], [...path6, key]);
+    }
+  }
+  checkKeys(raw, parsed, []);
+  if (unknownKeys.length) throw new external_exports.ZodError(unknownKeys);
+  return parsed;
 }
 function unique(values, label) {
   if (new Set(values).size !== values.length) throw Error(`${label}\u91CD\u590D\uFF0C\u8BF7\u4F7F\u7528\u552F\u4E00\u6807\u8BC6`);
@@ -79989,6 +80197,7 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
   const project = emptyProject(input2.title, input2.subject);
   const issues = [...manifest.reviewNotes];
   project.sources = await Promise.all(input2.sources.map(async ({ ocr, figures, ...source2 }) => {
+    unique(source2.blocks.map((block2) => block2.id), source2.name + " \u7684\u539F\u6587\u5757 ID");
     if (figures?.length && (input2.subject !== "chemistry" || source2.role !== "paper" || source2.kind === "text"))
       throw Error(`${source2.name}\uFF1A\u9898\u56FE\u5019\u9009\u9700\u8981\u5316\u5B66\u539F\u5377 PDF \u6216 Word`);
     if (figures) unique(figures.map((figure) => figure.id), `${source2.name} \u7684\u9898\u56FE ID`);
@@ -80019,8 +80228,11 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
   }));
   unique(project.sources.map((s) => s.id), "\u6765\u6E90 ID");
   if (!project.sources.some((s) => s.role === "paper")) throw Error("\u7F3A\u5C11\u539F\u8BD5\u5377\u6765\u6E90");
-  const checkSource = (id, context) => {
-    if (id && !project.sources.some((s) => s.id === id)) throw Error(`${context}\uFF1A\u627E\u4E0D\u5230\u6765\u6E90 ${id}`);
+  const checkSource = (id2, context) => {
+    if (id2 && !project.sources.some((s) => s.id === id2)) throw Error(`${context}\uFF1A\u627E\u4E0D\u5230\u6765\u6E90 ${id2}`);
+  };
+  const pendingAnswer = (number4, trialAnswer) => {
+    issues.push("\u7B2C " + number4 + " \u9898\uFF1A" + (trialAnswer ? "\u5F85\u6838\u5BF9\u8BD5\u89E3 \xB7 " + trialAnswer : "\u7F3A\u5C11\u5DF2\u6838\u5B9E\u7684\u53C2\u8003\u7B54\u6848"));
   };
   if (input2.subject === "english") {
     unique(input2.passages.map((p) => p.id), "\u7BC7\u76EE ID");
@@ -80028,14 +80240,21 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
     unique(input2.questions.map((q) => q.number), "\u9898\u53F7");
     project.passages = input2.passages.map(({ teaching: _teaching, lexicon: _lexicon, special: _special, ...passage }) => passage);
     const practices = /* @__PURE__ */ new Map();
-    for (const { analysis: notes, practice, ...question2 } of input2.questions) {
+    for (const authored of input2.questions) {
+      checkSkillAnswer(project, authored, teacherReviewed);
+      const { analysis: notes, practice, answerEvidence: _answerEvidence, answerOrigin: _answerOrigin, trialAnswer, ...question2 } = authored;
       const passage = project.passages.find((p) => p.id === question2.passageId);
       if (!passage) throw Error(`\u7B2C ${question2.number} \u9898\uFF1A\u7BC7\u76EE\u4E0D\u5B58\u5728`);
       checkSource(question2.sourceId, `\u7B2C ${question2.number} \u9898`);
       const answer = question2.answer.trim();
       const writing = question2.type === "writing" || question2.type === "continuation";
-      const conflict = !answer && !writing || !!(answer && notes && notes.answer.trim() !== answer);
-      if (question2.excluded || conflict) issues.push(`\u7B2C ${question2.number} \u9898\uFF1A${question2.excluded ? "\u5F85\u6838\u5B9E\uFF0C\u5DF2\u6392\u9664" : "\u7F3A\u53C2\u8003\u7B54\u6848\u6216\u89E3\u6790\u4E0E\u53C2\u8003\u7B54\u6848\u6709\u51B2\u7A81"}`);
+      if (trialAnswer && (!notes || notes.answer.trim() !== trialAnswer)) {
+        throw new GenerationContentError("\u7B2C " + question2.number + " \u9898\uFF1A\u5F85\u6838\u5BF9\u8BD5\u89E3\u9700\u8981\u4E0E\u9010\u9898\u89E3\u6790\u4E2D\u7684\u7B54\u6848\u4E00\u81F4");
+      }
+      const needsAnswer = !!trialAnswer || !answer && !writing && !!notes;
+      const conflict = needsAnswer || !!(answer && notes && notes.answer.trim() !== answer);
+      if (needsAnswer) pendingAnswer(question2.number, trialAnswer);
+      else if (question2.excluded || conflict) issues.push(`\u7B2C ${question2.number} \u9898\uFF1A${question2.excluded ? "\u5F85\u6838\u5B9E\uFF0C\u5DF2\u6392\u9664" : "\u89E3\u6790\u4E0E\u53C2\u8003\u7B54\u6848\u6709\u51B2\u7A81\uFF0C\u5F85\u6838\u5B9E"}`);
       const version3 = notes && {
         id: uid(),
         createdAt: project.updatedAt,
@@ -80053,7 +80272,14 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
       if (notes?.practice) validateExercise(notes.practice, question2.type, original);
       if (practice) practices.set(question2.id, validateExercise(practice, question2.type, original));
       const excluded = question2.excluded || conflict;
-      project.questions.push({ ...question2, excluded, confirmed: teacherReviewed && !excluded, stale: false, versions: version3 ? [version3] : [], activeVersion: version3?.id });
+      project.questions.push({
+        ...question2,
+        excluded,
+        confirmed: teacherReviewed && !excluded && !!(answer || writing || practice),
+        stale: false,
+        versions: version3 ? [version3] : [],
+        activeVersion: version3?.id
+      });
     }
     for (const [index, passage] of project.passages.entries()) {
       unique(passage.paragraphs.map((p) => p.id), `${passage.title}\u7684\u6BB5\u843D ID`);
@@ -80071,21 +80297,24 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
       }
       validateTeachingCore(data, passage.paragraphs, modules);
       if (transfer.length) modules.push("transfer");
-      const id = uid();
-      passage.learning = { stale: false, activeVersion: id, remembered: [], versions: [{ id, createdAt: project.updatedAt, origin: "ai", sourceText, formatVersion: 3, completedModules: modules, data: { ...data, transfer } }] };
+      const id2 = uid();
+      passage.learning = { stale: false, activeVersion: id2, remembered: [], versions: [{ id: id2, createdAt: project.updatedAt, origin: "ai", sourceText, formatVersion: 3, completedModules: modules, data: { ...data, transfer } }] };
     }
     if (input2.passages.some((p) => p.special)) {
       const ready = teacherReviewed ? project : preparePreview(project);
       for (const authored of input2.passages) {
         if (!authored.special) continue;
         const { kind, input: scope, result: raw } = authored.special;
+        if (["option_evidence", "cohesion", "cloze_chain"].includes(kind) && ready.questions.some((q) => scope.questionIds.includes(q.id) && !q.answer.trim())) {
+          throw new GenerationContentError(authored.title + "\uFF1A\u6240\u9009\u9898\u76EE\u7684\u4E13\u9879\u8BB2\u8BC4\u9700\u8981\u5DF2\u6838\u5B9E\u7684\u53C2\u8003\u7B54\u6848");
+        }
         const prepared = prepareSpecial(ready, authored.id, kind, scope);
         if (new Set(scope.questionIds).size !== scope.questionIds.length || scope.questionIds.length !== prepared.questions.length)
           throw Error(`${authored.title}\uFF1A\u4E13\u9879\u8BB2\u8BC4\u5305\u542B\u65E0\u6548\u3001\u91CD\u590D\u6216\u5DF2\u6392\u9664\u7684\u9898\u76EE`);
         const result = validateSpecialResult(prepared, raw);
         if (result.status !== "ok") issues.push(`${authored.title} \xB7 ${specialNames[kind]}\uFF1A\u5F85\u6838\u5B9E\u3002 ${result.notices.join("\uFF1B")}`);
-        const id = uid(), target = project.passages.find((p) => p.id === authored.id);
-        target.special = { active: { [kind]: id }, versions: [{ id, kind, input: scope, result, createdAt: project.updatedAt, sourceText: specialFingerprint(ready, target.id) }] };
+        const id2 = uid(), target = project.passages.find((p) => p.id === authored.id);
+        target.special = { active: { [kind]: id2 }, versions: [{ id: id2, kind, input: scope, result, createdAt: project.updatedAt, sourceText: specialFingerprint(ready, target.id) }] };
       }
     }
   } else if (input2.subject === "chinese") {
@@ -80098,11 +80327,16 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
       const materials = await Promise.all(group.materials.map(async ({ imageFile, ...material2 }) => {
         checkSource(material2.sourceId, material2.title);
         const source2 = project.sources.find((s) => s.id === material2.sourceId);
-        if (material2.blockIds.some((id) => !source2?.blocks.some((b) => b.id === id))) throw Error(`${material2.title}\uFF1A\u539F\u6587\u5757\u4E0D\u5B58\u5728`);
+        if (material2.blockIds.some((id2) => !source2?.blocks.some((b) => b.id === id2))) throw Error(`${material2.title}\uFF1A\u539F\u6587\u5757\u4E0D\u5B58\u5728`);
         return { ...material2, image: imageFile ? await loadImage2(imageFile) : void 0, imageConfirmed: !!imageFile && teacherReviewed && !group.sourceNeedsReview };
       }));
-      const questions = group.questions.map((q) => ({ ...q, answerSource: q.answer.trim() ? "provided" : "none", confirmed: teacherReviewed && !group.sourceNeedsReview && !q.excluded }));
-      data.groups.push({ ...group, materials, questions, versions: [] });
+      const questions = group.questions.map((authored) => {
+        checkSkillAnswer(project, authored, teacherReviewed);
+        const { answerEvidence: _answerEvidence, answerOrigin, trialAnswer, ...q } = authored;
+        if (trialAnswer) pendingAnswer(q.number, trialAnswer);
+        return { ...q, answerSource: answerOrigin ?? (q.answer.trim() ? "provided" : "none"), confirmed: teacherReviewed && !group.sourceNeedsReview && !q.excluded };
+      });
+      data.groups.push(chineseGroupSchema.parse({ ...group, materials, questions, versions: [] }));
     }
     const materialIds = new Set(data.groups.flatMap((g) => g.materials.map((m) => m.id)));
     const reviewedSources = { ...data, groups: data.groups.map((group) => ({
@@ -80111,20 +80345,29 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
     })) };
     for (const [index, group] of data.groups.entries()) {
       for (const q of group.questions) {
-        if (!q.stem.trim() || q.materialIds.some((id) => !materialIds.has(id))) throw Error(`\u7B2C ${q.number} \u9898\uFF1A\u9898\u5E72\u4E3A\u7A7A\u6216\u6750\u6599 ID \u4E0D\u5B58\u5728`);
+        if (!q.stem.trim() || q.materialIds.some((id2) => !materialIds.has(id2))) throw Error(`\u7B2C ${q.number} \u9898\uFF1A\u9898\u5E72\u4E3A\u7A7A\u6216\u6750\u6599 ID \u4E0D\u5B58\u5728`);
         if (q.excluded) issues.push(`\u7B2C ${q.number} \u9898\uFF1A\u5F85\u6838\u5B9E\uFF0C\u5DF2\u6392\u9664`);
       }
-      for (const notes of input2.groups.find((g) => g.id === group.id).versions) {
+      const authored = input2.groups[index];
+      for (const notes of authored.versions) {
         const q = group.questions.find((q2) => q2.id === notes.questionId);
         if (!applicableChineseModules(group).includes(notes.module) || (notes.questionId || ["analysis", "practice"].includes(notes.module)) && !q) throw Error(`${group.title}\uFF1A\u8BB2\u4E49\u6A21\u5757\u6216\u9898\u76EE ID \u4E0D\u9002\u7528`);
-        const approved = notes.result.status === "ok" && !group.sourceNeedsReview && !q?.excluded;
+        const questionInput = authored.questions.find((item) => item.id === q?.id);
+        const answerPending = notes.module === "analysis" && q && !q.answer.trim() && (q.format !== "essay" || questionInput?.trialAnswer);
+        const approved = notes.result.status === "ok" && !group.sourceNeedsReview && !q?.excluded && !answerPending;
         if (!approved) issues.push(`${group.title}${q ? ` \xB7 \u7B2C ${q.number} \u9898` : ""} \xB7 ${notes.module}\uFF1A\u5F85\u6838\u5B9E`);
-        const result = validateChineseResult(data, { ...group, materials: group.materials.map((m) => ({ ...m, imageConfirmed: true })) }, notes.result);
+        const output2 = answerPending && notes.result.status === "ok" ? { ...notes.result, status: "needs_review", notices: [...notes.result.notices, "\u5F85\u8865\u5145\u6216\u786E\u8BA4\u53C2\u8003\u7B54\u6848"] } : notes.result;
+        const result = validateChineseResult(data, { ...group, materials: group.materials.map((m) => ({ ...m, imageConfirmed: true })) }, output2);
         group.versions.push({ ...notes, id: uid(), createdAt: project.updatedAt, fingerprint: chineseFingerprint(reviewedSources, reviewedSources.groups[index], notes.questionId), confirmed: teacherReviewed && approved, result });
       }
     }
   } else {
-    for (const { images: imageFiles, versions, ...question2 } of input2.questions) {
+    unique(input2.questions.map((q) => q.id), "\u5316\u5B66\u9898\u76EE ID");
+    unique(input2.questions.map((q) => q.number), "\u5316\u5B66\u9898\u53F7");
+    for (const authored of input2.questions) {
+      checkSkillAnswer(project, authored, teacherReviewed);
+      const { images: imageFiles, versions, answerEvidence: _answerEvidence, answerOrigin: _answerOrigin, trialAnswer, ...question2 } = authored;
+      if (trialAnswer) pendingAnswer(question2.number, trialAnswer);
       checkSource(question2.sourceId, `\u7B2C ${question2.number} \u9898`);
       const images = await Promise.all(imageFiles.map(async ({ file: file2, ...image }) => {
         checkSource(image.sourceId, image.name);
@@ -80133,8 +80376,9 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
       const q = { ...question2, images, confirmed: teacherReviewed && !question2.excluded, versions: [] };
       if (q.excluded) issues.push(`\u7B2C ${q.number} \u9898\uFF1A\u5F85\u6838\u5B9E\uFF0C\u5DF2\u6392\u9664`);
       for (const notes of versions) {
-        if (notes.result.status !== "ok") issues.push(`\u7B2C ${q.number} \u9898 \xB7 ${notes.module}\uFF1A\u5F85\u6838\u5B9E`);
-        q.versions.push({ ...notes, id: uid(), createdAt: project.updatedAt, origin: "ai", fingerprint: chemFingerprint(q), confirmed: teacherReviewed && !q.excluded && notes.result.status === "ok" });
+        const result = notes.module === "analysis" && !q.answer.trim() && notes.result.status === "ok" ? { ...notes.result, status: "needs_review", notices: [...notes.result.notices, "\u5F85\u8865\u5145\u6216\u786E\u8BA4\u53C2\u8003\u7B54\u6848"] } : notes.result;
+        if (result.status !== "ok") issues.push(`\u7B2C ${q.number} \u9898 \xB7 ${notes.module}\uFF1A\u5F85\u6838\u5B9E`);
+        q.versions.push({ ...notes, result, id: uid(), createdAt: project.updatedAt, origin: "ai", fingerprint: chemFingerprint(q), confirmed: teacherReviewed && !q.excluded && result.status === "ok" });
       }
       project.chemistry.questions.push(q);
     }
@@ -80149,7 +80393,7 @@ async function prepareLesson(manifest, loadImage2, teacherReviewed) {
 function preparePreview(project) {
   const preview = structuredClone(project);
   preview.title += "\uFF08\u5F85\u6559\u5E08\u6838\u5BF9\uFF09";
-  for (const q of preview.questions) q.confirmed = !q.excluded && (!!q.answer.trim() || ["writing", "continuation"].includes(q.type)) && !q.versions.some((v) => v.conflict);
+  for (const q of preview.questions) q.confirmed = !q.excluded && !q.versions.some((v) => v.conflict) && !!(q.answer.trim() || ["writing", "continuation"].includes(q.type) || questionExercise(preview, q));
   for (const group of preview.chinese?.groups || []) {
     for (const m of group.materials) m.imageConfirmed = !!m.image && !group.sourceNeedsReview;
     for (const q of group.questions) q.confirmed = !q.excluded && !group.sourceNeedsReview;
@@ -80163,108 +80407,6 @@ function preparePreview(project) {
   return preview;
 }
 
-// src/core/chinese-lesson-selection.ts
-var chineseLessonNames = { source: "\u539F\u6587\u4E0E\u539F\u9875\u56FE\u7247", ...chineseModuleNames };
-function latestChineseVersion(g, module2, questionId) {
-  return g.versions.filter((v) => v.module === module2 && v.questionId === questionId).sort((a, b) => a.createdAt.localeCompare(b.createdAt)).at(-1);
-}
-function latestAvailableChineseVersion(d, g, module2, questionId) {
-  return g.versions.filter((v) => v.module === module2 && v.questionId === questionId && chineseAvailable(d, g, v)).sort((a, b) => a.createdAt.localeCompare(b.createdAt)).at(-1);
-}
-function chineseLessonReason(d, g, module2, questionIds) {
-  if (g.sourceNeedsReview) return "\u8BF7\u5148\u5728\u5907\u8BFE\u6750\u6599\u4E2D\u91CD\u65B0\u6838\u5BF9\u539F\u6587";
-  if (module2 === "source") return g.materials.some((m) => m.image && !m.imageConfirmed) ? "\u56FE\u7247\u5C1A\u672A\u6838\u5BF9" : g.materials.some((m) => m.text.trim() || m.image) ? null : "\u5C1A\u65E0\u539F\u6587";
-  if (!applicableChineseModules(g).includes(module2)) return "\u4E0D\u9002\u7528\u4E8E\u672C\u7EC4\u6750\u6599";
-  const perQuestion = module2 === "analysis" || module2 === "practice";
-  const qs = g.questions.filter((q) => questionIds.includes(q.id));
-  if (perQuestion && !qs.length) return "\u8BF7\u5148\u52FE\u9009\u9898\u76EE";
-  const targets = perQuestion ? qs.map((q) => q.id) : [void 0];
-  for (const id of targets) {
-    const q = g.questions.find((q2) => q2.id === id);
-    if (q?.excluded) return "\u6240\u9009\u9898\u76EE\u5DF2\u6392\u9664";
-    if (q && !q.confirmed) return "\u9898\u9762\u5C1A\u672A\u6838\u5BF9";
-    const v = latestAvailableChineseVersion(d, g, module2, id);
-    if (!v) return latestChineseVersion(g, module2, id) ? "\u8BB2\u4E49\u672A\u786E\u8BA4\u3001\u5F85\u6838\u5B9E\u6216\u5DF2\u8FC7\u671F" : "\u5C1A\u672A\u751F\u6210";
-  }
-  return null;
-}
-
-// src/core/chemistry-workflow.ts
-var chemLessonNames = { source: "\u9898\u9762\u4E0E\u539F\u56FE", ...chemNames };
-var availableChemVersion = (q, m) => q.versions.filter((v) => v.module === m && chemReady(q, v)).at(-1);
-function chemLessonReason(q, m) {
-  const issues = chemChecks(q);
-  return issues.length ? issues.join("\uFF1B") : m === "source" || availableChemVersion(q, m) ? null : "\u6CA1\u6709\u5DF2\u786E\u8BA4\u4E14\u6709\u6548\u7684\u8BB2\u4E49";
-}
-function defaultChemSelection(d) {
-  const qs = d.questions.filter((q) => !chemChecks(q).length);
-  return { questionIds: qs.map((q) => q.id), modules: Object.fromEntries(qs.map((q) => [q.id, ["source", ...chemModules.filter((m) => availableChemVersion(q, m))]])) };
-}
-function resolveChemSelection(d, s) {
-  const ids = [], issues = [];
-  for (const id of s.questionIds) {
-    const q = d.questions.find((q2) => q2.id === id);
-    if (!q) {
-      issues.push("\u6240\u9009\u9898\u76EE\u5DF2\u4E0D\u5B58\u5728");
-      continue;
-    }
-    for (const m of s.modules[id] || []) {
-      const reason = chemLessonReason(q, m);
-      if (reason) {
-        issues.push("\u7B2C " + q.number + " \u9898 \xB7 " + chemLessonNames[m] + "\uFF1A" + reason);
-        continue;
-      }
-      ids.push(m === "source" ? "question:" + id : availableChemVersion(q, m).id);
-    }
-  }
-  if (!ids.length && !issues.length) issues.push("\u8BF7\u81F3\u5C11\u9009\u62E9\u4E00\u9879\u6709\u6548\u5185\u5BB9");
-  return { ids: [...new Set(ids)], issues };
-}
-
-// skills/lesson-desk-export/tool/skill-selection.ts
-function selectSkillContent(project) {
-  if (project.subject === "chemistry") {
-    const result = resolveChemSelection(project.chemistry, defaultChemSelection(project.chemistry));
-    if (result.issues.length) throw Error(result.issues.join("\uFF1B"));
-    return result.ids;
-  }
-  if (project.subject === "chinese") {
-    const data = project.chinese;
-    return data.groups.flatMap((group) => [
-      ...chineseLessonReason(data, group, "source", []) === null ? ["source:" + group.id] : [],
-      ...applicableChineseModules(group).flatMap((module2) => {
-        const targets = module2 === "analysis" || module2 === "practice" ? group.questions.map((q) => q.id) : [void 0];
-        return targets.flatMap((id) => {
-          const version3 = latestAvailableChineseVersion(data, group, module2, id);
-          return version3 ? [version3.id] : [];
-        });
-      })
-    ]);
-  }
-  const selection = { passageIds: [], questionIds: [], modules: {}, questionIdsByModule: { analysis: [], practice: [] } };
-  for (const passage of project.passages) {
-    const qs = project.questions.filter((q) => q.passageId === passage.id && q.confirmed && !q.excluded);
-    const analysis2 = qs.filter((q) => lessonAvailability(project, passage.id, "analysis", q.id) === null).map((q) => q.id);
-    const practice = qs.filter((q) => lessonAvailability(project, passage.id, "practice", q.id) === null).map((q) => q.id);
-    const kind = applicableSpecial(passage.type)[0];
-    const special = passage.special?.versions.find((v) => v.id === passage.special?.active[kind]);
-    const specialQuestions = special?.result.items.map((item) => item.question_id ?? item.blank_id) ?? [];
-    const modules = lessonModules.filter((module2) => {
-      if (module2 === "analysis") return analysis2.length > 0;
-      if (module2 === "practice") return practice.length > 0 || lessonAvailability(project, passage.id, "practice") === null;
-      if (lessonAvailability(project, passage.id, module2) !== null) return false;
-      return module2 !== "special" || ["writing_task", "continuation"].includes(kind) || qs.some((q) => specialQuestions.includes(q.id));
-    });
-    if (!modules.length) continue;
-    selection.passageIds.push(passage.id);
-    selection.modules[passage.id] = modules;
-    selection.questionIdsByModule.analysis.push(...analysis2);
-    selection.questionIdsByModule.practice.push(...practice);
-    selection.questionIds.push(...qs.filter((q) => analysis2.includes(q.id) || practice.includes(q.id) || modules.includes("special") && specialQuestions.includes(q.id)).map((q) => q.id));
-  }
-  return selection;
-}
-
 // src/core/chemistry-review.ts
 function chemistryReviewSnapshot(p) {
   return JSON.stringify([p.sources, p.chemistry?.questions.map((q) => [q.id, chemFingerprint(q), q.confirmed, q.excluded])]);
@@ -80274,9 +80416,9 @@ function chemistryReviewSnapshot(p) {
 var externalModel = { provider: "Agent Skill", model: "\u5916\u90E8 AI \u5BA2\u6237\u7AEF" };
 function reviewCoverage(review, ids) {
   const checked = new Set(review.checkedQuestionIds);
-  if (checked.size !== review.checkedQuestionIds.length || review.checkedQuestionIds.some((id) => !ids.includes(id)))
+  if (checked.size !== review.checkedQuestionIds.length || review.checkedQuestionIds.some((id2) => !ids.includes(id2)))
     throw Error("\u6821\u5BF9\u62A5\u544A\u7684\u9898\u76EE\u7F16\u53F7\u4E0D\u5B58\u5728\u6216\u91CD\u590D");
-  if (review.coverage === "complete" && ids.some((id) => !checked.has(id))) throw Error("\u6821\u5BF9\u9057\u6F0F\u9898\u76EE\uFF0C\u4E0D\u80FD\u6807\u8BB0\u5168\u90E8\u68C0\u67E5");
+  if (review.coverage === "complete" && ids.some((id2) => !checked.has(id2))) throw Error("\u6821\u5BF9\u9057\u6F0F\u9898\u76EE\uFF0C\u4E0D\u80FD\u6807\u8BB0\u5168\u90E8\u68C0\u67E5");
   if (review.coverage === "partial" && !review.limitations.length) throw Error("\u6821\u5BF9\u62A5\u544A\u7F3A\u5C11\u672A\u8986\u76D6\u8303\u56F4");
 }
 function attachSkillWorkflow(project, input2, issues, bundleOnly) {
@@ -80346,6 +80488,7 @@ var maxBundle = 200 * 1024 * 1024;
 var maxImage = 10 * 1024 * 1024;
 async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherReviewed = false, bundleOnly = false) {
   const manifest = parseManifest(raw);
+  if (!bundleOnly && !manifest.selection) throw new GenerationContentError("\u5BFC\u51FA PPT \u9700\u8981 selection\uFF0C\u8BF7\u6307\u5B9A\u7BC7\u76EE\u3001\u9898\u76EE\u548C\u6A21\u5757");
   const input2 = await (0, import_promises2.realpath)(inputDirectory);
   async function readInput(file2, limit) {
     if (import_node_path4.default.isAbsolute(file2) || import_node_path4.default.win32.isAbsolute(file2)) throw Error(`\u8BF7\u7528\u8F93\u5165\u76EE\u5F55\u5185\u7684\u6587\u4EF6\u76F8\u5BF9\u8DEF\u5F84 ${file2}`);
@@ -80365,17 +80508,19 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
   }, teacherReviewed);
   const files = {};
   let bytes = 0;
-  for (const [id, file2] of Object.entries(manifest.assets)) {
-    const source2 = draftProject.sources.find((s) => s.id === id);
-    if (!source2 || source2.kind === "text" || !/^[a-zA-Z0-9_-]+$/.test(id)) throw Error(`\u539F\u4EF6\u9644\u4EF6 ID \u6216\u7C7B\u578B\u65E0\u6548 ${id}`);
+  for (const [id2, file2] of Object.entries(manifest.assets)) {
+    const source2 = draftProject.sources.find((s) => s.id === id2);
+    if (!source2 || source2.kind === "text" || !/^[a-zA-Z0-9_-]+$/.test(id2)) throw Error(`\u539F\u4EF6\u9644\u4EF6 ID \u6216\u7C7B\u578B\u65E0\u6548 ${id2}`);
     if (import_node_path4.default.extname(file2).toLowerCase() !== `.${source2.kind}`) throw Error(`\u9644\u4EF6\u4E0E\u6765\u6E90\u683C\u5F0F\u4E0D\u4E00\u81F4 ${file2}`);
     const contents = await readInput(file2, maxBundle - bytes);
     bytes += contents.length;
-    source2.asset = `sources/${id}.${source2.kind}`;
+    source2.asset = `sources/${id2}.${source2.kind}`;
     files[source2.asset] = contents;
   }
   for (const source2 of draftProject.sources) if (source2.kind !== "text" && !source2.asset) throw Error(`\u7F3A\u5C11\u539F\u6587\u4EF6 ${source2.name}`);
   const project = attachSkillWorkflow(draftProject, manifest.project, issues, bundleOnly);
+  const preview = teacherReviewed || !manifest.selection ? project : preparePreview(project);
+  const selection = manifest.selection && selectSkillContent(preview, manifest.selection, issues);
   files["project.json"] = strToU8(JSON.stringify(project));
   if (bytes + files["project.json"].length > maxBundle) throw Error("\u8BFE\u4EF6\u5305\u89E3\u538B\u4F53\u79EF\u8D85\u8FC7 200 MB\uFF0C\u8BF7\u7F29\u5C0F\u672C\u6B21\u8303\u56F4");
   const archive = zipSync(files, { level: 6 });
@@ -80385,10 +80530,7 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
   const draft = stage && import_node_path4.default.join(stage, "lesson.pptx");
   try {
     let pages = 0;
-    if (draft) {
-      const preview = teacherReviewed ? project : preparePreview(project);
-      pages = await exportPpt(preview, draft, selectSkillContent(preview));
-    }
+    if (draft && selection) pages = await exportPpt(preview, draft, selection);
     const pptx = draft && import_node_path4.default.join(out, teacherReviewed ? "\u8BB2\u8BC4\u8BFE\u4EF6.pptx" : "\u8BB2\u8BC4\u8BFE\u4EF6-\u5F85\u6838\u5BF9.pptx");
     const bundle = import_node_path4.default.join(out, "\u8BB2\u8BC4\u8BFE\u4EF6.lesson.zip");
     const review = import_node_path4.default.join(out, "\u6838\u5BF9\u6E05\u5355.md");
@@ -80426,7 +80568,9 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
 async function main() {
   const [manifest, output2, ...flags] = process.argv.slice(2);
   if (manifest === "--reference" && !flags.length && (output2 === "manifest" || output2 === "prompts")) {
-    const reference = output2 === "manifest" ? external_exports.toJSONSchema(manifestSchema, { io: "input" }) : promptCatalog();
+    const reference = output2 === "manifest" ? external_exports.toJSONSchema(manifestSchema, { io: "input", override: ({ jsonSchema }) => {
+      if (jsonSchema.type === "object" && jsonSchema.properties) jsonSchema.additionalProperties = false;
+    } }) : promptCatalog();
     process.stdout.write(JSON.stringify(reference, null, 2) + "\n");
     return;
   }
