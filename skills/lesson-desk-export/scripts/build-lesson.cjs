@@ -29,9 +29,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 
-// ../../../node_modules/mathjax-full/js/components/version.js
+// node_modules/mathjax-full/js/components/version.js
 var require_version = __commonJS({
-  "../../../node_modules/mathjax-full/js/components/version.js"(exports2) {
+  "node_modules/mathjax-full/js/components/version.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.VERSION = void 0;
@@ -39,9 +39,9 @@ var require_version = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/PrioritizedList.js
+// node_modules/mathjax-full/js/util/PrioritizedList.js
 var require_PrioritizedList = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/PrioritizedList.js"(exports2) {
+  "node_modules/mathjax-full/js/util/PrioritizedList.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.PrioritizedList = void 0;
@@ -86,9 +86,9 @@ var require_PrioritizedList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/HandlerList.js
+// node_modules/mathjax-full/js/core/HandlerList.js
 var require_HandlerList = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/HandlerList.js"(exports2) {
+  "node_modules/mathjax-full/js/core/HandlerList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -167,9 +167,9 @@ var require_HandlerList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/Retries.js
+// node_modules/mathjax-full/js/util/Retries.js
 var require_Retries = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/Retries.js"(exports2) {
+  "node_modules/mathjax-full/js/util/Retries.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.retryAfter = exports2.handleRetriesFor = void 0;
@@ -204,9 +204,9 @@ var require_Retries = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/mathjax.js
+// node_modules/mathjax-full/js/mathjax.js
 var require_mathjax = __commonJS({
-  "../../../node_modules/mathjax-full/js/mathjax.js"(exports2) {
+  "node_modules/mathjax-full/js/mathjax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.mathjax = void 0;
@@ -226,9 +226,9 @@ var require_mathjax = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/Options.js
+// node_modules/mathjax-full/js/util/Options.js
 var require_Options = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/Options.js"(exports2) {
+  "node_modules/mathjax-full/js/util/Options.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -492,9 +492,9 @@ var require_Options = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/FunctionList.js
+// node_modules/mathjax-full/js/util/FunctionList.js
 var require_FunctionList = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/FunctionList.js"(exports2) {
+  "node_modules/mathjax-full/js/util/FunctionList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -618,9 +618,9 @@ var require_FunctionList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/InputJax.js
+// node_modules/mathjax-full/js/core/InputJax.js
 var require_InputJax = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/InputJax.js"(exports2) {
+  "node_modules/mathjax-full/js/core/InputJax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractInputJax = void 0;
@@ -682,9 +682,9 @@ var require_InputJax = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/FindMath.js
+// node_modules/mathjax-full/js/core/FindMath.js
 var require_FindMath = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/FindMath.js"(exports2) {
+  "node_modules/mathjax-full/js/core/FindMath.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractFindMath = void 0;
@@ -701,9 +701,9 @@ var require_FindMath = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/string.js
+// node_modules/mathjax-full/js/util/string.js
 var require_string = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/string.js"(exports2) {
+  "node_modules/mathjax-full/js/util/string.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -762,9 +762,9 @@ var require_string = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MathItem.js
+// node_modules/mathjax-full/js/core/MathItem.js
 var require_MathItem = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MathItem.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MathItem.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.newState = exports2.STATE = exports2.AbstractMathItem = exports2.protoItem = void 0;
@@ -916,9 +916,9 @@ var require_MathItem = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/FindTeX.js
+// node_modules/mathjax-full/js/input/tex/FindTeX.js
 var require_FindTeX = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/FindTeX.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/FindTeX.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -1080,9 +1080,9 @@ var require_FindTeX = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/Attributes.js
+// node_modules/mathjax-full/js/core/MmlTree/Attributes.js
 var require_Attributes = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/Attributes.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/Attributes.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -1193,9 +1193,9 @@ var require_Attributes = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Tree/Node.js
+// node_modules/mathjax-full/js/core/Tree/Node.js
 var require_Node = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Tree/Node.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Tree/Node.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -1445,9 +1445,9 @@ var require_Node = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNode.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNode.js
 var require_MmlNode = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNode.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -2412,9 +2412,9 @@ var require_MmlNode = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js
+// node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js
 var require_OperatorDictionary = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/OperatorDictionary.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -3720,9 +3720,9 @@ var require_OperatorDictionary = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js
 var require_mo = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -4100,9 +4100,9 @@ var require_mo = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/NodeUtil.js
+// node_modules/mathjax-full/js/input/tex/NodeUtil.js
 var require_NodeUtil = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/NodeUtil.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/NodeUtil.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -4325,9 +4325,9 @@ var require_NodeUtil = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/FilterUtil.js
+// node_modules/mathjax-full/js/input/tex/FilterUtil.js
 var require_FilterUtil = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/FilterUtil.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/FilterUtil.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -4594,9 +4594,9 @@ var require_FilterUtil = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/TexError.js
+// node_modules/mathjax-full/js/input/tex/TexError.js
 var require_TexError = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/TexError.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/TexError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var TexError = (function() {
@@ -4644,9 +4644,9 @@ var require_TexError = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/AsyncLoad.js
+// node_modules/mathjax-full/js/util/AsyncLoad.js
 var require_AsyncLoad = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/AsyncLoad.js"(exports2) {
+  "node_modules/mathjax-full/js/util/AsyncLoad.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.asyncLoad = void 0;
@@ -4672,9 +4672,9 @@ var require_AsyncLoad = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/Entities.js
+// node_modules/mathjax-full/js/util/Entities.js
 var require_Entities = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/Entities.js"(exports2) {
+  "node_modules/mathjax-full/js/util/Entities.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.numeric = exports2.translate = exports2.remove = exports2.add = exports2.entities = exports2.options = void 0;
@@ -5129,9 +5129,9 @@ var require_Entities = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ParseUtil.js
+// node_modules/mathjax-full/js/input/tex/ParseUtil.js
 var require_ParseUtil = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ParseUtil.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ParseUtil.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -5650,9 +5650,9 @@ var require_ParseUtil = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/Stack.js
+// node_modules/mathjax-full/js/input/tex/Stack.js
 var require_Stack = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/Stack.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/Stack.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -5789,9 +5789,9 @@ var require_Stack = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/TexParser.js
+// node_modules/mathjax-full/js/input/tex/TexParser.js
 var require_TexParser = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/TexParser.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/TexParser.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -6163,9 +6163,9 @@ var require_TexParser = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/StackItem.js
+// node_modules/mathjax-full/js/input/tex/StackItem.js
 var require_StackItem = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/StackItem.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/StackItem.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -6440,9 +6440,9 @@ var require_StackItem = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Tree/Factory.js
+// node_modules/mathjax-full/js/core/Tree/Factory.js
 var require_Factory = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Tree/Factory.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Tree/Factory.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -6549,9 +6549,9 @@ var require_Factory = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/StackItemFactory.js
+// node_modules/mathjax-full/js/input/tex/StackItemFactory.js
 var require_StackItemFactory = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/StackItemFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/StackItemFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -6598,9 +6598,9 @@ var require_StackItemFactory = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/NodeFactory.js
+// node_modules/mathjax-full/js/input/tex/NodeFactory.js
 var require_NodeFactory = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/NodeFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/NodeFactory.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -6713,9 +6713,9 @@ var require_NodeFactory = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ParseOptions.js
+// node_modules/mathjax-full/js/input/tex/ParseOptions.js
 var require_ParseOptions = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ParseOptions.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ParseOptions.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -6870,9 +6870,9 @@ var require_ParseOptions = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/Tags.js
+// node_modules/mathjax-full/js/input/tex/Tags.js
 var require_Tags = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/Tags.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/Tags.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -7219,9 +7219,9 @@ var require_Tags = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/MapHandler.js
+// node_modules/mathjax-full/js/input/tex/MapHandler.js
 var require_MapHandler = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/MapHandler.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/MapHandler.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -7396,13 +7396,13 @@ var require_MapHandler = __commonJS({
       function SubHandlers2() {
         this.map = /* @__PURE__ */ new Map();
       }
-      SubHandlers2.prototype.add = function(handlers, fallbacks, priority) {
+      SubHandlers2.prototype.add = function(handlers2, fallbacks, priority) {
         var e_6, _a4;
         if (priority === void 0) {
           priority = PrioritizedList_js_1.PrioritizedList.DEFAULTPRIORITY;
         }
         try {
-          for (var _b2 = __values(Object.keys(handlers)), _c = _b2.next(); !_c.done; _c = _b2.next()) {
+          for (var _b2 = __values(Object.keys(handlers2)), _c = _b2.next(); !_c.done; _c = _b2.next()) {
             var key = _c.value;
             var name_2 = key;
             var subHandler = this.get(name_2);
@@ -7410,7 +7410,7 @@ var require_MapHandler = __commonJS({
               subHandler = new SubHandler();
               this.set(name_2, subHandler);
             }
-            subHandler.add(handlers[name_2], fallbacks[name_2], priority);
+            subHandler.add(handlers2[name_2], fallbacks[name_2], priority);
           }
         } catch (e_6_1) {
           e_6 = { error: e_6_1 };
@@ -7458,9 +7458,9 @@ var require_MapHandler = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/Configuration.js
+// node_modules/mathjax-full/js/input/tex/Configuration.js
 var require_Configuration = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/Configuration.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/Configuration.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -7770,9 +7770,9 @@ var require_Configuration = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/Symbol.js
+// node_modules/mathjax-full/js/input/tex/Symbol.js
 var require_Symbol = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/Symbol.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/Symbol.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Macro = exports2.Symbol = void 0;
@@ -7842,9 +7842,9 @@ var require_Symbol = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/SymbolMap.js
+// node_modules/mathjax-full/js/input/tex/SymbolMap.js
 var require_SymbolMap = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/SymbolMap.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/SymbolMap.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -8105,9 +8105,9 @@ var require_SymbolMap = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/base/BaseItems.js
+// node_modules/mathjax-full/js/input/tex/base/BaseItems.js
 var require_BaseItems = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/base/BaseItems.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/base/BaseItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -8928,12 +8928,12 @@ var require_BaseItems = __commonJS({
       };
       ArrayItem2.prototype.checkLines = function() {
         if (this.arraydef["rowlines"]) {
-          var lines2 = this.arraydef["rowlines"].split(/ /);
-          if (lines2.length === this.table.length) {
+          var lines = this.arraydef["rowlines"].split(/ /);
+          if (lines.length === this.table.length) {
             this.frame.push("bottom");
-            lines2.pop();
-            this.arraydef["rowlines"] = lines2.join(" ");
-          } else if (lines2.length < this.table.length - 1) {
+            lines.pop();
+            this.arraydef["rowlines"] = lines.join(" ");
+          } else if (lines.length < this.table.length - 1) {
             this.arraydef["rowlines"] += " none";
           }
         }
@@ -9070,9 +9070,9 @@ var require_BaseItems = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/TexConstants.js
+// node_modules/mathjax-full/js/input/tex/TexConstants.js
 var require_TexConstants = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/TexConstants.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/TexConstants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.TexConstant = void 0;
@@ -9208,9 +9208,9 @@ var require_TexConstants = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/lengths.js
+// node_modules/mathjax-full/js/util/lengths.js
 var require_lengths = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/lengths.js"(exports2) {
+  "node_modules/mathjax-full/js/util/lengths.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.px = exports2.emRounded = exports2.em = exports2.percent = exports2.length2em = exports2.MATHSPACE = exports2.RELUNITS = exports2.UNITS = exports2.BIGDIMEN = void 0;
@@ -9325,9 +9325,9 @@ var require_lengths = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/base/BaseMethods.js
+// node_modules/mathjax-full/js/input/tex/base/BaseMethods.js
 var require_BaseMethods = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/base/BaseMethods.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/base/BaseMethods.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -10096,12 +10096,12 @@ var require_BaseMethods = __commonJS({
       if (!top.table.length) {
         top.frame.push("top");
       } else {
-        var lines2 = top.arraydef["rowlines"] ? top.arraydef["rowlines"].split(/ /) : [];
-        while (lines2.length < top.table.length) {
-          lines2.push("none");
+        var lines = top.arraydef["rowlines"] ? top.arraydef["rowlines"].split(/ /) : [];
+        while (lines.length < top.table.length) {
+          lines.push("none");
         }
-        lines2[top.table.length - 1] = style;
-        top.arraydef["rowlines"] = lines2.join(" ");
+        lines[top.table.length - 1] = style;
+        top.arraydef["rowlines"] = lines.join(" ");
       }
     };
     BaseMethods.HFill = function(parser, _name) {
@@ -10133,7 +10133,7 @@ var require_BaseMethods = __commonJS({
       if (!align) {
         align = parser.GetArgument("\\begin{" + begin.getName() + "}");
       }
-      var lines2 = ("c" + align).replace(/[^clr|:]/g, "").replace(/[^|:]([|:])+/g, "$1");
+      var lines = ("c" + align).replace(/[^clr|:]/g, "").replace(/[^|:]([|:])+/g, "$1");
       align = align.replace(/[^clr]/g, "").split("").join(" ");
       align = align.replace(/l/g, "left").replace(/r/g, "right").replace(/c/g, "center");
       var array2 = parser.itemFactory.create("array");
@@ -10142,16 +10142,16 @@ var require_BaseMethods = __commonJS({
         columnspacing: spacing || "1em",
         rowspacing: vspacing || "4pt"
       };
-      if (lines2.match(/[|:]/)) {
-        if (lines2.charAt(0).match(/[|:]/)) {
+      if (lines.match(/[|:]/)) {
+        if (lines.charAt(0).match(/[|:]/)) {
           array2.frame.push("left");
-          array2.dashed = lines2.charAt(0) === ":";
+          array2.dashed = lines.charAt(0) === ":";
         }
-        if (lines2.charAt(lines2.length - 1).match(/[|:]/)) {
+        if (lines.charAt(lines.length - 1).match(/[|:]/)) {
           array2.frame.push("right");
         }
-        lines2 = lines2.substr(1, lines2.length - 2);
-        array2.arraydef.columnlines = lines2.split("").join(" ").replace(/[^|: ]/g, "none").replace(/\|/g, "solid").replace(/:/g, "dashed");
+        lines = lines.substr(1, lines.length - 2);
+        array2.arraydef.columnlines = lines.split("").join(" ").replace(/[^|: ]/g, "none").replace(/\|/g, "solid").replace(/:/g, "dashed");
       }
       if (open2) {
         array2.setProperty("open", parser.convertDelimiter(open2));
@@ -10270,9 +10270,9 @@ var require_BaseMethods = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ParseMethods.js
+// node_modules/mathjax-full/js/input/tex/ParseMethods.js
 var require_ParseMethods = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ParseMethods.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ParseMethods.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -10385,9 +10385,9 @@ var require_ParseMethods = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/base/BaseMappings.js
+// node_modules/mathjax-full/js/input/tex/base/BaseMappings.js
 var require_BaseMappings = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/base/BaseMappings.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/base/BaseMappings.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -11110,9 +11110,9 @@ var require_BaseMappings = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js
+// node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js
 var require_BaseConfiguration = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/base/BaseConfiguration.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -11275,9 +11275,9 @@ var require_BaseConfiguration = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex.js
+// node_modules/mathjax-full/js/input/tex.js
 var require_tex = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -11443,9 +11443,9 @@ var require_tex = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/OutputJax.js
+// node_modules/mathjax-full/js/core/OutputJax.js
 var require_OutputJax = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/OutputJax.js"(exports2) {
+  "node_modules/mathjax-full/js/core/OutputJax.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractOutputJax = void 0;
@@ -11500,9 +11500,9 @@ var require_OutputJax = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/Styles.js
+// node_modules/mathjax-full/js/util/Styles.js
 var require_Styles = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/Styles.js"(exports2) {
+  "node_modules/mathjax-full/js/util/Styles.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -12015,9 +12015,9 @@ var require_Styles = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/StyleList.js
+// node_modules/mathjax-full/js/util/StyleList.js
 var require_StyleList = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/StyleList.js"(exports2) {
+  "node_modules/mathjax-full/js/util/StyleList.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -12144,9 +12144,9 @@ var require_StyleList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/OutputJax.js
+// node_modules/mathjax-full/js/output/common/OutputJax.js
 var require_OutputJax2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/OutputJax.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/OutputJax.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12612,9 +12612,9 @@ var require_OutputJax2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Tree/WrapperFactory.js
+// node_modules/mathjax-full/js/core/Tree/WrapperFactory.js
 var require_WrapperFactory = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Tree/WrapperFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Tree/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12682,9 +12682,9 @@ var require_WrapperFactory = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/WrapperFactory.js
+// node_modules/mathjax-full/js/output/common/WrapperFactory.js
 var require_WrapperFactory2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/WrapperFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -12729,9 +12729,9 @@ var require_WrapperFactory2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/BBox.js
+// node_modules/mathjax-full/js/util/BBox.js
 var require_BBox = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/BBox.js"(exports2) {
+  "node_modules/mathjax-full/js/util/BBox.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BBox = void 0;
@@ -12825,9 +12825,9 @@ var require_BBox = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Tree/Wrapper.js
+// node_modules/mathjax-full/js/core/Tree/Wrapper.js
 var require_Wrapper = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Tree/Wrapper.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Tree/Wrapper.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AbstractWrapper = void 0;
@@ -12852,9 +12852,9 @@ var require_Wrapper = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/FontData.js
+// node_modules/mathjax-full/js/output/common/FontData.js
 var require_FontData = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/FontData.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/FontData.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -13307,9 +13307,9 @@ var require_FontData = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrapper.js
+// node_modules/mathjax-full/js/output/common/Wrapper.js
 var require_Wrapper2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrapper.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrapper.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -13938,9 +13938,9 @@ var require_Wrapper2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrapper.js
+// node_modules/mathjax-full/js/output/svg/Wrapper.js
 var require_Wrapper3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrapper.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrapper.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14410,9 +14410,9 @@ var require_Wrapper3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/math.js
+// node_modules/mathjax-full/js/output/common/Wrappers/math.js
 var require_math = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/math.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14451,9 +14451,9 @@ var require_math = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js
 var require_math2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14524,9 +14524,9 @@ var require_math2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/math.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/math.js
 var require_math3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/math.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/math.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14682,9 +14682,9 @@ var require_math3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mrow.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mrow.js
 var require_mrow = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mrow.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -14866,9 +14866,9 @@ var require_mrow = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js
 var require_mrow2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15133,9 +15133,9 @@ var require_mrow2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js
 var require_mrow3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mrow.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15187,9 +15187,9 @@ var require_mrow3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mi.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mi.js
 var require_mi = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mi.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15232,9 +15232,9 @@ var require_mi = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js
 var require_mi2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15320,9 +15320,9 @@ var require_mi2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mi.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mi.js
 var require_mi3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mi.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mi.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15360,9 +15360,9 @@ var require_mi3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mo.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mo.js
 var require_mo2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mo.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15650,9 +15650,9 @@ var require_mo2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mo.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mo.js
 var require_mo3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mo.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mo.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15900,9 +15900,9 @@ var require_mo3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mn.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mn.js
 var require_mn = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mn.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -15952,9 +15952,9 @@ var require_mn = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js
 var require_mn2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16010,9 +16010,9 @@ var require_mn2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mn.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mn.js
 var require_mn3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mn.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mn.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16050,9 +16050,9 @@ var require_mn3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/ms.js
+// node_modules/mathjax-full/js/output/common/Wrappers/ms.js
 var require_ms = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/ms.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16134,9 +16134,9 @@ var require_ms = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js
 var require_ms2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16192,9 +16192,9 @@ var require_ms2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/ms.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/ms.js
 var require_ms3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/ms.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/ms.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16232,9 +16232,9 @@ var require_ms3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtext.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mtext.js
 var require_mtext = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtext.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16289,9 +16289,9 @@ var require_mtext = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js
 var require_mtext2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16354,9 +16354,9 @@ var require_mtext2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js
 var require_mtext3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mtext.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16394,9 +16394,9 @@ var require_mtext3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js
 var require_merror = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/merror.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16466,9 +16466,9 @@ var require_merror = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/merror.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/merror.js
 var require_merror2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/merror.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/merror.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16530,9 +16530,9 @@ var require_merror2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mspace.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mspace.js
 var require_mspace = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mspace.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16579,9 +16579,9 @@ var require_mspace = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js
 var require_mspace2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16662,9 +16662,9 @@ var require_mspace2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js
 var require_mspace3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mspace.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16702,9 +16702,9 @@ var require_mspace3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js
 var require_mpadded = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16813,9 +16813,9 @@ var require_mpadded = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js
 var require_mpadded2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16869,9 +16869,9 @@ var require_mpadded2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js
 var require_mpadded3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mpadded.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16937,9 +16937,9 @@ var require_mpadded3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js
 var require_mphantom = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mphantom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -16995,9 +16995,9 @@ var require_mphantom = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js
 var require_mphantom2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mphantom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17037,9 +17037,9 @@ var require_mphantom2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js
 var require_mfrac = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17216,9 +17216,9 @@ var require_mfrac = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js
 var require_mfrac2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17323,9 +17323,9 @@ var require_mfrac2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js
 var require_mfrac3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mfrac.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17449,9 +17449,9 @@ var require_mfrac3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js
+// node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js
 var require_msqrt = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17580,9 +17580,9 @@ var require_msqrt = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js
 var require_msqrt2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17660,9 +17660,9 @@ var require_msqrt2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js
 var require_msqrt3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/msqrt.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17704,14 +17704,14 @@ var require_msqrt3 = __commonJS({
         var q = this.getPQ(sbox)[1];
         var t = this.font.params.rule_thickness * this.bbox.scale;
         var H = bbox.h + q + t;
-        var SVG2 = this.standardSVGnode(parent);
-        var BASE = this.adaptor.append(SVG2, this.svg("g"));
-        this.addRoot(SVG2, root, sbox, H);
-        surd.toSVG(SVG2);
+        var SVG3 = this.standardSVGnode(parent);
+        var BASE = this.adaptor.append(SVG3, this.svg("g"));
+        this.addRoot(SVG3, root, sbox, H);
+        surd.toSVG(SVG3);
         surd.place(this.dx, H - sbox.h);
         base.toSVG(BASE);
         base.place(this.dx + sbox.w, 0);
-        this.adaptor.append(SVG2, this.svg("rect", {
+        this.adaptor.append(SVG3, this.svg("rect", {
           width: this.fixed(bbox.w),
           height: this.fixed(t),
           x: this.fixed(this.dx + sbox.w),
@@ -17727,9 +17727,9 @@ var require_msqrt3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mroot.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mroot.js
 var require_mroot = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mroot.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17800,9 +17800,9 @@ var require_mroot = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js
 var require_mroot2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17875,9 +17875,9 @@ var require_mroot2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js
 var require_mroot3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mroot.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -17939,9 +17939,9 @@ var require_mroot3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js
 var require_mfenced = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18070,9 +18070,9 @@ var require_mfenced = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js
 var require_mfenced2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18233,9 +18233,9 @@ var require_mfenced2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js
 var require_mfenced3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mfenced.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18307,9 +18307,9 @@ var require_mfenced3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js
+// node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js
 var require_scriptbase = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/scriptbase.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18696,9 +18696,9 @@ var require_scriptbase = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js
 var require_scriptbase2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/scriptbase.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18760,9 +18760,9 @@ var require_scriptbase2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js
+// node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js
 var require_msubsup = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -18921,9 +18921,9 @@ var require_msubsup = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js
 var require_msubsup2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19074,9 +19074,9 @@ var require_msubsup2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js
 var require_msubsup3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/msubsup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19163,9 +19163,9 @@ var require_msubsup3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/munderover.js
+// node_modules/mathjax-full/js/output/common/Wrappers/munderover.js
 var require_munderover = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/munderover.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19370,9 +19370,9 @@ var require_munderover = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js
 var require_munderover2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19552,9 +19552,9 @@ var require_munderover2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js
 var require_munderover3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/munderover.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19680,9 +19680,9 @@ var require_munderover3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js
 var require_mmultiscripts = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -19893,9 +19893,9 @@ var require_mmultiscripts = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js
 var require_mmultiscripts2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20062,9 +20062,9 @@ var require_mmultiscripts2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js
 var require_mmultiscripts3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mmultiscripts.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20178,9 +20178,9 @@ var require_mmultiscripts3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/numeric.js
+// node_modules/mathjax-full/js/util/numeric.js
 var require_numeric = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/numeric.js"(exports2) {
+  "node_modules/mathjax-full/js/util/numeric.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.max = exports2.sum = void 0;
@@ -20199,9 +20199,9 @@ var require_numeric = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtable.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mtable.js
 var require_mtable = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtable.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -20838,9 +20838,9 @@ var require_mtable = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js
 var require_mtable2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21029,9 +21029,9 @@ var require_mtable2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js
 var require_mtable3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mtable.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21138,17 +21138,17 @@ var require_mtable3 = __commonJS({
       SVGmtable2.prototype.handleColumnLines = function(svg) {
         if (this.node.attributes.get("columnlines") === "none")
           return;
-        var lines2 = this.getColumnAttributes("columnlines");
-        if (!lines2)
+        var lines = this.getColumnAttributes("columnlines");
+        if (!lines)
           return;
         var cSpace = this.getColumnHalfSpacing();
         var cLines = this.cLines;
         var cWidth = this.getComputedWidths();
         var x = this.fLine;
-        for (var i = 0; i < lines2.length; i++) {
+        for (var i = 0; i < lines.length; i++) {
           x += cSpace[i] + cWidth[i] + cSpace[i + 1];
-          if (lines2[i] !== "none") {
-            this.adaptor.append(svg, this.makeVLine(x, lines2[i], cLines[i]));
+          if (lines[i] !== "none") {
+            this.adaptor.append(svg, this.makeVLine(x, lines[i], cLines[i]));
           }
           x += cLines[i];
         }
@@ -21156,8 +21156,8 @@ var require_mtable3 = __commonJS({
       SVGmtable2.prototype.handleRowLines = function(svg) {
         if (this.node.attributes.get("rowlines") === "none")
           return;
-        var lines2 = this.getRowAttributes("rowlines");
-        if (!lines2)
+        var lines = this.getRowAttributes("rowlines");
+        if (!lines)
           return;
         var equal = this.node.attributes.get("equalrows");
         var _a4 = this.getTableData(), H = _a4.H, D = _a4.D;
@@ -21165,11 +21165,11 @@ var require_mtable3 = __commonJS({
         var rSpace = this.getRowHalfSpacing();
         var rLines = this.rLines;
         var y = this.getBBox().h - this.fLine;
-        for (var i = 0; i < lines2.length; i++) {
+        for (var i = 0; i < lines.length; i++) {
           var _b2 = __read(this.getRowHD(equal, HD, H[i], D[i]), 2), rH = _b2[0], rD = _b2[1];
           y -= rSpace[i] + rH + rD + rSpace[i + 1];
-          if (lines2[i] !== "none") {
-            this.adaptor.append(svg, this.makeHLine(y, lines2[i], rLines[i]));
+          if (lines[i] !== "none") {
+            this.adaptor.append(svg, this.makeHLine(y, lines[i], rLines[i]));
           }
           y -= rLines[i];
         }
@@ -21338,9 +21338,9 @@ var require_mtable3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtr.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mtr.js
 var require_mtr = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtr.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21534,9 +21534,9 @@ var require_mtr = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js
 var require_mtr2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21721,9 +21721,9 @@ var require_mtr2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js
 var require_mtr3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mtr.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21852,9 +21852,9 @@ var require_mtr3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mtd.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mtd.js
 var require_mtd = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mtd.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21909,9 +21909,9 @@ var require_mtd = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js
 var require_mtd2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -21992,9 +21992,9 @@ var require_mtd2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js
 var require_mtd3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mtd.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22053,9 +22053,9 @@ var require_mtd3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/maction.js
+// node_modules/mathjax-full/js/output/common/Wrappers/maction.js
 var require_maction = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/maction.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22170,9 +22170,9 @@ var require_maction = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js
 var require_maction2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22285,9 +22285,9 @@ var require_maction2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/maction.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/maction.js
 var require_maction3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/maction.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/maction.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22468,9 +22468,9 @@ var require_maction3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Notation.js
+// node_modules/mathjax-full/js/output/common/Notation.js
 var require_Notation = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Notation.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Notation.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -22656,9 +22656,9 @@ var require_Notation = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/menclose.js
+// node_modules/mathjax-full/js/output/common/Wrappers/menclose.js
 var require_menclose = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/menclose.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -22982,9 +22982,9 @@ var require_menclose = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Notation.js
+// node_modules/mathjax-full/js/output/svg/Notation.js
 var require_Notation2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Notation.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Notation.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -23117,9 +23117,9 @@ var require_Notation2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js
 var require_menclose2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23194,9 +23194,9 @@ var require_menclose2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js
 var require_menclose3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/menclose.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23519,9 +23519,9 @@ var require_menclose3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/semantics.js
+// node_modules/mathjax-full/js/output/common/Wrappers/semantics.js
 var require_semantics = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/semantics.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23568,9 +23568,9 @@ var require_semantics = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js
 var require_semantics2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23676,9 +23676,9 @@ var require_semantics2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js
 var require_semantics3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/semantics.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23792,9 +23792,9 @@ var require_semantics3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js
+// node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js
 var require_mglyph = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23887,9 +23887,9 @@ var require_mglyph = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js
 var require_mglyph2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -23953,9 +23953,9 @@ var require_mglyph2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js
 var require_mglyph3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/mglyph.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24014,9 +24014,9 @@ var require_mglyph3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js
+// node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js
 var require_TeXAtom = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24069,9 +24069,9 @@ var require_TeXAtom = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js
 var require_TeXAtom2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24151,9 +24151,9 @@ var require_TeXAtom2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js
 var require_TeXAtom3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/TeXAtom.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24204,9 +24204,9 @@ var require_TeXAtom3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js
+// node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js
 var require_TextNode = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/Wrappers/TextNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24332,9 +24332,9 @@ var require_TextNode = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js
+// node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js
 var require_TextNode2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers/TextNode.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24418,9 +24418,9 @@ var require_TextNode2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/Wrappers.js
+// node_modules/mathjax-full/js/output/svg/Wrappers.js
 var require_Wrappers = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/Wrappers.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/Wrappers.js"(exports2) {
     "use strict";
     var _a4;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -24457,9 +24457,9 @@ var require_Wrappers = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/WrapperFactory.js
+// node_modules/mathjax-full/js/output/svg/WrapperFactory.js
 var require_WrapperFactory3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/WrapperFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/WrapperFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24498,9 +24498,9 @@ var require_WrapperFactory3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/FontData.js
+// node_modules/mathjax-full/js/output/svg/FontData.js
 var require_FontData2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/FontData.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/FontData.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24614,9 +24614,9 @@ var require_FontData2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex.js
+// node_modules/mathjax-full/js/output/common/fonts/tex.js
 var require_tex2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -24704,9 +24704,9 @@ var require_tex2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js
 var require_bold_italic = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.boldItalic = void 0;
@@ -24721,9 +24721,9 @@ var require_bold_italic = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js
 var require_bold_italic2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.boldItalic = void 0;
@@ -24740,9 +24740,9 @@ var require_bold_italic2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/bold.js
 var require_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.bold = void 0;
@@ -25006,9 +25006,9 @@ var require_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js
 var require_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.bold = void 0;
@@ -25275,9 +25275,9 @@ var require_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js
 var require_double_struck = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/double-struck.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.doubleStruck = void 0;
@@ -25285,9 +25285,9 @@ var require_double_struck = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js
 var require_double_struck2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/double-struck.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.doubleStruck = void 0;
@@ -25298,9 +25298,9 @@ var require_double_struck2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js
 var require_fraktur_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/fraktur-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.frakturBold = void 0;
@@ -25348,9 +25348,9 @@ var require_fraktur_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js
 var require_fraktur_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.frakturBold = void 0;
@@ -25400,9 +25400,9 @@ var require_fraktur_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js
 var require_fraktur = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/fraktur.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.fraktur = void 0;
@@ -25451,9 +25451,9 @@ var require_fraktur = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js
 var require_fraktur2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/fraktur.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.fraktur = void 0;
@@ -25504,9 +25504,9 @@ var require_fraktur2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/italic.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/italic.js
 var require_italic = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.italic = void 0;
@@ -25575,9 +25575,9 @@ var require_italic = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js
 var require_italic2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.italic = void 0;
@@ -25648,9 +25648,9 @@ var require_italic2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js
 var require_largeop = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/largeop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.largeop = void 0;
@@ -25709,9 +25709,9 @@ var require_largeop = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js
 var require_largeop2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/largeop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.largeop = void 0;
@@ -25773,9 +25773,9 @@ var require_largeop2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js
 var require_monospace = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/monospace.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.monospace = void 0;
@@ -25862,9 +25862,9 @@ var require_monospace = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js
 var require_monospace2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/monospace.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.monospace = void 0;
@@ -25954,9 +25954,9 @@ var require_monospace2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/normal.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/normal.js
 var require_normal = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/normal.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/normal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.normal = void 0;
@@ -27263,9 +27263,9 @@ var require_normal = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js
 var require_normal2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/normal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.normal = void 0;
@@ -28575,9 +28575,9 @@ var require_normal2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js
 var require_sans_serif_bold_italic = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBoldItalic = void 0;
@@ -28588,9 +28588,9 @@ var require_sans_serif_bold_italic = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js
 var require_sans_serif_bold_italic2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBoldItalic = void 0;
@@ -28603,9 +28603,9 @@ var require_sans_serif_bold_italic2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js
 var require_sans_serif_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBold = void 0;
@@ -28662,9 +28662,9 @@ var require_sans_serif_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js
 var require_sans_serif_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifBold = void 0;
@@ -28723,9 +28723,9 @@ var require_sans_serif_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js
 var require_sans_serif_italic = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifItalic = void 0;
@@ -28816,9 +28816,9 @@ var require_sans_serif_italic = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js
 var require_sans_serif_italic2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif-italic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerifItalic = void 0;
@@ -28911,9 +28911,9 @@ var require_sans_serif_italic2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js
 var require_sans_serif = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/sans-serif.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerif = void 0;
@@ -28994,9 +28994,9 @@ var require_sans_serif = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js
 var require_sans_serif2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/sans-serif.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sansSerif = void 0;
@@ -29079,9 +29079,9 @@ var require_sans_serif2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js
 var require_script_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/script-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.scriptBold = void 0;
@@ -29089,9 +29089,9 @@ var require_script_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js
 var require_script_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/script-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.scriptBold = void 0;
@@ -29102,9 +29102,9 @@ var require_script_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/script.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/script.js
 var require_script = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/script.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/script.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.script = void 0;
@@ -29112,9 +29112,9 @@ var require_script = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/script.js
 var require_script2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/script.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/script.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.script = void 0;
@@ -29125,9 +29125,9 @@ var require_script2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js
 var require_smallop = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/smallop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.smallop = void 0;
@@ -29186,9 +29186,9 @@ var require_smallop = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js
 var require_smallop2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/smallop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.smallop = void 0;
@@ -29250,9 +29250,9 @@ var require_smallop2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js
 var require_tex_calligraphic_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphicBold = void 0;
@@ -29289,9 +29289,9 @@ var require_tex_calligraphic_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js
 var require_tex_calligraphic_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphicBold = void 0;
@@ -29330,9 +29330,9 @@ var require_tex_calligraphic_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js
 var require_tex_calligraphic = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-calligraphic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphic = void 0;
@@ -29367,9 +29367,9 @@ var require_tex_calligraphic = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js
 var require_tex_calligraphic2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-calligraphic.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texCalligraphic = void 0;
@@ -29406,9 +29406,9 @@ var require_tex_calligraphic2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js
 var require_tex_mathit = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-mathit.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texMathit = void 0;
@@ -29469,9 +29469,9 @@ var require_tex_mathit = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js
 var require_tex_mathit2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-mathit.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texMathit = void 0;
@@ -29534,9 +29534,9 @@ var require_tex_mathit2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js
 var require_tex_oldstyle_bold = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyleBold = void 0;
@@ -29581,9 +29581,9 @@ var require_tex_oldstyle_bold = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js
 var require_tex_oldstyle_bold2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle-bold.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyleBold = void 0;
@@ -29630,9 +29630,9 @@ var require_tex_oldstyle_bold2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js
 var require_tex_oldstyle = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-oldstyle.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyle = void 0;
@@ -29677,9 +29677,9 @@ var require_tex_oldstyle = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js
 var require_tex_oldstyle2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-oldstyle.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texOldstyle = void 0;
@@ -29726,9 +29726,9 @@ var require_tex_oldstyle2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js
 var require_tex_size3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-size3.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize3 = void 0;
@@ -29761,9 +29761,9 @@ var require_tex_size3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js
 var require_tex_size32 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size3.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize3 = void 0;
@@ -29798,9 +29798,9 @@ var require_tex_size32 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js
 var require_tex_size4 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-size4.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize4 = void 0;
@@ -29862,9 +29862,9 @@ var require_tex_size4 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js
 var require_tex_size42 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-size4.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texSize4 = void 0;
@@ -29929,9 +29929,9 @@ var require_tex_size42 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js
 var require_tex_variant = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/tex-variant.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texVariant = void 0;
@@ -29978,9 +29978,9 @@ var require_tex_variant = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js
 var require_tex_variant2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex/tex-variant.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.texVariant = void 0;
@@ -30029,9 +30029,9 @@ var require_tex_variant2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js
+// node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js
 var require_delimiters = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js"(exports2) {
+  "node_modules/mathjax-full/js/output/common/fonts/tex/delimiters.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.delimiters = exports2.VSIZES = exports2.HDW3 = exports2.HDW2 = exports2.HDW1 = void 0;
@@ -30203,9 +30203,9 @@ var require_delimiters = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/fonts/tex.js
+// node_modules/mathjax-full/js/output/svg/fonts/tex.js
 var require_tex3 = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/fonts/tex.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/fonts/tex.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30350,9 +30350,9 @@ var require_tex3 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg/FontCache.js
+// node_modules/mathjax-full/js/output/svg/FontCache.js
 var require_FontCache = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg/FontCache.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg/FontCache.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FontCache = void 0;
@@ -30394,9 +30394,9 @@ var require_FontCache = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/output/svg.js
+// node_modules/mathjax-full/js/output/svg.js
 var require_svg = __commonJS({
-  "../../../node_modules/mathjax-full/js/output/svg.js"(exports2) {
+  "node_modules/mathjax-full/js/output/svg.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30455,9 +30455,9 @@ var require_svg = __commonJS({
     var lengths_js_1 = require_lengths();
     exports2.SVGNS = "http://www.w3.org/2000/svg";
     exports2.XLINKNS = "http://www.w3.org/1999/xlink";
-    var SVG2 = (function(_super) {
-      __extends(SVG3, _super);
-      function SVG3(options) {
+    var SVG3 = (function(_super) {
+      __extends(SVG4, _super);
+      function SVG4(options) {
         if (options === void 0) {
           options = null;
         }
@@ -30469,51 +30469,51 @@ var require_svg = __commonJS({
         _this.fontCache = new FontCache_js_1.FontCache(_this);
         return _this;
       }
-      SVG3.prototype.initialize = function() {
+      SVG4.prototype.initialize = function() {
         if (this.options.fontCache === "global") {
           this.fontCache.clearCache();
         }
       };
-      SVG3.prototype.clearFontCache = function() {
+      SVG4.prototype.clearFontCache = function() {
         this.fontCache.clearCache();
       };
-      SVG3.prototype.reset = function() {
+      SVG4.prototype.reset = function() {
         this.clearFontCache();
       };
-      SVG3.prototype.setScale = function(node2) {
+      SVG4.prototype.setScale = function(node2) {
         if (this.options.scale !== 1) {
           this.adaptor.setStyle(node2, "fontSize", (0, lengths_js_1.percent)(this.options.scale));
         }
       };
-      SVG3.prototype.escaped = function(math, html) {
+      SVG4.prototype.escaped = function(math, html) {
         this.setDocument(html);
         return this.html("span", {}, [this.text(math.math)]);
       };
-      SVG3.prototype.styleSheet = function(html) {
+      SVG4.prototype.styleSheet = function(html) {
         if (this.svgStyles) {
           return this.svgStyles;
         }
         var sheet = this.svgStyles = _super.prototype.styleSheet.call(this, html);
-        this.adaptor.setAttribute(sheet, "id", SVG3.STYLESHEETID);
+        this.adaptor.setAttribute(sheet, "id", SVG4.STYLESHEETID);
         return sheet;
       };
-      SVG3.prototype.pageElements = function(html) {
+      SVG4.prototype.pageElements = function(html) {
         if (this.options.fontCache === "global" && !this.findCache(html)) {
-          return this.svg("svg", { id: SVG3.FONTCACHEID, style: { display: "none" } }, [this.fontCache.getCache()]);
+          return this.svg("svg", { id: SVG4.FONTCACHEID, style: { display: "none" } }, [this.fontCache.getCache()]);
         }
         return null;
       };
-      SVG3.prototype.findCache = function(html) {
+      SVG4.prototype.findCache = function(html) {
         var adaptor2 = this.adaptor;
         var svgs = adaptor2.tags(adaptor2.body(html.document), "svg");
         for (var i = svgs.length - 1; i >= 0; i--) {
-          if (this.adaptor.getAttribute(svgs[i], "id") === SVG3.FONTCACHEID) {
+          if (this.adaptor.getAttribute(svgs[i], "id") === SVG4.FONTCACHEID) {
             return true;
           }
         }
         return false;
       };
-      SVG3.prototype.processMath = function(math, parent) {
+      SVG4.prototype.processMath = function(math, parent) {
         var container = this.container;
         this.container = parent;
         var wrapper = this.factory.wrap(math);
@@ -30521,7 +30521,7 @@ var require_svg = __commonJS({
         this.typesetSVG(wrapper, svg, g);
         this.container = container;
       };
-      SVG3.prototype.createRoot = function(wrapper) {
+      SVG4.prototype.createRoot = function(wrapper) {
         var _a4 = wrapper.getOuterBBox(), w = _a4.w, h = _a4.h, d = _a4.d, pwidth = _a4.pwidth;
         var px = wrapper.metrics.em / 1e3;
         var W = Math.max(w, px);
@@ -30560,7 +30560,7 @@ var require_svg = __commonJS({
         }
         return [svg, g];
       };
-      SVG3.prototype.typesetSVG = function(wrapper, svg, g) {
+      SVG4.prototype.typesetSVG = function(wrapper, svg, g) {
         var adaptor2 = this.adaptor;
         this.minwidth = this.shift = 0;
         if (this.options.fontCache === "local") {
@@ -30578,7 +30578,7 @@ var require_svg = __commonJS({
           this.setIndent(svg, align, this.shift);
         }
       };
-      SVG3.prototype.setIndent = function(svg, align, shift) {
+      SVG4.prototype.setIndent = function(svg, align, shift) {
         if (align === "center" || align === "left") {
           this.adaptor.setStyle(svg, "margin-left", this.ex(shift));
         }
@@ -30586,11 +30586,11 @@ var require_svg = __commonJS({
           this.adaptor.setStyle(svg, "margin-right", this.ex(-shift));
         }
       };
-      SVG3.prototype.ex = function(m) {
+      SVG4.prototype.ex = function(m) {
         m /= this.font.params.x_height;
         return Math.abs(m) < 1e-3 ? "0" : m.toFixed(3).replace(/\.?0+$/, "") + "ex";
       };
-      SVG3.prototype.svg = function(kind, properties, children) {
+      SVG4.prototype.svg = function(kind, properties, children) {
         if (properties === void 0) {
           properties = {};
         }
@@ -30599,7 +30599,7 @@ var require_svg = __commonJS({
         }
         return this.html(kind, properties, children, exports2.SVGNS);
       };
-      SVG3.prototype.unknownText = function(text5, variant) {
+      SVG4.prototype.unknownText = function(text5, variant) {
         var metrics2 = this.math.metrics;
         var scale = this.font.params.x_height / metrics2.ex * metrics2.em * 1e3;
         var svg = this.svg("text", {
@@ -30623,7 +30623,7 @@ var require_svg = __commonJS({
         }
         return svg;
       };
-      SVG3.prototype.measureTextNode = function(text5) {
+      SVG4.prototype.measureTextNode = function(text5) {
         var adaptor2 = this.adaptor;
         text5 = adaptor2.clone(text5);
         adaptor2.removeAttribute(text5, "transform");
@@ -30640,9 +30640,9 @@ var require_svg = __commonJS({
         adaptor2.remove(svg);
         return { w, h: 0.75, d: 0.2 };
       };
-      SVG3.NAME = "SVG";
-      SVG3.OPTIONS = __assign(__assign({}, OutputJax_js_1.CommonOutputJax.OPTIONS), { internalSpeechTitles: true, titleID: 0, fontCache: "local", localID: null });
-      SVG3.commonStyles = {
+      SVG4.NAME = "SVG";
+      SVG4.OPTIONS = __assign(__assign({}, OutputJax_js_1.CommonOutputJax.OPTIONS), { internalSpeechTitles: true, titleID: 0, fontCache: "local", localID: null });
+      SVG4.commonStyles = {
         'mjx-container[jax="SVG"]': {
           direction: "ltr"
         },
@@ -30656,17 +30656,17 @@ var require_svg = __commonJS({
           stroke: "blue"
         }
       };
-      SVG3.FONTCACHEID = "MJX-SVG-global-cache";
-      SVG3.STYLESHEETID = "MJX-SVG-styles";
-      return SVG3;
+      SVG4.FONTCACHEID = "MJX-SVG-global-cache";
+      SVG4.STYLESHEETID = "MJX-SVG-styles";
+      return SVG4;
     })(OutputJax_js_1.CommonOutputJax);
-    exports2.SVG = SVG2;
+    exports2.SVG = SVG3;
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/DOMAdaptor.js
+// node_modules/mathjax-full/js/core/DOMAdaptor.js
 var require_DOMAdaptor = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/DOMAdaptor.js"(exports2) {
+  "node_modules/mathjax-full/js/core/DOMAdaptor.js"(exports2) {
     "use strict";
     var __values = exports2 && exports2.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -30785,9 +30785,9 @@ var require_DOMAdaptor = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/NodeMixin.js
+// node_modules/mathjax-full/js/adaptors/NodeMixin.js
 var require_NodeMixin = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/NodeMixin.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/NodeMixin.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -30903,9 +30903,9 @@ var require_NodeMixin = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/Element.js
+// node_modules/mathjax-full/js/adaptors/lite/Element.js
 var require_Element = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/Element.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/Element.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -30991,9 +30991,9 @@ var require_Element = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/Document.js
+// node_modules/mathjax-full/js/adaptors/lite/Document.js
 var require_Document = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/Document.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/Document.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LiteDocument = void 0;
@@ -31019,9 +31019,9 @@ var require_Document = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/Text.js
+// node_modules/mathjax-full/js/adaptors/lite/Text.js
 var require_Text = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/Text.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/Text.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -31079,9 +31079,9 @@ var require_Text = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/List.js
+// node_modules/mathjax-full/js/adaptors/lite/List.js
 var require_List = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/List.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/List.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -31133,9 +31133,9 @@ var require_List = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/Parser.js
+// node_modules/mathjax-full/js/adaptors/lite/Parser.js
 var require_Parser = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/Parser.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/Parser.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -31475,9 +31475,9 @@ var require_Parser = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/lite/Window.js
+// node_modules/mathjax-full/js/adaptors/lite/Window.js
 var require_Window = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/lite/Window.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/lite/Window.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LiteWindow = void 0;
@@ -31501,9 +31501,9 @@ var require_Window = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/adaptors/liteAdaptor.js
+// node_modules/mathjax-full/js/adaptors/liteAdaptor.js
 var require_liteAdaptor = __commonJS({
-  "../../../node_modules/mathjax-full/js/adaptors/liteAdaptor.js"(exports2) {
+  "node_modules/mathjax-full/js/adaptors/liteAdaptor.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -31969,9 +31969,9 @@ var require_liteAdaptor = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/LinkedList.js
+// node_modules/mathjax-full/js/util/LinkedList.js
 var require_LinkedList = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/LinkedList.js"(exports2) {
+  "node_modules/mathjax-full/js/util/LinkedList.js"(exports2) {
     "use strict";
     var __generator = exports2 && exports2.__generator || function(thisArg, body) {
       var _ = { label: 0, sent: function() {
@@ -32342,9 +32342,9 @@ var require_LinkedList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MathList.js
+// node_modules/mathjax-full/js/core/MathList.js
 var require_MathList = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MathList.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MathList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32382,9 +32382,9 @@ var require_MathList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Tree/NodeFactory.js
+// node_modules/mathjax-full/js/core/Tree/NodeFactory.js
 var require_NodeFactory2 = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Tree/NodeFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Tree/NodeFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32428,9 +32428,9 @@ var require_NodeFactory2 = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js
 var require_mstyle = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mstyle.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32515,9 +32515,9 @@ var require_mstyle = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js
 var require_maligngroup = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/maligngroup.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32583,9 +32583,9 @@ var require_maligngroup = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js
 var require_malignmark = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/malignmark.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32653,9 +32653,9 @@ var require_malignmark = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js
 var require_mathchoice = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlNodes/mathchoice.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32729,9 +32729,9 @@ var require_mathchoice = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MML.js
+// node_modules/mathjax-full/js/core/MmlTree/MML.js
 var require_MML = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MML.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MML.js"(exports2) {
     "use strict";
     var _a4;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -32771,9 +32771,9 @@ var require_MML = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js
+// node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js
 var require_MmlFactory = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MmlTree/MmlFactory.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32817,9 +32817,9 @@ var require_MmlFactory = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/util/BitField.js
+// node_modules/mathjax-full/js/util/BitField.js
 var require_BitField = __commonJS({
-  "../../../node_modules/mathjax-full/js/util/BitField.js"(exports2) {
+  "node_modules/mathjax-full/js/util/BitField.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -32958,9 +32958,9 @@ var require_BitField = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/MathDocument.js
+// node_modules/mathjax-full/js/core/MathDocument.js
 var require_MathDocument = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/MathDocument.js"(exports2) {
+  "node_modules/mathjax-full/js/core/MathDocument.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33626,9 +33626,9 @@ var require_MathDocument = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/core/Handler.js
+// node_modules/mathjax-full/js/core/Handler.js
 var require_Handler = __commonJS({
-  "../../../node_modules/mathjax-full/js/core/Handler.js"(exports2) {
+  "node_modules/mathjax-full/js/core/Handler.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33688,9 +33688,9 @@ var require_Handler = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js
+// node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js
 var require_HTMLMathItem = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html/HTMLMathItem.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33803,9 +33803,9 @@ var require_HTMLMathItem = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html/HTMLMathList.js
+// node_modules/mathjax-full/js/handlers/html/HTMLMathList.js
 var require_HTMLMathList = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html/HTMLMathList.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html/HTMLMathList.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -33840,9 +33840,9 @@ var require_HTMLMathList = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js
+// node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js
 var require_HTMLDomStrings = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html/HTMLDomStrings.js"(exports2) {
     "use strict";
     var __read = exports2 && exports2.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -33974,9 +33974,9 @@ var require_HTMLDomStrings = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html/HTMLDocument.js
+// node_modules/mathjax-full/js/handlers/html/HTMLDocument.js
 var require_HTMLDocument = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html/HTMLDocument.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html/HTMLDocument.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34254,9 +34254,9 @@ var require_HTMLDocument = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html/HTMLHandler.js
+// node_modules/mathjax-full/js/handlers/html/HTMLHandler.js
 var require_HTMLHandler = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html/HTMLHandler.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html/HTMLHandler.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34318,9 +34318,9 @@ var require_HTMLHandler = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/handlers/html.js
+// node_modules/mathjax-full/js/handlers/html.js
 var require_html = __commonJS({
-  "../../../node_modules/mathjax-full/js/handlers/html.js"(exports2) {
+  "node_modules/mathjax-full/js/handlers/html.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RegisterHTMLHandler = void 0;
@@ -34335,9 +34335,9 @@ var require_html = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsItems.js
+// node_modules/mathjax-full/js/input/tex/ams/AmsItems.js
 var require_AmsItems = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsItems.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ams/AmsItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -34515,9 +34515,9 @@ var require_AmsItems = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js
+// node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js
 var require_AmsMethods = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ams/AmsMethods.js"(exports2) {
     "use strict";
     var __assign = exports2 && exports2.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -34859,9 +34859,9 @@ var require_AmsMethods = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js
+// node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js
 var require_AmsMappings = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ams/AmsMappings.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35253,9 +35253,9 @@ var require_AmsMappings = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js
+// node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js
 var require_AmsConfiguration = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/ams/AmsConfiguration.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -35335,9 +35335,9 @@ var require_AmsConfiguration = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js
+// node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js
 var require_NewcommandItems = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/newcommand/NewcommandItems.js"(exports2) {
     "use strict";
     var __extends = exports2 && exports2.__extends || /* @__PURE__ */ (function() {
       var extendStatics = function(d, b) {
@@ -35402,9 +35402,9 @@ var require_NewcommandItems = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js
+// node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js
 var require_NewcommandUtil = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/newcommand/NewcommandUtil.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -35552,8 +35552,8 @@ var require_NewcommandUtil = __commonJS({
       }
       NewcommandUtil2.MatchParam = MatchParam;
       function addDelimiter(parser, cs, char, attr) {
-        var handlers = parser.configuration.handlers;
-        var handler = handlers.retrieve(NewcommandUtil2.NEW_DELIMITER);
+        var handlers2 = parser.configuration.handlers;
+        var handler = handlers2.retrieve(NewcommandUtil2.NEW_DELIMITER);
         handler.add(cs, new Symbol_js_1.Symbol(cs, char, attr));
       }
       NewcommandUtil2.addDelimiter = addDelimiter;
@@ -35561,14 +35561,14 @@ var require_NewcommandUtil = __commonJS({
         if (symbol2 === void 0) {
           symbol2 = "";
         }
-        var handlers = parser.configuration.handlers;
-        var handler = handlers.retrieve(NewcommandUtil2.NEW_COMMAND);
+        var handlers2 = parser.configuration.handlers;
+        var handler = handlers2.retrieve(NewcommandUtil2.NEW_COMMAND);
         handler.add(cs, new Symbol_js_1.Macro(symbol2 ? symbol2 : cs, func, attr));
       }
       NewcommandUtil2.addMacro = addMacro;
       function addEnvironment(parser, env, func, attr) {
-        var handlers = parser.configuration.handlers;
-        var handler = handlers.retrieve(NewcommandUtil2.NEW_ENVIRONMENT);
+        var handlers2 = parser.configuration.handlers;
+        var handler = handlers2.retrieve(NewcommandUtil2.NEW_ENVIRONMENT);
         handler.add(env, new Symbol_js_1.Macro(env, func, attr));
       }
       NewcommandUtil2.addEnvironment = addEnvironment;
@@ -35580,9 +35580,9 @@ var require_NewcommandUtil = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js
+// node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js
 var require_NewcommandMethods = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMethods.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35649,15 +35649,15 @@ var require_NewcommandMethods = __commonJS({
         parser.i++;
         c = parser.GetNext();
       }
-      var handlers = parser.configuration.handlers;
+      var handlers2 = parser.configuration.handlers;
       if (c === "\\") {
         name = NewcommandUtil_js_1.default.GetCSname(parser, name);
-        var macro_1 = handlers.get("delimiter").lookup("\\" + name);
+        var macro_1 = handlers2.get("delimiter").lookup("\\" + name);
         if (macro_1) {
           NewcommandUtil_js_1.default.addDelimiter(parser, "\\" + cs, macro_1.char, macro_1.attributes);
           return;
         }
-        var map_1 = handlers.get("macro").applicable(name);
+        var map_1 = handlers2.get("macro").applicable(name);
         if (!map_1) {
           return;
         }
@@ -35680,7 +35680,7 @@ var require_NewcommandMethods = __commonJS({
         return;
       }
       parser.i++;
-      var macro = handlers.get("delimiter").lookup(c);
+      var macro = handlers2.get("delimiter").lookup(c);
       if (macro) {
         NewcommandUtil_js_1.default.addDelimiter(parser, "\\" + cs, macro.char, macro.attributes);
         return;
@@ -35740,9 +35740,9 @@ var require_NewcommandMethods = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js
+// node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js
 var require_NewcommandMappings = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/newcommand/NewcommandMappings.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -35761,9 +35761,9 @@ var require_NewcommandMappings = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js
+// node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js
 var require_NewcommandConfiguration = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/newcommand/NewcommandConfiguration.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -35832,9 +35832,9 @@ var require_NewcommandConfiguration = __commonJS({
   }
 });
 
-// ../../../node_modules/mhchemparser/dist/mhchemParser.js
+// node_modules/mhchemparser/dist/mhchemParser.js
 var require_mhchemParser = __commonJS({
-  "../../../node_modules/mhchemparser/dist/mhchemParser.js"(exports2) {
+  "node_modules/mhchemparser/dist/mhchemParser.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.mhchemParser = void 0;
@@ -37715,9 +37715,9 @@ var require_mhchemParser = __commonJS({
   }
 });
 
-// ../../../node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js
+// node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js
 var require_MhchemConfiguration = __commonJS({
-  "../../../node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js"(exports2) {
+  "node_modules/mathjax-full/js/input/tex/mhchem/MhchemConfiguration.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -37776,9 +37776,9 @@ var require_MhchemConfiguration = __commonJS({
   }
 });
 
-// ../../../node_modules/process-nextick-args/index.js
+// node_modules/process-nextick-args/index.js
 var require_process_nextick_args = __commonJS({
-  "../../../node_modules/process-nextick-args/index.js"(exports2, module2) {
+  "node_modules/process-nextick-args/index.js"(exports2, module2) {
     "use strict";
     if (typeof process === "undefined" || !process.version || process.version.indexOf("v0.") === 0 || process.version.indexOf("v1.") === 0 && process.version.indexOf("v1.8.") !== 0) {
       module2.exports = { nextTick };
@@ -37821,9 +37821,9 @@ var require_process_nextick_args = __commonJS({
   }
 });
 
-// ../../../node_modules/isarray/index.js
+// node_modules/isarray/index.js
 var require_isarray = __commonJS({
-  "../../../node_modules/isarray/index.js"(exports2, module2) {
+  "node_modules/isarray/index.js"(exports2, module2) {
     var toString = {}.toString;
     module2.exports = Array.isArray || function(arr) {
       return toString.call(arr) == "[object Array]";
@@ -37831,16 +37831,16 @@ var require_isarray = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/internal/streams/stream.js
+// node_modules/readable-stream/lib/internal/streams/stream.js
 var require_stream = __commonJS({
-  "../../../node_modules/readable-stream/lib/internal/streams/stream.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/internal/streams/stream.js"(exports2, module2) {
     module2.exports = require("stream");
   }
 });
 
-// ../../../node_modules/safe-buffer/index.js
+// node_modules/safe-buffer/index.js
 var require_safe_buffer = __commonJS({
-  "../../../node_modules/safe-buffer/index.js"(exports2, module2) {
+  "node_modules/safe-buffer/index.js"(exports2, module2) {
     var buffer = require("buffer");
     var Buffer2 = buffer.Buffer;
     function copyProps(src, dst) {
@@ -37895,9 +37895,9 @@ var require_safe_buffer = __commonJS({
   }
 });
 
-// ../../../node_modules/core-util-is/lib/util.js
+// node_modules/core-util-is/lib/util.js
 var require_util = __commonJS({
-  "../../../node_modules/core-util-is/lib/util.js"(exports2) {
+  "node_modules/core-util-is/lib/util.js"(exports2) {
     function isArray(arg) {
       if (Array.isArray) {
         return Array.isArray(arg);
@@ -37965,9 +37965,9 @@ var require_util = __commonJS({
   }
 });
 
-// ../../../node_modules/inherits/inherits_browser.js
+// node_modules/inherits/inherits_browser.js
 var require_inherits_browser = __commonJS({
-  "../../../node_modules/inherits/inherits_browser.js"(exports2, module2) {
+  "node_modules/inherits/inherits_browser.js"(exports2, module2) {
     if (typeof Object.create === "function") {
       module2.exports = function inherits(ctor, superCtor) {
         if (superCtor) {
@@ -37997,9 +37997,9 @@ var require_inherits_browser = __commonJS({
   }
 });
 
-// ../../../node_modules/inherits/inherits.js
+// node_modules/inherits/inherits.js
 var require_inherits = __commonJS({
-  "../../../node_modules/inherits/inherits.js"(exports2, module2) {
+  "node_modules/inherits/inherits.js"(exports2, module2) {
     try {
       util = require("util");
       if (typeof util.inherits !== "function") throw "";
@@ -38011,9 +38011,9 @@ var require_inherits = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/internal/streams/BufferList.js
+// node_modules/readable-stream/lib/internal/streams/BufferList.js
 var require_BufferList = __commonJS({
-  "../../../node_modules/readable-stream/lib/internal/streams/BufferList.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/internal/streams/BufferList.js"(exports2, module2) {
     "use strict";
     function _classCallCheck(instance, Constructor) {
       if (!(instance instanceof Constructor)) {
@@ -38089,9 +38089,9 @@ var require_BufferList = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/internal/streams/destroy.js
+// node_modules/readable-stream/lib/internal/streams/destroy.js
 var require_destroy = __commonJS({
-  "../../../node_modules/readable-stream/lib/internal/streams/destroy.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/internal/streams/destroy.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     function destroy(err2, cb) {
@@ -38158,16 +38158,16 @@ var require_destroy = __commonJS({
   }
 });
 
-// ../../../node_modules/util-deprecate/node.js
+// node_modules/util-deprecate/node.js
 var require_node = __commonJS({
-  "../../../node_modules/util-deprecate/node.js"(exports2, module2) {
+  "node_modules/util-deprecate/node.js"(exports2, module2) {
     module2.exports = require("util").deprecate;
   }
 });
 
-// ../../../node_modules/readable-stream/lib/_stream_writable.js
+// node_modules/readable-stream/lib/_stream_writable.js
 var require_stream_writable = __commonJS({
-  "../../../node_modules/readable-stream/lib/_stream_writable.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/_stream_writable.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     module2.exports = Writable;
@@ -38605,9 +38605,9 @@ var require_stream_writable = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/_stream_duplex.js
+// node_modules/readable-stream/lib/_stream_duplex.js
 var require_stream_duplex = __commonJS({
-  "../../../node_modules/readable-stream/lib/_stream_duplex.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/_stream_duplex.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     var objectKeys = Object.keys || function(obj) {
@@ -38682,9 +38682,9 @@ var require_stream_duplex = __commonJS({
   }
 });
 
-// ../../../node_modules/string_decoder/lib/string_decoder.js
+// node_modules/string_decoder/lib/string_decoder.js
 var require_string_decoder = __commonJS({
-  "../../../node_modules/string_decoder/lib/string_decoder.js"(exports2) {
+  "node_modules/string_decoder/lib/string_decoder.js"(exports2) {
     "use strict";
     var Buffer2 = require_safe_buffer().Buffer;
     var isEncoding = Buffer2.isEncoding || function(encoding) {
@@ -38920,9 +38920,9 @@ var require_string_decoder = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/_stream_readable.js
+// node_modules/readable-stream/lib/_stream_readable.js
 var require_stream_readable = __commonJS({
-  "../../../node_modules/readable-stream/lib/_stream_readable.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/_stream_readable.js"(exports2, module2) {
     "use strict";
     var pna = require_process_nextick_args();
     module2.exports = Readable;
@@ -39606,9 +39606,9 @@ var require_stream_readable = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/_stream_transform.js
+// node_modules/readable-stream/lib/_stream_transform.js
 var require_stream_transform = __commonJS({
-  "../../../node_modules/readable-stream/lib/_stream_transform.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/_stream_transform.js"(exports2, module2) {
     "use strict";
     module2.exports = Transform;
     var Duplex = require_stream_duplex();
@@ -39706,9 +39706,9 @@ var require_stream_transform = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/lib/_stream_passthrough.js
+// node_modules/readable-stream/lib/_stream_passthrough.js
 var require_stream_passthrough = __commonJS({
-  "../../../node_modules/readable-stream/lib/_stream_passthrough.js"(exports2, module2) {
+  "node_modules/readable-stream/lib/_stream_passthrough.js"(exports2, module2) {
     "use strict";
     module2.exports = PassThrough;
     var Transform = require_stream_transform();
@@ -39725,9 +39725,9 @@ var require_stream_passthrough = __commonJS({
   }
 });
 
-// ../../../node_modules/readable-stream/readable.js
+// node_modules/readable-stream/readable.js
 var require_readable = __commonJS({
-  "../../../node_modules/readable-stream/readable.js"(exports2, module2) {
+  "node_modules/readable-stream/readable.js"(exports2, module2) {
     var Stream = require("stream");
     if (process.env.READABLE_STREAM === "disable" && Stream) {
       module2.exports = Stream;
@@ -39750,9 +39750,9 @@ var require_readable = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/support.js
+// node_modules/jszip/lib/support.js
 var require_support = __commonJS({
-  "../../../node_modules/jszip/lib/support.js"(exports2) {
+  "node_modules/jszip/lib/support.js"(exports2) {
     "use strict";
     exports2.base64 = true;
     exports2.array = true;
@@ -39790,9 +39790,9 @@ var require_support = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/base64.js
+// node_modules/jszip/lib/base64.js
 var require_base64 = __commonJS({
-  "../../../node_modules/jszip/lib/base64.js"(exports2) {
+  "node_modules/jszip/lib/base64.js"(exports2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -39867,9 +39867,9 @@ var require_base64 = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/nodejsUtils.js
+// node_modules/jszip/lib/nodejsUtils.js
 var require_nodejsUtils = __commonJS({
-  "../../../node_modules/jszip/lib/nodejsUtils.js"(exports2, module2) {
+  "node_modules/jszip/lib/nodejsUtils.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       /**
@@ -39923,9 +39923,9 @@ var require_nodejsUtils = __commonJS({
   }
 });
 
-// ../../../node_modules/immediate/lib/index.js
+// node_modules/immediate/lib/index.js
 var require_lib = __commonJS({
-  "../../../node_modules/immediate/lib/index.js"(exports2, module2) {
+  "node_modules/immediate/lib/index.js"(exports2, module2) {
     "use strict";
     var Mutation = global.MutationObserver || global.WebKitMutationObserver;
     var scheduleDrain;
@@ -39997,14 +39997,14 @@ var require_lib = __commonJS({
   }
 });
 
-// ../../../node_modules/lie/lib/index.js
+// node_modules/lie/lib/index.js
 var require_lib2 = __commonJS({
-  "../../../node_modules/lie/lib/index.js"(exports2, module2) {
+  "node_modules/lie/lib/index.js"(exports2, module2) {
     "use strict";
     var immediate = require_lib();
     function INTERNAL() {
     }
-    var handlers = {};
+    var handlers2 = {};
     var REJECTED = ["REJECTED"];
     var FULFILLED = ["FULFILLED"];
     var PENDING = ["PENDING"];
@@ -40079,13 +40079,13 @@ var require_lib2 = __commonJS({
       }
     }
     QueueItem.prototype.callFulfilled = function(value2) {
-      handlers.resolve(this.promise, value2);
+      handlers2.resolve(this.promise, value2);
     };
     QueueItem.prototype.otherCallFulfilled = function(value2) {
       unwrap(this.promise, this.onFulfilled, value2);
     };
     QueueItem.prototype.callRejected = function(value2) {
-      handlers.reject(this.promise, value2);
+      handlers2.reject(this.promise, value2);
     };
     QueueItem.prototype.otherCallRejected = function(value2) {
       unwrap(this.promise, this.onRejected, value2);
@@ -40096,19 +40096,19 @@ var require_lib2 = __commonJS({
         try {
           returnValue = func(value2);
         } catch (e) {
-          return handlers.reject(promise2, e);
+          return handlers2.reject(promise2, e);
         }
         if (returnValue === promise2) {
-          handlers.reject(promise2, new TypeError("Cannot resolve promise with itself"));
+          handlers2.reject(promise2, new TypeError("Cannot resolve promise with itself"));
         } else {
-          handlers.resolve(promise2, returnValue);
+          handlers2.resolve(promise2, returnValue);
         }
       });
     }
-    handlers.resolve = function(self2, value2) {
+    handlers2.resolve = function(self2, value2) {
       var result = tryCatch(getThen, value2);
       if (result.status === "error") {
-        return handlers.reject(self2, result.value);
+        return handlers2.reject(self2, result.value);
       }
       var thenable = result.value;
       if (thenable) {
@@ -40124,7 +40124,7 @@ var require_lib2 = __commonJS({
       }
       return self2;
     };
-    handlers.reject = function(self2, error62) {
+    handlers2.reject = function(self2, error62) {
       self2.state = REJECTED;
       self2.outcome = error62;
       if (!process.browser) {
@@ -40158,14 +40158,14 @@ var require_lib2 = __commonJS({
           return;
         }
         called = true;
-        handlers.reject(self2, value2);
+        handlers2.reject(self2, value2);
       }
       function onSuccess(value2) {
         if (called) {
           return;
         }
         called = true;
-        handlers.resolve(self2, value2);
+        handlers2.resolve(self2, value2);
       }
       function tryToUnwrap() {
         thenable(onSuccess, onError);
@@ -40191,12 +40191,12 @@ var require_lib2 = __commonJS({
       if (value2 instanceof this) {
         return value2;
       }
-      return handlers.resolve(new this(INTERNAL), value2);
+      return handlers2.resolve(new this(INTERNAL), value2);
     }
     Promise2.reject = reject;
     function reject(reason) {
       var promise2 = new this(INTERNAL);
-      return handlers.reject(promise2, reason);
+      return handlers2.reject(promise2, reason);
     }
     Promise2.all = all;
     function all(iterable) {
@@ -40221,14 +40221,14 @@ var require_lib2 = __commonJS({
         self2.resolve(value2).then(resolveFromAll, function(error62) {
           if (!called) {
             called = true;
-            handlers.reject(promise2, error62);
+            handlers2.reject(promise2, error62);
           }
         });
         function resolveFromAll(outValue) {
           values[i2] = outValue;
           if (++resolved === len && !called) {
             called = true;
-            handlers.resolve(promise2, values);
+            handlers2.resolve(promise2, values);
           }
         }
       }
@@ -40254,12 +40254,12 @@ var require_lib2 = __commonJS({
         self2.resolve(value2).then(function(response) {
           if (!called) {
             called = true;
-            handlers.resolve(promise2, response);
+            handlers2.resolve(promise2, response);
           }
         }, function(error62) {
           if (!called) {
             called = true;
-            handlers.reject(promise2, error62);
+            handlers2.reject(promise2, error62);
           }
         });
       }
@@ -40267,9 +40267,9 @@ var require_lib2 = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/external.js
+// node_modules/jszip/lib/external.js
 var require_external = __commonJS({
-  "../../../node_modules/jszip/lib/external.js"(exports2, module2) {
+  "node_modules/jszip/lib/external.js"(exports2, module2) {
     "use strict";
     var ES6Promise = null;
     if (typeof Promise !== "undefined") {
@@ -40283,9 +40283,9 @@ var require_external = __commonJS({
   }
 });
 
-// ../../../node_modules/setimmediate/setImmediate.js
+// node_modules/setimmediate/setImmediate.js
 var require_setImmediate = __commonJS({
-  "../../../node_modules/setimmediate/setImmediate.js"(exports2) {
+  "node_modules/setimmediate/setImmediate.js"(exports2) {
     (function(global2, undefined2) {
       "use strict";
       if (global2.setImmediate) {
@@ -40431,9 +40431,9 @@ var require_setImmediate = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/utils.js
+// node_modules/jszip/lib/utils.js
 var require_utils = __commonJS({
-  "../../../node_modules/jszip/lib/utils.js"(exports2) {
+  "node_modules/jszip/lib/utils.js"(exports2) {
     "use strict";
     var support = require_support();
     var base643 = require_base64();
@@ -40764,9 +40764,9 @@ var require_utils = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/GenericWorker.js
+// node_modules/jszip/lib/stream/GenericWorker.js
 var require_GenericWorker = __commonJS({
-  "../../../node_modules/jszip/lib/stream/GenericWorker.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/GenericWorker.js"(exports2, module2) {
     "use strict";
     function GenericWorker(name) {
       this.name = name || "default";
@@ -40991,9 +40991,9 @@ var require_GenericWorker = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/utf8.js
+// node_modules/jszip/lib/utf8.js
 var require_utf8 = __commonJS({
-  "../../../node_modules/jszip/lib/utf8.js"(exports2) {
+  "node_modules/jszip/lib/utf8.js"(exports2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -41181,9 +41181,9 @@ var require_utf8 = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/ConvertWorker.js
+// node_modules/jszip/lib/stream/ConvertWorker.js
 var require_ConvertWorker = __commonJS({
-  "../../../node_modules/jszip/lib/stream/ConvertWorker.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/ConvertWorker.js"(exports2, module2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     var utils = require_utils();
@@ -41202,9 +41202,9 @@ var require_ConvertWorker = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js
+// node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js
 var require_NodejsStreamOutputAdapter = __commonJS({
-  "../../../node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js"(exports2, module2) {
+  "node_modules/jszip/lib/nodejs/NodejsStreamOutputAdapter.js"(exports2, module2) {
     "use strict";
     var Readable = require_readable().Readable;
     var utils = require_utils();
@@ -41233,9 +41233,9 @@ var require_NodejsStreamOutputAdapter = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/StreamHelper.js
+// node_modules/jszip/lib/stream/StreamHelper.js
 var require_StreamHelper = __commonJS({
-  "../../../node_modules/jszip/lib/stream/StreamHelper.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/StreamHelper.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var ConvertWorker = require_ConvertWorker();
@@ -41393,9 +41393,9 @@ var require_StreamHelper = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/defaults.js
+// node_modules/jszip/lib/defaults.js
 var require_defaults = __commonJS({
-  "../../../node_modules/jszip/lib/defaults.js"(exports2) {
+  "node_modules/jszip/lib/defaults.js"(exports2) {
     "use strict";
     exports2.base64 = false;
     exports2.binary = false;
@@ -41410,9 +41410,9 @@ var require_defaults = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/DataWorker.js
+// node_modules/jszip/lib/stream/DataWorker.js
 var require_DataWorker = __commonJS({
-  "../../../node_modules/jszip/lib/stream/DataWorker.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/DataWorker.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -41498,9 +41498,9 @@ var require_DataWorker = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/crc32.js
+// node_modules/jszip/lib/crc32.js
 var require_crc32 = __commonJS({
-  "../../../node_modules/jszip/lib/crc32.js"(exports2, module2) {
+  "node_modules/jszip/lib/crc32.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     function makeTable() {
@@ -41545,9 +41545,9 @@ var require_crc32 = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/Crc32Probe.js
+// node_modules/jszip/lib/stream/Crc32Probe.js
 var require_Crc32Probe = __commonJS({
-  "../../../node_modules/jszip/lib/stream/Crc32Probe.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/Crc32Probe.js"(exports2, module2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     var crc32 = require_crc32();
@@ -41565,9 +41565,9 @@ var require_Crc32Probe = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/stream/DataLengthProbe.js
+// node_modules/jszip/lib/stream/DataLengthProbe.js
 var require_DataLengthProbe = __commonJS({
-  "../../../node_modules/jszip/lib/stream/DataLengthProbe.js"(exports2, module2) {
+  "node_modules/jszip/lib/stream/DataLengthProbe.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -41588,9 +41588,9 @@ var require_DataLengthProbe = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/compressedObject.js
+// node_modules/jszip/lib/compressedObject.js
 var require_compressedObject = __commonJS({
-  "../../../node_modules/jszip/lib/compressedObject.js"(exports2, module2) {
+  "node_modules/jszip/lib/compressedObject.js"(exports2, module2) {
     "use strict";
     var external = require_external();
     var DataWorker = require_DataWorker();
@@ -41633,9 +41633,9 @@ var require_compressedObject = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/zipObject.js
+// node_modules/jszip/lib/zipObject.js
 var require_zipObject = __commonJS({
-  "../../../node_modules/jszip/lib/zipObject.js"(exports2, module2) {
+  "node_modules/jszip/lib/zipObject.js"(exports2, module2) {
     "use strict";
     var StreamHelper = require_StreamHelper();
     var DataWorker = require_DataWorker();
@@ -41750,9 +41750,9 @@ var require_zipObject = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/utils/common.js
+// node_modules/pako/lib/utils/common.js
 var require_common = __commonJS({
-  "../../../node_modules/pako/lib/utils/common.js"(exports2) {
+  "node_modules/pako/lib/utils/common.js"(exports2) {
     "use strict";
     var TYPED_OK = typeof Uint8Array !== "undefined" && typeof Uint16Array !== "undefined" && typeof Int32Array !== "undefined";
     function _has(obj, key) {
@@ -41841,9 +41841,9 @@ var require_common = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/trees.js
+// node_modules/pako/lib/zlib/trees.js
 var require_trees = __commonJS({
-  "../../../node_modules/pako/lib/zlib/trees.js"(exports2) {
+  "node_modules/pako/lib/zlib/trees.js"(exports2) {
     "use strict";
     var utils = require_common();
     var Z_FIXED = 4;
@@ -42483,9 +42483,9 @@ var require_trees = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/adler32.js
+// node_modules/pako/lib/zlib/adler32.js
 var require_adler32 = __commonJS({
-  "../../../node_modules/pako/lib/zlib/adler32.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/adler32.js"(exports2, module2) {
     "use strict";
     function adler32(adler, buf, len, pos) {
       var s1 = adler & 65535 | 0, s2 = adler >>> 16 & 65535 | 0, n = 0;
@@ -42505,9 +42505,9 @@ var require_adler32 = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/crc32.js
+// node_modules/pako/lib/zlib/crc32.js
 var require_crc322 = __commonJS({
-  "../../../node_modules/pako/lib/zlib/crc32.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/crc32.js"(exports2, module2) {
     "use strict";
     function makeTable() {
       var c, table = [];
@@ -42533,9 +42533,9 @@ var require_crc322 = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/messages.js
+// node_modules/pako/lib/zlib/messages.js
 var require_messages = __commonJS({
-  "../../../node_modules/pako/lib/zlib/messages.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/messages.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       2: "need dictionary",
@@ -42560,9 +42560,9 @@ var require_messages = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/deflate.js
+// node_modules/pako/lib/zlib/deflate.js
 var require_deflate = __commonJS({
-  "../../../node_modules/pako/lib/zlib/deflate.js"(exports2) {
+  "node_modules/pako/lib/zlib/deflate.js"(exports2) {
     "use strict";
     var utils = require_common();
     var trees = require_trees();
@@ -43609,9 +43609,9 @@ var require_deflate = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/utils/strings.js
+// node_modules/pako/lib/utils/strings.js
 var require_strings = __commonJS({
-  "../../../node_modules/pako/lib/utils/strings.js"(exports2) {
+  "node_modules/pako/lib/utils/strings.js"(exports2) {
     "use strict";
     var utils = require_common();
     var STR_APPLY_OK = true;
@@ -43751,9 +43751,9 @@ var require_strings = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/zstream.js
+// node_modules/pako/lib/zlib/zstream.js
 var require_zstream = __commonJS({
-  "../../../node_modules/pako/lib/zlib/zstream.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/zstream.js"(exports2, module2) {
     "use strict";
     function ZStream() {
       this.input = null;
@@ -43773,9 +43773,9 @@ var require_zstream = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/deflate.js
+// node_modules/pako/lib/deflate.js
 var require_deflate2 = __commonJS({
-  "../../../node_modules/pako/lib/deflate.js"(exports2) {
+  "node_modules/pako/lib/deflate.js"(exports2) {
     "use strict";
     var zlib_deflate = require_deflate();
     var utils = require_common();
@@ -43934,9 +43934,9 @@ var require_deflate2 = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/inffast.js
+// node_modules/pako/lib/zlib/inffast.js
 var require_inffast = __commonJS({
-  "../../../node_modules/pako/lib/zlib/inffast.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/inffast.js"(exports2, module2) {
     "use strict";
     var BAD = 30;
     var TYPE = 12;
@@ -44163,9 +44163,9 @@ var require_inffast = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/inftrees.js
+// node_modules/pako/lib/zlib/inftrees.js
 var require_inftrees = __commonJS({
-  "../../../node_modules/pako/lib/zlib/inftrees.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/inftrees.js"(exports2, module2) {
     "use strict";
     var utils = require_common();
     var MAXBITS = 15;
@@ -44479,9 +44479,9 @@ var require_inftrees = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/inflate.js
+// node_modules/pako/lib/zlib/inflate.js
 var require_inflate = __commonJS({
-  "../../../node_modules/pako/lib/zlib/inflate.js"(exports2) {
+  "node_modules/pako/lib/zlib/inflate.js"(exports2) {
     "use strict";
     var utils = require_common();
     var adler32 = require_adler32();
@@ -45718,9 +45718,9 @@ var require_inflate = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/constants.js
+// node_modules/pako/lib/zlib/constants.js
 var require_constants = __commonJS({
-  "../../../node_modules/pako/lib/zlib/constants.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/constants.js"(exports2, module2) {
     "use strict";
     module2.exports = {
       /* Allowed flush values; see deflate() and inflate() below for details */
@@ -45765,9 +45765,9 @@ var require_constants = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/zlib/gzheader.js
+// node_modules/pako/lib/zlib/gzheader.js
 var require_gzheader = __commonJS({
-  "../../../node_modules/pako/lib/zlib/gzheader.js"(exports2, module2) {
+  "node_modules/pako/lib/zlib/gzheader.js"(exports2, module2) {
     "use strict";
     function GZheader() {
       this.text = 0;
@@ -45785,9 +45785,9 @@ var require_gzheader = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/lib/inflate.js
+// node_modules/pako/lib/inflate.js
 var require_inflate2 = __commonJS({
-  "../../../node_modules/pako/lib/inflate.js"(exports2) {
+  "node_modules/pako/lib/inflate.js"(exports2) {
     "use strict";
     var zlib_inflate = require_inflate();
     var utils = require_common();
@@ -45959,9 +45959,9 @@ var require_inflate2 = __commonJS({
   }
 });
 
-// ../../../node_modules/pako/index.js
+// node_modules/pako/index.js
 var require_pako = __commonJS({
-  "../../../node_modules/pako/index.js"(exports2, module2) {
+  "node_modules/pako/index.js"(exports2, module2) {
     "use strict";
     var assign = require_common().assign;
     var deflate = require_deflate2();
@@ -45973,9 +45973,9 @@ var require_pako = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/flate.js
+// node_modules/jszip/lib/flate.js
 var require_flate = __commonJS({
-  "../../../node_modules/jszip/lib/flate.js"(exports2) {
+  "node_modules/jszip/lib/flate.js"(exports2) {
     "use strict";
     var USE_TYPEDARRAY = typeof Uint8Array !== "undefined" && typeof Uint16Array !== "undefined" && typeof Uint32Array !== "undefined";
     var pako = require_pako();
@@ -46032,9 +46032,9 @@ var require_flate = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/compressions.js
+// node_modules/jszip/lib/compressions.js
 var require_compressions = __commonJS({
-  "../../../node_modules/jszip/lib/compressions.js"(exports2) {
+  "node_modules/jszip/lib/compressions.js"(exports2) {
     "use strict";
     var GenericWorker = require_GenericWorker();
     exports2.STORE = {
@@ -46050,9 +46050,9 @@ var require_compressions = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/signature.js
+// node_modules/jszip/lib/signature.js
 var require_signature = __commonJS({
-  "../../../node_modules/jszip/lib/signature.js"(exports2) {
+  "node_modules/jszip/lib/signature.js"(exports2) {
     "use strict";
     exports2.LOCAL_FILE_HEADER = "PK";
     exports2.CENTRAL_FILE_HEADER = "PK";
@@ -46063,9 +46063,9 @@ var require_signature = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/generate/ZipFileWorker.js
+// node_modules/jszip/lib/generate/ZipFileWorker.js
 var require_ZipFileWorker = __commonJS({
-  "../../../node_modules/jszip/lib/generate/ZipFileWorker.js"(exports2, module2) {
+  "node_modules/jszip/lib/generate/ZipFileWorker.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -46347,9 +46347,9 @@ var require_ZipFileWorker = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/generate/index.js
+// node_modules/jszip/lib/generate/index.js
 var require_generate = __commonJS({
-  "../../../node_modules/jszip/lib/generate/index.js"(exports2) {
+  "node_modules/jszip/lib/generate/index.js"(exports2) {
     "use strict";
     var compressions = require_compressions();
     var ZipFileWorker = require_ZipFileWorker();
@@ -46388,9 +46388,9 @@ var require_generate = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js
+// node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js
 var require_NodejsStreamInputAdapter = __commonJS({
-  "../../../node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js"(exports2, module2) {
+  "node_modules/jszip/lib/nodejs/NodejsStreamInputAdapter.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var GenericWorker = require_GenericWorker();
@@ -46447,9 +46447,9 @@ var require_NodejsStreamInputAdapter = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/object.js
+// node_modules/jszip/lib/object.js
 var require_object = __commonJS({
-  "../../../node_modules/jszip/lib/object.js"(exports2, module2) {
+  "node_modules/jszip/lib/object.js"(exports2, module2) {
     "use strict";
     var utf8 = require_utf8();
     var utils = require_utils();
@@ -46720,9 +46720,9 @@ var require_object = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/DataReader.js
+// node_modules/jszip/lib/reader/DataReader.js
 var require_DataReader = __commonJS({
-  "../../../node_modules/jszip/lib/reader/DataReader.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/DataReader.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     function DataReader(data) {
@@ -46842,9 +46842,9 @@ var require_DataReader = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/ArrayReader.js
+// node_modules/jszip/lib/reader/ArrayReader.js
 var require_ArrayReader = __commonJS({
-  "../../../node_modules/jszip/lib/reader/ArrayReader.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/ArrayReader.js"(exports2, module2) {
     "use strict";
     var DataReader = require_DataReader();
     var utils = require_utils();
@@ -46884,9 +46884,9 @@ var require_ArrayReader = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/StringReader.js
+// node_modules/jszip/lib/reader/StringReader.js
 var require_StringReader = __commonJS({
-  "../../../node_modules/jszip/lib/reader/StringReader.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/StringReader.js"(exports2, module2) {
     "use strict";
     var DataReader = require_DataReader();
     var utils = require_utils();
@@ -46914,9 +46914,9 @@ var require_StringReader = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/Uint8ArrayReader.js
+// node_modules/jszip/lib/reader/Uint8ArrayReader.js
 var require_Uint8ArrayReader = __commonJS({
-  "../../../node_modules/jszip/lib/reader/Uint8ArrayReader.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/Uint8ArrayReader.js"(exports2, module2) {
     "use strict";
     var ArrayReader = require_ArrayReader();
     var utils = require_utils();
@@ -46937,9 +46937,9 @@ var require_Uint8ArrayReader = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/NodeBufferReader.js
+// node_modules/jszip/lib/reader/NodeBufferReader.js
 var require_NodeBufferReader = __commonJS({
-  "../../../node_modules/jszip/lib/reader/NodeBufferReader.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/NodeBufferReader.js"(exports2, module2) {
     "use strict";
     var Uint8ArrayReader = require_Uint8ArrayReader();
     var utils = require_utils();
@@ -46957,9 +46957,9 @@ var require_NodeBufferReader = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/reader/readerFor.js
+// node_modules/jszip/lib/reader/readerFor.js
 var require_readerFor = __commonJS({
-  "../../../node_modules/jszip/lib/reader/readerFor.js"(exports2, module2) {
+  "node_modules/jszip/lib/reader/readerFor.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var support = require_support();
@@ -46984,9 +46984,9 @@ var require_readerFor = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/zipEntry.js
+// node_modules/jszip/lib/zipEntry.js
 var require_zipEntry = __commonJS({
-  "../../../node_modules/jszip/lib/zipEntry.js"(exports2, module2) {
+  "node_modules/jszip/lib/zipEntry.js"(exports2, module2) {
     "use strict";
     var readerFor = require_readerFor();
     var utils = require_utils();
@@ -47202,9 +47202,9 @@ var require_zipEntry = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/zipEntries.js
+// node_modules/jszip/lib/zipEntries.js
 var require_zipEntries = __commonJS({
-  "../../../node_modules/jszip/lib/zipEntries.js"(exports2, module2) {
+  "node_modules/jszip/lib/zipEntries.js"(exports2, module2) {
     "use strict";
     var readerFor = require_readerFor();
     var utils = require_utils();
@@ -47400,9 +47400,9 @@ var require_zipEntries = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/load.js
+// node_modules/jszip/lib/load.js
 var require_load = __commonJS({
-  "../../../node_modules/jszip/lib/load.js"(exports2, module2) {
+  "node_modules/jszip/lib/load.js"(exports2, module2) {
     "use strict";
     var utils = require_utils();
     var external = require_external();
@@ -47479,9 +47479,9 @@ var require_load = __commonJS({
   }
 });
 
-// ../../../node_modules/jszip/lib/index.js
+// node_modules/jszip/lib/index.js
 var require_lib3 = __commonJS({
-  "../../../node_modules/jszip/lib/index.js"(exports2, module2) {
+  "node_modules/jszip/lib/index.js"(exports2, module2) {
     "use strict";
     function JSZip2() {
       if (!(this instanceof JSZip2)) {
@@ -47516,9 +47516,9 @@ var require_lib3 = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/conventions.js
+// node_modules/@xmldom/xmldom/lib/conventions.js
 var require_conventions = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/conventions.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/conventions.js"(exports2) {
     "use strict";
     function find(list, predicate, ac) {
       if (ac === void 0) {
@@ -47661,9 +47661,9 @@ var require_conventions = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/dom.js
+// node_modules/@xmldom/xmldom/lib/dom.js
 var require_dom = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/dom.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/dom.js"(exports2) {
     var conventions = require_conventions();
     var find = conventions.find;
     var NAMESPACE = conventions.NAMESPACE;
@@ -49291,9 +49291,9 @@ var require_dom = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/entities.js
+// node_modules/@xmldom/xmldom/lib/entities.js
 var require_entities = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/entities.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/entities.js"(exports2) {
     "use strict";
     var freeze = require_conventions().freeze;
     exports2.XML_ENTITIES = freeze({
@@ -51434,9 +51434,9 @@ var require_entities = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/sax.js
+// node_modules/@xmldom/xmldom/lib/sax.js
 var require_sax = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/sax.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/sax.js"(exports2) {
     var NAMESPACE = require_conventions().NAMESPACE;
     var tagNamePattern = require_conventions().tagNamePattern;
     var S_TAG = 0;
@@ -52026,9 +52026,9 @@ var require_sax = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/dom-parser.js
+// node_modules/@xmldom/xmldom/lib/dom-parser.js
 var require_dom_parser = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/dom-parser.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/dom-parser.js"(exports2) {
     var conventions = require_conventions();
     var dom = require_dom();
     var entities = require_entities();
@@ -52242,9 +52242,9 @@ var require_dom_parser = __commonJS({
   }
 });
 
-// ../../../node_modules/@xmldom/xmldom/lib/index.js
+// node_modules/@xmldom/xmldom/lib/index.js
 var require_lib4 = __commonJS({
-  "../../../node_modules/@xmldom/xmldom/lib/index.js"(exports2) {
+  "node_modules/@xmldom/xmldom/lib/index.js"(exports2) {
     var dom = require_dom();
     exports2.DOMImplementation = dom.DOMImplementation;
     exports2.XMLSerializer = dom.XMLSerializer;
@@ -52253,10 +52253,10 @@ var require_lib4 = __commonJS({
 });
 
 // skills/lesson-desk-export/tool/cli.ts
-var import_promises3 = require("node:fs/promises");
+var import_promises5 = require("node:fs/promises");
 var import_node_path5 = __toESM(require("node:path"));
 
-// ../../../node_modules/zod/v4/classic/external.js
+// node_modules/zod/v4/classic/external.js
 var external_exports = {};
 __export(external_exports, {
   $brand: () => $brand,
@@ -52519,7 +52519,7 @@ __export(external_exports, {
   xor: () => xor
 });
 
-// ../../../node_modules/zod/v4/core/index.js
+// node_modules/zod/v4/core/index.js
 var core_exports2 = {};
 __export(core_exports2, {
   $ZodAny: () => $ZodAny,
@@ -52836,7 +52836,7 @@ __export(core_exports2, {
   withParser: () => withParser
 });
 
-// ../../../node_modules/zod/v4/core/util.js
+// node_modules/zod/v4/core/util.js
 var util_exports = {};
 __export(util_exports, {
   BIGINT_FORMAT_RANGES: () => BIGINT_FORMAT_RANGES,
@@ -53480,11 +53480,11 @@ function getSizableOrigin(input2) {
 }
 var highSurrogate = /[\uD800-\uDBFF]/;
 function codePointLength(str3) {
-  const units = str3.length;
+  const units2 = str3.length;
   if (!highSurrogate.test(str3))
-    return units;
-  let count = units;
-  for (let i = 0; i < units - 1; i++) {
+    return units2;
+  let count = units2;
+  for (let i = 0; i < units2 - 1; i++) {
     if ((str3.charCodeAt(i) & 64512) === 55296 && (str3.charCodeAt(i + 1) & 64512) === 56320) {
       count--;
       i++;
@@ -53692,7 +53692,7 @@ function constantCatch(value2) {
   return fn;
 }
 
-// ../../../node_modules/zod/v4/core/core.js
+// node_modules/zod/v4/core/core.js
 var _a;
 var NEVER = /* @__PURE__ */ Object.freeze({
   status: "aborted"
@@ -53814,7 +53814,7 @@ function config(newConfig) {
   return globalConfig;
 }
 
-// ../../../node_modules/zod/v4/core/errors.js
+// node_modules/zod/v4/core/errors.js
 function _getMessage() {
   const internals = this._zod;
   internals.message ?? (internals.message = JSON.stringify(internals.def, jsonStringifyReplacer, 2));
@@ -53996,17 +53996,17 @@ function toDotPath(_path) {
   return segs.join("");
 }
 function prettifyError(error62) {
-  const lines2 = [];
+  const lines = [];
   const issues = [...error62.issues].sort((a, b) => (a.path ?? []).length - (b.path ?? []).length);
   for (const issue2 of issues) {
-    lines2.push(`\u2716 ${issue2.message}`);
+    lines.push(`\u2716 ${issue2.message}`);
     if (issue2.path?.length)
-      lines2.push(`  \u2192 at ${toDotPath(issue2.path)}`);
+      lines.push(`  \u2192 at ${toDotPath(issue2.path)}`);
   }
-  return lines2.join("\n");
+  return lines.join("\n");
 }
 
-// ../../../node_modules/zod/v4/core/parse.js
+// node_modules/zod/v4/core/parse.js
 function finalizeParams(callee, params) {
   return { callee: params?.callee ?? callee, Err: params?.Err };
 }
@@ -54166,7 +54166,7 @@ var _safeDecodeAsync = (_Err) => async (schema, value2, _ctx) => {
 };
 var safeDecodeAsync = /* @__PURE__ */ _safeDecodeAsync($ZodRealError);
 
-// ../../../node_modules/zod/v4/core/regexes.js
+// node_modules/zod/v4/core/regexes.js
 var regexes_exports = {};
 __export(regexes_exports, {
   anyString: () => anyString,
@@ -54338,7 +54338,7 @@ var sha512_hex = /^[0-9a-fA-F]{128}$/;
 var sha512_base64 = /* @__PURE__ */ fixedBase64(86, "==");
 var sha512_base64url = /* @__PURE__ */ fixedBase64url(86);
 
-// ../../../node_modules/zod/v4/core/checks.js
+// node_modules/zod/v4/core/checks.js
 var $ZodCheck = /* @__PURE__ */ $constructor("$ZodCheck", (inst, def) => {
   var _a4;
   inst._zod ?? (inst._zod = {});
@@ -54582,8 +54582,8 @@ var $ZodCheckMaxLength = /* @__PURE__ */ $constructor("$ZodCheckMaxLength", (ins
   (_a4 = inst._zod.def).when ?? (_a4.when = _whenHasLength);
   inst._zod.check = (payload) => {
     const input2 = payload.value;
-    const units = input2.length;
-    const length = typeof input2 === "string" && units > def.maximum ? codePointLength(input2) : units;
+    const units2 = input2.length;
+    const length = typeof input2 === "string" && units2 > def.maximum ? codePointLength(input2) : units2;
     if (length <= def.maximum)
       return;
     const origin = getLengthableOrigin(input2);
@@ -54604,8 +54604,8 @@ var $ZodCheckMinLength = /* @__PURE__ */ $constructor("$ZodCheckMinLength", (ins
   (_a4 = inst._zod.def).when ?? (_a4.when = _whenHasLength);
   inst._zod.check = (payload) => {
     const input2 = payload.value;
-    const units = input2.length;
-    const length = typeof input2 === "string" && units >= def.minimum && units < def.minimum * 2 ? codePointLength(input2) : units;
+    const units2 = input2.length;
+    const length = typeof input2 === "string" && units2 >= def.minimum && units2 < def.minimum * 2 ? codePointLength(input2) : units2;
     if (length >= def.minimum)
       return;
     const origin = getLengthableOrigin(input2);
@@ -54626,8 +54626,8 @@ var $ZodCheckLengthEquals = /* @__PURE__ */ $constructor("$ZodCheckLengthEquals"
   (_a4 = inst._zod.def).when ?? (_a4.when = _whenHasLength);
   inst._zod.check = (payload) => {
     const input2 = payload.value;
-    const units = input2.length;
-    const length = typeof input2 === "string" && units >= def.length && units <= def.length * 2 ? codePointLength(input2) : units;
+    const units2 = input2.length;
+    const length = typeof input2 === "string" && units2 >= def.length && units2 <= def.length * 2 ? codePointLength(input2) : units2;
     if (length === def.length)
       return;
     const origin = getLengthableOrigin(input2);
@@ -54814,7 +54814,7 @@ var $ZodCheckOverwrite = /* @__PURE__ */ $constructor("$ZodCheckOverwrite", (ins
   };
 });
 
-// ../../../node_modules/zod/v4/core/doc.js
+// node_modules/zod/v4/core/doc.js
 var Doc = class {
   constructor(args = [], closed = {}) {
     this.content = [];
@@ -54838,9 +54838,9 @@ var Doc = class {
       return;
     }
     const content = arg;
-    const lines2 = content.split("\n").filter((x) => x);
-    const minIndent = Math.min(...lines2.map((x) => x.length - x.trimStart().length));
-    const dedented = lines2.map((x) => x.slice(minIndent)).map((x) => " ".repeat(this.indent * 2) + x);
+    const lines = content.split("\n").filter((x) => x);
+    const minIndent = Math.min(...lines.map((x) => x.length - x.trimStart().length));
+    const dedented = lines.map((x) => x.slice(minIndent)).map((x) => " ".repeat(this.indent * 2) + x);
     for (const line of dedented) {
       this.content.push(line);
     }
@@ -54855,14 +54855,14 @@ ${content.join("\n")}
   }
 };
 
-// ../../../node_modules/zod/v4/core/versions.js
+// node_modules/zod/v4/core/versions.js
 var version = {
   major: 4,
   minor: 6,
   patch: 7
 };
 
-// ../../../node_modules/zod/v4/core/schemas.js
+// node_modules/zod/v4/core/schemas.js
 var $ZodType = /* @__PURE__ */ $constructor("$ZodType", (inst, def) => {
   var _a4;
   inst ?? (inst = {});
@@ -57304,7 +57304,7 @@ function handleRefineResult(result, payload, input2, inst) {
   }
 }
 
-// ../../../node_modules/zod/v4/core/memoizer.js
+// node_modules/zod/v4/core/memoizer.js
 var $ZodCyclicError = class extends Error {
   constructor() {
     super(`Cannot parse a reference cycle that closes through a transform`);
@@ -57581,7 +57581,7 @@ function isBackEdge(ctx, value2) {
   return backEdges !== void 0 && isRef(value2) && backEdges.has(value2);
 }
 
-// ../../../node_modules/zod/v4/locales/index.js
+// node_modules/zod/v4/locales/index.js
 var locales_exports = {};
 __export(locales_exports, {
   ar: () => ar_default,
@@ -57649,7 +57649,7 @@ __export(locales_exports, {
   zhTW: () => zh_TW_default
 });
 
-// ../../../node_modules/zod/v4/locales/ar.js
+// node_modules/zod/v4/locales/ar.js
 var error = () => {
   const Sizable = {
     string: { unit: "\u062D\u0631\u0641", verb: "\u0623\u0646 \u064A\u062D\u0648\u064A" },
@@ -57761,7 +57761,7 @@ function ar_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/az.js
+// node_modules/zod/v4/locales/az.js
 var error2 = () => {
   const Sizable = {
     string: { unit: "simvol", verb: "olmal\u0131d\u0131r" },
@@ -57872,7 +57872,7 @@ function az_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/be.js
+// node_modules/zod/v4/locales/be.js
 function getBelarusianPlural(count, one, few, many) {
   const absCount = Math.abs(count);
   const lastDigit = absCount % 10;
@@ -58041,7 +58041,7 @@ function be_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/bg.js
+// node_modules/zod/v4/locales/bg.js
 var error4 = () => {
   const Sizable = {
     string: { unit: "\u0441\u0438\u043C\u0432\u043E\u043B\u0430", verb: "\u0434\u0430 \u0441\u044A\u0434\u044A\u0440\u0436\u0430" },
@@ -58167,7 +58167,7 @@ function bg_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/bn.js
+// node_modules/zod/v4/locales/bn.js
 var error5 = () => {
   const Sizable = {
     string: { unit: "\u0985\u0995\u09CD\u09B7\u09B0", verb: "\u09A5\u09BE\u0995\u09A4\u09C7 \u09B9\u09AC\u09C7" },
@@ -58281,7 +58281,7 @@ function bn_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ca.js
+// node_modules/zod/v4/locales/ca.js
 var error6 = () => {
   const Sizable = {
     string: { unit: "car\xE0cters", verb: "contenir" },
@@ -58395,7 +58395,7 @@ function ca_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ckb.js
+// node_modules/zod/v4/locales/ckb.js
 var error7 = () => {
   const Sizable = {
     string: { unit: "\u067E\u06CC\u062A", verb: "\u0628\u06CE\u062A" },
@@ -58528,7 +58528,7 @@ function ckb_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/cs.js
+// node_modules/zod/v4/locales/cs.js
 var error8 = () => {
   const Sizable = {
     string: { unit: "znak\u016F", verb: "m\xEDt" },
@@ -58645,7 +58645,7 @@ function cs_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/da.js
+// node_modules/zod/v4/locales/da.js
 var error9 = () => {
   const Sizable = {
     string: { unit: "tegn", verb: "havde" },
@@ -58766,7 +58766,7 @@ function da_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/de.js
+// node_modules/zod/v4/locales/de.js
 var error10 = () => {
   const Sizable = {
     string: { unit: "Zeichen", verb: "zu haben" },
@@ -58880,7 +58880,7 @@ function de_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/el.js
+// node_modules/zod/v4/locales/el.js
 var error11 = () => {
   const Sizable = {
     string: { unit: "\u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B5\u03C2", verb: "\u03BD\u03B1 \u03AD\u03C7\u03B5\u03B9" },
@@ -58993,7 +58993,7 @@ function el_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/en.js
+// node_modules/zod/v4/locales/en.js
 var error12 = () => {
   const Sizable = {
     string: { unit: "characters", verb: "to have" },
@@ -59118,7 +59118,7 @@ function en_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/eo.js
+// node_modules/zod/v4/locales/eo.js
 var error13 = () => {
   const Sizable = {
     string: { unit: "karaktrojn", verb: "havi" },
@@ -59233,7 +59233,7 @@ function eo_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/es.js
+// node_modules/zod/v4/locales/es.js
 var error14 = () => {
   const Sizable = {
     string: { unit: "caracteres", verb: "tener" },
@@ -59370,7 +59370,7 @@ function es_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/fa.js
+// node_modules/zod/v4/locales/fa.js
 var error15 = () => {
   const Sizable = {
     string: { unit: "\u06A9\u0627\u0631\u0627\u06A9\u062A\u0631", verb: "\u062F\u0627\u0634\u062A\u0647 \u0628\u0627\u0634\u062F" },
@@ -59490,7 +59490,7 @@ function fa_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/fi.js
+// node_modules/zod/v4/locales/fi.js
 var error16 = () => {
   const Sizable = {
     string: { unit: "merkki\xE4", subject: "merkkijonon" },
@@ -59608,7 +59608,7 @@ function fi_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/fr.js
+// node_modules/zod/v4/locales/fr.js
 var error17 = () => {
   const Sizable = {
     string: { unit: "caract\xE8res", verb: "avoir" },
@@ -59738,7 +59738,7 @@ function fr_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/fr-CA.js
+// node_modules/zod/v4/locales/fr-CA.js
 var error18 = () => {
   const Sizable = {
     string: { unit: "caract\xE8res", verb: "avoir" },
@@ -59851,7 +59851,7 @@ function fr_CA_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/gu.js
+// node_modules/zod/v4/locales/gu.js
 var error19 = () => {
   const Sizable = {
     string: { unit: "\u0A85\u0A95\u0ACD\u0AB7\u0AB0", verb: "\u0AB9\u0ACB\u0AB5\u0ABE \u0A9C\u0ACB\u0A88\u0A8F" },
@@ -59965,7 +59965,7 @@ function gu_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/he.js
+// node_modules/zod/v4/locales/he.js
 var error20 = () => {
   const TypeNames = {
     string: { label: "\u05DE\u05D7\u05E8\u05D5\u05D6\u05EA", gender: "f" },
@@ -60167,7 +60167,7 @@ function he_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/hi.js
+// node_modules/zod/v4/locales/hi.js
 var error21 = () => {
   const Sizable = {
     string: { unit: "\u0905\u0915\u094D\u0937\u0930", verb: "\u0930\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F" },
@@ -60279,7 +60279,7 @@ function hi_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/hr.js
+// node_modules/zod/v4/locales/hr.js
 var error22 = () => {
   const Sizable = {
     string: { unit: "znakova", verb: "imati" },
@@ -60406,7 +60406,7 @@ function hr_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/hu.js
+// node_modules/zod/v4/locales/hu.js
 var error23 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "legyen" },
@@ -60520,7 +60520,7 @@ function hu_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/hy.js
+// node_modules/zod/v4/locales/hy.js
 function getArmenianPlural(count, one, many) {
   return Math.abs(count) === 1 ? one : many;
 }
@@ -60679,7 +60679,7 @@ function hy_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/id.js
+// node_modules/zod/v4/locales/id.js
 var error25 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "memiliki" },
@@ -60791,7 +60791,7 @@ function id_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/is.js
+// node_modules/zod/v4/locales/is.js
 var error26 = () => {
   const Sizable = {
     string: { unit: "stafi", verb: "a\xF0 hafa" },
@@ -60906,7 +60906,7 @@ function is_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/it.js
+// node_modules/zod/v4/locales/it.js
 var error27 = () => {
   const Sizable = {
     string: { unit: "caratteri", verb: "avere" },
@@ -61020,7 +61020,7 @@ function it_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ja.js
+// node_modules/zod/v4/locales/ja.js
 var error28 = () => {
   const Sizable = {
     string: { unit: "\u6587\u5B57", verb: "\u3067\u3042\u308B" },
@@ -61133,7 +61133,7 @@ function ja_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ka.js
+// node_modules/zod/v4/locales/ka.js
 var error29 = () => {
   const Sizable = {
     string: { unit: "\u10E1\u10D8\u10DB\u10D1\u10DD\u10DA\u10DD", verb: "\u10E3\u10DC\u10D3\u10D0 \u10E8\u10D4\u10D8\u10EA\u10D0\u10D5\u10D3\u10D4\u10E1" },
@@ -61251,7 +61251,7 @@ function ka_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/km.js
+// node_modules/zod/v4/locales/km.js
 var error30 = () => {
   const Sizable = {
     string: { unit: "\u178F\u17BD\u17A2\u1780\u17D2\u179F\u179A", verb: "\u1782\u17BD\u179A\u1798\u17B6\u1793" },
@@ -61367,12 +61367,12 @@ function km_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/kh.js
+// node_modules/zod/v4/locales/kh.js
 function kh_default() {
   return km_default();
 }
 
-// ../../../node_modules/zod/v4/locales/kn.js
+// node_modules/zod/v4/locales/kn.js
 var error31 = () => {
   const Sizable = {
     string: { unit: "\u0C85\u0C95\u0CCD\u0CB7\u0CB0\u0C97\u0CB3\u0CC1", verb: "\u0CB9\u0CCA\u0C82\u0CA6\u0CB2\u0CC1" },
@@ -61488,7 +61488,7 @@ function kn_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ko.js
+// node_modules/zod/v4/locales/ko.js
 var error32 = () => {
   const Sizable = {
     string: { unit: "\uBB38\uC790", verb: "to have" },
@@ -61605,7 +61605,7 @@ function ko_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/lt.js
+// node_modules/zod/v4/locales/lt.js
 var capitalizeFirstCharacter = (text5) => {
   return text5.charAt(0).toUpperCase() + text5.slice(1);
 };
@@ -61813,7 +61813,7 @@ function lt_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/mk.js
+// node_modules/zod/v4/locales/mk.js
 var error34 = () => {
   const Sizable = {
     string: { unit: "\u0437\u043D\u0430\u0446\u0438", verb: "\u0434\u0430 \u0438\u043C\u0430\u0430\u0442" },
@@ -61928,7 +61928,7 @@ function mk_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ms.js
+// node_modules/zod/v4/locales/ms.js
 var error35 = () => {
   const Sizable = {
     string: { unit: "aksara", verb: "mempunyai" },
@@ -62041,7 +62041,7 @@ function ms_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ne.js
+// node_modules/zod/v4/locales/ne.js
 var error36 = () => {
   const Sizable = {
     string: { unit: "\u0905\u0915\u094D\u0937\u0930", verb: "\u0939\u0941\u0928\u0941\u092A\u0930\u094D\u091B" },
@@ -62153,7 +62153,7 @@ function ne_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/nl.js
+// node_modules/zod/v4/locales/nl.js
 var error37 = () => {
   const Sizable = {
     string: { unit: "tekens", verb: "heeft" },
@@ -62269,7 +62269,7 @@ function nl_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/nn.js
+// node_modules/zod/v4/locales/nn.js
 var error38 = () => {
   const Sizable = {
     string: { unit: "teikn", verb: "\xE5 ha" },
@@ -62383,7 +62383,7 @@ function nn_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/no.js
+// node_modules/zod/v4/locales/no.js
 var error39 = () => {
   const Sizable = {
     string: { unit: "tegn", verb: "\xE5 ha" },
@@ -62497,7 +62497,7 @@ function no_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ota.js
+// node_modules/zod/v4/locales/ota.js
 var error40 = () => {
   const Sizable = {
     string: { unit: "harf", verb: "olmal\u0131d\u0131r" },
@@ -62612,7 +62612,7 @@ function ota_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ps.js
+// node_modules/zod/v4/locales/ps.js
 var error41 = () => {
   const Sizable = {
     string: { unit: "\u062A\u0648\u06A9\u064A", verb: "\u0648\u0644\u0631\u064A" },
@@ -62732,7 +62732,7 @@ function ps_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/pl.js
+// node_modules/zod/v4/locales/pl.js
 var error42 = () => {
   const Sizable = {
     string: { unit: "znak\xF3w", verb: "mie\u0107" },
@@ -62847,7 +62847,7 @@ function pl_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/pt.js
+// node_modules/zod/v4/locales/pt.js
 var error43 = () => {
   const Sizable = {
     string: { unit: "caracteres" },
@@ -62991,7 +62991,7 @@ function pt_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/pt-BR.js
+// node_modules/zod/v4/locales/pt-BR.js
 var error44 = () => {
   const Sizable = {
     string: { unit: "caracteres" },
@@ -63136,7 +63136,7 @@ function pt_BR_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ro.js
+// node_modules/zod/v4/locales/ro.js
 var error45 = () => {
   const Sizable = {
     string: { unit: "caractere", verb: "s\u0103 aib\u0103" },
@@ -63259,7 +63259,7 @@ function ro_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ru.js
+// node_modules/zod/v4/locales/ru.js
 function getRussianPlural(count, one, few, many) {
   const absCount = Math.abs(count);
   const lastDigit = absCount % 10;
@@ -63428,7 +63428,7 @@ function ru_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/sk.js
+// node_modules/zod/v4/locales/sk.js
 var error47 = () => {
   const Sizable = {
     string: { unit: "znakov", verb: "ma\u0165" },
@@ -63545,7 +63545,7 @@ function sk_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/sl.js
+// node_modules/zod/v4/locales/sl.js
 var error48 = () => {
   const Sizable = {
     string: { unit: "znakov", verb: "imeti" },
@@ -63660,7 +63660,7 @@ function sl_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/sv.js
+// node_modules/zod/v4/locales/sv.js
 var error49 = () => {
   const Sizable = {
     string: { unit: "tecken", verb: "att ha" },
@@ -63776,7 +63776,7 @@ function sv_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ta.js
+// node_modules/zod/v4/locales/ta.js
 var error50 = () => {
   const Sizable = {
     string: { unit: "\u0B8E\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BB3\u0BCD", verb: "\u0B95\u0BCA\u0BA3\u0BCD\u0B9F\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95 \u0BB5\u0BC7\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD" },
@@ -63892,7 +63892,7 @@ function ta_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/tg.js
+// node_modules/zod/v4/locales/tg.js
 var error51 = () => {
   const Sizable = {
     string: { unit: "\u0430\u043B\u043E\u043C\u0430\u0442", verb: "\u0434\u043E\u0448\u0442\u0430 \u0431\u043E\u0448\u0430\u0434" },
@@ -64009,7 +64009,7 @@ function tg_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/th.js
+// node_modules/zod/v4/locales/th.js
 var error52 = () => {
   const Sizable = {
     string: { unit: "\u0E15\u0E31\u0E27\u0E2D\u0E31\u0E01\u0E29\u0E23", verb: "\u0E04\u0E27\u0E23\u0E21\u0E35" },
@@ -64125,7 +64125,7 @@ function th_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/tk.js
+// node_modules/zod/v4/locales/tk.js
 var error53 = () => {
   const Sizable = {
     string: { unit: "simwol", verb: "bolmaly" },
@@ -64233,7 +64233,7 @@ function tk_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/tr.js
+// node_modules/zod/v4/locales/tr.js
 var error54 = () => {
   const Sizable = {
     string: { unit: "karakter", verb: "olmal\u0131" },
@@ -64344,7 +64344,7 @@ function tr_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/uk.js
+// node_modules/zod/v4/locales/uk.js
 var error55 = () => {
   const Sizable = {
     string: { unit: "\u0441\u0438\u043C\u0432\u043E\u043B\u0456\u0432", verb: "\u043C\u0430\u0442\u0438\u043C\u0435" },
@@ -64458,12 +64458,12 @@ function uk_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/ua.js
+// node_modules/zod/v4/locales/ua.js
 function ua_default() {
   return uk_default();
 }
 
-// ../../../node_modules/zod/v4/locales/ur.js
+// node_modules/zod/v4/locales/ur.js
 var error56 = () => {
   const Sizable = {
     string: { unit: "\u062D\u0631\u0648\u0641", verb: "\u06C1\u0648\u0646\u0627" },
@@ -64579,7 +64579,7 @@ function ur_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/uz.js
+// node_modules/zod/v4/locales/uz.js
 var error57 = () => {
   const Sizable = {
     string: { unit: "belgi", verb: "bo\u2018lishi kerak" },
@@ -64693,7 +64693,7 @@ function uz_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/vi.js
+// node_modules/zod/v4/locales/vi.js
 var error58 = () => {
   const Sizable = {
     string: { unit: "k\xFD t\u1EF1", verb: "c\xF3" },
@@ -64807,7 +64807,7 @@ function vi_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/zh-CN.js
+// node_modules/zod/v4/locales/zh-CN.js
 var error59 = () => {
   const Sizable = {
     string: { unit: "\u5B57\u7B26", verb: "\u5305\u542B" },
@@ -64922,7 +64922,7 @@ function zh_CN_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/zh-TW.js
+// node_modules/zod/v4/locales/zh-TW.js
 var error60 = () => {
   const Sizable = {
     string: { unit: "\u5B57\u5143", verb: "\u64C1\u6709" },
@@ -65035,7 +65035,7 @@ function zh_TW_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/locales/yo.js
+// node_modules/zod/v4/locales/yo.js
 var error61 = () => {
   const Sizable = {
     string: { unit: "\xE0mi", verb: "n\xED" },
@@ -65148,7 +65148,7 @@ function yo_default() {
   };
 }
 
-// ../../../node_modules/zod/v4/core/registries.js
+// node_modules/zod/v4/core/registries.js
 var _a2;
 var $output = /* @__PURE__ */ Symbol("ZodOutput");
 var $input = /* @__PURE__ */ Symbol("ZodInput");
@@ -65198,7 +65198,7 @@ function registry() {
 (_a2 = globalThis).__zod_globalRegistry ?? (_a2.__zod_globalRegistry = registry());
 var globalRegistry = globalThis.__zod_globalRegistry;
 
-// ../../../node_modules/zod/v4/core/compile.js
+// node_modules/zod/v4/core/compile.js
 var INVALID = Symbol.for("zod.compile.invalid");
 var FALLBACK_FLAG = Symbol.for("zod.compile.fallback");
 var ZodCompileAsyncError = class extends Error {
@@ -66808,7 +66808,7 @@ function generateTransformCheck(doc, ctx, schema, accessor) {
   return accessor;
 }
 
-// ../../../node_modules/zod/v4/core/api.js
+// node_modules/zod/v4/core/api.js
 function snapshotChecks(def) {
   if (def.checks)
     def.checks = [...def.checks];
@@ -67478,10 +67478,10 @@ function _properties(shape, params) {
   });
 }
 // @__NO_SIDE_EFFECTS__
-function _mime(types2, params) {
+function _mime(types3, params) {
   return new $ZodCheckMimeType({
     check: "mime_type",
-    mime: types2,
+    mime: types3,
     ...normalizeParams(params)
   });
 }
@@ -67867,7 +67867,7 @@ function _stringFormat(Class2, format, fnOrRegex, _params = {}) {
   return inst;
 }
 
-// ../../../node_modules/zod/v4/core/to-json-schema.js
+// node_modules/zod/v4/core/to-json-schema.js
 function assignProps(target, ...sources) {
   for (const source2 of sources) {
     for (const key of Reflect.ownKeys(source2)) {
@@ -68068,7 +68068,7 @@ function compactTypeUnion(schema) {
   const options = schema.anyOf;
   if (!Array.isArray(options) || options.length === 0 || schema.type !== void 0)
     return;
-  const types2 = [];
+  const types3 = [];
   for (const option of options) {
     if (!option || typeof option !== "object")
       return;
@@ -68080,12 +68080,12 @@ function compactTypeUnion(schema) {
     for (const member of Array.isArray(type) ? type : [type]) {
       if (typeof member !== "string")
         return;
-      if (!types2.includes(member))
-        types2.push(member);
+      if (!types3.includes(member))
+        types3.push(member);
     }
   }
   delete schema.anyOf;
-  schema.type = types2.length === 1 ? types2[0] : types2;
+  schema.type = types3.length === 1 ? types3[0] : types3;
 }
 var FOLDABLE_KEYS = /* @__PURE__ */ new Set(["type", "properties", "required", "additionalProperties"]);
 var UNION_KEYS = ["oneOf", "anyOf"];
@@ -68397,7 +68397,7 @@ var createStandardJSONSchemaMethod = (schema, io, processors = {}) => (params) =
   return finalize(ctx, schema);
 };
 
-// ../../../node_modules/zod/v4/core/json-schema-processors.js
+// node_modules/zod/v4/core/json-schema-processors.js
 var narrowMin = (agg, key, value2) => {
   if (agg[key] === void 0 || value2 > agg[key])
     agg[key] = value2;
@@ -68884,8 +68884,8 @@ function stringifyKeyNames(bySchema, json2, visited) {
     if (mapped.some((branch, i) => branch !== branches[i]))
       json2 = { ...json2, [keyword]: mapped };
   }
-  const types2 = Array.isArray(json2.type) ? json2.type : [json2.type];
-  const numericType = !types2.includes("string") && types2.some((t) => t === "number" || t === "integer");
+  const types3 = Array.isArray(json2.type) ? json2.type : [json2.type];
+  const numericType = !types3.includes("string") && types3.some((t) => t === "number" || t === "integer");
   const values = json2.enum ?? (json2.const !== void 0 ? [json2.const] : void 0);
   if (!numericType && !values?.some((v) => typeof v === "number"))
     return json2;
@@ -68898,7 +68898,7 @@ function stringifyKeyNames(bySchema, json2, visited) {
     return rest;
   rest.type = "string";
   if (!values)
-    rest.pattern = (types2.includes("number") ? number : integer).source;
+    rest.pattern = (types3.includes("number") ? number : integer).source;
   return rest;
 }
 var pendingRecords = /* @__PURE__ */ new WeakMap();
@@ -69145,7 +69145,7 @@ function toJSONSchema(input2, params) {
   return finalize(ctx, input2);
 }
 
-// ../../../node_modules/zod/v4/core/json-schema-generator.js
+// node_modules/zod/v4/core/json-schema-generator.js
 var JSONSchemaGenerator = class {
   /** @deprecated Access via ctx instead */
   get metadataRegistry() {
@@ -69223,10 +69223,10 @@ var JSONSchemaGenerator = class {
   }
 };
 
-// ../../../node_modules/zod/v4/core/json-schema.js
+// node_modules/zod/v4/core/json-schema.js
 var json_schema_exports = {};
 
-// ../../../node_modules/zod/v4/classic/schemas.js
+// node_modules/zod/v4/classic/schemas.js
 var schemas_exports2 = {};
 __export(schemas_exports2, {
   ZodAny: () => ZodAny,
@@ -69407,7 +69407,7 @@ __export(schemas_exports2, {
   xor: () => xor
 });
 
-// ../../../node_modules/zod/v4/classic/checks.js
+// node_modules/zod/v4/classic/checks.js
 var checks_exports2 = {};
 __export(checks_exports2, {
   endsWith: () => _endsWith,
@@ -69442,7 +69442,7 @@ __export(checks_exports2, {
   uppercase: () => _uppercase
 });
 
-// ../../../node_modules/zod/v4/classic/errors.js
+// node_modules/zod/v4/classic/errors.js
 var _installedErrorProtos = /* @__PURE__ */ new WeakSet([Object.prototype, Error.prototype]);
 function _lazyMethod(proto, key, make) {
   Object.defineProperty(proto, key, {
@@ -69488,7 +69488,7 @@ var ZodRealError = /* @__PURE__ */ $constructor("ZodError", initializer2, void 0
   Parent: Error
 });
 
-// ../../../node_modules/zod/v4/classic/parse.js
+// node_modules/zod/v4/classic/parse.js
 var parse2 = /* @__PURE__ */ _parse(ZodRealError);
 var parseAsync2 = /* @__PURE__ */ _parseAsync(ZodRealError);
 var safeParse2 = /* @__PURE__ */ _safeParse(ZodRealError);
@@ -69502,7 +69502,7 @@ var safeDecode2 = /* @__PURE__ */ _safeDecode(ZodRealError);
 var safeEncodeAsync2 = /* @__PURE__ */ _safeEncodeAsync(ZodRealError);
 var safeDecodeAsync2 = /* @__PURE__ */ _safeDecodeAsync(ZodRealError);
 
-// ../../../node_modules/zod/v4/classic/schemas.js
+// node_modules/zod/v4/classic/schemas.js
 function _ensureDefaultLocale() {
   if (!globalConfig.localeError)
     config(en_default());
@@ -70631,7 +70631,7 @@ var ZodFile = /* @__PURE__ */ $constructor("ZodFile", (inst, def) => {
   inst._zod.processJSONSchema = (ctx, json2, params) => fileProcessor(inst, ctx, json2, params);
   inst.min = (size, params) => inst.check(_minSize(size, params));
   inst.max = (size, params) => inst.check(_maxSize(size, params));
-  inst.mime = (types2, params) => inst.check(_mime(Array.isArray(types2) ? types2 : [types2], params));
+  inst.mime = (types3, params) => inst.check(_mime(Array.isArray(types3) ? types3 : [types3], params));
 });
 function file(params) {
   return _file(ZodFile, params);
@@ -70967,7 +70967,7 @@ function preprocess(fn, schema) {
   });
 }
 
-// ../../../node_modules/zod/v4/classic/compat.js
+// node_modules/zod/v4/classic/compat.js
 var ZodIssueCode = {
   invalid_type: "invalid_type",
   too_big: "too_big",
@@ -70993,7 +70993,7 @@ var ZodFirstPartyTypeKind;
 /* @__PURE__ */ (function(ZodFirstPartyTypeKind2) {
 })(ZodFirstPartyTypeKind || (ZodFirstPartyTypeKind = {}));
 
-// ../../../node_modules/zod/v4/classic/iso.js
+// node_modules/zod/v4/classic/iso.js
 var iso_exports = {};
 __export(iso_exports, {
   ZodISODate: () => ZodISODate,
@@ -71018,7 +71018,7 @@ function duration2(params) {
   return _isoDuration(ZodISODuration, params);
 }
 
-// ../../../node_modules/zod/v4/classic/from-json-schema.js
+// node_modules/zod/v4/classic/from-json-schema.js
 var z = {
   ...schemas_exports2,
   ...checks_exports2,
@@ -71751,7 +71751,7 @@ function fromJSONSchema(schema, params) {
   return convertSchema(normalized2, ctx);
 }
 
-// ../../../node_modules/zod/v4/core/visit.js
+// node_modules/zod/v4/core/visit.js
 var RESOLVING = Symbol("z.visit/resolving");
 function visit(schema, fnOrHandlers) {
   const fn = typeof fnOrHandlers === "function" ? fnOrHandlers : (node2, rewritten) => {
@@ -71906,7 +71906,7 @@ function visit(schema, fnOrHandlers) {
   return run(schema);
 }
 
-// ../../../node_modules/zod/v4/classic/deep-partial.js
+// node_modules/zod/v4/classic/deep-partial.js
 function deepPartial(schema) {
   return visit(schema, {
     object: (s) => s.partial(),
@@ -71918,7 +71918,7 @@ function deepPartial(schema) {
   });
 }
 
-// ../../../node_modules/zod/v4/classic/in-out.js
+// node_modules/zod/v4/classic/in-out.js
 function withChecks(side, checks) {
   if (!checks?.length)
     return side;
@@ -71948,7 +71948,7 @@ function output(schema) {
   });
 }
 
-// ../../../node_modules/zod/v4/classic/coerce.js
+// node_modules/zod/v4/classic/coerce.js
 var coerce_exports = {};
 __export(coerce_exports, {
   bigint: () => bigint3,
@@ -72072,11 +72072,11 @@ function splitMath(text5) {
 }
 var hasMath = (text5) => splitMath(text5).some((p) => p.math);
 function mathLines(text5, width, fontSize) {
-  const em = fontSize / 72, base = em * 1.32, lines2 = [];
+  const em = fontSize / 72, base = em * 1.32, lines = [];
   let row = { raw: "", runs: [], h: base }, used = 0;
   const flush = () => {
     if (row.raw) {
-      lines2.push(row);
+      lines.push(row);
       row = { raw: "", runs: [], h: base };
       used = 0;
     }
@@ -72115,16 +72115,19 @@ function mathLines(text5, width, fontSize) {
     }
   }
   flush();
-  return lines2;
+  return lines;
 }
 
 // src/core/slide-layout.ts
-var defaultSlideLayout = { width: 13.333333, height: 7.5, body: { x: 0.72, y: 1.73, w: 11.7, h: 5.02 }, title: { x: 0.63, y: 0.73, w: 12, h: 0.65 } };
-var bodyFontSize = (kind = "analysis") => ["source", "question", "practice"].includes(kind) ? 22 : 19;
-var labelHeight = 0.29;
-var gap = 0.13;
+var defaultSlideLayout = { width: 13.333333, height: 7.5, classroom: true, body: { x: 0.94, y: 1.67, w: 11.45, h: 5.05 }, title: { x: 0.92, y: 0.68, w: 11.5, h: 0.73 } };
+function bodyFontSize(kind, layout = defaultSlideLayout) {
+  const reading = ["source", "question", "practice"].includes(kind);
+  return layout.classroom ? reading ? 26 : 23 : reading ? 22 : 19;
+}
+var labelFontSize = (layout) => layout.classroom ? 16 : 11;
+var gap = 0.16;
 var unit = (c) => /[^\u0000-\u007f]/u.test(c) ? 1 : 0.55;
-function lines(text5, columns) {
+function wrapSlideText(text5, columns) {
   const result = [];
   let line = "", width = 0;
   const flush = () => {
@@ -72149,18 +72152,23 @@ function lines(text5, columns) {
   if (line || !result.length) result.push(line);
   return result;
 }
-function metrics(layout, kind) {
-  const fontSize = bodyFontSize(kind);
+function metrics(layout, kind, fontSize = bodyFontSize(kind, layout)) {
   return { lineHeight: fontSize / 72 * 1.32, columns: layout.body.w * 72 / fontSize * 0.91 };
 }
-function blockHeight(block2, layout = defaultSlideLayout, kind = "analysis") {
-  const m = metrics(layout, kind);
-  return (block2.label ? labelHeight : 0) + (block2.math && hasMath(block2.text) ? mathLines(block2.text, layout.body.w, bodyFontSize(kind)).reduce((h, l) => h + l.h, 0) : Math.max(1, lines(block2.text, m.columns).length) * m.lineHeight) + 0.07;
+function labelHeight(label, layout) {
+  if (!label) return 0;
+  const size = labelFontSize(layout);
+  return wrapSlideText(label, layout.body.w * 72 / size * 0.9).length * size / 72 * 1.3 + 0.07;
 }
-function layoutBlocks(blocks2, layout = defaultSlideLayout, kind = "analysis") {
+function blockHeight(block2, layout = defaultSlideLayout, kind = "analysis", fontSize = bodyFontSize(kind, layout)) {
+  const m = metrics(layout, kind, fontSize);
+  return labelHeight(block2.label, layout) + (block2.math && hasMath(block2.text) ? mathLines(block2.text, layout.body.w, fontSize).reduce((h, l) => h + l.h, 0) : wrapSlideText(block2.text, m.columns).length * m.lineHeight) + 0.07;
+}
+function layoutBlocks(blocks2, layout = defaultSlideLayout, kind = "analysis", fontSize = bodyFontSize(kind, layout)) {
   let y = layout.body.y;
   return blocks2.map((block2) => {
-    const h = blockHeight(block2, layout, kind), rect = { ...block2, x: layout.body.x, y, w: layout.body.w, h, textY: y + (block2.label ? labelHeight : 0), textH: h - (block2.label ? labelHeight : 0) };
+    const h = blockHeight(block2, layout, kind, fontSize), labelH = labelHeight(block2.label, layout);
+    const rect = { ...block2, x: layout.body.x, y, w: layout.body.w, h, labelH, textY: y + labelH, textH: h - labelH };
     y += h + gap;
     return rect;
   });
@@ -72180,8 +72188,8 @@ function pack(input2, layout, kind, height) {
     if (page.length && blockHeight(item, layout, kind) <= height && used + gap + blockHeight(item, layout, kind) > height) flush();
     while (remaining) {
       const label = item.label + (continued && item.label && !item.label.endsWith("\uFF08\u7EED\uFF09") ? "\uFF08\u7EED\uFF09" : "");
-      const room = height - used - (page.length ? gap : 0) - (label ? labelHeight : 0) - 0.07;
-      const math = item.math && hasMath(remaining) ? mathLines(remaining, layout.body.w, bodyFontSize(kind)) : void 0;
+      const room = height - used - (page.length ? gap : 0) - labelHeight(label, layout) - 0.07;
+      const math = item.math && hasMath(remaining) ? mathLines(remaining, layout.body.w, bodyFontSize(kind, layout)) : void 0;
       let count = Math.floor((room + 1e-5) / m.lineHeight);
       if (math) {
         count = 0;
@@ -72193,7 +72201,8 @@ function pack(input2, layout, kind, height) {
         }
         if (!count && !page.length) throw Error("\u516C\u5F0F\u9AD8\u5EA6\u8D85\u51FA\u9875\u9762\uFF0C\u8BF7\u62C6\u5206\u516C\u5F0F\u6216\u4F7F\u7528\u66F4\u5927\u7684\u6A21\u677F");
       }
-      const wrapped = math ? math.map((l) => l.raw) : lines(remaining, m.columns);
+      const wrapped = math ? math.map((l) => l.raw) : wrapSlideText(remaining, m.columns);
+      if (count < 1 && !page.length) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u65E0\u6CD5\u540C\u65F6\u653E\u5165\u6807\u7B7E\u548C\u4E00\u884C\u5185\u5BB9\uFF0C\u8BF7\u6269\u5927\u6B63\u6587\u7A7A\u95F4");
       if (count < 1 || page.length && count < 2 && wrapped.length > count) {
         flush();
         continue;
@@ -72220,14 +72229,15 @@ function paginateBlocks(input2, layout = defaultSlideLayout, kind = "analysis") 
 }
 function paginatePage(input2, layout = defaultSlideLayout, kind = "analysis") {
   const m = metrics(layout, kind);
-  if (layout.body.h < labelHeight + m.lineHeight + 0.07 || layout.body.w < 2) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u8BF7\u4F7F\u7528\u6B63\u6587\u7A7A\u95F4\u66F4\u5927\u7684\u6A21\u677F");
+  if (layout.body.h < labelHeight("\u6587", layout) + m.lineHeight + 0.07 || layout.body.w < 2) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u8BF7\u4F7F\u7528\u6B63\u6587\u7A7A\u95F4\u66F4\u5927\u7684\u6A21\u677F");
   const pages = pack(input2, layout, kind, layout.body.h);
   if (pages.length < 2) return pages;
   const cost = (page) => page.reduce((n, b) => n + blockHeight(b, layout, kind), 0) + Math.max(0, page.length - 1) * gap;
   if (cost(pages[pages.length - 1]) >= layout.body.h * 0.38) return pages;
   if (input2.some((b) => b.math && hasMath(b.text))) return pages;
   const tail = pages.slice(-2).flat();
-  let low = labelHeight + m.lineHeight * 2 + 0.07, high = layout.body.h, best = pages.slice(-2);
+  const tallestLabel = Math.max(...tail.map((b) => labelHeight(b.label + "\uFF08\u7EED\uFF09", layout)));
+  let low = tallestLabel + m.lineHeight * 2 + 0.07, high = layout.body.h, best = pages.slice(-2);
   for (let i = 0; i < 10; i++) {
     const target = (low + high) / 2, next = pack(tail, layout, kind, target);
     if (next.length <= 2) {
@@ -72770,11 +72780,11 @@ function promptCatalog() {
 }
 
 // skills/lesson-desk-export/tool/build-lesson.ts
-var import_promises2 = require("node:fs/promises");
+var import_promises4 = require("node:fs/promises");
 var import_node_os = __toESM(require("node:os"));
 var import_node_path4 = __toESM(require("node:path"));
 
-// ../../../node_modules/fflate/esm/index.mjs
+// node_modules/fflate/esm/index.mjs
 var import_module = require("module");
 var require2 = (0, import_module.createRequire)("/");
 var _a3;
@@ -73760,57 +73770,1042 @@ function unzipSync(data, opts) {
   return files;
 }
 
-// src/desktop/ppt-formula-preview.ts
-var import_node_path2 = __toESM(require("node:path"));
-
-// optional-native:canvas
-var import_node_module = require("node:module");
-var import_node_path = __toESM(require("node:path"));
-var requireFromWorkdir = (0, import_node_module.createRequire)(import_node_path.default.join(process.cwd(), "lesson-desk-runtime.cjs"));
-var canvas;
-function loadCanvas() {
-  if (canvas) return canvas;
-  try {
-    canvas = requireFromWorkdir("@napi-rs/canvas");
-  } catch (error62) {
-    throw new Error("\u516C\u5F0F PNG \u9884\u89C8\u9700\u8981 @napi-rs/canvas@1.1.0\uFF0C\u8BF7\u5728\u5F53\u524D\u5DE5\u4F5C\u76EE\u5F55\u5B89\u88C5\u540E\u91CD\u8BD5", { cause: error62 });
-  }
-  return canvas;
-}
-var createCanvas = (...args) => loadCanvas().createCanvas(...args);
-var loadImage = (...args) => loadCanvas().loadImage(...args);
-
-// src/desktop/ppt-formula-preview.ts
-async function withFormulaPreviews(bytes) {
-  const files = unzipSync(bytes);
-  let changed = false;
-  for (const name of Object.keys(files).filter((n) => /^ppt\/slides\/slide\d+\.xml$/.test(n))) {
-    const relName = "ppt/slides/_rels/" + import_node_path2.default.posix.basename(name) + ".rels", rels = strFromU8(files[relName]);
-    const targets = /* @__PURE__ */ new Map();
-    for (const match of rels.matchAll(/<Relationship\s+([^>]+)\/?\s*>/g)) {
-      const attrs = Object.fromEntries(Array.from(match[1].matchAll(/(\w+)="([^"]*)"/g), (m) => [m[1], m[2]]));
-      if (attrs.Id && attrs.Target) targets.set(attrs.Id, import_node_path2.default.posix.normalize("ppt/slides/" + attrs.Target));
-    }
-    for (const picture of strFromU8(files[name]).matchAll(/<p:pic[ >][\s\S]*?<\/p:pic>/g)) {
-      const svgId = picture[0].match(/<asvg:svgBlip[^>]*r:embed="([^"]+)"/)?.[1];
-      if (!svgId) continue;
-      const pngId = picture[0].match(/<a:blip\s[^>]*r:embed="([^"]+)"/)?.[1], svgName = targets.get(svgId), pngName = pngId && targets.get(pngId);
-      if (!svgName || !pngName || !files[svgName]) throw Error("\u516C\u5F0F\u9884\u89C8\u8D44\u6E90\u7F3A\u5931\uFF0C\u5DF2\u505C\u6B62\u5BFC\u51FA");
-      const image = await loadImage(Buffer.from(files[svgName]));
-      if (image.width > 12e3 || image.height > 12e3) throw Error("\u516C\u5F0F\u56FE\u7247\u5C3A\u5BF8\u8FC7\u5927");
-      const canvas2 = createCanvas(image.width, image.height);
-      canvas2.getContext("2d").drawImage(image, 0, 0);
-      files[pngName] = new Uint8Array(canvas2.toBuffer("image/png"));
-      changed = true;
-    }
-  }
-  return changed ? zipSync(files) : bytes;
-}
+// src/core/ppt-templates.ts
+var builtinTemplateIds = ["paper", "blue", "forest"];
+var paper = {
+  id: "paper",
+  name: "\u7EB8\u9762\u6559\u6848",
+  custom: false,
+  layout: defaultSlideLayout,
+  colors: { background: "FAF7EF", text: "302B25", accent: "813C2C", muted: "645B4D", line: "C7BBA7" },
+  fonts: { heading: "KaiTi", body: "Microsoft YaHei", source: "Georgia" }
+};
+var bauhaus = {
+  id: "blue",
+  name: "\u5305\u8C6A\u65AF\u677F\u4E66",
+  custom: false,
+  layout: { ...defaultSlideLayout, title: { x: 0.45, y: 1.48, w: 2.68, h: 2.92 }, body: { x: 4.06, y: 0.59, w: 8.55, h: 6.28 } },
+  colors: { background: "FFFCF5", text: "192632", accent: "163EA4", muted: "4F5963", line: "C6CFDE" },
+  fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Arial" }
+};
+var cinema = {
+  id: "forest",
+  name: "\u5F71\u9662\u6697\u573A",
+  custom: false,
+  layout: { ...defaultSlideLayout, sequence: "steps", title: { x: 0.91, y: 6.39, w: 10.35, h: 0.68 }, body: { x: 0.95, y: 1.04, w: 11.43, h: 4.88 } },
+  colors: { background: "111621", text: "F3F5FB", accent: "BECFFF", muted: "BAC4D6", line: "37465F" },
+  fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Calibri" }
+};
+var defaultPptTemplate = paper;
+var builtinById = { paper, blue: bauhaus, forest: cinema };
 
 // src/desktop/export.ts
-var import_promises = __toESM(require("node:fs/promises"));
+var import_promises3 = __toESM(require("node:fs/promises"));
+var import_node_crypto = require("node:crypto");
 
-// ../../../node_modules/pptxgenjs/dist/pptxgen.es.js
+// node_modules/image-size/dist/esm/types/utils.js
+var decoder = new TextDecoder();
+var toUTF8String = (input2, start = 0, end = input2.length) => decoder.decode(input2.slice(start, end));
+var toHexString = (input2, start = 0, end = input2.length) => input2.slice(start, end).reduce((memo2, i) => memo2 + `0${i.toString(16)}`.slice(-2), "");
+var getView = (input2, offset) => new DataView(input2.buffer, input2.byteOffset + offset);
+var readInt16LE = (input2, offset = 0) => getView(input2, offset).getInt16(0, true);
+var readUInt16BE = (input2, offset = 0) => getView(input2, offset).getUint16(0, false);
+var readUInt16LE = (input2, offset = 0) => getView(input2, offset).getUint16(0, true);
+var readUInt24LE = (input2, offset = 0) => {
+  const view = getView(input2, offset);
+  return view.getUint16(0, true) + (view.getUint8(2) << 16);
+};
+var readInt32LE = (input2, offset = 0) => getView(input2, offset).getInt32(0, true);
+var readUInt32BE = (input2, offset = 0) => getView(input2, offset).getUint32(0, false);
+var readUInt32LE = (input2, offset = 0) => getView(input2, offset).getUint32(0, true);
+var readUInt64 = (input2, offset, isBigEndian) => getView(input2, offset).getBigUint64(0, !isBigEndian);
+var methods = {
+  readUInt16BE,
+  readUInt16LE,
+  readUInt32BE,
+  readUInt32LE
+};
+function readUInt(input2, bits2, offset = 0, isBigEndian = false) {
+  const endian = isBigEndian ? "BE" : "LE";
+  const methodName = `readUInt${bits2}${endian}`;
+  return methods[methodName](input2, offset);
+}
+var BOX_HEADER_SIZE = 8;
+function readBox(input2, offset) {
+  if (input2.length - offset < BOX_HEADER_SIZE)
+    return void 0;
+  const boxSize = readUInt32BE(input2, offset);
+  if (input2.length - offset < boxSize)
+    return void 0;
+  return {
+    name: toUTF8String(input2, 4 + offset, 8 + offset),
+    offset,
+    size: boxSize
+  };
+}
+function findBox(input2, boxName, startOffset) {
+  let currentOffset = startOffset;
+  while (currentOffset < input2.length) {
+    if (input2.length - currentOffset < 4)
+      break;
+    const boxSize = readUInt32BE(input2, currentOffset);
+    if (boxSize < BOX_HEADER_SIZE) {
+      currentOffset += BOX_HEADER_SIZE;
+      continue;
+    }
+    const box = readBox(input2, currentOffset);
+    if (!box)
+      break;
+    if (box.name === boxName)
+      return box;
+    currentOffset += box.size;
+  }
+  return void 0;
+}
+
+// node_modules/image-size/dist/esm/types/bmp.js
+var BMP = {
+  validate: (input2) => toUTF8String(input2, 0, 2) === "BM",
+  calculate: (input2) => ({
+    height: Math.abs(readInt32LE(input2, 22)),
+    width: readUInt32LE(input2, 18)
+  })
+};
+
+// node_modules/image-size/dist/esm/types/ico.js
+var TYPE_ICON = 1;
+var SIZE_HEADER = 2 + 2 + 2;
+var SIZE_IMAGE_ENTRY = 1 + 1 + 1 + 1 + 2 + 2 + 4 + 4;
+function getSizeFromOffset(input2, offset) {
+  const value2 = input2[offset];
+  return value2 === 0 ? 256 : value2;
+}
+function getImageSize(input2, imageIndex) {
+  const offset = SIZE_HEADER + imageIndex * SIZE_IMAGE_ENTRY;
+  return {
+    height: getSizeFromOffset(input2, offset + 1),
+    width: getSizeFromOffset(input2, offset)
+  };
+}
+var ICO = {
+  validate(input2) {
+    const reserved = readUInt16LE(input2, 0);
+    const imageCount = readUInt16LE(input2, 4);
+    if (reserved !== 0 || imageCount === 0)
+      return false;
+    const imageType = readUInt16LE(input2, 2);
+    return imageType === TYPE_ICON;
+  },
+  calculate(input2) {
+    const nbImages = readUInt16LE(input2, 4);
+    const imageSize2 = getImageSize(input2, 0);
+    if (nbImages === 1)
+      return imageSize2;
+    const images = [];
+    for (let imageIndex = 0; imageIndex < nbImages; imageIndex += 1) {
+      images.push(getImageSize(input2, imageIndex));
+    }
+    return {
+      width: imageSize2.width,
+      height: imageSize2.height,
+      images
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/cur.js
+var TYPE_CURSOR = 2;
+var CUR = {
+  validate(input2) {
+    const reserved = readUInt16LE(input2, 0);
+    const imageCount = readUInt16LE(input2, 4);
+    if (reserved !== 0 || imageCount === 0)
+      return false;
+    const imageType = readUInt16LE(input2, 2);
+    return imageType === TYPE_CURSOR;
+  },
+  calculate: (input2) => ICO.calculate(input2)
+};
+
+// node_modules/image-size/dist/esm/types/dds.js
+var DDS = {
+  validate: (input2) => readUInt32LE(input2, 0) === 542327876,
+  calculate: (input2) => ({
+    height: readUInt32LE(input2, 12),
+    width: readUInt32LE(input2, 16)
+  })
+};
+
+// node_modules/image-size/dist/esm/types/gif.js
+var gifRegexp = /^GIF8[79]a/;
+var GIF = {
+  validate: (input2) => gifRegexp.test(toUTF8String(input2, 0, 6)),
+  calculate: (input2) => ({
+    height: readUInt16LE(input2, 8),
+    width: readUInt16LE(input2, 6)
+  })
+};
+
+// node_modules/image-size/dist/esm/types/heif.js
+var brandMap = {
+  avif: "avif",
+  mif1: "heif",
+  msf1: "heif",
+  heic: "heic",
+  heix: "heic",
+  hevc: "heic",
+  hevx: "heic"
+};
+var HEIF = {
+  validate(input2) {
+    const boxType = toUTF8String(input2, 4, 8);
+    if (boxType !== "ftyp")
+      return false;
+    const ftypBox = findBox(input2, "ftyp", 0);
+    if (!ftypBox)
+      return false;
+    const brand = toUTF8String(input2, ftypBox.offset + 8, ftypBox.offset + 12);
+    return brand in brandMap;
+  },
+  calculate(input2) {
+    const metaBox = findBox(input2, "meta", 0);
+    const iprpBox = metaBox && findBox(input2, "iprp", metaBox.offset + 12);
+    const ipcoBox = iprpBox && findBox(input2, "ipco", iprpBox.offset + 8);
+    if (!ipcoBox) {
+      throw new TypeError("Invalid HEIF, no ipco box found");
+    }
+    const type = toUTF8String(input2, 8, 12);
+    const images = [];
+    let currentOffset = ipcoBox.offset + 8;
+    while (currentOffset < ipcoBox.offset + ipcoBox.size) {
+      const ispeBox = findBox(input2, "ispe", currentOffset);
+      if (!ispeBox)
+        break;
+      if (ispeBox.size < 20) {
+        throw new TypeError("Invalid HEIF");
+      }
+      const rawWidth = readUInt32BE(input2, ispeBox.offset + 12);
+      const rawHeight = readUInt32BE(input2, ispeBox.offset + 16);
+      const clapBox = findBox(input2, "clap", currentOffset);
+      let width = rawWidth;
+      const height = rawHeight;
+      if (clapBox && clapBox.size >= 16 && clapBox.offset < ipcoBox.offset + ipcoBox.size) {
+        const cropRight = readUInt32BE(input2, clapBox.offset + 12);
+        width = rawWidth - cropRight;
+      }
+      images.push({ height, width });
+      const nextOffset = ispeBox.offset + ispeBox.size;
+      if (nextOffset <= currentOffset) {
+        throw new TypeError("Invalid HEIF");
+      }
+      currentOffset = nextOffset;
+    }
+    if (images.length === 0) {
+      throw new TypeError("Invalid HEIF, no sizes found");
+    }
+    return {
+      width: images[0].width,
+      height: images[0].height,
+      type,
+      ...images.length > 1 ? { images } : {}
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/icns.js
+var SIZE_HEADER2 = 4 + 4;
+var FILE_LENGTH_OFFSET = 4;
+var ENTRY_LENGTH_OFFSET = 4;
+var ICON_TYPE_SIZE = {
+  ICON: 32,
+  "ICN#": 32,
+  "icm#": 16,
+  icm4: 16,
+  icm8: 16,
+  "ics#": 16,
+  ics4: 16,
+  ics8: 16,
+  is32: 16,
+  s8mk: 16,
+  icp4: 16,
+  icl4: 32,
+  icl8: 32,
+  il32: 32,
+  l8mk: 32,
+  icp5: 32,
+  ic11: 32,
+  ich4: 48,
+  ich8: 48,
+  ih32: 48,
+  h8mk: 48,
+  icp6: 64,
+  ic12: 32,
+  it32: 128,
+  t8mk: 128,
+  ic07: 128,
+  ic08: 256,
+  ic13: 256,
+  ic09: 512,
+  ic14: 512,
+  ic10: 1024
+};
+function readImageHeader(input2, imageOffset) {
+  const imageLengthOffset = imageOffset + ENTRY_LENGTH_OFFSET;
+  if (imageLengthOffset + 4 > input2.length) {
+    throw new TypeError("Invalid ICNS");
+  }
+  return [
+    toUTF8String(input2, imageOffset, imageLengthOffset),
+    readUInt32BE(input2, imageLengthOffset)
+  ];
+}
+function getImageSize2(type) {
+  const size = ICON_TYPE_SIZE[type];
+  return { width: size, height: size, type };
+}
+var ICNS = {
+  validate: (input2) => toUTF8String(input2, 0, 4) === "icns",
+  calculate(input2) {
+    const inputLength = input2.length;
+    const fileLength = readUInt32BE(input2, FILE_LENGTH_OFFSET);
+    let imageOffset = SIZE_HEADER2;
+    const images = [];
+    while (imageOffset < fileLength && imageOffset < inputLength) {
+      const imageHeader = readImageHeader(input2, imageOffset);
+      const entryLength = imageHeader[1];
+      if (entryLength < 8) {
+        throw new TypeError("Invalid ICNS");
+      }
+      const imageSize2 = getImageSize2(imageHeader[0]);
+      images.push(imageSize2);
+      imageOffset += entryLength;
+    }
+    if (images.length === 0) {
+      throw new TypeError("Invalid ICNS, no sizes found");
+    }
+    return {
+      width: images[0].width,
+      height: images[0].height,
+      ...images.length > 1 ? { images } : {}
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/j2c.js
+var J2C = {
+  validate: (input2) => readUInt32BE(input2, 0) === 4283432785,
+  calculate: (input2) => ({
+    height: readUInt32BE(input2, 12),
+    width: readUInt32BE(input2, 8)
+  })
+};
+
+// node_modules/image-size/dist/esm/types/jp2.js
+var JP2 = {
+  validate(input2) {
+    const boxType = toUTF8String(input2, 4, 8);
+    if (boxType !== "jP  ")
+      return false;
+    const ftypBox = findBox(input2, "ftyp", 0);
+    if (!ftypBox)
+      return false;
+    const brand = toUTF8String(input2, ftypBox.offset + 8, ftypBox.offset + 12);
+    return brand === "jp2 ";
+  },
+  calculate(input2) {
+    const jp2hBox = findBox(input2, "jp2h", 0);
+    const ihdrBox = jp2hBox && findBox(input2, "ihdr", jp2hBox.offset + 8);
+    if (ihdrBox) {
+      return {
+        height: readUInt32BE(input2, ihdrBox.offset + 8),
+        width: readUInt32BE(input2, ihdrBox.offset + 12)
+      };
+    }
+    throw new TypeError("Unsupported JPEG 2000 format");
+  }
+};
+
+// node_modules/image-size/dist/esm/types/jpg.js
+var EXIF_MARKER = "45786966";
+var APP1_DATA_SIZE_BYTES = 2;
+var EXIF_HEADER_BYTES = 6;
+var TIFF_BYTE_ALIGN_BYTES = 2;
+var BIG_ENDIAN_BYTE_ALIGN = "4d4d";
+var LITTLE_ENDIAN_BYTE_ALIGN = "4949";
+var IDF_ENTRY_BYTES = 12;
+var NUM_DIRECTORY_ENTRIES_BYTES = 2;
+function isEXIF(input2) {
+  return toHexString(input2, 2, 6) === EXIF_MARKER;
+}
+function extractSize(input2, index) {
+  return {
+    height: readUInt16BE(input2, index),
+    width: readUInt16BE(input2, index + 2)
+  };
+}
+function extractOrientation(exifBlock, isBigEndian) {
+  const idfOffset = 8;
+  const offset = EXIF_HEADER_BYTES + idfOffset;
+  const idfDirectoryEntries = readUInt(exifBlock, 16, offset, isBigEndian);
+  for (let directoryEntryNumber = 0; directoryEntryNumber < idfDirectoryEntries; directoryEntryNumber++) {
+    const start = offset + NUM_DIRECTORY_ENTRIES_BYTES + directoryEntryNumber * IDF_ENTRY_BYTES;
+    const end = start + IDF_ENTRY_BYTES;
+    if (start > exifBlock.length) {
+      return;
+    }
+    const block2 = exifBlock.slice(start, end);
+    const tagNumber = readUInt(block2, 16, 0, isBigEndian);
+    if (tagNumber === 274) {
+      const dataFormat = readUInt(block2, 16, 2, isBigEndian);
+      if (dataFormat !== 3) {
+        return;
+      }
+      const numberOfComponents = readUInt(block2, 32, 4, isBigEndian);
+      if (numberOfComponents !== 1) {
+        return;
+      }
+      return readUInt(block2, 16, 8, isBigEndian);
+    }
+  }
+}
+function validateExifBlock(input2, index) {
+  const exifBlock = input2.slice(APP1_DATA_SIZE_BYTES, index);
+  const byteAlign = toHexString(exifBlock, EXIF_HEADER_BYTES, EXIF_HEADER_BYTES + TIFF_BYTE_ALIGN_BYTES);
+  const isBigEndian = byteAlign === BIG_ENDIAN_BYTE_ALIGN;
+  const isLittleEndian = byteAlign === LITTLE_ENDIAN_BYTE_ALIGN;
+  if (isBigEndian || isLittleEndian) {
+    return extractOrientation(exifBlock, isBigEndian);
+  }
+}
+function validateInput(input2, index) {
+  if (index > input2.length) {
+    throw new TypeError("Corrupt JPG, exceeded buffer limits");
+  }
+}
+var JPG = {
+  validate: (input2) => toHexString(input2, 0, 2) === "ffd8",
+  calculate(_input) {
+    let input2 = _input.slice(4);
+    let orientation;
+    let next;
+    while (input2.length) {
+      const i = readUInt16BE(input2, 0);
+      validateInput(input2, i);
+      if (input2[i] !== 255) {
+        input2 = input2.slice(1);
+        continue;
+      }
+      if (isEXIF(input2)) {
+        orientation = validateExifBlock(input2, i);
+      }
+      next = input2[i + 1];
+      if (next === 192 || next === 193 || next === 194) {
+        const size = extractSize(input2, i + 5);
+        if (!orientation) {
+          return size;
+        }
+        return {
+          height: size.height,
+          orientation,
+          width: size.width
+        };
+      }
+      input2 = input2.slice(i + 2);
+    }
+    throw new TypeError("Invalid JPG, no size found");
+  }
+};
+
+// node_modules/image-size/dist/esm/utils/bit-reader.js
+var BitReader = class {
+  input;
+  endianness;
+  byteOffset = 2;
+  bitOffset = 0;
+  constructor(input2, endianness) {
+    this.input = input2;
+    this.endianness = endianness;
+  }
+  getBits(length = 1) {
+    let result = 0;
+    let bitsRead = 0;
+    while (bitsRead < length) {
+      if (this.byteOffset >= this.input.length) {
+        throw new Error("Reached end of input");
+      }
+      const currentByte = this.input[this.byteOffset];
+      const bitsLeft = 8 - this.bitOffset;
+      const bitsToRead = Math.min(length - bitsRead, bitsLeft);
+      if (this.endianness === "little-endian") {
+        const mask = (1 << bitsToRead) - 1;
+        const bits2 = currentByte >> this.bitOffset & mask;
+        result |= bits2 << bitsRead;
+      } else {
+        const mask = (1 << bitsToRead) - 1 << 8 - this.bitOffset - bitsToRead;
+        const bits2 = (currentByte & mask) >> 8 - this.bitOffset - bitsToRead;
+        result = result << bitsToRead | bits2;
+      }
+      bitsRead += bitsToRead;
+      this.bitOffset += bitsToRead;
+      if (this.bitOffset === 8) {
+        this.byteOffset++;
+        this.bitOffset = 0;
+      }
+    }
+    return result;
+  }
+};
+
+// node_modules/image-size/dist/esm/types/jxl-stream.js
+function calculateImageDimension(reader, isSmallImage) {
+  if (isSmallImage) {
+    return 8 * (1 + reader.getBits(5));
+  }
+  const sizeClass = reader.getBits(2);
+  const extraBits = [9, 13, 18, 30][sizeClass];
+  return 1 + reader.getBits(extraBits);
+}
+function calculateImageWidth(reader, isSmallImage, widthMode, height) {
+  if (isSmallImage && widthMode === 0) {
+    return 8 * (1 + reader.getBits(5));
+  }
+  if (widthMode === 0) {
+    return calculateImageDimension(reader, false);
+  }
+  const aspectRatios = [1, 1.2, 4 / 3, 1.5, 16 / 9, 5 / 4, 2];
+  return Math.floor(height * aspectRatios[widthMode - 1]);
+}
+var JXLStream = {
+  validate: (input2) => {
+    return toHexString(input2, 0, 2) === "ff0a";
+  },
+  calculate(input2) {
+    const reader = new BitReader(input2, "little-endian");
+    const isSmallImage = reader.getBits(1) === 1;
+    const height = calculateImageDimension(reader, isSmallImage);
+    const widthMode = reader.getBits(3);
+    const width = calculateImageWidth(reader, isSmallImage, widthMode, height);
+    return { width, height };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/jxl.js
+function extractCodestream(input2) {
+  const jxlcBox = findBox(input2, "jxlc", 0);
+  if (jxlcBox) {
+    return input2.slice(jxlcBox.offset + 8, jxlcBox.offset + jxlcBox.size);
+  }
+  const partialStreams = extractPartialStreams(input2);
+  if (partialStreams.length > 0) {
+    return concatenateCodestreams(partialStreams);
+  }
+  return void 0;
+}
+function extractPartialStreams(input2) {
+  const partialStreams = [];
+  let offset = 0;
+  while (offset < input2.length) {
+    const jxlpBox = findBox(input2, "jxlp", offset);
+    if (!jxlpBox)
+      break;
+    if (jxlpBox.size < 12) {
+      throw new TypeError("Invalid JXL");
+    }
+    partialStreams.push(input2.slice(jxlpBox.offset + 12, jxlpBox.offset + jxlpBox.size));
+    offset = jxlpBox.offset + jxlpBox.size;
+  }
+  return partialStreams;
+}
+function concatenateCodestreams(partialCodestreams) {
+  const totalLength = partialCodestreams.reduce((acc, curr) => acc + curr.length, 0);
+  const codestream = new Uint8Array(totalLength);
+  let position = 0;
+  for (const partial2 of partialCodestreams) {
+    codestream.set(partial2, position);
+    position += partial2.length;
+  }
+  return codestream;
+}
+var JXL = {
+  validate: (input2) => {
+    const boxType = toUTF8String(input2, 4, 8);
+    if (boxType !== "JXL ")
+      return false;
+    const ftypBox = findBox(input2, "ftyp", 0);
+    if (!ftypBox)
+      return false;
+    const brand = toUTF8String(input2, ftypBox.offset + 8, ftypBox.offset + 12);
+    return brand === "jxl ";
+  },
+  calculate(input2) {
+    const codestream = extractCodestream(input2);
+    if (codestream)
+      return JXLStream.calculate(codestream);
+    throw new TypeError("Invalid JXL");
+  }
+};
+
+// node_modules/image-size/dist/esm/types/ktx.js
+var KTX = {
+  validate: (input2) => {
+    const signature = toUTF8String(input2, 1, 7);
+    return ["KTX 11", "KTX 20"].includes(signature);
+  },
+  calculate: (input2) => {
+    const type = input2[5] === 49 ? "ktx" : "ktx2";
+    const offset = type === "ktx" ? 36 : 20;
+    return {
+      height: readUInt32LE(input2, offset + 4),
+      width: readUInt32LE(input2, offset),
+      type
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/png.js
+var pngSignature = "PNG\r\n\n";
+var pngImageHeaderChunkName = "IHDR";
+var pngFriedChunkName = "CgBI";
+var PNG = {
+  validate(input2) {
+    if (pngSignature === toUTF8String(input2, 1, 8)) {
+      let chunkName = toUTF8String(input2, 12, 16);
+      if (chunkName === pngFriedChunkName) {
+        chunkName = toUTF8String(input2, 28, 32);
+      }
+      if (chunkName !== pngImageHeaderChunkName) {
+        throw new TypeError("Invalid PNG");
+      }
+      return true;
+    }
+    return false;
+  },
+  calculate(input2) {
+    if (toUTF8String(input2, 12, 16) === pngFriedChunkName) {
+      return {
+        height: readUInt32BE(input2, 36),
+        width: readUInt32BE(input2, 32)
+      };
+    }
+    return {
+      height: readUInt32BE(input2, 20),
+      width: readUInt32BE(input2, 16)
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/pnm.js
+var PNMTypes = {
+  P1: "pbm/ascii",
+  P2: "pgm/ascii",
+  P3: "ppm/ascii",
+  P4: "pbm",
+  P5: "pgm",
+  P6: "ppm",
+  P7: "pam",
+  PF: "pfm"
+};
+var handlers = {
+  default: (lines) => {
+    let dimensions = [];
+    while (lines.length > 0) {
+      const line = lines.shift();
+      if (line[0] === "#") {
+        continue;
+      }
+      dimensions = line.split(" ");
+      break;
+    }
+    if (dimensions.length === 2) {
+      return {
+        height: Number.parseInt(dimensions[1], 10),
+        width: Number.parseInt(dimensions[0], 10)
+      };
+    }
+    throw new TypeError("Invalid PNM");
+  },
+  pam: (lines) => {
+    const size = {};
+    while (lines.length > 0) {
+      const line = lines.shift();
+      if (line.length > 16 || line.charCodeAt(0) > 128) {
+        continue;
+      }
+      const [key, value2] = line.split(" ");
+      if (key && value2) {
+        size[key.toLowerCase()] = Number.parseInt(value2, 10);
+      }
+      if (size.height && size.width) {
+        break;
+      }
+    }
+    if (size.height && size.width) {
+      return {
+        height: size.height,
+        width: size.width
+      };
+    }
+    throw new TypeError("Invalid PAM");
+  }
+};
+var PNM = {
+  validate: (input2) => toUTF8String(input2, 0, 2) in PNMTypes,
+  calculate(input2) {
+    const signature = toUTF8String(input2, 0, 2);
+    const type = PNMTypes[signature];
+    const lines = toUTF8String(input2, 3).split(/[\r\n]+/);
+    const handler = handlers[type] || handlers.default;
+    return handler(lines);
+  }
+};
+
+// node_modules/image-size/dist/esm/types/psd.js
+var PSD = {
+  validate: (input2) => toUTF8String(input2, 0, 4) === "8BPS",
+  calculate: (input2) => ({
+    height: readUInt32BE(input2, 14),
+    width: readUInt32BE(input2, 18)
+  })
+};
+
+// node_modules/image-size/dist/esm/types/svg.js
+var svgReg = /<svg\s([^>"']|"[^"]*"|'[^']*')*>/;
+var extractorRegExps = {
+  height: /\sheight=(['"])([^%]+?)\1/,
+  root: svgReg,
+  viewbox: /\sviewBox=(['"])(.+?)\1/i,
+  width: /\swidth=(['"])([^%]+?)\1/
+};
+var INCH_CM = 2.54;
+var units = {
+  in: 96,
+  cm: 96 / INCH_CM,
+  em: 16,
+  ex: 8,
+  m: 96 / INCH_CM * 100,
+  mm: 96 / INCH_CM / 10,
+  pc: 96 / 72 / 12,
+  pt: 96 / 72,
+  px: 1
+};
+var unitsReg = new RegExp(`^([0-9.]+(?:e\\d+)?)(${Object.keys(units).join("|")})?$`);
+function parseLength(len) {
+  const m = unitsReg.exec(len);
+  if (!m) {
+    return void 0;
+  }
+  return Math.round(Number(m[1]) * (units[m[2]] || 1));
+}
+function parseViewbox(viewbox) {
+  const bounds = viewbox.split(" ");
+  return {
+    height: parseLength(bounds[3]),
+    width: parseLength(bounds[2])
+  };
+}
+function parseAttributes(root) {
+  const width = root.match(extractorRegExps.width);
+  const height = root.match(extractorRegExps.height);
+  const viewbox = root.match(extractorRegExps.viewbox);
+  return {
+    height: height && parseLength(height[2]),
+    viewbox: viewbox && parseViewbox(viewbox[2]),
+    width: width && parseLength(width[2])
+  };
+}
+function calculateByDimensions(attrs) {
+  return {
+    height: attrs.height,
+    width: attrs.width
+  };
+}
+function calculateByViewbox(attrs, viewbox) {
+  const ratio = viewbox.width / viewbox.height;
+  if (attrs.width) {
+    return {
+      height: Math.floor(attrs.width / ratio),
+      width: attrs.width
+    };
+  }
+  if (attrs.height) {
+    return {
+      height: attrs.height,
+      width: Math.floor(attrs.height * ratio)
+    };
+  }
+  return {
+    height: viewbox.height,
+    width: viewbox.width
+  };
+}
+var SVG2 = {
+  validate: (input2) => svgReg.test(toUTF8String(input2, 0, 1e3)),
+  calculate(input2) {
+    const root = toUTF8String(input2).match(extractorRegExps.root);
+    if (root) {
+      const attrs = parseAttributes(root[0]);
+      if (attrs.width && attrs.height) {
+        return calculateByDimensions(attrs);
+      }
+      if (attrs.viewbox) {
+        return calculateByViewbox(attrs, attrs.viewbox);
+      }
+    }
+    throw new TypeError("Invalid SVG");
+  }
+};
+
+// node_modules/image-size/dist/esm/types/tga.js
+var TGA = {
+  validate(input2) {
+    return readUInt16LE(input2, 0) === 0 && readUInt16LE(input2, 4) === 0;
+  },
+  calculate(input2) {
+    return {
+      height: readUInt16LE(input2, 14),
+      width: readUInt16LE(input2, 12)
+    };
+  }
+};
+
+// node_modules/image-size/dist/esm/types/tiff.js
+var CONSTANTS = {
+  TAG: {
+    WIDTH: 256,
+    HEIGHT: 257,
+    COMPRESSION: 259
+  },
+  TYPE: {
+    SHORT: 3,
+    LONG: 4,
+    LONG8: 16
+  },
+  ENTRY_SIZE: {
+    STANDARD: 12,
+    BIG: 20
+  },
+  COUNT_SIZE: {
+    STANDARD: 2,
+    BIG: 8
+  }
+};
+function readIFD(input2, { isBigEndian, isBigTiff }) {
+  const ifdOffset = isBigTiff ? Number(readUInt64(input2, 8, isBigEndian)) : readUInt(input2, 32, 4, isBigEndian);
+  const entryCountSize = isBigTiff ? CONSTANTS.COUNT_SIZE.BIG : CONSTANTS.COUNT_SIZE.STANDARD;
+  return input2.slice(ifdOffset + entryCountSize);
+}
+function readTagValue(input2, type, offset, isBigEndian) {
+  switch (type) {
+    case CONSTANTS.TYPE.SHORT:
+      return readUInt(input2, 16, offset, isBigEndian);
+    case CONSTANTS.TYPE.LONG:
+      return readUInt(input2, 32, offset, isBigEndian);
+    case CONSTANTS.TYPE.LONG8: {
+      const value2 = Number(readUInt64(input2, offset, isBigEndian));
+      if (value2 > Number.MAX_SAFE_INTEGER) {
+        throw new TypeError("Value too large");
+      }
+      return value2;
+    }
+    default:
+      return 0;
+  }
+}
+function nextTag(input2, isBigTiff) {
+  const entrySize = isBigTiff ? CONSTANTS.ENTRY_SIZE.BIG : CONSTANTS.ENTRY_SIZE.STANDARD;
+  if (input2.length > entrySize) {
+    return input2.slice(entrySize);
+  }
+}
+function extractTags(input2, { isBigEndian, isBigTiff }) {
+  const tags = {};
+  let temp = input2;
+  while (temp?.length) {
+    const code = readUInt(temp, 16, 0, isBigEndian);
+    const type = readUInt(temp, 16, 2, isBigEndian);
+    const length = isBigTiff ? Number(readUInt64(temp, 4, isBigEndian)) : readUInt(temp, 32, 4, isBigEndian);
+    if (code === 0)
+      break;
+    if (length === 1 && (type === CONSTANTS.TYPE.SHORT || type === CONSTANTS.TYPE.LONG || isBigTiff && type === CONSTANTS.TYPE.LONG8)) {
+      const valueOffset = isBigTiff ? 12 : 8;
+      tags[code] = readTagValue(temp, type, valueOffset, isBigEndian);
+    }
+    temp = nextTag(temp, isBigTiff);
+  }
+  return tags;
+}
+function determineFormat(input2) {
+  const signature = toUTF8String(input2, 0, 2);
+  const version3 = readUInt(input2, 16, 2, signature === "MM");
+  return {
+    isBigEndian: signature === "MM",
+    isBigTiff: version3 === 43
+  };
+}
+function validateBigTIFFHeader(input2, isBigEndian) {
+  const byteSize = readUInt(input2, 16, 4, isBigEndian);
+  const reserved = readUInt(input2, 16, 6, isBigEndian);
+  if (byteSize !== 8 || reserved !== 0) {
+    throw new TypeError("Invalid BigTIFF header");
+  }
+}
+var signatures = /* @__PURE__ */ new Set([
+  "49492a00",
+  "4d4d002a",
+  "49492b00",
+  "4d4d002b"
+]);
+var TIFF = {
+  validate: (input2) => {
+    const signature = toHexString(input2, 0, 4);
+    return signatures.has(signature);
+  },
+  calculate(input2) {
+    const format = determineFormat(input2);
+    if (format.isBigTiff) {
+      validateBigTIFFHeader(input2, format.isBigEndian);
+    }
+    const ifdBuffer = readIFD(input2, format);
+    const tags = extractTags(ifdBuffer, format);
+    const info = {
+      height: tags[CONSTANTS.TAG.HEIGHT],
+      width: tags[CONSTANTS.TAG.WIDTH],
+      type: format.isBigTiff ? "bigtiff" : "tiff"
+    };
+    if (tags[CONSTANTS.TAG.COMPRESSION]) {
+      info.compression = tags[CONSTANTS.TAG.COMPRESSION];
+    }
+    if (!info.width || !info.height) {
+      throw new TypeError("Invalid Tiff. Missing tags");
+    }
+    return info;
+  }
+};
+
+// node_modules/image-size/dist/esm/types/webp.js
+function calculateExtended(input2) {
+  return {
+    height: 1 + readUInt24LE(input2, 7),
+    width: 1 + readUInt24LE(input2, 4)
+  };
+}
+function calculateLossless(input2) {
+  return {
+    height: 1 + ((input2[4] & 15) << 10 | input2[3] << 2 | (input2[2] & 192) >> 6),
+    width: 1 + ((input2[2] & 63) << 8 | input2[1])
+  };
+}
+function calculateLossy(input2) {
+  return {
+    height: readInt16LE(input2, 8) & 16383,
+    width: readInt16LE(input2, 6) & 16383
+  };
+}
+var WEBP = {
+  validate(input2) {
+    const riffHeader = "RIFF" === toUTF8String(input2, 0, 4);
+    const webpHeader = "WEBP" === toUTF8String(input2, 8, 12);
+    const vp8Header = "VP8" === toUTF8String(input2, 12, 15);
+    return riffHeader && webpHeader && vp8Header;
+  },
+  calculate(_input) {
+    const chunkHeader = toUTF8String(_input, 12, 16);
+    const input2 = _input.slice(20, 30);
+    if (chunkHeader === "VP8X") {
+      const extendedHeader = input2[0];
+      const validStart = (extendedHeader & 192) === 0;
+      const validEnd = (extendedHeader & 1) === 0;
+      if (validStart && validEnd) {
+        return calculateExtended(input2);
+      }
+      throw new TypeError("Invalid WebP");
+    }
+    if (chunkHeader === "VP8 " && input2[0] !== 47) {
+      return calculateLossy(input2);
+    }
+    const signature = toHexString(input2, 3, 6);
+    if (chunkHeader === "VP8L" && signature !== "9d012a") {
+      return calculateLossless(input2);
+    }
+    throw new TypeError("Invalid WebP");
+  }
+};
+
+// node_modules/image-size/dist/esm/types/index.js
+var typeHandlers = /* @__PURE__ */ new Map([
+  ["bmp", BMP],
+  ["cur", CUR],
+  ["dds", DDS],
+  ["gif", GIF],
+  ["heif", HEIF],
+  ["icns", ICNS],
+  ["ico", ICO],
+  ["j2c", J2C],
+  ["jp2", JP2],
+  ["jpg", JPG],
+  ["jxl", JXL],
+  ["jxl-stream", JXLStream],
+  ["ktx", KTX],
+  ["png", PNG],
+  ["pnm", PNM],
+  ["psd", PSD],
+  ["svg", SVG2],
+  ["tga", TGA],
+  ["tiff", TIFF],
+  ["webp", WEBP]
+]);
+var types = Array.from(typeHandlers.keys());
+
+// node_modules/image-size/dist/esm/detector.js
+var firstBytes = /* @__PURE__ */ new Map([
+  [0, "heif"],
+  [56, "psd"],
+  [66, "bmp"],
+  [68, "dds"],
+  [71, "gif"],
+  [73, "tiff"],
+  [77, "tiff"],
+  [82, "webp"],
+  [105, "icns"],
+  [137, "png"],
+  [255, "jpg"]
+]);
+function detector(input2) {
+  const byte = input2[0];
+  const type = firstBytes.get(byte);
+  if (type && typeHandlers.get(type)?.validate(input2)) {
+    return type;
+  }
+  return types.find((type2) => typeHandlers.get(type2)?.validate(input2));
+}
+
+// node_modules/image-size/dist/esm/lookup.js
+var globalOptions = {
+  disabledTypes: []
+};
+function imageSize(input2) {
+  const type = detector(input2);
+  if (typeof type !== "undefined") {
+    if (globalOptions.disabledTypes.indexOf(type) > -1) {
+      throw new TypeError(`disabled file type: ${type}`);
+    }
+    const size = typeHandlers.get(type)?.calculate(input2);
+    if (size !== void 0) {
+      size.type = size.type ?? type;
+      if (size.images && size.images.length > 1) {
+        const largestImage = size.images.reduce((largest, current) => {
+          return current.width * current.height > largest.width * largest.height ? current : largest;
+        }, size.images[0]);
+        size.width = largestImage.width;
+        size.height = largestImage.height;
+      }
+      return size;
+    }
+  }
+  throw new TypeError(`unsupported file type: ${type}`);
+}
+
+// node_modules/pptxgenjs/dist/pptxgen.es.js
 var import_jszip = __toESM(require_lib3());
 function __awaiter(thisArg, _arguments, P2, generator) {
   function adopt(value2) {
@@ -79294,15 +80289,15 @@ var taskKinds = ["analysis", "translation", "practice", "sentences", "structure"
 var taskSchema = external_exports.object({ ...taskTiming, id: external_exports.string(), passageId: external_exports.string(), kind: external_exports.enum(taskKinds), questionIds: external_exports.array(external_exports.string()), specialKind: external_exports.string().optional(), title: external_exports.string(), source: external_exports.string(), state: external_exports.enum(["pending", "running", "complete", "failed"]), error: external_exports.string(), attempts: external_exports.number().int() });
 
 // src/core/model.ts
-var types = ["reading", "seven", "cloze", "grammar", "listening", "writing", "continuation"];
+var types2 = ["reading", "seven", "cloze", "grammar", "listening", "writing", "continuation"];
 var blockSchema = external_exports.object({ id: external_exports.string(), text: external_exports.string(), page: external_exports.number().optional(), x: external_exports.number().optional(), y: external_exports.number().optional() });
-var passageSchema = external_exports.object({ id: external_exports.string(), title: external_exports.string(), type: external_exports.enum(types), paragraphs: external_exports.array(blockSchema), translation: external_exports.string().default(""), translationSource: external_exports.string().optional(), vocabulary: external_exports.string().default(""), longSentences: external_exports.string().default(""), pool: external_exports.string().default(""), learning: learningSchema.optional(), special: specialStateSchema.optional() });
+var passageSchema = external_exports.object({ id: external_exports.string(), title: external_exports.string(), type: external_exports.enum(types2), paragraphs: external_exports.array(blockSchema), translation: external_exports.string().default(""), translationSource: external_exports.string().optional(), vocabulary: external_exports.string().default(""), longSentences: external_exports.string().default(""), pool: external_exports.string().default(""), learning: learningSchema.optional(), special: specialStateSchema.optional() });
 var explanationSchema = external_exports.object({ id: external_exports.string(), createdAt: external_exports.string(), origin: external_exports.enum(["ai", "teacher", "example"]), answer: external_exports.string(), analysis: external_exports.string(), evidence: external_exports.array(external_exports.object({ blockId: external_exports.string(), quote: external_exports.string() })), practice: external_exports.string(), practiceAnswer: external_exports.string(), exercise: exerciseSchema.optional(), practiceBlueprint: exerciseBlueprintSchema.optional(), sourceText: external_exports.string().optional(), conflict: external_exports.boolean().default(false) });
-var questionSchema = external_exports.object({ id: external_exports.string(), number: external_exports.string(), sourceId: external_exports.string().optional(), passageId: external_exports.string(), type: external_exports.enum(types), stem: external_exports.string(), options: external_exports.array(external_exports.string()), answer: external_exports.string(), confirmed: external_exports.boolean(), excluded: external_exports.boolean(), stale: external_exports.boolean(), versions: external_exports.array(explanationSchema), activeVersion: external_exports.string().optional() });
+var questionSchema = external_exports.object({ id: external_exports.string(), number: external_exports.string(), sourceId: external_exports.string().optional(), passageId: external_exports.string(), type: external_exports.enum(types2), stem: external_exports.string(), options: external_exports.array(external_exports.string()), answer: external_exports.string(), confirmed: external_exports.boolean(), excluded: external_exports.boolean(), stale: external_exports.boolean(), versions: external_exports.array(explanationSchema), activeVersion: external_exports.string().optional() });
 var sourceSchema = external_exports.object({ id: external_exports.string(), name: external_exports.string(), role: external_exports.enum(["paper", "answer", "listening"]), kind: external_exports.enum(["pdf", "docx", "text"]), blocks: external_exports.array(blockSchema), pageCount: external_exports.number().int().positive().max(100).optional(), ocrPages: external_exports.array(external_exports.number().int().positive()).optional(), ocrReviewPages: external_exports.array(external_exports.number().int().positive()).optional(), ocrVerifiedPages: external_exports.array(external_exports.number().int().positive()).optional(), ocrTranscriptions: external_exports.array(external_exports.object({ page: external_exports.number().int().positive(), at: external_exports.string(), blocks: external_exports.array(external_exports.string()), uncertain: external_exports.array(external_exports.string()) })).optional(), ocrCorrections: external_exports.array(external_exports.object({ page: external_exports.number().int().positive(), at: external_exports.string(), before: external_exports.array(blockSchema), after: external_exports.array(blockSchema) })).optional(), asset: external_exports.string().regex(/^sources[/][a-zA-Z0-9_-]+[.](pdf|docx)$/).optional(), previewHtml: external_exports.string().optional(), figures: external_exports.array(sourceFigureSchema).optional(), figureScanUnits: external_exports.array(external_exports.number().int().positive()).optional(), warnings: external_exports.array(external_exports.string()).optional() });
 var jobSchema = external_exports.object({ state: external_exports.enum(["idle", "running", "partial", "complete", "failed", "cancelled", "interrupted"]), done: external_exports.array(external_exports.string()), errors: external_exports.record(external_exports.string(), external_exports.string()), current: external_exports.string().optional(), mode: external_exports.enum([...taskKinds, "lesson", "modules", "selected"]).optional(), tasks: external_exports.array(taskSchema).optional(), stopReason: external_exports.string().optional() });
 var correctionRecordSchema = external_exports.object({ id: external_exports.string(), createdAt: external_exports.string(), provider: external_exports.string(), model: external_exports.string(), before: external_exports.object({ passages: external_exports.array(passageSchema), questions: external_exports.array(questionSchema) }), afterFingerprint: external_exports.string(), changes: external_exports.array(external_exports.object({ target: external_exports.string(), before: external_exports.string(), after: external_exports.string(), reason: external_exports.string() })), unresolved: external_exports.array(external_exports.string()), recheck: external_exports.enum(["pending", "complete", "failed", "cancelled", "not_required"]), recheckError: external_exports.string(), undoneAt: external_exports.string().optional() });
-var projectSchema = external_exports.object({ schemaVersion: external_exports.literal(1), id: external_exports.string().regex(/^[a-zA-Z0-9_-]+$/), title: external_exports.string().min(1), subject: external_exports.enum(["english", "chinese", "chemistry"]), chinese: chineseSchema.optional(), chemistry: chemistrySchema.optional(), updatedAt: external_exports.string(), example: external_exports.boolean(), organizationIssues: external_exports.array(external_exports.string()).optional(), sourceFidelityIssues: external_exports.array(external_exports.object({ location: external_exports.string(), expected: external_exports.string(), received: external_exports.string() })).optional(), sources: external_exports.array(sourceSchema), passages: external_exports.array(passageSchema), questions: external_exports.array(questionSchema), job: jobSchema, generationJobs: external_exports.partialRecord(external_exports.enum(taskKinds), jobSchema).optional(), proofread: proofreadReportSchema.optional(), corrections: external_exports.array(correctionRecordSchema).optional() }).superRefine((p, ctx) => {
+var projectSchema = external_exports.object({ schemaVersion: external_exports.literal(1), pptTemplate: external_exports.enum(builtinTemplateIds).optional(), id: external_exports.string().regex(/^[a-zA-Z0-9_-]+$/), title: external_exports.string().min(1), subject: external_exports.enum(["english", "chinese", "chemistry"]), chinese: chineseSchema.optional(), chemistry: chemistrySchema.optional(), updatedAt: external_exports.string(), example: external_exports.boolean(), organizationIssues: external_exports.array(external_exports.string()).optional(), sourceFidelityIssues: external_exports.array(external_exports.object({ location: external_exports.string(), expected: external_exports.string(), received: external_exports.string() })).optional(), sources: external_exports.array(sourceSchema), passages: external_exports.array(passageSchema), questions: external_exports.array(questionSchema), job: jobSchema, generationJobs: external_exports.partialRecord(external_exports.enum(taskKinds), jobSchema).optional(), proofread: proofreadReportSchema.optional(), corrections: external_exports.array(correctionRecordSchema).optional() }).superRefine((p, ctx) => {
   if (p.subject === "chemistry" && !p.chemistry) ctx.addIssue({ code: "custom", message: "\u5316\u5B66\u8BFE\u4EF6\u7F3A\u5C11\u5316\u5B66\u6570\u636E" });
 });
 var uid = () => globalThis.crypto.randomUUID();
@@ -79412,6 +80407,14 @@ function lessonSelectionIssues(p, selection) {
   const issues = [];
   if (!selection.passageIds.length) issues.push("\u8BF7\u81F3\u5C11\u9009\u62E9\u4E00\u7BC7\u6750\u6599");
   if (!selection.passageIds.some((pid) => selection.modules[pid]?.length)) issues.push("\u8BF7\u81F3\u5C11\u9009\u62E9\u4E00\u79CD\u5185\u5BB9");
+  const selectedIds = new Set(selection.questionIds);
+  for (const id2 of selectedIds) {
+    const question2 = p.questions.find((q) => q.id === id2 && !q.excluded && selection.passageIds.includes(q.passageId));
+    if (!question2) issues.push("\u6240\u9009\u9898\u76EE\u5DF2\u6392\u9664\u3001\u5DF2\u79FB\u9664\u6216\u4E0D\u5C5E\u4E8E\u6240\u9009\u7BC7\u76EE\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392\uFF1A" + id2);
+  }
+  for (const ids of Object.values(selection.questionIdsByModule ?? {})) {
+    for (const id2 of ids) if (!selectedIds.has(id2)) issues.push("\u6A21\u5757\u6240\u9009\u9898\u76EE\u4E0D\u5728\u672C\u6B21\u6388\u8BFE\u8303\u56F4\uFF1A" + id2);
+  }
   for (const pid of selection.passageIds) {
     const a = p.passages.find((a2) => a2.id === pid);
     if (!a) {
@@ -79422,6 +80425,7 @@ function lessonSelectionIssues(p, selection) {
     for (const m of selection.modules[pid] || []) {
       if (m === "analysis" || m === "practice") {
         const targets = moduleQuestions(selection, qs, m);
+        if (!targets.length && m === "analysis") issues.push(a.title + " \xB7 \u9010\u9898\u8BB2\u8BC4\uFF1A\u8BF7\u5148\u52FE\u9009\u9898\u76EE");
         for (const q of targets) {
           const reason = lessonAvailability(p, pid, m, q.id);
           if (reason) issues.push(`${a.title} \xB7 \u7B2C${q.number}\u9898 \xB7 ${lessonModuleNames[m]}\uFF1A${reason}`);
@@ -79519,16 +80523,98 @@ ${x.explanation}`)) || [], block("\u7ED3\u6784\u8BB2\u89E3", s.clauses), block("
   return slides;
 }
 
-// src/core/ppt-templates.ts
-var builtinPptTemplates = [
-  { id: "paper", name: "\u7EB8\u9762\u6559\u6848 \xB7 \u8FDE\u7EED\u8BB2\u8BC4", custom: false, layout: defaultSlideLayout, colors: { background: "FAF7EF", text: "302C26", accent: "823E2B", muted: "7E715F", line: "D9CFBF" }, fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Georgia" } },
-  { id: "blue", name: "\u4FA7\u680F\u677F\u4E66 \xB7 \u5DE6\u9898\u53F3\u8BB2", custom: false, layout: { ...defaultSlideLayout, title: { x: 0.55, y: 1.02, w: 2.8, h: 2.45 }, body: { x: 3.85, y: 0.62, w: 8.86, h: 6.18 } }, colors: { background: "F7FAFF", text: "182C46", accent: "175BB0", muted: "526B89", line: "CDDBEF" }, fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Calibri" } },
-  { id: "forest", name: "\u9010\u6B65\u63ED\u793A \xB7 \u6BCF\u9875\u4E00\u8981\u70B9", custom: false, layout: { ...defaultSlideLayout, sequence: "steps", title: { x: 0.72, y: 6.38, w: 11.9, h: 0.55 }, body: { x: 0.85, y: 0.68, w: 11.6, h: 5.25 } }, colors: { background: "163D35", text: "F4F5E9", accent: "EDD38B", muted: "BCD0C3", line: "50766A" }, fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Georgia" } }
-];
-var defaultPptTemplate = builtinPptTemplates[0];
+// src/core/ppt-page.ts
+function frameFont(text5, box, fontSize) {
+  let size = fontSize;
+  while (size > 10 && wrapSlideText(text5, box.w * 72 / size * 0.91).length * size / 72 * 1.25 > box.h) size--;
+  return size;
+}
+function projectSlide(slide, template, project, page, total, english2) {
+  const { layout, colors, fonts } = template;
+  const { body, title, width, height } = layout;
+  const items = [];
+  const box = (x, y, w, h) => ({ x, y, w, h });
+  const fill = (r, color) => items.push({ ...r, type: "rect", color });
+  function text5(role, value2, r, pt2, color, font = fonts.body, extra = {}) {
+    if (value2) items.push({ ...r, type: "text", role, text: value2, pt: extra.fit ? frameFont(value2, r, pt2) : pt2, color, font, ...extra });
+  }
+  const folio = page + " / " + total;
+  const paper2 = !template.custom && template.id === "paper";
+  const blue = !template.custom && template.id === "blue";
+  const cinema2 = !template.custom && template.id === "forest";
+  if (blue) {
+    fill(box(0, 0, 3.46, height), colors.accent);
+    fill(box(0.45, 0.52, 0.62, 0.13), "F4CB36");
+    text5("section", slide.section, box(0.45, 0.86, 2.62, 0.54), 15, "FFFFFF", fonts.body, { fit: true });
+    text5("title", slide.title, title, 34, "FFFFFF", fonts.heading, { bold: true, fit: true });
+    fill(box(0.45, 5.93, 2.55, 0.018), "91A9E8");
+    text5("project", project, box(0.45, 6.12, 2.57, 0.53), 13, "FFFFFF", fonts.body, { fit: true });
+    text5("folio", folio, box(0.45, 6.82, 2.56, 0.36), 17, "FADD68", fonts.body, { bold: true });
+  } else if (cinema2) {
+    fill(box(0, 6.16, width, 1.34), "202A3C");
+    fill(box(0.94, 0.44, 0.42, 0.07), "99B4FF");
+    text5("section", slide.section, box(1.54, 0.31, 10.82, 0.49), 15, colors.muted, fonts.body, { fit: true });
+    text5("title", slide.title, title, 29, colors.text, fonts.heading, { bold: true, fit: true });
+    text5("folio", folio, box(11.34, 6.52, 1.05, 0.38), 15, colors.accent, fonts.body, { align: "right" });
+  } else {
+    const section = paper2 ? box(title.x, 0.23, title.w, 0.4) : box(title.x, Math.max(0.08, title.y - 0.32), title.w, 0.24);
+    if (paper2 || title.y >= 0.36) text5("section", slide.section, section, paper2 ? 14 : 10, colors.muted, fonts.body, { fit: true });
+    text5("title", slide.title, title, paper2 ? 34 : 28, colors.accent, fonts.heading, { bold: paper2, fit: true });
+    if (paper2) fill(box(body.x, 1.47, body.w, 0.017), colors.line);
+    if (height - body.y - body.h >= 0.34) {
+      const y = paper2 ? 6.97 : height - 0.32;
+      if (paper2) fill(box(body.x, 6.86, body.w, 0.012), colors.line);
+      text5("project", project, box(body.x, y, body.w - 1.2, paper2 ? 0.32 : 0.22), paper2 ? 12 : 9, colors.muted, fonts.body, { fit: true });
+      text5("folio", folio, box(body.x + body.w - 1.15, y, 1.15, 0.32), paper2 ? 13 : 9, colors.muted, fonts.body, { align: "right" });
+    }
+  }
+  if (slide.image && slide.blocks.length) throw Error("\u7B2C " + page + " \u9875\u540C\u65F6\u542B\u6709\u539F\u56FE\u4E0E\u6B63\u6587\uFF0C\u8BF7\u5206\u4E3A\u9898\u56FE\u9875\u548C\u6587\u5B57\u9875");
+  if (slide.image) {
+    items.push({ ...body, type: "image", data: slide.image, alt: slide.title });
+    return items;
+  }
+  let pt = bodyFontSize(slide.kind, layout);
+  let blocks2 = layoutBlocks(slide.blocks, layout, slide.kind, pt);
+  if (!blocks2.length) return items;
+  const used = (pageBlocks) => {
+    const last = pageBlocks[pageBlocks.length - 1];
+    return last.y + last.h - body.y;
+  };
+  if (used(blocks2) > body.h + 1e-3) throw Error("\u7B2C " + page + " \u9875\u5185\u5BB9\u8D85\u8FC7\u6A21\u677F\u6B63\u6587\u533A\u57DF\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
+  if (layout.classroom && used(blocks2) < body.h * 0.72) {
+    const single = blocks2.length === 1 && blocks2[0].emphasis && !blocks2[0].math && Array.from(blocks2[0].text.trim()).length <= 12 && !blocks2[0].text.includes("\n");
+    const maximum = single ? cinema2 ? 67 : 46 : cinema2 ? 35 : 33;
+    for (let candidate = maximum; candidate > pt; candidate--) {
+      const enlarged = layoutBlocks(slide.blocks, layout, slide.kind, candidate);
+      if (used(enlarged) <= body.h * 0.84) {
+        blocks2 = enlarged;
+        pt = candidate;
+        break;
+      }
+    }
+  }
+  const space = Math.max(0, body.h - used(blocks2));
+  const offset = layout.classroom ? space * (cinema2 ? 0.45 : blue ? 0.28 : 0.16) : 0;
+  for (const b of blocks2) {
+    const ink = b.emphasis ? colors.accent : colors.text;
+    if (layout.classroom && b.emphasis) fill(box(b.x - 0.19, b.y + offset + 0.035, 0.05, Math.max(0.22, b.h - 0.08)), colors.accent);
+    if (b.label) text5("label", b.label, box(b.x, b.y + offset, b.w, b.labelH), labelFontSize(layout), colors.accent, fonts.body, { bold: true });
+    const face = english2 && ["source", "question", "practice"].includes(slide.kind) ? fonts.source : fonts.body;
+    text5(
+      "body",
+      b.text,
+      box(b.x, b.textY + offset, b.w, b.textH),
+      pt,
+      ink,
+      face,
+      { bold: b.emphasis, math: !!b.math && hasMath(b.text) }
+    );
+  }
+  return items;
+}
 
 // src/desktop/ppt-templates.ts
-var import_node_path3 = __toESM(require("node:path"));
+var import_node_path = __toESM(require("node:path"));
 var import_xmldom = __toESM(require_lib4());
 var P = "http://schemas.openxmlformats.org/presentationml/2006/main";
 var R = "http://schemas.openxmlformats.org/package/2006/relationships";
@@ -79546,7 +80632,7 @@ function xml(data, part) {
   return new import_xmldom.DOMParser({ errorHandler: { warning: invalid, error: invalid, fatalError: invalid } }).parseFromString(text5, "application/xml");
 }
 var encoded = (doc) => strToU8(new import_xmldom.XMLSerializer().serializeToString(doc));
-var relPart = (part) => import_node_path3.default.posix.join(import_node_path3.default.posix.dirname(part), "_rels", import_node_path3.default.posix.basename(part) + ".rels");
+var relPart = (part) => import_node_path.default.posix.join(import_node_path.default.posix.dirname(part), "_rels", import_node_path.default.posix.basename(part) + ".rels");
 function resolvePart(part, target) {
   if (!target || /[\\?#]/.test(target) || /^[a-z]+:/i.test(target)) throw Error("\u6A21\u677F\u5305\u542B\u4E0D\u652F\u6301\u7684\u8D44\u6E90\u8DEF\u5F84\uFF1A" + target);
   let decoded;
@@ -79555,32 +80641,32 @@ function resolvePart(part, target) {
   } catch {
     throw Error("\u6A21\u677F\u8D44\u6E90\u8DEF\u5F84\u7F16\u7801\u65E0\u6548");
   }
-  const resolved = import_node_path3.default.posix.normalize(decoded.startsWith("/") ? decoded.slice(1) : import_node_path3.default.posix.join(import_node_path3.default.posix.dirname(part), decoded));
+  const resolved = import_node_path.default.posix.normalize(decoded.startsWith("/") ? decoded.slice(1) : import_node_path.default.posix.join(import_node_path.default.posix.dirname(part), decoded));
   if (resolved.startsWith("../") || resolved === ".." || resolved.includes("\\")) throw Error("\u6A21\u677F\u8D44\u6E90\u8D8A\u8FC7\u6587\u4EF6\u8FB9\u754C");
   return resolved;
 }
 function applyTemplate(bytes, imported) {
-  const files = unzipSync(bytes), types2 = xml(files["[Content_Types].xml"], "[Content_Types].xml"), sourceTypes = xml(imported.files["[Content_Types].xml"], "[Content_Types].xml");
+  const files = unzipSync(bytes), types3 = xml(files["[Content_Types].xml"], "[Content_Types].xml"), sourceTypes = xml(imported.files["[Content_Types].xml"], "[Content_Types].xml");
   for (const part of imported.parts) {
     const destination = prefix + part;
     files[destination] = imported.files[part];
     if (part.endsWith(".rels")) {
-      const doc = xml(files[destination], part), owner = import_node_path3.default.posix.join(import_node_path3.default.posix.dirname(import_node_path3.default.posix.dirname(part)), import_node_path3.default.posix.basename(part).slice(0, -5));
-      for (const rel2 of elements(doc, R, "Relationship")) rel2.setAttribute("Target", encodeURI(import_node_path3.default.posix.relative(import_node_path3.default.posix.dirname(owner), resolvePart(owner, rel2.getAttribute("Target") || ""))));
+      const doc = xml(files[destination], part), owner = import_node_path.default.posix.join(import_node_path.default.posix.dirname(import_node_path.default.posix.dirname(part)), import_node_path.default.posix.basename(part).slice(0, -5));
+      for (const rel2 of elements(doc, R, "Relationship")) rel2.setAttribute("Target", encodeURI(import_node_path.default.posix.relative(import_node_path.default.posix.dirname(owner), resolvePart(owner, rel2.getAttribute("Target") || ""))));
       files[destination] = encoded(doc);
     }
-    const type = elements(sourceTypes, C, "Override").find((e) => e.getAttribute("PartName") === "/" + part)?.getAttribute("ContentType") || elements(sourceTypes, C, "Default").find((e) => e.getAttribute("Extension") === import_node_path3.default.posix.extname(part).slice(1))?.getAttribute("ContentType");
+    const type = elements(sourceTypes, C, "Override").find((e) => e.getAttribute("PartName") === "/" + part)?.getAttribute("ContentType") || elements(sourceTypes, C, "Default").find((e) => e.getAttribute("Extension") === import_node_path.default.posix.extname(part).slice(1))?.getAttribute("ContentType");
     if (!type) throw Error("\u6A21\u677F\u8D44\u6E90\u7F3A\u5C11\u5185\u5BB9\u7C7B\u578B\uFF1A" + part);
-    const entry2 = types2.createElementNS(C, "Override");
+    const entry2 = types3.createElementNS(C, "Override");
     entry2.setAttribute("PartName", "/" + destination);
     entry2.setAttribute("ContentType", type);
-    types2.documentElement.appendChild(entry2);
+    types3.documentElement.appendChild(entry2);
   }
-  files["[Content_Types].xml"] = encoded(types2);
+  files["[Content_Types].xml"] = encoded(types3);
   const relName = "ppt/_rels/presentation.xml.rels", rels = xml(files[relName], relName), rel = rels.createElementNS(R, "Relationship");
   rel.setAttribute("Id", "rIdLessonTemplate");
   rel.setAttribute("Type", O + "/slideMaster");
-  rel.setAttribute("Target", import_node_path3.default.posix.relative("ppt", prefix + imported.masterPart));
+  rel.setAttribute("Target", import_node_path.default.posix.relative("ppt", prefix + imported.masterPart));
   rels.documentElement.appendChild(rel);
   files[relName] = encoded(rels);
   const presentation = xml(files["ppt/presentation.xml"], "ppt/presentation.xml"), list = elements(presentation, P, "sldMasterIdLst")[0];
@@ -79595,68 +80681,154 @@ function applyTemplate(bytes, imported) {
     files[part] = encoded(slide);
     const rp = relPart(part), doc = xml(files[rp], rp), layout = elements(doc, R, "Relationship").find((e) => e.getAttribute("Type") === O + "/slideLayout");
     if (!layout) throw Error("\u5BFC\u51FA\u5E7B\u706F\u7247\u7F3A\u5C11\u7248\u5F0F\u5173\u7CFB");
-    layout.setAttribute("Target", import_node_path3.default.posix.relative(import_node_path3.default.posix.dirname(part), prefix + imported.layoutPart));
+    layout.setAttribute("Target", import_node_path.default.posix.relative(import_node_path.default.posix.dirname(part), prefix + imported.layoutPart));
     files[rp] = encoded(doc);
   }
   return zipSync(files);
 }
 
+// src/desktop/ppt-formula-preview.ts
+var import_node_path3 = __toESM(require("node:path"));
+
+// optional-native:canvas
+var import_node_module = require("node:module");
+var import_node_path2 = __toESM(require("node:path"));
+var requireFromWorkdir = (0, import_node_module.createRequire)(import_node_path2.default.join(process.cwd(), "lesson-desk-runtime.cjs"));
+var canvas;
+function loadCanvas() {
+  if (canvas) return canvas;
+  try {
+    canvas = requireFromWorkdir("@napi-rs/canvas");
+  } catch (error62) {
+    throw new Error("\u516C\u5F0F PNG \u9884\u89C8\u9700\u8981 @napi-rs/canvas@1.1.0\uFF0C\u8BF7\u5728\u5F53\u524D\u5DE5\u4F5C\u76EE\u5F55\u5B89\u88C5\u540E\u91CD\u8BD5", { cause: error62 });
+  }
+  return canvas;
+}
+var createCanvas = (...args) => loadCanvas().createCanvas(...args);
+var loadImage = (...args) => loadCanvas().loadImage(...args);
+
+// src/desktop/ppt-formula-preview.ts
+async function withFormulaPreviews(bytes) {
+  const files = unzipSync(bytes);
+  let changed = false;
+  for (const name of Object.keys(files).filter((n) => /^ppt\/slides\/slide\d+\.xml$/.test(n))) {
+    const relName = "ppt/slides/_rels/" + import_node_path3.default.posix.basename(name) + ".rels", rels = strFromU8(files[relName]);
+    const targets = /* @__PURE__ */ new Map();
+    for (const match of rels.matchAll(/<Relationship\s+([^>]+)\/?\s*>/g)) {
+      const attrs = Object.fromEntries(Array.from(match[1].matchAll(/(\w+)="([^"]*)"/g), (m) => [m[1], m[2]]));
+      if (attrs.Id && attrs.Target) targets.set(attrs.Id, import_node_path3.default.posix.normalize("ppt/slides/" + attrs.Target));
+    }
+    for (const picture of strFromU8(files[name]).matchAll(/<p:pic[ >][\s\S]*?<\/p:pic>/g)) {
+      const svgId = picture[0].match(/<asvg:svgBlip[^>]*r:embed="([^"]+)"/)?.[1];
+      if (!svgId) continue;
+      const pngId = picture[0].match(/<a:blip\s[^>]*r:embed="([^"]+)"/)?.[1], svgName = targets.get(svgId), pngName = pngId && targets.get(pngId);
+      if (!svgName || !pngName || !files[svgName]) throw Error("\u516C\u5F0F\u9884\u89C8\u8D44\u6E90\u7F3A\u5931\uFF0C\u5DF2\u505C\u6B62\u5BFC\u51FA");
+      const image = await loadImage(Buffer.from(files[svgName]));
+      if (image.width > 12e3 || image.height > 12e3) throw Error("\u516C\u5F0F\u56FE\u7247\u5C3A\u5BF8\u8FC7\u5927");
+      const canvas2 = createCanvas(image.width, image.height);
+      canvas2.getContext("2d").drawImage(image, 0, 0);
+      files[pngName] = new Uint8Array(canvas2.toBuffer("image/png"));
+      changed = true;
+    }
+  }
+  return changed ? zipSync(files) : bytes;
+}
+
+// src/desktop/atomic-rename.ts
+var import_promises = require("node:fs/promises");
+var import_promises2 = require("node:timers/promises");
+async function atomicRename(source2, destination) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      await (0, import_promises.rename)(source2, destination);
+      return;
+    } catch (error62) {
+      const code = error62.code;
+      if (process.platform !== "win32" || !["EPERM", "EBUSY", "EACCES"].includes(code || "") || attempt === 5) throw error62;
+      await (0, import_promises2.setTimeout)(50 * 2 ** attempt);
+    }
+  }
+}
+
 // src/desktop/export.ts
 async function exportPpt(p, file2, selection, loaded = { template: defaultPptTemplate }) {
-  const { template, imported } = loaded, { layout, colors, fonts } = template;
-  if (template.custom && !imported) throw Error("\u81EA\u5B9A\u4E49\u6A21\u677F\u8D44\u6E90\u672A\u52A0\u8F7D\uFF0C\u65E0\u6CD5\u5BFC\u51FA");
+  const { layout } = loaded.template;
   const deck = p.subject === "chemistry" ? chemSlides(p.chemistry, selection, layout) : p.subject === "chinese" ? chineseSlides(p.chinese, selection, layout) : buildLessonDeck(p, selection, layout);
   return exportLessonSlides(deck, p.title, p.subject, file2, loaded);
 }
+function drawItem(slide, item) {
+  const { x, y, w, h } = item;
+  if (item.type === "rect") {
+    slide.addShape("rect", { x, y, w, h, line: { type: "none" }, fill: { color: item.color }, objectName: "\u7248\u9762" });
+    return;
+  }
+  if (item.type === "image") {
+    const { width, height } = imageSize(Buffer.from(item.data.slice(item.data.indexOf(",") + 1), "base64"));
+    const scale = Math.min(w / width, h / height);
+    slide.addImage({ data: item.data, x: x + (w - width * scale) / 2, y: y + (h - height * scale) / 2, w: width * scale, h: height * scale, altText: item.alt });
+    return;
+  }
+  const { pt, color, font } = item;
+  if (item.math) {
+    let top = y;
+    for (const row of mathLines(item.text, w, pt)) {
+      for (const run of row.runs) {
+        const box = { x: x + run.x, y: top + (row.h - run.h) / 2, w: run.w, h: run.h };
+        if (run.formula) {
+          const svg = run.formula.svg.replace(/currentColor/g, "#" + color).replace(/width="[^"]+"/, `width="${run.w * 144}px"`).replace(/height="[^"]+"/, `height="${run.h * 144}px"`);
+          slide.addImage({ data: "image/svg+xml;base64," + Buffer.from(svg).toString("base64"), ...box, altText: run.raw });
+        } else if (run.text.trim()) {
+          slide.addText(run.text, { ...box, fontFace: font, fontSize: pt, color, bold: item.bold, margin: 0, valign: "middle" });
+        }
+      }
+      top += row.h;
+    }
+    return;
+  }
+  slide.addText(item.text, {
+    x,
+    y,
+    w,
+    h,
+    fontFace: font,
+    fontSize: pt,
+    color,
+    bold: item.bold,
+    margin: 0,
+    align: item.align,
+    valign: "top",
+    lineSpacingMultiple: 1.02,
+    paraSpaceAfter: 0,
+    paraSpaceBefore: 0,
+    fit: item.fit ? "shrink" : void 0,
+    objectName: item.role === "title" ? item.text : item.role
+  });
+}
 async function exportLessonSlides(deck, projectTitle, subject, file2, loaded = { template: defaultPptTemplate }) {
   const { template, imported } = loaded, { layout, colors, fonts } = template;
+  if (template.custom && !imported) throw Error("\u81EA\u5B9A\u4E49\u6A21\u677F\u8D44\u6E90\u672A\u52A0\u8F7D\uFF0C\u65E0\u6CD5\u5BFC\u51FA");
+  if (!deck.length) throw Error("\u6240\u9009\u8303\u56F4\u6CA1\u6709\u53EF\u5BFC\u51FA\u7684\u5E7B\u706F\u7247");
   const ppt = new PptxGenJS();
   ppt.defineLayout({ name: "LESSON", width: layout.width, height: layout.height });
   ppt.layout = "LESSON";
   ppt.author = "\u8BB2\u9898\u5DE5\u4F5C\u53F0";
-  ppt.subject = subject === "chemistry" ? "\u5316\u5B66\u8BD5\u5377\u8BB2\u89E3" : subject === "chinese" ? "\u8BED\u6587\u8BD5\u5377\u8BB2\u89E3" : "\u82F1\u8BED\u8BD5\u5377\u8BB2\u89E3";
   ppt.title = projectTitle;
+  ppt.subject = subject === "chemistry" ? "\u5316\u5B66\u8BD5\u5377\u8BB2\u89E3" : subject === "chinese" ? "\u8BED\u6587\u8BD5\u5377\u8BB2\u89E3" : "\u82F1\u8BED\u8BD5\u5377\u8BB2\u89E3";
   ppt.theme = { headFontFace: fonts.heading, bodyFontFace: fonts.body };
-  deck.forEach((s, i) => {
-    const slide = ppt.addSlide(), { body, title } = layout;
+  for (const [i, s] of deck.entries()) {
+    const slide = ppt.addSlide();
     slide.background = { color: colors.background };
-    if (title.y >= 0.36) slide.addText(s.section, { x: title.x, y: Math.max(0.08, title.y - 0.32), w: title.w, h: 0.22, fontFace: fonts.body, fontSize: 10, color: colors.muted, margin: 0, fit: "shrink" });
-    slide.addText(s.title, { ...title, fontFace: fonts.heading, fontSize: 28, color: colors.accent, margin: 0, fit: "shrink", valign: "middle", breakLine: false });
-    if (!template.custom) {
-      const rule = title.x + title.w < body.x ? { x: body.x - 0.24, y: body.y, w: 0, h: body.h } : { x: body.x, y: title.y > body.y ? title.y - 0.4 : body.y - 0.24, w: body.w, h: 0 };
-      slide.addShape(ppt.ShapeType.line, { ...rule, line: { color: colors.line, width: 1 } });
-    }
-    const image = "image" in s ? s.image : void 0;
-    if (image) slide.addImage({ data: image, ...body, sizing: { type: "contain", w: body.w, h: body.h } });
-    for (const b of layoutBlocks(s.blocks, layout, s.kind)) {
-      if (b.y + b.h > body.y + body.h + 1e-3) throw Error(`\u7B2C ${i + 1} \u9875\u5185\u5BB9\u8D85\u8FC7\u6A21\u677F\u6B63\u6587\u533A\u57DF\uFF0C\u5DF2\u505C\u6B62\u5BFC\u51FA`);
-      if (b.label) slide.addText(b.label, { x: b.x, y: b.y, w: b.w, h: 0.22, fontFace: fonts.body, fontSize: 11, color: colors.accent, bold: b.emphasis, margin: 0, fit: "shrink" });
-      if (b.math && hasMath(b.text)) {
-        const size = bodyFontSize(s.kind), color = b.emphasis ? colors.accent : colors.text;
-        let y = b.textY;
-        for (const row of mathLines(b.text, b.w, size)) {
-          for (const run of row.runs) {
-            const box = { x: b.x + run.x, y: y + (row.h - run.h) / 2, w: run.w, h: run.h };
-            if (run.formula) {
-              const svg = run.formula.svg.replace(/currentColor/g, "#" + color).replace(/width="[^"]+"/, `width="${run.w * 144}px"`).replace(/height="[^"]+"/, `height="${run.h * 144}px"`);
-              slide.addImage({ data: "image/svg+xml;base64," + Buffer.from(svg).toString("base64"), ...box, altText: run.raw });
-            } else if (run.text.trim()) slide.addText(run.text, { ...box, fontFace: fonts.body, fontSize: size, color, margin: 0, valign: "middle", breakLine: false });
-          }
-          y += row.h;
-        }
-      } else {
-        slide.addText(b.text, { x: b.x, y: b.textY, w: b.w, h: b.textH, fontFace: subject !== "english" ? fonts.body : ["source", "question", "practice"].includes(s.kind) ? fonts.source : fonts.body, fontSize: bodyFontSize(s.kind), bold: !!b.emphasis, color: b.emphasis ? colors.accent : colors.text, margin: 0, valign: "top", breakLine: false, lineSpacingMultiple: 1.08 });
-      }
-    }
-    if (layout.height - (body.y + body.h) >= 0.34) {
-      const y = layout.height - 0.32;
-      if (!template.custom) slide.addShape(ppt.ShapeType.line, { x: title.x, y: y - 0.18, w: body.w, h: 0, line: { color: colors.line, width: 0.7 } });
-      slide.addText(projectTitle, { x: body.x, y, w: body.w - 1.2, h: 0.2, fontFace: fonts.body, fontSize: 9, color: colors.muted, margin: 0, fit: "shrink" });
-      slide.addText(`${i + 1} / ${deck.length}`, { x: body.x + body.w - 1.1, y, w: 1.1, h: 0.2, align: "right", fontFace: fonts.body, fontSize: 9, color: colors.muted, margin: 0 });
-    }
-  });
+    for (const item of projectSlide(s, template, projectTitle, i + 1, deck.length, subject === "english")) drawItem(slide, item);
+  }
   const bytes = await withFormulaPreviews(new Uint8Array(await ppt.write({ outputType: "arraybuffer" })));
-  await import_promises.default.writeFile(file2, imported ? applyTemplate(bytes, imported) : bytes);
+  const output2 = imported ? applyTemplate(bytes, imported) : bytes;
+  const temporary = file2 + "." + (0, import_node_crypto.randomUUID)() + ".tmp";
+  try {
+    await import_promises3.default.writeFile(temporary, output2);
+    await atomicRename(temporary, file2);
+  } finally {
+    await import_promises3.default.rm(temporary, { force: true });
+  }
   return deck.length;
 }
 
@@ -79960,8 +81132,8 @@ function checkSkillAnswer(project, question2, teacherReviewed) {
     if (!(error62 instanceof EvidenceValidationError)) throw error62;
     return fail("\u7B54\u6848\u6765\u6E90\u5F15\u7528\u65E0\u6548\u3002" + error62.message);
   }
-  const lines2 = (value2) => "\n" + value2.split(/\r?\n/u).map((line) => line.trim()).join("\n") + "\n";
-  if (!lines2(block2.text).includes(lines2(quote))) return fail("\u8BF7\u5F15\u7528\u5E26\u9898\u53F7\u7684\u5B8C\u6574\u7B54\u6848\u884C");
+  const lines = (value2) => "\n" + value2.split(/\r?\n/u).map((line) => line.trim()).join("\n") + "\n";
+  if (!lines(block2.text).includes(lines(quote))) return fail("\u8BF7\u5F15\u7528\u5E26\u9898\u53F7\u7684\u5B8C\u6574\u7B54\u6848\u884C");
   const escaped = canonical(number4).replace(/[.*+?^$()[\]{}|\\]/gu, "\\$&");
   const single = new RegExp("^(?:\u7B2C\\s*" + escaped + "\\s*\u9898[.\u3001:]*|\\(\\s*" + escaped + "\\s*\\)[.\u3001:]*|" + escaped + "(?:\\s*[.\u3001:)]|(?=\\s)))\\s*(?:\u7B54\u6848\\s*[:.]\\s*)?(.+)$", "u");
   const indexed = sourceAnswerKeys({ ...project, sources: [{ ...source2, blocks: [{ ...block2, text: canonical(quote) }] }] }).find((item) => item.number === canonical(number4));
@@ -80150,6 +81322,7 @@ var chemistryQuestion = chemQuestionSchema.omit({ images: true, versions: true, 
   versions: external_exports.array(external_exports.object({ module: external_exports.enum(chemModules), result: chemResultSchema })).default([])
 });
 var manifestSchema = external_exports.object({
+  pptTemplate: external_exports.enum(builtinTemplateIds).optional(),
   project: external_exports.discriminatedUnion("subject", [
     external_exports.object({
       title: text4,
@@ -80489,15 +81662,15 @@ var maxImage = 10 * 1024 * 1024;
 async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherReviewed = false, bundleOnly = false) {
   const manifest = parseManifest(raw);
   if (!bundleOnly && !manifest.selection) throw new GenerationContentError("\u5BFC\u51FA PPT \u9700\u8981 selection\uFF0C\u8BF7\u6307\u5B9A\u7BC7\u76EE\u3001\u9898\u76EE\u548C\u6A21\u5757");
-  const input2 = await (0, import_promises2.realpath)(inputDirectory);
+  const input2 = await (0, import_promises4.realpath)(inputDirectory);
   async function readInput(file2, limit) {
     if (import_node_path4.default.isAbsolute(file2) || import_node_path4.default.win32.isAbsolute(file2)) throw Error(`\u8BF7\u7528\u8F93\u5165\u76EE\u5F55\u5185\u7684\u6587\u4EF6\u76F8\u5BF9\u8DEF\u5F84 ${file2}`);
-    const resolved = await (0, import_promises2.realpath)(import_node_path4.default.resolve(input2, file2));
+    const resolved = await (0, import_promises4.realpath)(import_node_path4.default.resolve(input2, file2));
     const relative = import_node_path4.default.relative(input2, resolved);
     if (relative === ".." || relative.startsWith(`..${import_node_path4.default.sep}`) || import_node_path4.default.isAbsolute(relative)) throw Error(`\u6587\u4EF6\u8D85\u51FA\u8F93\u5165\u76EE\u5F55 ${file2}`);
-    const info = await (0, import_promises2.stat)(resolved);
+    const info = await (0, import_promises4.stat)(resolved);
     if (!info.isFile() || info.size > limit) throw Error(`\u6587\u4EF6\u65E0\u6548\u6216\u8D85\u8FC7\u5927\u5C0F\u9650\u5236 ${file2}`);
-    return (0, import_promises2.readFile)(resolved);
+    return (0, import_promises4.readFile)(resolved);
   }
   const { project: draftProject, issues } = await prepareLesson(manifest, async (file2) => {
     const bytes2 = await readInput(file2, maxImage);
@@ -80519,6 +81692,8 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
   }
   for (const source2 of draftProject.sources) if (source2.kind !== "text" && !source2.asset) throw Error(`\u7F3A\u5C11\u539F\u6587\u4EF6 ${source2.name}`);
   const project = attachSkillWorkflow(draftProject, manifest.project, issues, bundleOnly);
+  const template = manifest.pptTemplate ? builtinById[manifest.pptTemplate] : defaultPptTemplate;
+  if (manifest.pptTemplate) project.pptTemplate = manifest.pptTemplate;
   const preview = teacherReviewed || !manifest.selection ? project : preparePreview(project);
   const selection = manifest.selection && selectSkillContent(preview, manifest.selection, issues);
   files["project.json"] = strToU8(JSON.stringify(project));
@@ -80526,11 +81701,11 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
   const archive = zipSync(files, { level: 6 });
   if (archive.length > maxBundle || Object.keys(files).length > 1e3) throw Error("\u8BFE\u4EF6\u5305\u8D85\u8FC7\u5BFC\u5165\u9650\u5236\uFF0C\u8BF7\u7F29\u5C0F\u672C\u6B21\u8303\u56F4");
   const out = import_node_path4.default.resolve(outputDirectory);
-  const stage = bundleOnly ? void 0 : await (0, import_promises2.mkdtemp)(import_node_path4.default.join(import_node_os.default.tmpdir(), "lesson-desk-skill-"));
+  const stage = bundleOnly ? void 0 : await (0, import_promises4.mkdtemp)(import_node_path4.default.join(import_node_os.default.tmpdir(), "lesson-desk-skill-"));
   const draft = stage && import_node_path4.default.join(stage, "lesson.pptx");
   try {
     let pages = 0;
-    if (draft && selection) pages = await exportPpt(preview, draft, selection);
+    if (draft && selection) pages = await exportPpt(preview, draft, selection, { template });
     const pptx = draft && import_node_path4.default.join(out, teacherReviewed ? "\u8BB2\u8BC4\u8BFE\u4EF6.pptx" : "\u8BB2\u8BC4\u8BFE\u4EF6-\u5F85\u6838\u5BF9.pptx");
     const bundle = import_node_path4.default.join(out, "\u8BB2\u8BC4\u8BFE\u4EF6.lesson.zip");
     const review = import_node_path4.default.join(out, "\u6838\u5BF9\u6E05\u5355.md");
@@ -80541,25 +81716,26 @@ async function buildSkillLesson(raw, inputDirectory, outputDirectory, teacherRev
       "",
       teacherReviewed ? "\u672C\u6B21\u6309\u6559\u5E08\u786E\u8BA4\u72B6\u6001\u751F\u6210\u3002" : "\u8BFE\u4EF6\u5305\u4E2D\u7684\u9898\u9762\u3001\u9898\u56FE\u548C\u9700\u8981\u6559\u5E08\u786E\u8BA4\u7684\u8BB2\u4E49\u4ECD\u4FDD\u7559\u5F85\u6838\u5BF9\u72B6\u6001\u3002",
       ...pptx && !teacherReviewed ? ["PPT \u4E3A\u5F85\u6559\u5E08\u6838\u5BF9\u7A3F\u3002"] : [],
+      ...pptx ? ["PPT \u6A21\u677F\uFF1A" + template.name] : [],
       "",
       ...[...new Set(issues)].map((item) => `- ${item}`),
       ""
     ].join("\n");
-    await (0, import_promises2.mkdir)(out);
+    await (0, import_promises4.mkdir)(out);
     try {
-      if (draft && pptx) await (0, import_promises2.copyFile)(draft, pptx);
-      await (0, import_promises2.writeFile)(bundle, archive);
-      await (0, import_promises2.writeFile)(review, reviewText, "utf8");
+      if (draft && pptx) await (0, import_promises4.copyFile)(draft, pptx);
+      await (0, import_promises4.writeFile)(bundle, archive);
+      await (0, import_promises4.writeFile)(review, reviewText, "utf8");
     } catch (error62) {
-      await Promise.all([...pptx ? [pptx] : [], bundle, review].map((file2) => (0, import_promises2.rm)(file2, { force: true })));
-      await (0, import_promises2.rmdir)(out);
+      await Promise.all([...pptx ? [pptx] : [], bundle, review].map((file2) => (0, import_promises4.rm)(file2, { force: true })));
+      await (0, import_promises4.rmdir)(out);
       throw error62;
     }
     return { pptx, bundle, review, pages, issues };
   } finally {
     if (stage && draft) {
-      await (0, import_promises2.rm)(draft, { force: true });
-      await (0, import_promises2.rmdir)(stage);
+      await (0, import_promises4.rm)(draft, { force: true });
+      await (0, import_promises4.rmdir)(stage);
     }
   }
 }
@@ -80577,7 +81753,7 @@ async function main() {
   if (!manifest || manifest.startsWith("--") || !output2 || output2.startsWith("--") || new Set(flags).size !== flags.length || flags.some((flag) => flag !== "--teacher-reviewed" && flag !== "--bundle-only")) {
     throw Error("\u7528\u6CD5 node build-lesson.cjs manifest.json \u8F93\u51FA\u76EE\u5F55 [--teacher-reviewed] [--bundle-only]\n\u6216 node build-lesson.cjs --reference manifest|prompts");
   }
-  const input2 = JSON.parse((await (0, import_promises3.readFile)(manifest, "utf8")).replace(/^\uFEFF/, ""));
+  const input2 = JSON.parse((await (0, import_promises5.readFile)(manifest, "utf8")).replace(/^\uFEFF/, ""));
   const result = await buildSkillLesson(input2, import_node_path5.default.dirname(import_node_path5.default.resolve(manifest)), output2, flags.includes("--teacher-reviewed"), flags.includes("--bundle-only"));
   process.stdout.write(JSON.stringify(result, null, 2) + "\n");
 }

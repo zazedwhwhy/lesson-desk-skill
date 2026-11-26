@@ -14,6 +14,10 @@ Hermes needs a connected model, Node.js 22 or later, and access to the files in 
 
 > /lesson-desk-export Make a vocabulary notebook and sentence analysis for this English reading. For questions 21–24, explain which lines support or rule out each option. Deliver an editable PowerPoint and a Lesson Desk courseware package.
 
+## Classroom PowerPoint styles
+
+The [local v0.5.1 package](dist/lesson-desk-export-v0.5.1.zip) supports three classroom styles. Set the optional top-level `pptTemplate` field in the manifest to `paper` for an annotated paper lesson (default), `blue` for a Bauhaus split board, or `forest` for a dark, step-by-step explanation. Lesson Desk 0.18.2 opens the courseware package with the specified style.
+
 ## Subject coverage
 
 | Subject | Teaching materials |

@@ -1,1 +1,2 @@
 c20a8bc817eafafeacb70083406b5a1e60da0bfbecc8bcad1cf3087150925a67  lesson-desk-export-v0.5.0.zip
+16bbb6739f6e181bfcf1d8cdb696cf19234cb863e5087c96b5e2669c9dbe6fe6  lesson-desk-export-v0.5.1.zip
