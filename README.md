@@ -16,7 +16,7 @@ Hermes needs a connected model, Node.js 22 or later, and access to the files in 
 
 ## Classroom PowerPoint styles
 
-The [local v0.5.1 package](dist/lesson-desk-export-v0.5.1.zip) supports three classroom styles. Set the optional top-level `pptTemplate` field in the manifest to `paper` for an annotated paper lesson (default), `blue` for a Bauhaus split board, or `forest` for a dark, step-by-step explanation. Lesson Desk 0.18.2 opens the courseware package with the specified style.
+The [local v0.5.2 package](dist/lesson-desk-export-v0.5.2.zip) includes three classroom styles. Use the optional top-level `pptTemplate` field to select `paper` for annotated paper (default), `blue` for a Bauhaus board with a compact blue header, or `forest` for a light mint whiteboard. Lesson Desk 0.18.3 uses the same layouts when presenting an imported package. The builder fits each question with its choices on one slide when possible, continues long material across slides, and reveals the explanation on a later slide.
 
 ## Subject coverage
 

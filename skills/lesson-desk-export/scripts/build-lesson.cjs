@@ -72001,9 +72001,6 @@ var chemInstructions = {
 var chemistryOrganizeInstruction = "\u6574\u7406\u5316\u5B66\u8BD5\u5377\uFF0C\u9010\u9898\u5B8C\u6574\u4FDD\u7559\u6761\u4EF6\u3001\u9009\u9879\u548C\u9898\u53F7\u3002sourceId \u5FC5\u987B\u6765\u81EA\u8BD5\u5377\u6750\u6599\uFF1Bpages \u53EA\u586B\u5199\u6765\u6E90 blocks \u4E2D\u5B9E\u9645\u63D0\u4F9B\u7684\u9875\u7801\uFF1BWord\u7B49\u6765\u6E90\u672A\u7ED9\u9875\u7801\u65F6\u8FD4\u56DE[]\uFF0C\u4E0D\u80FD\u6309\u6BB5\u843D\u3001\u56FE\u7247\u5E8F\u53F7\u6216\u7248\u5F0F\u731C\u9875\u7801\u3002\u672A\u77E5\u7B54\u6848\u7559\u7A7A\uFF0C\u4E0D\u4F5C\u7B54\u3002\u6574\u7406\u9636\u6BB5\u4E0D\u89E3\u9898\u3001\u4E0D\u914D\u5E73\u3001\u4E0D\u6821\u8BA2\uFF1Bstem\u548Coptions\u9010\u5B57\u4FDD\u7559\u8BE5\u9898\u5B8C\u6574\u539F\u6587\u53CA\u6240\u6709\u8FFD\u95EE\uFF0C\u4E0D\u4EE5\u56FE\u7565\u89E3\u91CA\u6539\u5199\u539F\u6587\u5B57\u53E5\u3002answer\u53EA\u6458\u5F55\u7B54\u6848\u6765\u6E90\u7684\u8FDE\u7EED\u539F\u6587\uFF0C\u4E0D\u6982\u62EC\u6216\u91CD\u65B0\u8BA1\u7B97\u53C2\u8003\u89E3\u6790\uFF0C\u4E0D\u80FD\u6539\u5199\u539F\u53CD\u5E94\u5F0F\u3002figures\u4E3A\u5DF2\u8BC6\u522B\u539F\u56FE\u7684\u7D22\u5F15\u3002\u6BCF\u9898figureIds\u586B\u5199\u5C5E\u4E8E\u672C\u9898\u7684\u540C\u6E90\u56FE\u7247id\uFF0C\u5305\u62EC\u8DE8\u9875\u7EED\u56FE\uFF1B\u5171\u4EAB\u56FE\u53EF\u4EE5\u7528\u4E8E\u591A\u9898\uFF0C\u4E0D\u80FD\u9009\u62E9\u5176\u4ED6\u6765\u6E90\u6216\u4E0D\u76F8\u5173\u9898\u76EE\u7684\u56FE\uFF0C\u4E0D\u51ED\u7A7A\u7F16\u9020id\u3002\u539F\u56FE\u7531\u8F6F\u4EF6\u81EA\u52A8\u663E\u793A\uFF0C\u4E0D\u7528\u91CD\u7ED8\u6216\u628A\u56FE\u50CF\u8F6C\u6210\u6587\u5B57\u66FF\u4EE3\uFF1B\u516C\u5F0F\u6CBF\u7528LaTeX\u3002\u6240\u6709\u6574\u7406\u7ED3\u679C\u968F\u9898\u9762\u4E00\u8D77\u6838\u5BF9\u3002";
 var chemistryReviewInstruction = "\u9010\u9898\u5BF9\u7167\u5316\u5B66\u539F\u5377\u548C\u53C2\u8003\u7B54\u6848\uFF0C\u68C0\u67E5\u9898\u5E72\u3001\u5C0F\u95EE\u3001\u9009\u9879\u3001\u516C\u5F0F\u7684\u4E0A\u4E0B\u6807/\u7535\u8377/\u7CFB\u6570\u3001\u5355\u4F4D\u3001\u9898\u56FE\u6761\u4EF6\u548C\u7B54\u6848\u5173\u8054\u3002\u53EA\u62A5\u544A\u5177\u4F53\u95EE\u9898\uFF0C\u4E0D\u91CD\u65B0\u89E3\u9898\u3001\u4E0D\u6539\u53C2\u8003\u7B54\u6848\u3001\u4E0D\u914D\u5E73\u539F\u9898\u9519\u5F0F\u3002checkedQuestionIds\u53EA\u586B\u5199\u672C\u6279\u5B9E\u9645\u68C0\u67E5\u8FC7\u7684\u9898\u76EEid\uFF1B\u7EAFtext\u6765\u6E90\u4E14\u6CA1\u6709\u9898\u56FE\u65F6\uFF0C\u4EE5\u63D0\u4F9B\u7684\u539F\u6587\u4E3A\u5B8C\u6574\u6821\u5BF9\u6765\u6E90\uFF0C\u4E0D\u51ED\u7A7A\u8981\u6C42PDF\u7248\u9762\u6216\u539F\u56FE\uFF0C\u4E5F\u4E0D\u56E0\u5E38\u8BC6\u63A8\u6D4B\u5B58\u5728\u7F3A\u56FE\uFF1B\u5B9E\u9645\u5B58\u5728\u4F46\u4E0D\u80FD\u786E\u8BA4\u7684\u56FE\u793A\u3001\u7ED3\u6784\u5F0F\u548C\u6587\u5B57\u63D0\u53D6\u987A\u5E8F\u5FC5\u987B\u5217\u5165limitations\uFF0Ccoverage=partial\uFF0C\u4E0D\u5047\u62A5\u901A\u8FC7\u3002findings\u7ED9questionId\u548C\u5177\u4F53message\u3002";
 
-// src/core/task-timing.ts
-var taskTiming = { phase: external_exports.enum(["generating", "reviewing", "retrying", "saving"]).optional(), startedAt: external_exports.number().optional(), finishedAt: external_exports.number().optional() };
-
 // src/core/math-text.ts
 var import_mathjax = __toESM(require_mathjax());
 var import_tex = __toESM(require_tex());
@@ -72071,6 +72068,8 @@ function splitMath(text5) {
   return parts;
 }
 var hasMath = (text5) => splitMath(text5).some((p) => p.math);
+var FormulaWidthError = class extends RangeError {
+};
 function mathLines(text5, width, fontSize) {
   const em = fontSize / 72, base = em * 1.32, lines = [];
   let row = { raw: "", runs: [], h: base }, used = 0;
@@ -72098,7 +72097,7 @@ function mathLines(text5, width, fontSize) {
     if (part.error) throw Error(part.error);
     if (part.math) {
       const f = renderFormula(part.text, part.display), w = f.width * em, h = f.height * em;
-      if (w > width * 0.91) throw Error("\u516C\u5F0F\u8D85\u51FA\u9875\u9762\u5BBD\u5EA6\uFF0C\u8BF7\u62C6\u6210\u591A\u884C\u6216\u9009\u62E9\u66F4\u5BBD\u7684\u6A21\u677F");
+      if (w > width * 0.91) throw new FormulaWidthError("\u516C\u5F0F\u8D85\u51FA\u9875\u9762\u5BBD\u5EA6\uFF0C\u8BF7\u62C6\u6210\u591A\u884C\u6216\u9009\u62E9\u66F4\u5BBD\u7684\u6A21\u677F");
       if (part.display) flush();
       push({ raw: part.raw, text: part.text, x: 0, w, h, formula: f });
       if (part.display) flush();
@@ -72119,7 +72118,7 @@ function mathLines(text5, width, fontSize) {
 }
 
 // src/core/slide-layout.ts
-var defaultSlideLayout = { width: 13.333333, height: 7.5, classroom: true, body: { x: 0.94, y: 1.67, w: 11.45, h: 5.05 }, title: { x: 0.92, y: 0.68, w: 11.5, h: 0.73 } };
+var defaultSlideLayout = { width: 13.333333, height: 7.5, classroom: true, body: { x: 0.7, y: 1.18, w: 11.92, h: 5.73 }, title: { x: 0.7, y: 0.34, w: 8, h: 0.61 } };
 function bodyFontSize(kind, layout = defaultSlideLayout) {
   const reading = ["source", "question", "practice"].includes(kind);
   return layout.classroom ? reading ? 26 : 23 : reading ? 22 : 19;
@@ -72173,10 +72172,10 @@ function layoutBlocks(blocks2, layout = defaultSlideLayout, kind = "analysis", f
     return rect;
   });
 }
-function pack(input2, layout, kind, height) {
+function pack(input2, layout, kind, height, fontSize = bodyFontSize(kind, layout)) {
   const pages = [];
   let page = [], used = 0;
-  const m = metrics(layout, kind);
+  const m = metrics(layout, kind, fontSize);
   const flush = () => {
     if (page.length) pages.push(page);
     page = [];
@@ -72185,11 +72184,11 @@ function pack(input2, layout, kind, height) {
   for (const item of input2) {
     if (!item.text.trim()) continue;
     let remaining = item.text, continued = false;
-    if (page.length && blockHeight(item, layout, kind) <= height && used + gap + blockHeight(item, layout, kind) > height) flush();
+    if (page.length && blockHeight(item, layout, kind, fontSize) <= height && used + gap + blockHeight(item, layout, kind, fontSize) > height) flush();
     while (remaining) {
       const label = item.label + (continued && item.label && !item.label.endsWith("\uFF08\u7EED\uFF09") ? "\uFF08\u7EED\uFF09" : "");
       const room = height - used - (page.length ? gap : 0) - labelHeight(label, layout) - 0.07;
-      const math = item.math && hasMath(remaining) ? mathLines(remaining, layout.body.w, bodyFontSize(kind, layout)) : void 0;
+      const math = item.math && hasMath(remaining) ? mathLines(remaining, layout.body.w, fontSize) : void 0;
       let count = Math.floor((room + 1e-5) / m.lineHeight);
       if (math) {
         count = 0;
@@ -72210,7 +72209,7 @@ function pack(input2, layout, kind, height) {
       const text5 = wrapped.slice(0, count).join("");
       if (!text5) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u65E0\u6CD5\u653E\u5165\u4E00\u884C\u5185\u5BB9");
       const block2 = { ...item, label, text: text5 };
-      used += (page.length ? gap : 0) + blockHeight(block2, layout, kind);
+      used += (page.length ? gap : 0) + blockHeight(block2, layout, kind, fontSize);
       page.push(block2);
       remaining = remaining.slice(text5.length);
       continued = true;
@@ -72219,6 +72218,9 @@ function pack(input2, layout, kind, height) {
   }
   flush();
   return pages;
+}
+function splitQuestionBlock(block2, layout, fontSize) {
+  return pack([block2], layout, "question", layout.body.h, fontSize);
 }
 function paginateBlocks(input2, layout = defaultSlideLayout, kind = "analysis") {
   const prepared = input2.map((b) => /^(?:参考答案|答案|核心结论|关键步骤|解题关键|句子主干)(?:$|（续）)/.test(b.label) ? { ...b, emphasis: true } : b);
@@ -72231,7 +72233,7 @@ function paginatePage(input2, layout = defaultSlideLayout, kind = "analysis") {
   const m = metrics(layout, kind);
   if (layout.body.h < labelHeight("\u6587", layout) + m.lineHeight + 0.07 || layout.body.w < 2) throw Error("\u6A21\u677F\u6B63\u6587\u533A\u57DF\u592A\u5C0F\uFF0C\u8BF7\u4F7F\u7528\u6B63\u6587\u7A7A\u95F4\u66F4\u5927\u7684\u6A21\u677F");
   const pages = pack(input2, layout, kind, layout.body.h);
-  if (pages.length < 2) return pages;
+  if (pages.length < 2 || kind === "question") return pages;
   const cost = (page) => page.reduce((n, b) => n + blockHeight(b, layout, kind), 0) + Math.max(0, page.length - 1) * gap;
   if (cost(pages[pages.length - 1]) >= layout.body.h * 0.38) return pages;
   if (input2.some((b) => b.math && hasMath(b.text))) return pages;
@@ -72247,6 +72249,95 @@ function paginatePage(input2, layout = defaultSlideLayout, kind = "analysis") {
   }
   return [...pages.slice(0, -2), ...best];
 }
+
+// src/core/question-layout.ts
+function questionHeight(block2, width, pt) {
+  if (block2.math && hasMath(block2.text)) {
+    try {
+      return mathLines(block2.text, width, pt).reduce((sum, row) => sum + row.h, 0) + 0.06;
+    } catch (e) {
+      if (e instanceof FormulaWidthError) return Infinity;
+      throw e;
+    }
+  }
+  return wrapSlideText(block2.text, width * 72 / pt * 0.93).length * pt / 72 * 1.32 + 0.07;
+}
+function fitQuestion(blocks2, body, figure, hasStem = true) {
+  const figureWidth = figure ? body.w * 0.34 : 0;
+  const width = figure ? body.w - figureWidth - 0.38 : body.w;
+  const options = hasStem ? blocks2.slice(1) : blocks2;
+  for (let pt = 27; pt >= 21; pt--) {
+    const stemPt = pt + 1;
+    const stemHeight = hasStem ? questionHeight(blocks2[0], width, stemPt) : 0;
+    if (stemHeight > body.h) continue;
+    let best;
+    let bestHeight = Infinity;
+    const columns = options.length >= 4 && !figure ? [1, 2] : [1];
+    for (const count of columns) {
+      const gutter = 0.42, optionWidth = (width - (count - 1) * gutter) / count;
+      const parts = hasStem ? [{ x: body.x, y: body.y, w: width, h: stemHeight, pt: stemPt, stem: true }] : [];
+      let used = stemHeight;
+      for (let i = 0; i < options.length; i += count) {
+        if (i > 0) used += 0.12;
+        else if (hasStem) used += 0.24;
+        const row = options.slice(i, i + count).map((option, col) => ({
+          x: body.x + col * (optionWidth + gutter),
+          y: body.y + used,
+          w: optionWidth,
+          h: questionHeight(option, optionWidth, pt),
+          pt
+        }));
+        parts.push(...row);
+        used += Math.max(...row.map((item) => item.h));
+      }
+      if (used <= body.h && used < bestHeight - 0.2) {
+        best = parts;
+        bestHeight = used;
+      }
+    }
+    if (best) {
+      const layout = { parts: best };
+      if (figure) layout.figure = { ...figure, box: { x: body.x + body.w - figureWidth, y: body.y, w: figureWidth, h: body.h } };
+      return layout;
+    }
+  }
+}
+function questionPages(stem, options, layout, subject = "english", figure) {
+  const math = subject === "chemistry";
+  if (!layout.classroom) {
+    const original = subject === "english" ? [{ label: "", text: stem }, { label: "\u9009\u9879", text: options.join("\n") }] : [{ label: "\u9898\u9762", text: [stem, ...options].join("\n"), math }];
+    return paginateBlocks(original, layout, subject === "chinese" ? "chinese" : "question").map((page) => ({ blocks: page }));
+  }
+  const blocks2 = [stem, ...options].filter((text5) => text5.trim()).map((text5) => ({ label: "", text: text5, math }));
+  if (!blocks2.length) return [];
+  const fitted = figure && fitQuestion(blocks2, layout.body, figure) || fitQuestion(blocks2, layout.body);
+  if (fitted) return [{ blocks: blocks2, questionLayout: fitted }];
+  const pages = [];
+  let pending = [];
+  let fittedGroup;
+  for (const block2 of blocks2) {
+    const candidate = [...pending, block2];
+    const measured = fitQuestion(candidate, layout.body, void 0, candidate[0] === blocks2[0]);
+    if (measured) {
+      pending = candidate;
+      fittedGroup = measured;
+      continue;
+    }
+    if (pending.length) pages.push({ blocks: pending, questionLayout: fittedGroup });
+    pending = [block2];
+    fittedGroup = fitQuestion(pending, layout.body, void 0, block2 === blocks2[0]);
+    if (fittedGroup) continue;
+    for (const chunk of splitQuestionBlock(block2, layout, block2 === blocks2[0] ? 22 : 21)) {
+      pages.push({ blocks: chunk, questionLayout: fitQuestion(chunk, layout.body, void 0, block2 === blocks2[0]) });
+    }
+    pending = [];
+  }
+  if (pending.length) pages.push({ blocks: pending, questionLayout: fittedGroup });
+  return pages;
+}
+
+// src/core/task-timing.ts
+var taskTiming = { phase: external_exports.enum(["generating", "reviewing", "retrying", "saving"]).optional(), startedAt: external_exports.number().optional(), finishedAt: external_exports.number().optional() };
 
 // src/core/chemistry.ts
 var chemModules = ["analysis", "knowledge", "method", "experiment", "practice"];
@@ -72328,8 +72419,17 @@ function chemSlides(d, selected, layout = defaultSlideLayout) {
     const checks = chemChecks(q);
     if (checks.length) throw Error("\u7B2C " + q.number + " \u9898\uFF1A" + checks.join("\uFF1B"));
     const add = (title, blocks2, kind = "analysis", version3) => paginateBlocks(blocks2.map((b) => ({ ...b, math: true })), layout, kind).forEach((blocks3, i) => slides.push({ id: "chem-" + slides.length, kind, title: title + (i ? "\uFF08\u7EED\uFF09" : ""), section: "\u5316\u5B66 \xB7 " + chemKindNames[q.kind], questionId: q.id, sourceVersionId: version3, blocks: blocks3 }));
-    add("\u7B2C " + q.number + " \u9898", [{ label: "\u9898\u9762", text: [q.stem, ...q.options].join("\n") }], "question");
-    for (const image of q.images) slides.push({ id: "chem-" + slides.length, kind: "source", title: "\u7B2C " + q.number + " \u9898 \xB7 " + image.name, section: image.page ? "\u539F\u6750\u6599\u7B2C " + image.page + " \u9875" : "\u9898\u76EE\u914D\u56FE", questionId: q.id, blocks: [], image: image.data });
+    const pages = questionPages(q.stem, q.options, layout, "chemistry", q.images.length === 1 ? q.images[0] : void 0);
+    pages.forEach((page, i) => slides.push({
+      ...page,
+      id: "chem-" + slides.length,
+      kind: "question",
+      title: "\u7B2C " + q.number + " \u9898" + (i ? "\uFF08\u7EED\uFF09" : ""),
+      section: "\u5316\u5B66 \xB7 " + chemKindNames[q.kind],
+      questionId: q.id
+    }));
+    const separateImages = pages.some((page) => page.questionLayout?.figure) ? [] : q.images;
+    for (const image of separateImages) slides.push({ id: "chem-" + slides.length, kind: "source", title: "\u7B2C " + q.number + " \u9898 \xB7 " + image.name, section: image.page ? "\u539F\u6750\u6599\u7B2C " + image.page + " \u9875" : "\u9898\u76EE\u914D\u56FE", questionId: q.id, blocks: [], image: image.data });
     for (const v of versions) {
       if (!chemReady(q, v)) throw Error("\u6240\u9009\u8BB2\u4E49\u672A\u786E\u8BA4\u3001\u5F85\u6838\u5B9E\u6216\u5DF2\u8FC7\u671F\uFF1A\u7B2C " + q.number + " \u9898 \xB7 " + chemNames[v.module]);
       const groups = v.module === "practice" ? v.result.blocks.map((b) => [b]) : [v.result.blocks];
@@ -72413,7 +72513,16 @@ function chineseSlides(d, selected, layout = defaultSlideLayout) {
     for (const q of g.questions.filter((q2) => !q2.excluded)) {
       const vs = g.versions.filter((v) => v.questionId === q.id && selected.includes(v.id));
       if (vs.length) {
-        add(g, "\u7B2C " + q.number + " \u9898", "\u9898\u9762", [q.stem, ...q.options].join("\n"), void 0, void 0, void 0, q.id);
+        questionPages(q.stem, q.options, layout, "chinese").forEach((page, i, all) => slides.push({
+          ...page,
+          id: "zh-" + slides.length,
+          kind: layout.classroom ? "question" : "chinese",
+          title: "\u7B2C " + q.number + " \u9898" + (all.length > 1 ? "\uFF08" + (i + 1) + "/" + all.length + "\uFF09" : ""),
+          section: g.section + " \xB7 " + g.title,
+          body: page.blocks.map((b) => b.text),
+          passageId: g.id,
+          questionId: q.id
+        }));
         vs.forEach(emit);
       }
     }
@@ -73784,20 +73893,20 @@ var bauhaus = {
   id: "blue",
   name: "\u5305\u8C6A\u65AF\u677F\u4E66",
   custom: false,
-  layout: { ...defaultSlideLayout, title: { x: 0.45, y: 1.48, w: 2.68, h: 2.92 }, body: { x: 4.06, y: 0.59, w: 8.55, h: 6.28 } },
+  layout: { ...defaultSlideLayout, title: { x: 0.7, y: 0.25, w: 7.9, h: 0.58 }, body: { x: 0.7, y: 1.24, w: 11.92, h: 5.8 } },
   colors: { background: "FFFCF5", text: "192632", accent: "163EA4", muted: "4F5963", line: "C6CFDE" },
   fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Arial" }
 };
-var cinema = {
+var mint = {
   id: "forest",
-  name: "\u5F71\u9662\u6697\u573A",
+  name: "\u8584\u8377\u767D\u677F",
   custom: false,
-  layout: { ...defaultSlideLayout, sequence: "steps", title: { x: 0.91, y: 6.39, w: 10.35, h: 0.68 }, body: { x: 0.95, y: 1.04, w: 11.43, h: 4.88 } },
-  colors: { background: "111621", text: "F3F5FB", accent: "BECFFF", muted: "BAC4D6", line: "37465F" },
+  layout: { ...defaultSlideLayout, title: { x: 0.72, y: 0.33, w: 7.78, h: 0.66 }, body: { x: 0.74, y: 1.24, w: 11.84, h: 5.65 } },
+  colors: { background: "F1F8F4", text: "173A33", accent: "17694F", muted: "45655B", line: "AACBBB" },
   fonts: { heading: "Microsoft YaHei", body: "Microsoft YaHei", source: "Calibri" }
 };
 var defaultPptTemplate = paper;
-var builtinById = { paper, blue: bauhaus, forest: cinema };
+var builtinById = { paper, blue: bauhaus, forest: mint };
 
 // src/desktop/export.ts
 var import_promises3 = __toESM(require("node:fs/promises"));
@@ -80477,6 +80586,20 @@ function buildLessonDeck(p, selection, layout = defaultSlideLayout) {
   const add = (kind, title, section, content, pid, qid) => {
     paginateBlocks(content, layout, kind).forEach((page, i, all) => slides.push({ id: `slide-${slides.length}`, kind, title: title + (all.length > 1 ? `\uFF08${i + 1}/${all.length}\uFF09` : ""), section, blocks: page, body: page.map((b) => b.text), questionId: qid, passageId: pid }));
   };
+  const addQuestion = (kind, title, section, stem, choices, pid, qid) => {
+    const options = optionEntries(choices).map((o) => o.label + ". " + o.text);
+    const pages = questionPages(stem, options, layout);
+    pages.forEach((page, i) => slides.push({
+      ...page,
+      id: "slide-" + slides.length,
+      kind,
+      title: title + (pages.length > 1 ? "\uFF08" + (i + 1) + "/" + pages.length + "\uFF09" : ""),
+      section,
+      body: page.blocks.map((b) => b.text),
+      passageId: pid,
+      questionId: qid
+    }));
+  };
   for (const a of p.passages.filter((a2) => selection.passageIds.includes(a2.id))) {
     const qs = p.questions.filter((q) => q.passageId === a.id && !q.excluded && selection.questionIds.includes(q.id));
     const chosen = selection.modules[a.id] || [];
@@ -80485,14 +80608,25 @@ function buildLessonDeck(p, selection, layout = defaultSlideLayout) {
     if (chosen.includes("source")) add("source", a.title, "\u82F1\u6587\u539F\u6587", blocks(block("", a.paragraphs.map((b) => b.text).join("\n\n")), block("\u5171\u7528\u9009\u9879\u6C60", a.pool)), a.id);
     if (chosen.includes("translation")) add("translation", a.title, "\u4E2D\u6587\u8BD1\u6587", blocks(block("", a.translation)), a.id);
     for (const q of qs) {
-      if (explained.includes(q) || practiced.includes(q)) add("question", `\u7B2C ${q.number} \u9898`, a.title, blocks(block("", q.stem), block("\u9009\u9879", optionEntries(q.options).map((o) => o.label + ". " + o.text).join("\n"))), a.id, q.id);
+      if (explained.includes(q) || practiced.includes(q)) {
+        addQuestion("question", "\u7B2C " + q.number + " \u9898", a.title, q.stem, q.options, a.id, q.id);
+      }
       if (explained.includes(q)) {
         const e = active(q);
         add("analysis", `\u7B2C ${q.number} \u9898 \xB7 \u9010\u9898\u8BB2\u8BC4`, a.title, blocks(block(q.answer.trim() ? "\u53C2\u8003\u7B54\u6848" : "AI \u5EFA\u8BAE\u7B54\u6848\uFF08\u5F85\u6838\u5B9E\uFF09", q.answer.trim() || e.answer, true), block("AI \u89E3\u6790", e.analysis), ...e.evidence.map((x, i) => block(`\u539F\u6587\u4F9D\u636E ${i + 1}`, x.quote))), a.id, q.id);
       }
       if (practiced.includes(q)) {
         const exercise = questionExercise(p, q);
-        add("practice", `\u7B2C ${q.number} \u9898 \xB7 \u8003\u70B9\u6F14\u7EC3`, a.title, blocks(block("AI \u65B0\u7F16\u7EC3\u4E60", exerciseText(exercise))), a.id, q.id);
+        if (layout.classroom) addQuestion(
+          "practice",
+          "\u7B2C " + q.number + " \u9898 \xB7 \u8003\u70B9\u6F14\u7EC3",
+          a.title + " \xB7 AI \u65B0\u7F16\u7EC3\u4E60",
+          exercise.material + "\n\n" + exercise.stem,
+          exercise.options,
+          a.id,
+          q.id
+        );
+        else add("practice", `\u7B2C ${q.number} \u9898 \xB7 \u8003\u70B9\u6F14\u7EC3`, a.title, blocks(block("AI \u65B0\u7F16\u7EC3\u4E60", exerciseText(exercise))), a.id, q.id);
         add("practice-answer", `\u7B2C ${q.number} \u9898 \xB7 \u6F14\u7EC3\u8BB2\u8BC4`, a.title, blocks(block("\u53C2\u8003\u7B54\u6848\u4E0E\u89E3\u6790", exerciseAnswerText(exercise))), a.id, q.id);
       }
     }
@@ -80501,7 +80635,15 @@ function buildLessonDeck(p, selection, layout = defaultSlideLayout) {
       const existing = questionExercise(p, q);
       return existing && t.exercise && existing.material === t.exercise.material && existing.stem === t.exercise.stem;
     })).forEach((t, i) => {
-      add("practice", `\u8003\u70B9\u6F14\u7EC3 \xB7 \u8865\u5145\u7EC3\u4E60 ${i + 1}`, a.title, blocks(block("AI \u65B0\u7F16\u7EC3\u4E60", t.exercise ? exerciseText(t.exercise) : [t.stem, ...t.options].join("\n"))), a.id);
+      if (layout.classroom && t.exercise) addQuestion(
+        "practice",
+        "\u8003\u70B9\u6F14\u7EC3 \xB7 \u8865\u5145\u7EC3\u4E60 " + (i + 1),
+        a.title + " \xB7 AI \u65B0\u7F16\u7EC3\u4E60",
+        t.exercise.material + "\n\n" + t.exercise.stem,
+        t.exercise.options,
+        a.id
+      );
+      else add("practice", `\u8003\u70B9\u6F14\u7EC3 \xB7 \u8865\u5145\u7EC3\u4E60 ${i + 1}`, a.title, blocks(block("AI \u65B0\u7F16\u7EC3\u4E60", t.exercise ? exerciseText(t.exercise) : [t.stem, ...t.options].join("\n"))), a.id);
       add("practice-answer", `\u8003\u70B9\u6F14\u7EC3 \xB7 \u8865\u5145\u8BB2\u8BC4 ${i + 1}`, a.title, blocks(block("\u53C2\u8003\u7B54\u6848\u4E0E\u89E3\u6790", t.exercise ? exerciseAnswerText(t.exercise) : [t.answer, t.analysis, t.point].join("\n"))), a.id);
     });
     if (d && chosen.includes("sentences")) d.sentences.forEach((s, i) => add("sentences", `\u53E5\u6CD5\u62C6\u89E3 \xB7 \u53E5\u5B50 ${i + 1}`, a.title, blocks(block("\u539F\u53E5", s.quote), block("\u53E5\u610F", s.translation), block("\u53E5\u5B50\u4E3B\u5E72", s.trunk), ...s.parts?.map((x) => block(x.role, `${x.text}
@@ -80541,32 +80683,40 @@ function projectSlide(slide, template, project, page, total, english2) {
   const folio = page + " / " + total;
   const paper2 = !template.custom && template.id === "paper";
   const blue = !template.custom && template.id === "blue";
-  const cinema2 = !template.custom && template.id === "forest";
+  const mint2 = !template.custom && template.id === "forest";
   if (blue) {
-    fill(box(0, 0, 3.46, height), colors.accent);
-    fill(box(0.45, 0.52, 0.62, 0.13), "F4CB36");
-    text5("section", slide.section, box(0.45, 0.86, 2.62, 0.54), 15, "FFFFFF", fonts.body, { fit: true });
-    text5("title", slide.title, title, 34, "FFFFFF", fonts.heading, { bold: true, fit: true });
-    fill(box(0.45, 5.93, 2.55, 0.018), "91A9E8");
-    text5("project", project, box(0.45, 6.12, 2.57, 0.53), 13, "FFFFFF", fonts.body, { fit: true });
-    text5("folio", folio, box(0.45, 6.82, 2.56, 0.36), 17, "FADD68", fonts.body, { bold: true });
-  } else if (cinema2) {
-    fill(box(0, 6.16, width, 1.34), "202A3C");
-    fill(box(0.94, 0.44, 0.42, 0.07), "99B4FF");
-    text5("section", slide.section, box(1.54, 0.31, 10.82, 0.49), 15, colors.muted, fonts.body, { fit: true });
-    text5("title", slide.title, title, 29, colors.text, fonts.heading, { bold: true, fit: true });
-    text5("folio", folio, box(11.34, 6.52, 1.05, 0.38), 15, colors.accent, fonts.body, { align: "right" });
+    fill(box(0, 0, width, 1), colors.accent);
+    fill(box(0.31, 0.24, 0.1, 0.52), "F4CB36");
+    text5("title", slide.title, title, 31, "FFFFFF", fonts.heading, { bold: true, fit: true });
+    text5("section", slide.section, box(8.8, 0.32, 3.8, 0.49), 16, "FFFFFF", fonts.body, { align: "right", fit: true });
+  } else if (mint2) {
+    fill(box(0, 0, 0.14, height), "9ACBB4");
+    fill(box(0.4, 1.06, width - 0.8, 5.96), "FFFFFF");
+    fill(box(0.74, 1.04, 0.86, 0.06), colors.accent);
+    text5("title", slide.title, title, 32, colors.accent, fonts.heading, { bold: true, fit: true });
+    text5("section", slide.section, box(8.8, 0.4, 3.76, 0.44), 16, colors.muted, fonts.body, { align: "right", fit: true });
+  } else if (paper2) {
+    text5("title", slide.title, title, 32, colors.accent, fonts.heading, { bold: true, fit: true });
+    text5("section", slide.section, box(8.8, 0.43, 3.8, 0.44), 15, colors.muted, fonts.body, { align: "right", fit: true });
+    fill(box(body.x, 1, body.w, 0.016), colors.line);
   } else {
-    const section = paper2 ? box(title.x, 0.23, title.w, 0.4) : box(title.x, Math.max(0.08, title.y - 0.32), title.w, 0.24);
-    if (paper2 || title.y >= 0.36) text5("section", slide.section, section, paper2 ? 14 : 10, colors.muted, fonts.body, { fit: true });
-    text5("title", slide.title, title, paper2 ? 34 : 28, colors.accent, fonts.heading, { bold: paper2, fit: true });
-    if (paper2) fill(box(body.x, 1.47, body.w, 0.017), colors.line);
-    if (height - body.y - body.h >= 0.34) {
-      const y = paper2 ? 6.97 : height - 0.32;
-      if (paper2) fill(box(body.x, 6.86, body.w, 0.012), colors.line);
-      text5("project", project, box(body.x, y, body.w - 1.2, paper2 ? 0.32 : 0.22), paper2 ? 12 : 9, colors.muted, fonts.body, { fit: true });
-      text5("folio", folio, box(body.x + body.w - 1.15, y, 1.15, 0.32), paper2 ? 13 : 9, colors.muted, fonts.body, { align: "right" });
-    }
+    if (title.y >= 0.36) text5("section", slide.section, box(title.x, Math.max(0.08, title.y - 0.32), title.w, 0.24), 10, colors.muted, fonts.body, { fit: true });
+    text5("title", slide.title, title, 28, colors.accent, fonts.heading, { fit: true });
+  }
+  if (height - body.y - body.h >= 0.34) {
+    const y = template.custom ? height - 0.32 : 7.1;
+    text5("project", project, box(body.x, y, body.w - 1.25, 0.27), template.custom ? 9 : 11, colors.muted, fonts.body, { fit: true });
+    text5("folio", folio, box(body.x + body.w - 1.18, y, 1.18, 0.28), template.custom ? 9 : 12, colors.muted, fonts.body, { align: "right", fit: true });
+  }
+  if (slide.questionLayout) {
+    const { parts, figure } = slide.questionLayout;
+    const face = english2 ? fonts.source : fonts.body;
+    parts.forEach((part, index) => {
+      const block2 = slide.blocks[index];
+      text5("body", block2.text, part, part.pt, colors.text, face, { bold: part.stem, math: !!block2.math && hasMath(block2.text) });
+    });
+    if (figure) items.push({ ...figure.box, type: "image", data: figure.data, alt: figure.name + (figure.page ? " \xB7 \u539F\u6750\u6599\u7B2C " + figure.page + " \u9875" : "") });
+    return items;
   }
   if (slide.image && slide.blocks.length) throw Error("\u7B2C " + page + " \u9875\u540C\u65F6\u542B\u6709\u539F\u56FE\u4E0E\u6B63\u6587\uFF0C\u8BF7\u5206\u4E3A\u9898\u56FE\u9875\u548C\u6587\u5B57\u9875");
   if (slide.image) {
@@ -80583,9 +80733,15 @@ function projectSlide(slide, template, project, page, total, english2) {
   if (used(blocks2) > body.h + 1e-3) throw Error("\u7B2C " + page + " \u9875\u5185\u5BB9\u8D85\u8FC7\u6A21\u677F\u6B63\u6587\u533A\u57DF\uFF0C\u8BF7\u91CD\u65B0\u7F16\u6392");
   if (layout.classroom && used(blocks2) < body.h * 0.72) {
     const single = blocks2.length === 1 && blocks2[0].emphasis && !blocks2[0].math && Array.from(blocks2[0].text.trim()).length <= 12 && !blocks2[0].text.includes("\n");
-    const maximum = single ? cinema2 ? 67 : 46 : cinema2 ? 35 : 33;
+    const maximum = single ? 34 : 29;
     for (let candidate = maximum; candidate > pt; candidate--) {
-      const enlarged = layoutBlocks(slide.blocks, layout, slide.kind, candidate);
+      let enlarged;
+      try {
+        enlarged = layoutBlocks(slide.blocks, layout, slide.kind, candidate);
+      } catch (error62) {
+        if (error62 instanceof FormulaWidthError) continue;
+        throw error62;
+      }
       if (used(enlarged) <= body.h * 0.84) {
         blocks2 = enlarged;
         pt = candidate;
@@ -80594,7 +80750,7 @@ function projectSlide(slide, template, project, page, total, english2) {
     }
   }
   const space = Math.max(0, body.h - used(blocks2));
-  const offset = layout.classroom ? space * (cinema2 ? 0.45 : blue ? 0.28 : 0.16) : 0;
+  const offset = layout.classroom ? Math.min(0.22, space * 0.1) : 0;
   for (const b of blocks2) {
     const ink = b.emphasis ? colors.accent : colors.text;
     if (layout.classroom && b.emphasis) fill(box(b.x - 0.19, b.y + offset + 0.035, 0.05, Math.max(0.22, b.h - 0.08)), colors.accent);
